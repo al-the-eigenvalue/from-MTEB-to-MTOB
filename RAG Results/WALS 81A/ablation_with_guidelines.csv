@@ -1,0 +1,2176 @@
+Language,Response,Target,Predicted
+Supyire,"Based on the provided paragraph from the descriptive grammar of Supyire, we can make some observations about the structure of simple clauses, particularly copular and verbal clauses. Here are the key points:
+
+1. **Copular Clauses**:
+   - The examples provided show a structure where the subject precedes the copula, which is then followed by a predicate nominal, locative phrase, dative phrase, or adverb.
+   - Example: ""U pye bag£ e."" (She be house.DEF in) translates to ""She's in the house."" Here, the subject ""U"" (she) precedes the copula ""pye"" (be), which is followed by the locative phrase ""bag£ e"" (house.DEF in).
+
+2. **Verbal Clauses**:
+   - Verbal clauses require tense-aspect-modality (TAM) auxiliaries, which immediately follow the subject and are often cliticized to it.
+   - Example: ""M)i ä pa."" (I PERF come) translates to ""I have come."" Here, the subject ""M)i"" (I) precedes the TAM auxiliary ""ä"" (PERF), which is followed by the verb ""pa"" (come).
+
+From these examples, we can infer that the subject typically precedes the verb or copula in both copular and verbal clauses. However, the provided paragraph does not include examples of transitive clauses with both a subject and an object, which are necessary to determine the dominant word order for declarative sentences with both subject and object participants as nouns.
+
+Given the information provided, we cannot conclusively determine the dominant word order for transitive clauses in Supyire. The paragraph primarily discusses the structure of copular and intransitive verbal clauses, without sufficient data on the placement of objects in transitive clauses.
+
+**Conclusion:** Not mentioned in the grammar.",sov,not mentioned in the grammar
+Jamsay,"Based on the provided paragraphs from the descriptive grammar of Jamsay, we can analyze the dominant word order of the language. Here is the reasoning:
+
+1. **Main Clauses and Constituent Order**:
+   - The example sentences provided in (12) and (14) show the structure of main clauses.
+   - In (12a), ""du$nda$Na@ yE$rE@ be@ tE$mE$-Ø [e$ju@ bE@rE$]"" translates to ""An elephant came out and encountered them, in the field."" Here, the subject ""elephant"" (S) precedes the verb ""came out and encountered"" (V), and the object ""them"" (O) follows the verb.
+   - In (12b), ""wo@ n)E@˘-w<E@ ka$ra$-Ø [bE@˘ ku$<]"" translates to ""He forced him to eat the excrement."" Here, the subject ""He"" (S) precedes the verb ""forced"" (V), and the object ""him"" (O) follows the verb.
+   - In (14b), ""ti -$ ta@˘ jç$Nç@ ko$˘-Ø"" translates to ""The hyena ate the hare."" Here, the subject ""hyena"" (S) precedes the verb ""ate"" (V), and the object ""hare"" (O) follows the verb.
+
+2. **Regular Ordering Pattern**:
+   - The regular ordering pattern in main clauses is described as Adv-SNP-X-V, where ""SNP"" stands for nonpronominal subject, and ""X"" includes nonpronominal dative, object, and adverbials.
+   - This pattern indicates that the subject (S) typically precedes the verb (V), and the object (O) follows the verb.
+
+3. **Examples and Summary**:
+   - The examples provided consistently show the subject preceding the verb and the object following the verb, which aligns with the SVO (Subject-Verb-Object) order.
+   - The grammar explicitly mentions that nonpronominal subjects are preverbal, and objects are postverbal, further supporting the SVO order.
+
+Based on the analysis of the provided paragraphs, the dominant word order in Jamsay is SVO.
+
+**Conclusion:** SVO",sov,svo
+Ma'di,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Ma'di, we can derive the following observations:
+
+1. **Paragraph 1 Analysis**:
+   - The Lokai dialect of Ma'di is described as having a mixed word order: ""partly SVO, partly SOV"".
+   - The 'Burulo dialect is described as having a consistent SVO word order.
+
+2. **Paragraph 2 Analysis**:
+   - Example (10) shows an SVO structure: ""Opi ko3SUBJECT mû N-go"" translates to ""Opi is going"", where ""Opi"" is the subject, ""ko3SUBJECT"" is the adjoined subject, and ""N-go"" is the inflected verb.
+   - Example (11) also follows an SVO structure: ""ka kl eßi ßä rá"" translates to ""They will eat fish"", where ""ka kl"" is the subject, ""eßi"" is the object, and ""ßä rá"" is the verb.
+   - Example (12) shows a slightly different structure due to the presence of a focus marker, but the core structure still aligns with SVO: ""ki ma m ofú dì m o-si"" translates to ""They are the ones who wrote for me this letter"", where ""ki ma m"" is the subject, ""ofú dì m"" is the object, and ""o-si"" is the verb.
+
+### Conclusion:
+Based on the evidence from the provided paragraphs, the dominant word order in Ma'di, particularly in the 'Burulo dialect, is SVO. The Lokai dialect shows some flexibility but still includes SVO as a significant pattern.
+
+**Conclusion: SVO**",no dominant order,svo
+Bangime,"Based on the provided paragraph from the descriptive grammar of Bangime, the word order in the language varies depending on the tense, aspect, or mood of the clause. The attested word orders are SVO, SOV, and OSV, with each being the default for different TAM (Tense-Aspect-Mood) categories:
+
+- SVO is used for the incompletive aspect.
+- SOV is used for the completive aspect.
+- OSV is used for the future aspect.
+
+Given this information, it is clear that Bangime does not have a single dominant word order. Instead, the word order changes based on the grammatical context, and no single order is used predominantly across all contexts.
+
+### Reasoning:
+1. **SVO** is the default for incompletive aspects.
+2. **SOV** is the default for completive aspects.
+3. **OSV** is the default for future aspects.
+
+Since the word order in Bangime is context-dependent and varies with different TAM categories, it cannot be classified under a single dominant word order.
+
+### Conclusion:
+No dominant order",no dominant order,no dominant order
+Gumuz,"Based on the provided paragraph from the descriptive grammar of Gumuz, we can observe the following:
+
+1. The example (12.50a) shows a declarative sentence with the structure ""ɓaga d-a-ɓátʃ ŋ́gafa"" which translates to ""The person hit the woman."" Here, ""ɓaga"" (the person) is the subject (S), ""d-a-ɓátʃ"" (hit) is the verb (V), and ""ŋ́gafa"" (the woman) is the object (O). This sentence follows the SVO word order.
+
+2. The relative clause example (12.50b) also follows the SVO order: ""ɓaga l-á-ɓátʃ ŋ́gafa"" translates to ""The person that hit the woman,"" where ""ɓaga"" (the person) is the subject (S), ""l-á-ɓátʃ"" (hit) is the verb (V), and ""ŋ́gafa"" (the woman) is the object (O).
+
+These examples indicate that the typical word order in Gumuz main clauses is SVO.
+
+### Reasoning:
+The examples provided in the paragraph clearly demonstrate that the subject precedes the verb and the object follows the verb in declarative sentences. This consistent pattern suggests that the dominant word order in Gumuz is SVO.
+
+### Conclusion:
+SVO",svo,svo
+Koyra Chiini,"Based on the provided paragraph from the descriptive grammar of Koyra Chiini, we can determine the dominant word order of the language. The paragraph explicitly states that the basic constituent order is SVO (subject-verb-object). This is illustrated with examples where the subject NP precedes the verb, and the object NP follows the verb.
+
+Here is the reasoning step-by-step:
+
+1. **Explicit Statement**: The paragraph clearly states that the basic constituent order is SVO.
+2. **Examples Provided**: The examples (6-8) demonstrate this order:
+   - (6) [bar di} ο guna [woy di] doodi [man Dei] Impf see [woman DefJ there
+     - Translation: 'The man sees the woman there.'
+     - Structure: S (subject NP) - V (verb) - O (object NP)
+   - (7) a guna ni doodi
+     - Translation: 'He (She) saw you(Sg) there.'
+     - Structure: S (subject pronoun) - V (verb) - O (object pronoun)
+   - (8) ay na guna [[huu di] kuna] [boro foo]
+     - Translation: 'I didn't see anyone in the house.'
+     - Structure: S (subject pronoun) - Neg (negation) - V (verb) - O (object NP)
+
+3. **Consistency**: The examples consistently follow the SVO order, reinforcing the claim made in the descriptive text.
+
+Given this information, it is clear that the dominant word order in Koyra Chiini is SVO.
+
+**Conclusion:** SVO",svo,svo
+Seme,"### Reasoning:
+
+In the provided paragraphs, there is a specific mention of the basic word order of Siamou in Chapter 2 of the grammar overview. The relevant sentence states:
+
+""This chapter also surveys Siamou syntax, with information about basic word order (SOV)...""
+
+This clearly indicates that the dominant word order in Siamou is Subject-Object-Verb (SOV).
+
+### Conclusion:
+SOV",sov,sov
+Tima,"Based on the provided paragraph from the descriptive grammar of Tima, the following observations can be made:
+
+1. **Indicative Mood**: The paragraph explicitly states that the common word order for indicative sentences in Tima is SVO. This is illustrated with example (119), where the subject ""Hamid"" precedes the verb ""a-hɔra-y-ak"" and the object ""tutu"" follows the verb.
+
+2. **Alternative Word Orders**: The paragraph also mentions that Tima has other word orders depending on focusing or topicalization. These include OV(S), VSO, and SOV. Example (120) illustrates an OV(S) structure where the object ""c-ɪhɔɔk"" precedes the verb ""ɛm-pu-y-i-dʌ"".
+
+3. **Dominant Word Order**: Despite the presence of alternative word orders, the paragraph clearly identifies SVO as the common word order for indicative sentences. This suggests that SVO is the dominant word order in Tima, as it is the most frequently used and unmarked structure for declarative sentences.
+
+### Reasoning:
+- The grammar explicitly states that SVO is the common word order for indicative sentences.
+- Although alternative word orders are mentioned, they are noted to occur due to specific pragmatic contexts such as focusing or topicalization.
+- The presence of a common, unmarked word order (SVO) indicates a dominant order in typical declarative sentences.
+
+### Conclusion:
+SVO",svo,svo
+!Xun (Ekoka),"Based on the provided paragraph from the descriptive grammar of !Xun (Ekoka), we can determine the dominant word order of the language. The relevant information is found in the following excerpt:
+
+> ""The examples presented above show that similarities between the two dialects are not restricted to structure; rather, they also concern the form of grammatical units: it is only the form for ‘see’ that differs, all other units are the same. This however is not a trivial difference: W3 speakers do not understand E1 speakers and vice versa — that is, the two dialects are mutually unintelligible. This is not only due to lexical differences, such as the one between W3 ne and E1 46, differences also relate to grammatical forms and categories, as we will see below. To conclude, there is considerable diversity, especially between the NW- and the SE-branches. Nevertheless, overall the dialects exhibit roughly the same typological profile. Perhaps the main characteristics of the language are: (a) The phonology is more complex than that of most other languages in the world, the number of distinct phonemes exceeding one hundred in all dialects (see chapter 2). (b) !Xun is a highly context-dependent language, having fairly analytic-isolating morphology. There is only a small pool of items which have exclusively grammatical function (Heine & K6nig 2005) or which are not full-fledged phonological words. (c) The basic word order is head—dependent and subject-verb—object, although there is a minor ae exhibiting dependent—head and object-verb word order (see sections 4.2.6, 6.1, (d) It has a non-sex-based gender (or noun class) system distinguishing three, in some dialects four classes (see section 4.2.1). (e) It has a serial verb construction (see section 3.6). (f) There is no ditransitive construction, that is, a verb may take no more than two arguments (see section 3.1.2.3), enone the most frequently used verbs there is a set that is characterized by number sup) Th n (see section 3.1.2.5), and the same applies to nouns (section 4.2.2), ere 1s an extraordinarily large range of “grammatical hybrids” (Heine & K6nig 2005), rt th Categories that have at the same time lexical and functional properties (see sec-""
+
+From this, we can extract the following key point:
+
+> ""(c) The basic word order is head—dependent and subject-verb—object, although there is a minor ae exhibiting dependent—head and object-verb word order (see sections 4.2.6, 6.1,""
+
+This indicates that the dominant word order in !Xun (Ekoka) is Subject-Verb-Object (SVO). Although there is mention of a minor occurrence of dependent-head and object-verb word order, the primary or basic word order is clearly stated as SVO.
+
+### Reasoning:
+1. The grammar explicitly states that the basic word order is Subject-Verb-Object (SVO).
+2. The examples provided in the text support this structure, showing the subject preceding the verb and the object following the verb.
+3. The mention of a minor occurrence of other word orders does not detract from the clear identification of SVO as the basic word order.
+
+### Conclusion:
+SVO",svo,svo
+Katcha,"Based on the provided paragraphs from the descriptive grammar of Katcha, we can determine the dominant word order as follows:
+
+1. **Reasoning:**
+   - In Paragraph 1, there is a mention that ""syntactic subjects can occur after the verb as well as before,"" which suggests some flexibility in word order. However, this does not provide a definitive dominant order.
+   - Paragraph 2 provides a more explicit statement regarding the basic word order of Katcha: ""That it is left on the external argument node reflects the fact that Katcha basic word order is either SVO or VSO."" This indicates that both SVO and VSO are common, but it does not specify which one is more frequent or dominant.
+
+Given that the grammar mentions both SVO and VSO as basic word orders without indicating a clear preference for one over the other, it suggests that there is no single dominant word order in Katcha.
+
+2. **Conclusion:** No dominant order",no dominant order,no dominant order
+Ijo (Kolokuma),"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Ijo (Kolokuma), we can analyze the word order in the following way:
+
+1. **Paragraph 1**:
+   - Example: ""mini, keni bilk eri-mi."" translates to ""they saw an elephant.""
+     - Analysis: ""they"" (subject) + ""an elephant"" (object) + ""saw"" (verb) = SOV
+   - Example: ""ami-bi, ogb66gb6."" translates to ""the town is Oghoogbo.""
+     - Analysis: This is an intransitive sentence and does not provide information about the order of subject, object, and verb in a transitive clause.
+   - Example: ""kOk? bo-dqy"" translates to ""has actually come.""
+     - Analysis: This is an intransitive sentence and does not provide information about the order of subject, object, and verb in a transitive clause.
+   - Example: ""y6 gba-nj,l y-pjrj"" translates to ""say something to him.""
+     - Analysis: ""something"" (object) + ""say"" (verb) + ""to him"" (indirect object) = OVS
+   - Example: ""dbma tun-ni, a-pjri"" translates to ""sing a song for her.""
+     - Analysis: ""song"" (object) + ""sing"" (verb) + ""for her"" (indirect object) = OVS
+   - Example: ""yaril 'send (to)' follows Vtr.11: bide firimQ-nj, a-yarj"" translates to ""send her a cloth.""
+     - Analysis: ""cloth"" (object) + ""send"" (verb) + ""her"" (indirect object) = OVS
+   - Example: ""egberi gbi-ni, y-pjr/"" translates to ""tell him a story.""
+     - Analysis: ""story"" (object) + ""tell"" (verb) + ""him"" (indirect object) = OVS
+   - Example: ""y6 gba-nj, y-djQ"" translates to ""tell him something.""
+     - Analysis: ""something"" (object) + ""tell"" (verb) + ""him"" (indirect object) = OVS
+   - Example: ""y6 akj-nt, y-bee"" translates to ""say something to him.""
+     - Analysis: ""something"" (object) + ""say"" (verb) + ""to him"" (indirect object) = OVS
+   - Example: ""wo-Qkj, dlirna t u n"" translates to ""sing a song about him.""
+     - Analysis: ""song"" (object) + ""sing"" (verb) + ""about him"" (indirect object) = OVS
+   - Example: ""indi akj-nj, 9-die-mQ"" translates to ""share fish among them.""
+     - Analysis: ""fish"" (object) + ""share"" (verb) + ""among them"" (indirect object) = OVS
+   - Example: ""Qru-bj ikj, t j n kaka-rn?"" translates to ""tie the canoe to a tree.""
+     - Analysis: ""canoe"" (object) + ""tie"" (verb) + ""to a tree"" (indirect object) = OVS
+   - Example: ""wo warj-bj hki, t j n dsri-m$"" translates to ""weave its web round the stick.""
+     - Analysis: ""web"" (object) + ""weave"" (verb) + ""round the stick"" (indirect object) = OVS
+   - Example: ""tari-am5 iki-ni, a-gbQna-rn?"" translates to ""bestow blessings upon her.""
+     - Analysis: ""blessings"" (object) + ""bestow"" (verb) + ""upon her"" (indirect object) = OVS
+   - Example: ""pulou akj-nj, ine tibj dpsy-rnQ"" translates to ""anoint my head with oil.""
+     - Analysis: ""oil"" (object) + ""anoint"" (verb) + ""my head"" (indirect object) = OVS
+
+2. **Paragraph 2**:
+   - Example: ""fjaj tyo-g/ indi, a m+ f+-d$y"" translates to ""fish to cook is what she's bought.""
+     - Analysis: ""fish"" (object) + ""cook"" (verb) + ""she"" (subject) = OVS
+
+From the examples provided, it is clear that the dominant word order in Ijo (Kolokuma) is **OVS** (Object-Verb-Subject). This is evident from the consistent pattern where the object precedes the verb, which in turn precedes the subject in transitive clauses.
+
+### Conclusion: OVS",sov,ovs
+Emai,"Based on the provided paragraph from the descriptive grammar of Emai, the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states that ""Basic grammatical relations in Emai show the order Subject-Verb-Object (SVO).""
+   - The examples provided in the paragraph consistently follow the SVO order:
+     - Example (1): ""ólí ómòhè é ólí émàè."" (the man PRP.eat the food) translates to ""The man has eaten the food.""
+     - Example (3): ""ólí ómòhè é ólí émàè."" (the man PRP.eat the food) translates to ""The man has eaten the food.""
+     - Example (4): ""ólí ómòhè é ólí émàè?"" (the man PRP.eat the food) translates to ""Has the man eaten the food?""
+   - These examples clearly demonstrate that the subject precedes the verb, and the verb precedes the object, indicating an SVO order.
+
+2. **Conclusion:**
+   - SVO",svo,svo
+Ik,"Based on the provided paragraph from the descriptive grammar of Ik, the dominant word order in main clauses is explicitly stated as VSO (Verb-Subject-Object). This is indicated by the sentence: ""The basic, unmarked constituent order of Ik main clauses is VSO (VS/VAO), but SVO is attested in subordinate clauses."" This clearly identifies VSO as the dominant order in main clauses, with SVO appearing in subordinate clauses.
+
+### Reasoning:
+1. **Explicit Mention**: The paragraph explicitly states that the basic, unmarked constituent order of Ik main clauses is VSO.
+2. **Contextual Clarification**: The paragraph also mentions that SVO is attested in subordinate clauses, which helps to distinguish the dominant order in main clauses from that in subordinate clauses.
+
+### Conclusion:
+VSO",vso,vso
+Ngiti,"Based on the provided paragraphs from the descriptive grammar of Ngiti, the dominant word order can be inferred as follows:
+
+1. **Reasoning:**
+   - In Paragraph 1, it is explicitly mentioned that in the Perfective Present, the word order is SVO. This indicates that in declarative sentences where both the subject and the object are nouns, the subject precedes the verb, and the object follows the verb.
+   - Additionally, the paragraph mentions that in the Present Continuous, the word order changes to SAuxOV, which is a variation of SOV with an auxiliary verb. This suggests that while there is some flexibility in word order depending on the tense and aspect, the SVO order is still a significant structure in the language.
+   - Paragraphs 2 and 3 do not provide additional direct evidence about the dominant word order but focus more on verb forms and auxiliary constructions.
+
+Given this information, the evidence points towards SVO being the dominant word order in Ngiti, especially in the Perfective Present tense, which is a common context for examining basic word order.
+
+2. **Conclusion:**
+   SVO",no dominant order,svo
+Sidaama,"Based on the provided paragraph from the descriptive grammar of Sidaama, the dominant word order in the language can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states that when the arguments of a transitive verb are expressed with independent words, the word order is predominantly SOV.
+   - Example (5.56) illustrates the neutral word order as SOV: ""Lat’o(NOM.F) Dangura(ACC) like-3SG.F-IMPRF.3"" translates to ""Lat’o loves Dangura.""
+   - Although OSV order is mentioned as possible, it is noted to be used only when the subject is in focus, indicating that it is not the neutral or dominant order.
+
+2. **Conclusion:** SOV",sov,sov
+Mursi,"Based on the provided paragraphs from the descriptive grammar of Mursi, the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The grammar explicitly mentions three types of constituent orders: canonical AVO/SV, non-canonical OVA/VS, and non-canonical OAV.
+   - Among these, the canonical AVO/SV order is described as ""by far the most frequently found constituent order in Mursi clauses uttered in isolation.""
+   - This indicates that the AVO (which corresponds to SVO in the typological terms used here) is the dominant order in Mursi.
+   - The examples provided (e.g., ""nɔ̀ŋ ɗɔ́t-Ø-ɔ̀"" and ""nɔ̀ŋ túŋ-ú"") further support the subject-verb (SV) order in intransitive clauses, aligning with the SVO pattern in transitive clauses.
+
+2. **Conclusion:**
+   - **SVO**
+
+The dominant word order in Mursi is SVO, as it is the most frequently found constituent order in the language, particularly in clauses uttered in isolation.",svo,svo
+Majang,"Based on the provided paragraph from the descriptive grammar of Majang, the dominant word order in Majang can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states that in a Majang clause where the constituents A (Agent/Subject), verb, and P (Patient/Object) are overtly expressed, they frequently appear in the order Verb – Subject – Object (VSO).
+   - Examples provided in the text support this claim:
+     - Example III.17a: ""ɓokotù jàrtíL nàːkɛ ɗɛpɛL"" translates to ""My woman kills a lion,"" where the order is V (kill) – S (woman) – O (lion).
+     - Example III.17b: ""kàwɛ wàr àdùre"" translates to ""A dog bites a cat,"" where the order is V (bite) – S (dog) – O (cat).
+   - The text also mentions that VSO is invariably the order of constituents when eliciting transitive clauses, indicating a strong preference for this order in structured elicitation contexts.
+   - Although it is noted that VSO is not the most frequent display of constituents in natural texts, the paragraph emphasizes that VSO is the order encountered during elicitation, which suggests a dominant or preferred order in controlled settings.
+
+2. **Conclusion:** VSO",vso,vso
+Birri,,not mentioned in the grammar,
+Tamashek,"### Reasoning:
+
+Based on the provided paragraph from the descriptive grammar of Tamashek, we can infer the dominant word order by examining the structure of simple main clauses. The relevant section is:
+
+> ""Simple main clauses have the shape [verb(-\clitics) (subject) (object) ...].""
+
+This indicates that in a typical declarative sentence, the verb appears first, followed by the subject, and then the object. This structure aligns with the Verb-Subject-Object (VSO) word order.
+
+### Conclusion:
+VSO",vso,vso
+Coptic,"Based on the provided paragraphs from the descriptive grammar of Coptic, we can determine the dominant word order as follows:
+
+1. **Reasoning:**
+   - The text explicitly mentions that ""S-V-O order can be established as the basic word order on syntactic grounds,"" indicating that SVO is the default or unmarked word order in Coptic.
+   - The example provided in the text, ""A OYCON xNE ATA Capamnion"" (‘a brother asked Apa Sarapion’), follows the SVO structure, where ""A OYCON"" (subject) precedes ""xNE"" (verb) and ""ATA Capamnion"" (object).
+   - The text also discusses the flexibility of subject positioning (preverbal, postverbal, and left-dislocated), but it emphasizes that SVO is the basic word order, which is a strong indicator of its dominance in neutral declarative sentences.
+
+2. **Conclusion:** SVO",svo,svo
+Igbo,"### Reasoning:
+
+Based on the provided paragraph from the descriptive grammar of Igbo, we can observe the following sentences:
+
+1. **Àda zùtàrà akwà**
+   - Translation: 'Ada bought a cloth for herself/someone else.'
+   - Structure: Subject (Àda) - Verb (zùtàrà) - Object (akwà)
+   - Order: SVO
+
+2. **Àda zùtààrà Chike akwà**
+   - Translation: 'Ada bought the cloth for Chike.'
+   - Structure: Subject (Àda) - Verb (zùtààrà) - Object (Chike akwà)
+   - Order: SVO
+
+3. **O zùtàrà ya**
+   - Translation: 'She bought it for herself/himself/someone else.'
+   - Structure: Subject (O) - Verb (zùtàrà) - Object (ya)
+   - Order: SVO
+
+4. **O zùtàrà ya**
+   - Translation: 'He bought it for herself/someone else.'
+   - Structure: Subject (O) - Verb (zùtàrà) - Object (ya)
+   - Order: SVO
+
+5. **O zùtààrà ya**
+   - Translation: 'He bought it for her.'
+   - Structure: Subject (O) - Verb (zùtààrà) - Object (ya)
+   - Order: SVO
+
+From these examples, it is evident that the dominant word order in Igbo declarative sentences, where both the subject and object are nouns, follows the Subject-Verb-Object (SVO) pattern. Each sentence consistently places the subject first, followed by the verb, and then the object.
+
+### Conclusion:
+SVO",svo,svo
+Mambai,"Based on the provided paragraph from the descriptive grammar of Mambai, the dominant word order in Mambai can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states that the basic (unmarked) order of major constituents in verbal clauses in Mambai is rigidly SVO (subject–verb–object).
+   - Two example sentences are provided to illustrate this:
+     - ""tí4gérêm %á%4zí túrà"" (the women sowed millet) with the structure SVO.
+     - ""mìí yáh pìzá"" (I will take the horse) with the structure SVO.
+   - The examples clearly show the subject preceding the verb, and the verb preceding the object, confirming the SVO order.
+
+2. **Conclusion:** SVO",svo,svo
+Ingessana,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Gaahmg (Ingessana), we can determine the dominant word order of the language. The key points are:
+
+1. **Explicit Statement of Word Order**:
+   - The grammar explicitly states that ""Gaahmg word order is SVO, as in (4).""
+   - Example (4) provided in the text: 
+     ```
+     bāárg-á ŋáɔ́-a᷄ ǹ ɲā-lg nà ə̄n-g=ì
+     Baggara-DEF search-CONT.P girl-PL REL.PL young-PL=RDM
+     ‘The Baggara (people group) were kidnapping young girls.’ (Minj2)
+     ```
+     This example clearly follows the SVO order: Subject (Baggara) - Verb (search) - Object (young girls).
+
+2. **Order of Verb Complements and Adjuncts**:
+   - The grammar describes the order of verb complements and adjuncts, stating that objects and indirect objects immediately follow the verb, which is consistent with an SVO structure.
+   - Example (6a) and (6b) further illustrate the placement of objects and adjuncts, maintaining the SVO pattern:
+     ```
+     (6a) ā t ̪a᷇l kɔ̄r ɛ́ mūn t ̪ɛ̀ ɟɔ̄.
+     create.SBJV.1sN speech by time here only
+     ‘ . . and I will stop talking here.’ (Tifa14)
+     
+     (6b) ɛ̄ àn mɔ̄sɔ̀r ɔ̄ɔl̄ ɛ̄ párɛ́=n ɛ́ mə̄ɲìl=ə̀ d̪-ɛ́ɛs̀ .
+     3sN stay horse up with skin.bag= devil.GEN= DEF hand.3sPs
+     ‘He rides on a horse with an animal-skin bag of the devil in his hand.’ (Minj14-15)
+     ```
+     In both examples, the verb precedes the objects and adjuncts, supporting the SVO order.
+
+### Conclusion:
+SVO",svo,svo
+Gorowa,"Based on the provided paragraph from the descriptive grammar of Gorowa, we can determine the dominant word order in the language. Here is the reasoning:
+
+1. **Constituent Order in Main Clauses**:
+   - The paragraph explicitly states that the basic constituent order in pragmatically neutral clauses is ""Subj. Obj. Sel V"" (Subject, Object, Selector, Verb).
+   - An example is provided: ""garmaSUBJ baahaaOBJ nginaSEL taáhhV"" which translates to ""The boy hit the hyaena.""
+
+2. **Example Analysis**:
+   - ""garma"" (the boy) is the Subject.
+   - ""baahaa"" (the hyaena) is the Object.
+   - ""ngina"" is the Selector.
+   - ""taáhh"" (hit) is the Verb.
+   - This example clearly follows the SOV (Subject-Object-Verb) order.
+
+3. **Additional Information**:
+   - The paragraph also mentions that within the Verb Phrase (VP), the selector always occurs to the left of the lexical verb, which supports the SOV structure.
+
+Given this information, the dominant word order in Gorowa is clearly SOV.
+
+**Conclusion:** SOV",sov,sov
+Shatt,,not mentioned in the grammar,
+Koromfe,"### Reasoning:
+
+Based on the provided paragraph from the descriptive grammar of Koromfe, the relevant section is 2.1.1.1.5, which discusses word order. It states:
+
+> ""Word order is used to distinguish the NP arguments of the verb; in a simple non-emphasized sentence the subject NP precedes the verb (sole exception: 2nd person plural imperatives) and the object NPs (direct and indirect) follow the verb in the order described in § 1.2.1.2.3 above.""
+
+This description indicates that in declarative sentences, the subject noun phrase (NP) precedes the verb, and the object noun phrases follow the verb. This aligns with the Subject-Verb-Object (SVO) order.
+
+### Conclusion:
+SVO",svo,svo
+Nobiin,"Based on the provided paragraphs from the descriptive grammar of Nobiin, we can analyze the word order in the given examples to determine the dominant word order of the language.
+
+### Analysis:
+
+1. **Example from GM I1,2:**
+   - **Nobiin:** fa-ek-okom kaj-in kallissi-gaa dega-fii-n wee-kaa abaden weel takkaa doog-kummun
+   - **Literal Translation:** ‘you will find a donkey’s foal, it is tied, no one ever mounted it’
+   - **Structure:** The main clause ""you will find a donkey’s foal"" has the verb ""find"" at the end, suggesting an SOV structure. The relative clauses also show the verb at the end.
+
+2. **Example from GM 5.32:**
+   - **Nobiin:** gelb-on iden saw-ohe tiiraa
+   - **Literal Translation:** ‘and he looked around to the woman who had done this’
+   - **Structure:** The main verb ""looked around"" is at the beginning, but the relative clause ""who had done this"" has the verb at the end, indicating a verb-final structure within the clause.
+
+3. **Example from GM 15.46:**
+   - **Nobiin:** kunir-oos-on turba {mutee-1 finda-fi-i] weellaa
+   - **Literal Translation:** ‘he buries him in a tomb which had been hewn out in the rock’
+   - **Structure:** The main verb ""buries"" is at the beginning, but the relative clause ""which had been hewn out in the rock"" has the verb at the end, again indicating a verb-final structure within the clause.
+
+4. **Example from Erm. 15:**
+   - **Nobiin:** wide[ideni (in-wilit-ta hidm-i ))——_iig-a-tir-on
+   - **Literal Translation:** ‘then the woman who served the boy said to him’
+   - **Structure:** The main verb ""said"" is at the end, and the relative clause ""who served the boy"" also has the verb at the end, indicating an SOV structure.
+
+### Reasoning:
+
+The examples provided show a consistent pattern where the main verb in the main clause or relative clause tends to appear at the end of the clause. This is indicative of a verb-final language. Specifically, the examples show:
+
+- The subject (S) precedes the object (O), and the verb (V) follows both, which is characteristic of SOV order.
+- Even though there are instances where the main verb appears at the beginning of the sentence, these are likely due to specific syntactic constructions or stylistic choices, rather than indicating a dominant word order.
+
+### Conclusion:
+
+Based on the analysis of the provided examples, the dominant word order in Nobiin is **SOV**.
+
+**Conclusion:** SOV",sov,sov
+Nyimang,,not mentioned in the grammar,
+Lamé,"Based on the provided paragraphs from the descriptive grammar of Lamé, we can analyze the dominant word order as follows:
+
+1. **Paragraph 1 Analysis:**
+   - The example sentence (62) shows the order: ""mum ti fún ɓay mum ár kam rùm ne kə vay um-u"" which translates to ""he ate, but he left the rest for his son."" Here, the structure is S V O ne kə IO.
+   - Another example (63) shows: ""Taú né kwá kə ndzar rum kuni kə́dàn ti"" which translates to ""Tau gave his sisters something to eat."" Here, the structure is S V O kə IO.
+
+2. **Paragraph 2 Analysis:**
+   - The table and subsequent text provide various constituent orders depending on the aspect and mood of the clause. For perfective/subjunctive clauses, the orders include SVO, S V ne IO, S V O ne IO, S V ne IO O, and S V IO O.
+   - For non-perfective clauses, the orders include S (T/A) V O, S (T/A) O V, S (T/A) V IO ne, S (T/A) V O IO ne, and S (T/A) IO V O.
+   - The generalizations indicate that in perfective clauses, the indirect object can follow the verb directly or be marked by ""ne"" and ""kə.""
+
+**Reasoning:**
+- The examples and the table indicate that the subject (S) generally precedes the verb (V), and the object (O) follows the verb in many instances.
+- The presence of multiple orders (SVO, S V O ne IO, etc.) suggests some flexibility, but the consistent appearance of SVO in both perfective and non-perfective clauses indicates a dominant pattern.
+
+**Conclusion:**
+- The dominant word order in Lamé, based on the provided information, is **SVO**.
+
+**Conclusion: SVO**",svo,svo
+Bininj Gun-Wok,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Bininj Gun-Wok, several key points can be observed regarding the word order:
+
+1. **Flexibility in Word Order**:
+   - The text explicitly states that ""all orderings are grammatically possible"" and that there is ""no evidence that particular orders (like SVO) are used to disambiguate"" (Paragraph 1).
+   - This suggests that Bininj Gun-Wok does not have a rigid word order and allows for various configurations of subject, object, and verb.
+
+2. **Common Patterns**:
+   - Despite the flexibility, the text mentions that ""by far the commonest pattern is for clauses to lack any overt nominal group"" and to rely on pronominal prefixation on the verb.
+   - When there is one external nominal group, the commonest orders are OV (24 instances), SV (8 instances), and VO (7 instances) (Paragraph 1).
+   - This distribution indicates a tendency towards OV and VO orders, but not exclusively.
+
+3. **Discourse-Based Preferences**:
+   - The text discusses discourse-driven preferences, such as placing episode-initial and contrastive material before the verb and non-episode-initial new material after it (Paragraph 1).
+   - This further supports the idea that word order in Bininj Gun-Wok is influenced by pragmatic and discourse factors rather than strict syntactic rules.
+
+4. **Examples of Various Orders**:
+   - The text provides examples illustrating each of the six possible orders (SOV, SVO, VSO, VOS, OVS, OSV) in transitive clauses (Paragraph 1).
+   - This variety in examples reinforces the notion of flexible word order.
+
+### Conclusion:
+Based on the evidence from the descriptive grammar, Bininj Gun-Wok exhibits a high degree of flexibility in word order, with no single order being dominant. Therefore, the appropriate classification for the dominant word order in Bininj Gun-Wok is:
+
+**Conclusion: No dominant order**",no dominant order,no dominant order
+Wambaya,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Wambaya, several key points can be extracted to determine the dominant word order:
+
+1. **Morphological Agglutination and Free Word Order**:
+   - The first paragraph mentions that ""Wambaya is morphologically agglutinative and the word order is relatively free."" This suggests that Wambaya does not have a rigid word order and that various orders of subject, object, and verb might be possible.
+
+2. **Presence of Auxiliary**:
+   - The auxiliary in Wambaya contains bound pronouns representing the subject and object arguments of the clause. This indicates that the grammatical relations are marked within the auxiliary, which might reduce the reliance on a fixed word order to convey these relations.
+
+3. **Verbless Clauses**:
+   - In verbless clauses, the word order is described as ""relatively free,"" with the subject able to precede or follow the predicate, or even be discontinuous. This further supports the idea of flexible word order.
+
+4. **Verbal Clauses**:
+   - Although the provided paragraphs do not explicitly discuss the word order in verbal clauses, the indication of free word order in verbless clauses and the presence of an auxiliary that marks grammatical relations suggest that verbal clauses might also exhibit flexibility in word order.
+
+Given these points, it is reasonable to conclude that Wambaya does not have a single dominant word order for declarative sentences involving both a subject and an object. The flexibility in word order, combined with the morphological marking of grammatical relations, supports the classification of Wambaya as having no dominant order.
+
+### Conclusion:
+No dominant order",no dominant order,no dominant order
+Wardaman,"Based on the provided paragraph from the descriptive grammar of Wardaman, we can make several observations about the word order in the language:
+
+1. **Position of Subject, Object, and Verb**:
+   - The data shows that objects, subjects, and ergative-marked agents can occur both before and after the verb.
+   - There is a tendency for lexically specified nouns or noun phrases in all functions (subject, object, ergative-marked agent) to occur more frequently before the verb than after it.
+   - Specific examples given include various orders such as VOA, OVA, and AVO, indicating flexibility in word order.
+
+2. **Frequency and Distribution**:
+   - The table provided shows that objects appear before the verb 56.83% of the time and after the verb 43.17% of the time.
+   - Subjects appear before the verb 70.75% of the time and after the verb 29.25% of the time.
+   - Ergative-marked agents appear before the verb 59.02% of the time and after the verb 40.98% of the time.
+
+3. **Examples and Specific Instances**:
+   - Examples from texts show various word orders, including VOA, OVA, and AVO.
+   - There are instances where ergative-marked agents and objects are distributed on either side of the verb, with some indication of a tendency for realized agents and objects to be distributed around the verb.
+
+4. **Conclusion**:
+   - The data suggests that while there is a tendency for subjects and objects to appear before the verb, there is significant flexibility in the word order.
+   - The presence of multiple word orders (VOA, OVA, AVO) and the distribution percentages indicate that no single word order is overwhelmingly dominant.
+
+**Conclusion: No dominant order**
+
+The evidence points to Wardaman having flexible word order without a single dominant order, as multiple configurations are attested and none is overwhelmingly more frequent than the others.",no dominant order,no dominant order
+Gooniyandi,"Based on the provided paragraph, it is clear that Gooniyandi exhibits a high degree of flexibility in its word order. The text explicitly states that ""constituent order is 'free'... in the sense that changing it does not affect the referential or experiential meaning of a clause."" This indicates that the language does not have a rigid or fixed word order for the constituents of a clause (subject, object, and verb).
+
+The flexibility in constituent order suggests that Gooniyandi does not prioritize one specific order over others in terms of frequency or pragmatic neutrality. Instead, the order of constituents can vary without altering the fundamental meaning of the sentence, which is a characteristic of languages with no dominant word order.
+
+### Reasoning:
+1. The paragraph describes the constituent order in Gooniyandi as ""free,"" meaning that the order of subject, object, and verb can change without affecting the meaning of the clause.
+2. This flexibility implies that there is no single word order that is used more frequently or considered more neutral than others.
+3. The description aligns with the definition of a language that lacks a dominant word order, as it allows multiple orders without a clear preference for one.
+
+### Conclusion:
+No dominant order",no dominant order,no dominant order
+Tiwi,"### Reasoning:
+
+The provided paragraphs from the descriptive grammar of Tiwi indicate that there are different varieties of Tiwi, including Modern Tiwi (MT), Children's Tiwi (CT), and Tiwi-English (TE). The text explicitly mentions that both CT and Casual MT exhibit a ""rigid SVO word order."" This suggests that, at least for these varieties of Tiwi, the dominant word order is Subject-Verb-Object (SVO).
+
+The text does not provide specific examples of transitive sentences with both noun subjects and objects for other varieties of Tiwi, but the repeated mention of a ""rigid SVO word order"" in multiple contexts strongly implies that SVO is the dominant word order across these varieties.
+
+### Conclusion:
+SVO",svo,svo
+Nakkara,"Based on the provided paragraph, it is not possible to determine the dominant word order of Nakkara. The paragraph discusses the morphological aspects of transitive verbs, specifically the coding of participants (A and O) in the verb prefix, but it does not provide any information about the syntactic structure or the relative order of subject, object, and verb in declarative sentences.
+
+The paragraph focuses on the morphological coding of participants, particularly in terms of person and number hierarchies, and how these affect the prefix formation in transitive verbs. However, it does not provide any examples or descriptions of full sentences that would allow us to infer the dominant word order.
+
+### Conclusion: Not mentioned in the grammar",not mentioned in the grammar,not mentioned in the grammar
+Garrwa,"### Reasoning:
+
+Based on the provided paragraph from the descriptive grammar of Garrwa, we can make several observations:
+
+1. **Examples of Simple Sentences**:
+   - The sentences provided (9.32 to 9.38) do not clearly exhibit a consistent pattern of subject, object, and verb order. They are primarily nominal sentences or sentences with a copula implied, which do not help in determining the dominant word order in transitive clauses.
+
+2. **Naming Contexts**:
+   - The grammar mentions that in naming contexts, the newly introduced name occurs initially. This suggests a tendency to place prominent information at the beginning of the sentence, but it does not directly address the order of subject, object, and verb in transitive clauses.
+
+3. **General Description**:
+   - The grammar explicitly states that Garrwa, like many other Australian languages, has free word order. This means that syntactic functions such as subject and object are not signaled by word order, and there is no fixed order in phrase-like units.
+
+4. **Lack of Fixed Order**:
+   - The description emphasizes that there is no fixed order in Garrwa, which aligns with the characteristic of having flexible word order. This flexibility implies that no single word order is dominant in the language.
+
+Given these points, the grammar does not provide sufficient evidence to identify a dominant word order for declarative sentences with both subject and object as nouns. Instead, it highlights the flexibility and lack of a fixed order in Garrwa.
+
+### Conclusion:
+**No dominant order**",no dominant order,no dominant order
+Ngankikurungkurr,"Based on the provided paragraphs from the descriptive grammar of Ngankikurungkurr, we can analyze the word order in the given examples to determine the dominant word order of the language.
+
+### Analysis of Examples:
+
+1. **Example 6-3:**
+   - **Clause 1:** ""wa-wunu wupun-@-ta, e""
+     - Translation: ""He hit that man""
+     - Structure: SU (wa-wunu) Perf DO (wupun-@-ta)
+     - Order: SVO
+   - **Clause 2:** ""wa-wunu-ninggi dam-©-pawal""
+     - Translation: ""then that man speared him""
+     - Structure: SU (wa-wunu-ninggi) Perf DO (dam-©-pawal)
+     - Order: SVO
+
+2. **Example 6-4:**
+   - **Clause 1:** ""yarany-fi-pal kinyi yini-wurrkama-tye peyipa nyinyi""
+     - Translation: ""You came back here and were doing your paperwork""
+     - Structure: SU (yarany-fi-pal) Perf SU (kinyi yini-wurrkama-tye) PImp (peyipa nyinyi)
+     - Order: SVO
+   - **Clause 2:** ""ngayi nginge-tye, deminy-ngi-du ulgumen-ninggi""
+     - Translation: ""I was lying (asleep) when she(/he) woke me up...my wife did.""
+     - Structure: PRO (ngayi) SU (nginge-tye) PImp (deminy-ngi-du) SU (ulgumen-ninggi)
+     - Order: SVO
+   - **Clause 3:** ""Aya ngambani-pe, meny-ngiti ... Dianne-ninggi""
+     - Translation: ""‘Hey !, I'm coming with you', she told me...Dianne that is.""
+     - Structure: SU (Aya ngambani-pe) Perf IO (meny-ngiti) SU (Dianne-ninggi)
+     - Order: SVO
+
+### Reasoning:
+The examples provided consistently show the subject (SU) preceding the verb (Perf or PImp) and the object (DO or IO) following the verb. This pattern aligns with the Subject-Verb-Object (SVO) word order. The repetition of this structure across different sentences and contexts suggests that SVO is the dominant word order for declarative sentences in Ngankikurungkurr.
+
+### Conclusion:
+SVO",no dominant order,svo
+Wagiman,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Wagiman, the following points are crucial in determining the dominant word order:
+
+1. **Freedom of Constituent Order**: The text explicitly states that Wagiman has relatively great freedom of constituent order at the referential level, making it difficult to describe the language in terms of a fixed order of S, V, and O.
+
+2. **Lack of Basic Word Order**: The grammar mentions that there is a lack of evidence for any 'basic word order' in Wagiman. This is attributed to the rarity of sentences containing both A (transitive agent) and O (object) or even Si (intransitive subject), making it challenging to make definitive statements about the basic order.
+
+3. **Discourse Processes**: The text highlights that in narrative discourse, topics are usually referred to by pronominal reference in the prefix, and no further overt nominal reference is made. This indicates that the language relies heavily on pragmatic constraints rather than a fixed syntactic order.
+
+4. **Statistical Data**: The analysis of texts reveals a significant variety of sentence types (59 different types) and no strong order tendencies in sentences with two nominal participants. The data shows that while there are tendencies for certain orders (e.g., O before V and/or A, Si before V), these are not strong enough to establish a dominant order.
+
+5. **Conclusion on Word Order**: The grammar concludes that Wagiman must be described as having 'free' word order, where the occurrence and order of elements are functions of strong pragmatic constraints rather than a fixed syntactic structure.
+
+### Conclusion:
+**No dominant order**",no dominant order,no dominant order
+Neo-Aramaic (Assyrian),"Based on the provided paragraph from the descriptive grammar of Neo-Aramaic (Assyrian), we can infer the following:
+
+1. **Evidence of SOV Order**: The paragraph explicitly mentions that ""Occasionally the object is fronted before the verb when the clause has an initial subject constituent."" This suggests that the typical or unmarked order is Subject-Object-Verb (SOV), and the fronting of the object is a marked construction used for specific pragmatic purposes.
+
+2. **Examples Provided**: The examples given in the paragraph support the SOV order:
+   - Example (1): ""mère yába b-zabnètle ""èlli ""6n-háwe b-ðà-""aqla?} mère zílla °èla} ða-""àqla!} ""áti ""áqla šqùlla}"" translates to ""He said 'Will you sell it to me if it has one leg?' He said 'All this fuss (literally: they have gone, they have come), now one leg! Take the leg.'""
+   - Example (2): ""t-óð6n ""ixàla,} xá""a m6n-d-ánna kúbbe gò‰e.} xá""a †la-xmà°ila} ""u-xá †la-gàw‰i.} 'a-t-ìla †láli} ""awðánna trè-q6sme,} t-yánna xa-†làlux} ""u-xá †la-w9zìr.}"" translates to ""I’ll make food, one of these big meat-balls. One is for my mother-in-law, one is for my husband. The one that is for me I’ll divide into two parts and give one to you and one to the vizier.""
+   - Example (3): ""sóg6n m7°o xárj-u bárj6t botanàye} ""u-""ána xá°i t-yánna †la-M9mo.}"" translates to ""Go and collect the taxes of the people of Botan and I shall give my sister to M>mo.""
+
+In these examples, the subject typically precedes the object, which in turn precedes the verb, indicating an SOV structure.
+
+3. **Marked Constructions**: The paragraph also notes that when the object is fronted, it is often for emphasis or due to anaphoric binding to the preceding context, which is a marked construction and not the default word order.
+
+**Conclusion**: SOV",sov,sov
+English,"Based on the provided paragraph from the descriptive grammar of English, we can analyze the dominant word order in English. The paragraph discusses various types of clauses and their structures, providing examples that illustrate the syntactic positions of subjects, verbs, and objects.
+
+1. **Reasoning:**
+   - The examples given in the paragraph are:
+     - **Intransitive clause:** ""She smiled"" (S P)
+     - **Monotransitive clause:** ""He washed the car"" (S P Od)
+     - **Ditransitive clause:** ""They gave me the key"" (S P Oi Od)
+     - **Complex-intransitive clause:** ""This seems a good idea / fair"" (S P PC)
+     - **Complex-transitive clause:** ""I consider this a good idea / fair"" (S P Od PC)
+   - In all these examples, the subject (S) precedes the verb (P), and when there is an object (Od or Oi), it follows the verb. This consistent pattern indicates that the typical word order in English declarative sentences is Subject-Verb-Object (SVO).
+
+2. **Conclusion:** SVO",svo,svo
+Korean,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Korean, we can infer the dominant word order in Korean by examining the structure and examples given.
+
+1. **Paragraph 1**:
+   - The paragraph discusses the use of particles to clarify roles in sentences and mentions that Korean sentences often build up to the verb, which suggests that the verb typically comes at the end of the sentence.
+   - Example: ""Achim ey ayki ka kong ul ponta"" translates to ""In the morning, the child looks at the ball."" Here, the structure is Subject (ayki) - Object (kong ul) - Verb (ponta), which is SOV.
+   - The paragraph also mentions that while Korean has some flexibility in word order, certain sentence types require a specific order, reinforcing the idea that there is a preferred or dominant order.
+
+2. **Paragraph 2**:
+   - This paragraph provides examples of expanded sentences and transformations. The example ""Cikum emeni ka ayki lul poNTA"" translates to ""Now the mother looks at the baby,"" which follows the SOV order.
+   - The paragraph also discusses the typical order of expansions, suggesting a least marked version as ""TIME - PLACE - SUBJECT - OBLIQUE OBJECTS - DIRECT OBJECT - VERB,"" which again places the verb at the end.
+
+From these observations, it is clear that the dominant word order in Korean is Subject-Object-Verb (SOV).
+
+### Conclusion:
+SOV",sov,sov
+Basque,"Based on the provided paragraph from the descriptive grammar of Basque, the canonical word order in Basque is mentioned explicitly as S-IO-DO-V (Subject-Indirect Object-Direct Object-Verb). This indicates that the subject (S) comes first, followed by the indirect object (IO), then the direct object (DO), and finally the verb (V). 
+
+The example sentence provided is:
+(7) Mirenek umiari madari bat emo(n) (d)otzo.
+Miren.ERG child.DAT pear one give AUX
+'Miren has given a pear to the child.'
+
+In this sentence, ""Miren"" is the subject (S), ""umiari"" (to the child) is the indirect object (IO), ""madari bat"" (a pear) is the direct object (DO), and ""emo(n) (d)otzo"" (has given) is the verb (V). This confirms the SOV order when considering the direct object and verb.
+
+### Reasoning:
+1. The paragraph explicitly states the canonical word order as S-IO-DO-V.
+2. The example sentence provided follows this order, with the subject preceding the indirect object, which precedes the direct object, and finally the verb.
+
+### Conclusion:
+SOV",sov,sov
+Malayalam,,not mentioned in the grammar,
+Iu Mien,"Based on the provided paragraphs from the descriptive grammar of Iu Mien, we can analyze the dominant word order as follows:
+
+1. **Reasoning:**
+   - The grammar explicitly states that Iu Mien is a verb-medial language, which suggests a preference for the verb to appear between the subject and the object.
+   - It is mentioned that while an SVO pattern can occur, it is not strictly grammaticalized as the basic constituent order. Instead, the word order is heavily influenced by pragmatic factors, such as topic and focus.
+   - The examples provided (e.g., ""mienh gorngv gouv"" for ""people tell stories"") show an SVO structure in use. However, the text emphasizes that this structure is rare in isolation and typically occurs within larger utterances.
+   - The grammar also notes that in natural conversational situations, the patient argument (object) is often preposed as a topic, leading to a structure that can resemble OVS or other variations.
+   - Despite the flexibility and pragmatic motivations, the examples and descriptions suggest that SVO is a common and recognizable pattern, even if not the only one.
+
+Given these points, it appears that while Iu Mien exhibits flexibility in word order due to pragmatic factors, the SVO order is frequently observed and can be considered a dominant pattern in many contexts, especially when no other pragmatic motivations are at play.
+
+2. **Conclusion:** SVO",no dominant order,svo
+Semelai,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Semelai, we can analyze the word order in transitive and intransitive clauses.
+
+1. **Transitive Clauses:**
+   - Example (6) shows a verb-initial (VSO) order: ""ki=tikam la=kntek hn=p:>d:>rj ram lmerj"" (The husband stabbed the tiger with the spear).
+   - Example (7) shows a topicalized object with the order OVS: ""rom lmerj podorj ki=tikam la=kntek"" (The tiger, the husband stabbed with the spear).
+   - Example (8) shows a subject-verb-object (SVO) order: ""podorj ca sma?"" (Tigers eat people).
+
+2. **Intransitive Clauses:**
+   - Example (9) shows a subject-verb (SV) order: ""kehn swak"" (He went).
+   - Example (10) shows a verb-subject (VS) order: ""swak kdhn"" (He went).
+
+### Analysis:
+- The grammar indicates that the constituent order at the clause level is fluid and driven by pragmatic factors.
+- In transitive clauses, the verb-initial (VSO) order is usually observed, but other orders like OVS and SVO are also possible.
+- In intransitive clauses, both SV and VS orders are observed.
+
+Given the fluidity and the presence of multiple orders without a clear dominant pattern, it is challenging to assign a single dominant word order to Semelai. The grammar explicitly mentions the variation driven by pragmatic factors and does not indicate a single order as dominant.
+
+### Conclusion:
+**No dominant order**",no dominant order,no dominant order
+Yukaghir (Kolyma),"### Reasoning:
+
+1. **Head-final structure**: The first paragraph mentions that Kolyma Yukaghir is overwhelmingly head-final, which is a strong indicator of SOV word order. This is because head-final languages typically place the verb at the end of the clause.
+
+2. **Noun phrases and non-finite clauses**: The paragraph explicitly states that noun phrases and non-finite clauses follow the SOV order. While this does not directly confirm the order in finite clauses, it suggests a tendency towards SOV structure.
+
+3. **Preferred order in main clauses**: The paragraph notes that SOV is preferred in main clauses, although other orders are possible. This indicates that while there is some flexibility, SOV is the dominant order.
+
+4. **Basic word order**: The second paragraph explicitly states that the most frequent word order for core constituents is subject-object-verb (SOV). This is further supported by the examples provided in the grammar.
+
+5. **Discourse-oriented scheme**: The paragraph describes a ""discourse-oriented"" scheme where the topic and focus precede the verb, reinforcing the SOV structure. The constraints mentioned (focus cannot follow the verb, and the A constituent cannot intervene between the O focus and the finite verb) further support the SOV order.
+
+6. **Deviations from SOV**: The paragraph acknowledges deviations from the SOV order, such as right dislocation and clause-initial objects. However, these are described as less frequent and occurring under specific discourse conditions, indicating that SOV remains the dominant order.
+
+### Conclusion:
+SOV",sov,sov
+Georgian,"Based on the provided paragraph from the Georgian grammar, it is indicated that the word order in Georgian is ""fairly free"" due to noun functions being marked by case marking and verb agreement. However, it mentions that the ""neutral orderings"" are SOV and SVO. This suggests that while Georgian allows flexibility in word order, SOV and SVO are the most common or neutral configurations.
+
+### Reasoning:
+1. **Flexibility in Word Order**: The paragraph explicitly states that Georgian has a fairly free word order due to case marking and verb agreement, which allows for various permutations of subject, object, and verb.
+2. **Neutral Orderings**: Despite this flexibility, the grammar identifies SOV and SVO as the neutral orderings. This implies that these two orders are more frequently used or considered pragmatically neutral in declarative sentences.
+3. **Lack of Dominance**: Given that both SOV and SVO are mentioned as neutral without a clear preference for one over the other, it suggests that neither order is dominant over the other.
+
+### Conclusion:
+No dominant order",no dominant order,no dominant order
+Alutor,"**Reasoning:**
+
+The provided paragraphs from the descriptive grammar of Alutor offer insights into the word order of the language. Specifically, paragraph 3.2.1 mentions that ""the most frequent word order structures are SVO and VSO."" This indicates that both SVO (Subject-Verb-Object) and VSO (Verb-Subject-Object) orders are commonly used in Alutor. However, it does not specify which of these two orders is more dominant or frequent. Additionally, paragraph 3.2 states that Alutor has free word order, making it challenging to determine a single basic or dominant order.
+
+Given this information, it is clear that Alutor does not have a single dominant word order. Instead, it exhibits flexibility in its word order, with both SVO and VSO being frequent but without one being identified as the dominant order.
+
+**Conclusion:** No dominant order",no dominant order,no dominant order
+Thai,"Based on the provided paragraph from the descriptive grammar of Thai, the dominant word order in Thai is explicitly stated. The text mentions:
+
+""The general arrangement of a simple Thai sentence is Subject-Verb-Object as in English.""
+
+This statement clearly indicates that the typical or dominant order of constituents in a declarative sentence in Thai is SVO (Subject-Verb-Object).
+
+### Reasoning:
+1. **Direct Statement**: The grammar explicitly states that the general arrangement of a simple Thai sentence is Subject-Verb-Object.
+2. **Comparison to English**: The comparison to English, which is known to have an SVO word order, reinforces this assertion.
+3. **Lack of Contradictory Information**: There is no information provided in the paragraph that contradicts this statement or suggests a different dominant word order.
+
+### Conclusion:
+SVO",svo,svo
+Nganasan,"Based on the provided paragraphs from the descriptive grammar of Nganasan, the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The first paragraph discusses the structure of prohibitive sentences in Nganasan, where the object precedes the auxiliary verb, and the subject is often omitted.
+   - The second paragraph explicitly states that Nganasan is a head-final SOV language. It mentions that complements and adjuncts typically precede the head in a phrase, and neutral sentences conform to the SOV structure. This pattern is described as the most frequent statistically, although the word order is not rigid and can vary depending on the information structure of the clause.
+
+Given this information, it is clear that the dominant word order in Nganasan is SOV (Subject-Object-Verb), as this is the most frequent and neutral structure in the language.
+
+**Conclusion:** SOV",sov,sov
+Nivkh (South Sakhalin),"Based on the provided paragraph from the descriptive grammar of Nivkh (South Sakhalin), the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states: ""Note that both Nivkh and Mende lack case marking and have a fixed SOV word order.""
+   - This indicates that Nivkh has a fixed word order where the subject (S) comes first, followed by the object (O), and then the verb (V).
+
+2. **Conclusion:**
+   - SOV",sov,sov
+Jarawa (in Andamans),"Based on the provided paragraph from the descriptive grammar of Jarawa, the dominant word order in Jarawa is explicitly stated. The paragraph clearly mentions that ""Jarawa is an SOV language: the subject precedes the object and the object precedes the verb."" This statement directly addresses the order of subject, object, and verb in declarative sentences, fulfilling the requirement for determining the dominant word order.
+
+**Reasoning:**
+1. The grammar explicitly states that Jarawa follows the SOV order.
+2. The examples provided in the paragraph support this claim, showing that in simple sentences, the subject precedes the object, and the object precedes the verb.
+3. Even in sentences with two objects, the order remains consistent with the SOV structure, with variations only in the placement of direct and indirect objects.
+
+**Conclusion:** SOV",sov,sov
+Nahali,"### Reasoning:
+
+Based on the provided paragraph from the descriptive grammar of the Nihali language, the dominant word order can be determined as follows:
+
+1. **Explicit Mention of Word Order**: The paragraph explicitly states that the word order in Nihali is SOV (Subject-Object-Verb). This is mentioned directly in the text: ""The word order in this speech form is SOV.""
+
+2. **Examples Provided**: The examples given in the text support this claim. The sentence ""tembrya dho:r-na cekiya"" (tiger-sub cow-obj catch-pt) follows the SOV order, where ""tembrya"" (tiger) is the subject, ""dho:r-na"" (cow) is the object, and ""cekiya"" (catch) is the verb.
+
+3. **Alternative Word Orders**: The text also mentions that while the normal word order is SOV, it is possible to have OSV in certain contexts such as focusing. However, the primary or dominant order is still SOV, as indicated by the phrase ""Though the normal word order is SOV.""
+
+4. **Case Markers**: The presence of case markers on nouns (""tembrya"" and ""dho:r-na"") allows for some flexibility in word order without changing the meaning of the sentence. This flexibility does not negate the fact that SOV is the dominant order.
+
+### Conclusion:
+SOV",sov,sov
+Kusunda,"Based on the provided paragraph from the descriptive grammar of Kusunda, the dominant word order can be determined from the following statement:
+
+""Syntax in Kusunda follows a basic SV, AOV constituent order, with alternative orders used to mark specialized pragmatic notions.""
+
+Here, ""SV"" refers to the order of subject and verb in intransitive clauses, while ""AOV"" refers to the order of agent (subject), object, and verb in transitive clauses. The notation ""AOV"" indicates that the subject (agent) comes first, followed by the object, and then the verb.
+
+This description clearly indicates that the dominant word order in Kusunda is Subject-Object-Verb (SOV).
+
+### Reasoning:
+1. The grammar explicitly states that Kusunda follows a basic ""SV, AOV"" constituent order.
+2. ""AOV"" is a clear indication of the SOV word order in transitive clauses.
+3. The mention of alternative orders being used for specialized pragmatic notions suggests that while other orders are possible, they are not the dominant or basic order.
+
+### Conclusion:
+SOV",sov,sov
+Udihe,"Based on the provided paragraph from the descriptive grammar of Udihe, the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states that Udihe ""exhibits certain typological features of a head-final SOV language"" and that ""the SOV order is the most common statistically as well.""
+   - Examples provided in the paragraph (e.g., ""Mamasa ule:-we olokto-ini"" for ""The old woman is cooking meat"") illustrate the SOV order.
+   - The text also mentions that while the SOV order is common, it is not rigid and can be influenced by information structure requirements. However, the fact that SOV is described as the most common order statistically indicates that it is the dominant order.
+
+2. **Conclusion:** SOV",sov,sov
+Ingush,"Based on the provided paragraphs from the descriptive grammar of Ingush, we can analyze the word order as follows:
+
+1. **Verb-final order in non-main and some main clauses**: The text mentions that Ingush uses verb-final order (AOV and SV) in non-main clauses and some main clauses. This indicates a tendency towards placing the verb at the end of the clause in these contexts.
+
+2. **Verb-second order in most main clauses**: For most main clauses, Ingush employs a verb-second order. This suggests that the verb typically appears in the second position, which could imply an SVO or OVS structure depending on the placement of the subject and object.
+
+3. **Examples provided**:
+   - (27) ""Suona ghalghaai mott dika xaac"" (I don't know Ingush very well) follows an SOV structure.
+   - (28) ""Muusaaz gazet dieshazh dy"" (Musa is reading the paper) also follows an SOV structure.
+
+The examples given (27) and (28) both illustrate an SOV order, which aligns with the description of verb-final order in pragmatically neutral main clauses. Although verb-second order is mentioned for most main clauses, the specific examples provided support the dominance of the SOV order in neutral contexts.
+
+**Reasoning**:
+- The grammar explicitly states that verb-final order (AOV and SV) is used in pragmatically neutral main clauses.
+- The examples provided (27 and 28) both follow an SOV structure.
+- While verb-second order is mentioned, the dominant order in neutral contexts appears to be SOV based on the examples and descriptions provided.
+
+**Conclusion**: SOV",no dominant order,sov
+Lezgian,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Lezgian, we can determine the dominant word order by examining the syntactic patterns and preferences mentioned.
+
+1. **Paragraph 1**:
+   - The text states that ""Word order patterns in Lezgian are overwhelmingly head-final. This order is obligatory in noun phrases... and it is preferred for clauses.""
+   - It also mentions that ""alongside SOV order other orders are also possible, especially in the spoken language.""
+
+2. **Paragraph 2**:
+   - The text reiterates that ""clause-level word order is generally head-final, i.e. verb-final.""
+   - It specifies that ""verb-final order is only the preferred word order in independent sentences.""
+   - It also notes that ""the order of the other major constituents of the clause (arguments and adjuncts) is quite free, although there is a strong tendency for the subject to precede the other arguments.""
+
+From these observations, we can infer the following:
+- The dominant word order in Lezgian is verb-final (V-final), which aligns with the SOV (Subject-Object-Verb) order.
+- Although other orders are possible, especially in colloquial speech, the preferred and dominant order in independent sentences is SOV.
+
+### Conclusion:
+SOV",sov,sov
+Galo,"Based on the provided paragraphs from the descriptive grammar of Galo, we can analyze the dominant word order as follows:
+
+1. **Paragraph 1 (859)**:
+   - The sentence structure is: ""[bɨ ̀ɨi]S [[Øi]A [háa=əəm]O [tɨ ́ɨ-tó=əəm=əə]]PRED.TSUB [ín-káa-kú]PRED"".
+   - This translates to: ""After Øi drinking tea, hei left."" (lit., ‘Hei after Øi drinking tea, left.’)
+   - Here, the main clause has the verb ""left"" (ín-káa-kú) following the subject ""hei"" (bɨ ̀ɨi), but the object ""tea"" (háa=əəm) is part of a subordinate clause.
+
+2. **Paragraph 2 (860)**:
+   - The sentence structure is: ""[Øi/*j]A [dó-dàk-ée=bə́ ə́m-là(a)]PRED [ŋój/*i]A [acín]O [mò-tó]PRED"".
+   - This translates to: ""I made food so that (they/you/*I) could eat.""
+   - Here, the main clause ""I made food"" has the subject ""I"" (ŋój/*i) preceding the verb ""made"" (mò-tó) and the object ""food"" (acín) following the verb.
+
+3. **Paragraph 3 (861)**:
+   - The sentence structure is: ""[Øi ogò lɨ ̀k-là(a) á-tó-rée-là(a)] [bɨ ̀ɨi jùp-tó-kú]"".
+   - This translates to: ""(Hei) (*I/*you/*someone else) having kept (the frog) in there, hei...went to sleep.""
+   - Here, the main clause ""hei...went to sleep"" has the subject ""hei"" (bɨ ̀ɨi) preceding the verb ""went to sleep"" (jùp-tó-kú).
+
+4. **Paragraph 4 (14.1.3.6)**:
+   - This paragraph explicitly states: ""Although the statistically most frequent Galo constituent order is without question A O V, when the O argument is definite and referential – meaning that it is obligatorily marked in the accusative – constituents may be arranged in the most pragmatically useful order.""
+   - This indicates that the most frequent order is AOV (which corresponds to SOV in the context of subject, object, and verb).
+
+**Reasoning**:
+- The examples provided in the paragraphs show that the subject typically precedes the verb, and the object follows the subject and precedes the verb when it is definite and referential.
+- The explicit statement in paragraph 4 confirms that the statistically most frequent order is AOV (SOV).
+
+**Conclusion**: SOV",sov,sov
+Yup'ik (Norton Sound),"### Reasoning:
+
+The paragraphs provided from the descriptive grammar of Yup'ik (Norton Sound) offer several insights into the word order of the language. Let's analyze the key points:
+
+1. **Flexibility and Double Marking**:
+   - The grammar indicates that Yup'ik has a flexible word order due to its double-marking system, which marks both the predicate verb and its core arguments (subject and object) with case and number. This flexibility allows for multiple possible orders without substantial differences in meaning.
+
+2. **Example Sentences**:
+   - Example (73) shows an SOV order: ""assik-ai mikelngu-u-tP Elitnauriste-mA"" (The teacher likes the children).
+   - Example (75a) also shows an SOV order: ""Elitnauriste-tA mikelngu-u-tP assik-ait"" (The teachers like the children).
+   - Example (75b) shows an OSV order: ""Mikelngu-u-tA elitnauriste-tP assik-ait"" (The children like the teachers).
+   - Example (76) shows a VSO order: ""Apt-ait mikelgu-u-tA angute-tP"" (The children asked the men).
+
+3. **Tendencies and Preferences**:
+   - The grammar suggests a tendency towards SOV order as the unmarked order, although it also mentions that the verb can come sentence-initially, leading to VSO order.
+   - The text explicitly states that it is not easy to decide the canonical or dominant word order due to the flexibility and the influence of discourse/pragmatic factors.
+
+4. **Pragmatic Conditioning**:
+   - Word order in Yup'ik can be pragmatically conditioned, with topics often appearing at the sentence-initial position and peripheral or demoted arguments towards the end.
+
+5. **Conclusion from the Grammar**:
+   - Despite the flexibility, the grammar notes a measurable preference for SOV as the unmarked order, but it also acknowledges the significant role of pragmatic factors and the occurrence of other orders.
+
+### Conclusion:
+Based on the information provided, Yup'ik (Norton Sound) does not have a rigidly fixed word order but shows a measurable preference for SOV. However, due to the flexibility and pragmatic conditioning mentioned, it is most accurate to conclude that Yup'ik (Norton Sound) lacks a dominant word order.
+
+**Conclusion: No dominant order**",sov,no dominant order
+Yuki,"Based on the provided paragraphs from the descriptive grammar of Yuki, the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The text explicitly states that Yuki clauses tend to be verb-final (SOV) (Paragraph 15.1).
+   - Examples (1) to (4) illustrate verb-final clauses, supporting the SOV order.
+   - There are instances of non-verb-final word order, particularly in sentences containing complement clauses or adverbial phrases (examples (5) to (9)). However, these are noted as exceptions rather than the norm.
+   - The consistent pattern in the majority of the examples provided is that the verb appears at the end of the clause, which aligns with the SOV order.
+
+2. **Conclusion:** SOV",no dominant order,sov
+Pipil,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Pipil, we can determine the dominant word order for declarative sentences with both noun subjects and objects. Here are the key points extracted from the text:
+
+1. **Intransitive Sentences**:
+   - The most natural, least marked order for intransitive sentences is Verb-Subject (VS).
+
+2. **Transitive Sentences**:
+   - The most common neutral order for transitive sentences is Verb-Object-Subject (VOS).
+   - VOS order is taken as basic because it occurs with the greatest frequency in texts and conversation, and it is the only order for transitive sentences which is neutral with respect to focus and emphasis.
+   - Other orders such as Subject-Verb-Object (SVO) and Verb-Subject-Object (VSO) also occur but with less frequency. SVO is used to place greater emphasis on the subject, and VSO is common when the object is ""heavy"" (e.g., contains a relative clause or coordinate noun phrase).
+
+3. **Examples**:
+   - Examples of VOS order:
+     1) ""ki-ta:lih ne i-chaketah ne ta:ka-tsin."" (The little man put down his jacket.)
+     2) ""mitsin-maka-tuk ne konse:hoh ne chimpe."" (The youngest son has given you (pl.) the advice.)
+   - Examples of VSO order with ""heavy"" objects:
+     1) ""te: ki-kwah pe:lu ne uh-u:mi-t nike ne plumah."" (The dog didn't eat the bones nor the feathers.)
+     2) ""ki-ahsi-k ne alkalteh ne mache ka ki-puluh-tuk hwan."" (The mayor found the machete that Juan had lost.)
+   - Examples of SVO order with subject emphasis:
+     1) ""ne i-siwa:-w ki-miktih ne chumpipi."" (His wife killed the turkey.)
+
+4. **Conclusion**:
+   - The dominant word order for Pipil, especially in transitive sentences where both the subject and object are nouns, is Verb-Object-Subject (VOS). This is supported by the frequency of occurrence and its neutrality with respect to focus and emphasis.
+
+### Conclusion:
+VOS",no dominant order,vos
+Micmac,"Based on the provided paragraph from the descriptive grammar of Micmac, the following observations can be made:
+
+1. The paragraph discusses the structure of transitive verbs and the placement of subject and object markers in relation to the verb. It mentions that the object marker precedes the subject marker following the verb stem.
+2. The underlying structure for Micmac is given as:
+   ```
+   (PA
+   NP
+   I
+   Subject
+   ANP
+   V
+   I .
+   Object
+   ```
+   This suggests that the subject (NP) precedes the verb (V), which in turn precedes the object (ANP).
+3. The paragraph also states that the object NP is copied first, implying that in the surface structure, the object appears closer to the verb than the subject does.
+
+From this information, it appears that the dominant word order in Micmac is SVO (Subject-Verb-Object). The subject precedes the verb, and the object follows the verb, which aligns with the SVO order.
+
+### Reasoning:
+- The subject (NP) is mentioned first in the underlying structure.
+- The verb (V) follows the subject.
+- The object (ANP) follows the verb.
+
+### Conclusion:
+SVO",vos,svo
+Tepehua (Huehuetla),"Based on the provided data from the descriptive grammar of Tepehua (Huehuetla), we can analyze the dominant word order in transitive clauses. Here is the breakdown of the relevant information:
+
+1. **Frequency of Word Orders in Transitive Clauses:**
+   - V only: 45.7%
+   - VO: 31.1%
+   - OV: 8.6%
+   - VS: 4.9%
+   - SV: 3%
+   - SVO: 2.6%
+   - VSO: 2.3%
+   - OVS: 0.9%
+   - VOS: 0.7%
+   - OSV: 0.2%
+   - SOV: 0%
+
+2. **Analysis:**
+   - The most frequent word order is ""V only"" at 45.7%, but this does not include both subject and object.
+   - Among the orders that include both subject and object, ""VO"" is the most frequent at 31.1%.
+   - The combined frequency of VO and OV (39.7%) indicates a strong tendency towards verb-initial orders.
+   - The orders involving both subject and object (SVO, VSO, OVS, VOS, OSV, SOV) are very infrequent, with none of them exceeding 3%.
+
+3. **Conclusion:**
+   - The data suggests that Tepehua (Huehuetla) does not have a single dominant word order involving both subject and object. The high frequency of ""V only"" and ""VO"" orders indicates a preference for verb-initial constructions, but the low frequencies of other orders involving both subject and object suggest that no single word order is dominant when both subject and object are present.
+
+**Conclusion:** No dominant order",no dominant order,no dominant order
+Musqueam,"### Reasoning:
+
+Based on the provided paragraphs, it is challenging to determine the dominant word order of Musqueam due to the lack of clear examples involving both a subject and an object in declarative sentences. The paragraphs primarily discuss pronouns, verb forms, and nominalization processes without providing explicit transitive sentences that include both a subject and an object noun.
+
+### Conclusion:
+Not mentioned in the grammar",vso,not mentioned in the grammar
+Omaha,"Based on the provided paragraph from the descriptive grammar of the Omaha language, it is explicitly mentioned that Omaha has a subject-object-verb (SOV) word order. This information is directly stated in the example given about the twin babies raised in different linguistic environments:
+
+> ""The first baby will grow up speaking only Omaha, which has a subject-object-verb word order.""
+
+This clear statement allows us to determine the dominant word order in Omaha without ambiguity.
+
+### Reasoning:
+1. The paragraph explicitly states that Omaha has a subject-object-verb (SOV) word order.
+2. This information is provided in a context that contrasts Omaha with English, which has a subject-verb-object (SVO) word order, making it clear that the SOV order is a defining characteristic of Omaha.
+
+### Conclusion:
+SOV",sov,sov
+Washo,"Based on the provided paragraphs from the descriptive grammar of Washo, it is challenging to determine the dominant word order of subject, object, and verb in declarative sentences where both the subject and object are nouns. The paragraphs primarily discuss morphological and syntactic constructions involving prefixes, expansions, and the use of third-person subjects and objects, but they do not provide clear examples or descriptions of the typical word order in transitive clauses.
+
+1. **Reasoning:**
+   - The first paragraph (399) discusses the use of prefixes and the expansion of nouns and verbs but does not provide information on the linear order of subject, object, and verb in declarative sentences.
+   - The second paragraph (455) focuses on the use of third-person prefixes in intransitive and double-transitive verbs, as well as the expansion of verbs, but again, it does not specify the order of subject, object, and verb in transitive clauses.
+
+Given the lack of explicit information on the dominant word order in the provided paragraphs, it is not possible to determine the dominant word order for Washo based on this excerpt.
+
+**Conclusion:** Not mentioned in the grammar.",sov,not mentioned in the grammar
+Koasati,"Based on the provided paragraph from the descriptive grammar of Koasati, the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states that ""The most unmarked word order of a sentence is subject, object, verb (SOV)."" This indicates that in its most neutral and unmarked form, Koasati sentences follow the SOV order.
+   - Additional information about variations in word order when indirect objects or locative phrases are present does not contradict the primary assertion that SOV is the dominant order. Instead, it provides further details on how other elements are incorporated into the sentence structure while maintaining the SOV order as the base.
+   - The mention of nominal cases allowing for some flexibility does not imply that there is no dominant order; rather, it suggests that while SOV is the default, other orders can occur due to case marking.
+
+2. **Conclusion:** SOV",sov,sov
+Chumash (Barbareño),"Based on the provided paragraphs from the descriptive grammar of Barbareño Chumash, we can determine the dominant word order of the language.
+
+### Reasoning:
+
+1. **Paragraph 1**:
+   - The paragraph explicitly states that a clause with full subject and object NPs generally has a Verb-Object-Subject (VOS) structure.
+   - It mentions that the verb-initial word order occurs in both independent and dependent clauses.
+   - Preverbal NPs are pragmatically marked and typically not part of the clause that follows, indicating that the default or unmarked order is verb-initial.
+
+2. **Paragraph 2**:
+   - The basic clause structure is described as typically verb-initial.
+   - When there is more than one full NP within the clause, the order is specified as objects preceding subjects, which aligns with the VOS structure.
+   - An example provided (244) follows the VOS order: ""Right then the Indians lowered their arrows.""
+
+Given this information, it is clear that the dominant word order in Barbareño Chumash is VOS.
+
+### Conclusion:
+VOS",vos,vos
+Yuchi,"Based on the provided paragraph from the descriptive grammar of Yuchi (Euchee), the following observations can be made:
+
+1. The basic word order in a one-place declarative sentence is Actor (A) or Patient (P), then Verb (V).
+2. In a two-place verb (transitive sentence), the order is Actor (A) then Patient (P), then Verb (V).
+
+This suggests that the typical word order for transitive sentences, where both the subject (Actor) and object (Patient) are nouns, is SOV (Subject-Object-Verb). The examples provided support this structure:
+
+- Example (1c): ""Dzoshifa k'a se 'yushi"" translates to ""She's stirring up the sofki,"" where ""dzoshi-fa"" (thing) is the object, ""k'a"" (sofki) is another object or part of the noun phrase, and ""se-'yushi"" (she stirs) is the verb.
+- Example (1d): ""Sedo'rene jt"" translates to ""I asked her (already),"" where ""se-do-'me"" (I asked her) is the verb and ""je"" (PAST) is a tense marker.
+
+These examples illustrate that the subject (Actor) precedes the object (Patient), which in turn precedes the verb, confirming the SOV order.
+
+**Reasoning:**
+The grammar explicitly states that the basic word order in a two-place verb (transitive sentence) is Actor (A) then Patient (P), then Verb (V), which corresponds to the SOV order. The examples provided further support this structure, showing that the subject and object precede the verb in declarative sentences.
+
+**Conclusion:** SOV",sov,sov
+Alsea,,not mentioned in the grammar,
+Arikara,"### Reasoning:
+
+The provided paragraph from the Arikara grammar does not contain clear examples of declarative sentences with both subject and object participants as nouns. Instead, it discusses various sentence patterns and word orders in Arikara, indicating that word order is not fixed and can vary. This suggests that Arikara may have a flexible word order system.
+
+The paragraph mentions that word order in Arikara is not always needed to make the meaning clear and that there are several ways of putting together sentences. This implies that Arikara does not have a rigid word order and may use different orders depending on context or emphasis.
+
+Given this information, it is reasonable to conclude that Arikara does not have a single dominant word order for declarative sentences with both subject and object participants as nouns.
+
+### Conclusion:
+No dominant order",no dominant order,no dominant order
+Takelma,,not mentioned in the grammar,
+Jemez,,not mentioned in the grammar,
+Zuni,"### Reasoning:
+
+Based on the provided paragraph from the descriptive grammar of Zuni, we can determine the dominant word order by examining the structure of the example sentence given:
+
+**Example Sentence:**
+- 'a:w-okyaccik' ‘a:-Siwi ‘a:w-an ha'i__te-we' wo-k'oSo-nap -kya
+- Translation: ""The women washed three pots for the Zunis.""
+
+**Analysis:**
+1. **Verb Position:**
+   - The verb ""washed"" (wo-k'oSo-nap -kya) appears at the end of the sentence.
+   - The grammar explicitly states that ""the verb occurs finally and strictly so.""
+
+2. **Order of Arguments:**
+   - Subject: ""The women"" ('a:w-okyaccik')
+   - Indirect Object: ""for the Zunis"" (‘a:-Siwi ‘a:w-an)
+   - Direct Object: ""three pots"" (ha'i__te-we')
+
+   The order of arguments is Subject - Indirect Object - Direct Object, with the verb at the end.
+
+**Conclusion:**
+- The dominant word order in Zuni is **SOV** (Subject-Object-Verb), as the verb consistently appears at the end of the sentence, and the subject precedes the object.
+
+### Conclusion:
+**SOV**",sov,sov
+Rama,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Rama, the dominant word order can be determined as follows:
+
+1. **Paragraph 1** explicitly states: ""Rama is an SOV language like Miskitu and Sumu."" This clear statement directly indicates that the dominant word order in Rama is Subject-Object-Verb (SOV).
+
+2. **Paragraph 2** reinforces this by mentioning: ""Rama is an SOV language. The word order is relatively rigid and is the basic syntactic device used for marking subject and object."" This further confirms that SOV is the dominant word order in Rama.
+
+Both paragraphs consistently describe Rama as having an SOV word order, with the first paragraph providing a direct statement and the second paragraph offering additional details about the rigidity and syntactic function of this order.
+
+### Conclusion:
+SOV",sov,sov
+Tonkawa,"Based on the provided paragraph from the descriptive grammar of Tonkawa, the dominant word order is explicitly mentioned.
+
+### Reasoning:
+In paragraph 23, it is stated: ""The normal word order of the Tonkawa sentence is subject, object and verb."" This clearly indicates that the dominant word order in Tonkawa is SOV (Subject-Object-Verb). Additionally, it is mentioned that this order is not strictly necessary due to the presence of syntactic relations indicated by suffixes, but it is still identified as the normal or dominant order.
+
+### Conclusion:
+SOV",sov,sov
+Tunica,"Based on the provided paragraphs from the descriptive grammar of Tunica, we can infer the following about the dominant word order:
+
+1. **Predicative Word Position**: The predicative word (verb) tends to take the clause-final position, although this is not rigidly adhered to. This suggests a tendency towards SOV order, where the verb comes last.
+
+2. **Independent Subject Position**: The independent subject tends to precede all other syntactic elements except the sentence connective. This aligns with the SOV order where the subject comes first.
+
+3. **Independent Object Position**: The independent object is normally placed just before the predicative word and follows the independent subject if both are expressed in the same clause. This again supports the SOV order where the object precedes the verb and follows the subject.
+
+4. **Examples**: The examples provided in the text also support the SOV order:
+   - (1s) ta’rustaéku, (10) to’mahkak (pw) ?uwe’niwthé (14421) when Rabbit found the alligator.
+   - (10) ta’Gohak (pw) 2uya'nale’pihk?uta'nt. (21:1) He spoke to the chief, it is said.
+
+These examples show the subject preceding the object, which in turn precedes the verb, consistent with SOV order.
+
+**Reasoning**: The rules and examples provided in the grammar indicate a strong tendency for the verb to appear at the end of the clause, with the subject typically preceding the object. This aligns with the SOV word order.
+
+**Conclusion**: SOV",sov,sov
+Wappo,,not mentioned in the grammar,
+Ute,,not mentioned in the grammar,
+Yurok,"Based on the provided paragraphs from the descriptive grammar of Yurok, we can analyze the dominant word order of the language.
+
+### Reasoning:
+
+1. **Flexibility of Word Order**:
+   - The grammar states that Yurok word order is flexible and that sentences can be arranged in multiple acceptable ways depending on emphasis and context rather than strict syntactic rules.
+
+2. **Position of Nouns and Verbs**:
+   - It is uncommon for a sentence to have more than one noun, and sentences often have no nouns at all.
+   - When there is a noun, it can be positioned either before or after the verb. However, no more than one noun will typically be positioned before the verb, and any additional nouns will be positioned after the verb.
+   - The position of the noun is influenced by whether it is contrastive, emphasized, new to the discourse (preverbal), or conveys old information and is very long (postverbal).
+
+3. **Examples**:
+   - Sentences with contrasting subjects show the noun before the verb:
+     - (152a) ’Eekee toom’ nue hlkeeegor. (""Everyone went to watch."")
+     - (152b) Kwesee kue lochom’ ’o ges’. (""And the toad thought..."")
+     - (152c) Kue negeneech tue’ kem wee’ ’o gegok’w. (""The mouse too was staying there."")
+   - Sentences with known subjects show the noun after the verb:
+     - (153a) Kwesee yem’ kue negeneech... (""Then the mouse said..."")
+     - (153b) Kwesee ’o te’noy’ kue lochom’... (""And the toad was annoyed..."")
+     - (153c) Kwesee wee’ neenee noo’s kue negeneech. (""And the mouse giggled around."")
+
+### Conclusion:
+Given the flexibility in word order and the lack of a single dominant pattern, Yurok does not adhere strictly to one specific word order. Instead, the position of nouns relative to verbs is influenced by discourse factors such as emphasis and information status. Therefore, the dominant word order in Yurok is best described as:
+
+**No dominant order**",no dominant order,no dominant order
+Nuuchahnulth,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Nuuchahnulth, we can analyze the word order as follows:
+
+1. **Predicate Initial Position**: The grammar states that ""the predicate usually comes first in the clause followed by the core (i.e. subject and object) RPs in either order."" This suggests a verb-initial structure, which is common in languages with VSO or VOS word orders.
+
+2. **Examples**:
+   - **(180a)**: ""Qweti took (away) the land.""
+     - Verb: ""hold–PERF=TEMP""
+     - Subject: ""Qweti""
+     - Object: ""land=ART""
+     - This example follows a VSO order.
+   
+   - **(180b)**: ""I am pounding up cedar bark.""
+     - Verb: ""chop–in.pieces.CAUS.PERF–GRAD=TEMP=INDIC.1sg""
+     - Subject: Implicit ""I""
+     - Object: ""inner.cedar.bark""
+     - This example also follows a VSO order.
+   
+   - **(180c)**: ""The woman sees the baby.""
+     - Verb: ""see=INDIC.3sg""
+     - Subject: ""woman=ART""
+     - Object: ""baby=ART""
+     - This example follows an SVO order, but the grammar notes that the subject and object can appear in either order, indicating flexibility.
+
+3. **Ambiguity and Context**: The grammar mentions that ambiguities in referent/role relations are often mitigated by context and passive-inverse voice constructions. This suggests that while there is flexibility, there is still a tendency towards a particular structure.
+
+4. **Frequency and Dominance**: The examples provided predominantly show a verb-initial structure (VSO), even though there is some flexibility. Given the emphasis on the predicate usually coming first, it is reasonable to conclude that VSO is the dominant order.
+
+### Conclusion:
+VSO",no dominant order,vso
+Columbia-Wenatchi,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Columbia-Wenatchi, we can analyze the word order of the language as follows:
+
+1. **Transitive Constructions**:
+   - Example (54): ""t’dq’s wa__ t’aq’-nt-s ttw’it Pani kiy’ana?"" translates to ""The girl slapped the boy."" Here, the order is VOS (Verb-Object-Subject).
+   - Example (55): ""t’dqvs fani t’aq’-nt-s kiy’dna? wa__ ttw’it"" also translates to ""The girl slapped the boy."" Here, the order is VSO (Verb-Subject-Object).
+
+   The text explicitly states that the basic transitive word order is VOS, although there is some flexibility, as shown by the VSO example. The VOS order is described as the unmarked word order, indicating it is the more common or default structure.
+
+2. **Intransitive Constructions**:
+   - Example (56): ""tot’ ?axd? wet-(3AB) ?apsn wa"" translates to ""This towel is wet."" Here, the order is VS (Verb-Subject).
+   - Example (57): ""x*dy’m ?inxxx’cin ?in-xXxA’cin"" translates to ""My dog ran away."" Here, the order is also VS (Verb-Subject).
+
+   The unmarked intransitive word order is VS, which aligns with the verb-initial tendency observed in the transitive constructions.
+
+### Conclusion:
+**VOS**
+
+The dominant word order in Columbia-Wenatchi is VOS, as it is explicitly stated to be the unmarked and more frequent order in transitive constructions.",vos,vos
+Hidatsa,"Based on the provided paragraph from the descriptive grammar of Hidatsa, we can derive the following information about the dominant word order:
+
+1. **Reasoning:**
+   - The text explicitly mentions that Hidatsa has a ""relatively flexible word order.""
+   - Despite this flexibility, it states that the ""unmarked constituent order in transitive clauses is AOV."" Here, ""A"" stands for the agent (subject), ""O"" stands for the object, and ""V"" stands for the verb.
+   - This indicates that while the word order can be scrambled for pragmatic reasons, the default or unmarked order is SOV (Subject-Object-Verb).
+
+Given this information, it is clear that the dominant word order in Hidatsa is SOV.
+
+**Conclusion:** SOV",sov,sov
+Toqabaqita,"Based on the provided paragraphs from the descriptive grammar of Toqabaqita, we can analyze the dominant word order as follows:
+
+1. **Basic Constituent Order**: The text states that the basic constituent order of Toqabaqita is subject – predicate – X, where X designates any element other than the subject and the predicate. This indicates that the subject typically precedes the predicate (which can be a verb or verbless).
+
+2. **Verbal Clauses**: The text further specifies that in verbal clauses, the basic order is SVX and AVOX, where S represents an intransitive subject, A a transitive subject, O a direct object, and V a verb. This suggests that the subject (S or A) precedes the verb (V), and the object (O) follows the verb.
+
+3. **Examples**: The examples provided in the text support this structure:
+   - (3-4) ""Nau ku thaofa."" (1SG 1SG.NFUT be.hungry) translates to ""I am hungry."" Here, the subject ""Nau"" (I) precedes the verb ""thaofa"" (be hungry).
+   - (3-5) ""Nau ku riki-a doqora-mu i maa-na uusi-a."" (1SG 1SG.NFUT see-3.OBJ sibling-2SG.PERS LOC point-3.PERS buy-DVN) translates to ""I saw your brother at the market place."" Here, the subject ""Nau"" (I) precedes the verb ""riki-a"" (see-3.OBJ), and the object ""doqora-mu"" (your sibling) follows the verb.
+
+From this information, it is clear that the dominant word order in Toqabaqita is SVO (Subject-Verb-Object).
+
+**Conclusion:** SVO",svo,svo
+Aghu,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Aghu, we can determine the dominant word order by examining the examples and the explicit statements made by the author.
+
+1. **Examples of Clauses:**
+   - **Example (448):** ""Xoxome dü kuŋge."" (Sago is put in the bark)
+     - This example lacks an overt subject but follows an SOV structure.
+   - **Example (450):** ""womĩ toxu no-küda xü womu fi n-agaŋ g=ed-oxe"" (Early morning my brother gave taro to my wife in the garden)
+     - This example follows an SOV structure.
+   - **Example (452):** ""[Efe küda eke ta efe namu toxõ-ge]CLAUSE 1, [woküe toxõ-no=k]CLAUSE 2, [efe joxo afitamã xabai emu edoxe]CLAUSE 3, [efe joxo k=edoxe]CLAUSE 4.""
+     - This example shows multiple clauses, with the third clause following an SOV structure.
+
+2. **Explicit Statements:**
+   - The text explicitly states that ""the normal order in clauses is subject, object, verb.""
+   - It is mentioned that expressions of time usually come in the first position, while expressions of place follow the subject. This indicates a preference for SOV order.
+   - The text also notes that the NP directly preceding the verb receives more emphasis, which aligns with the SOV order.
+
+3. **Exceptions:**
+   - The text acknowledges that there are exceptions where the object precedes the subject, but these are not frequent enough to alter the dominant order. These exceptions are noted to be influenced by factors such as topicality.
+
+### Conclusion:
+**SOV**
+
+The dominant word order in Aghu is SOV, as evidenced by the examples provided and the explicit statements in the descriptive grammar.",sov,sov
+Manambu,"Based on the provided paragraph from the descriptive grammar of Manambu, we can analyze the dominant word order as follows:
+
+1. **Predominantly Verb-Final Order**: The text mentions that constituent order in Manambu is predominantly verb-final in main clauses and almost exclusively so in dependent clauses. This suggests a strong tendency towards SOV (Subject-Object-Verb) order.
+
+2. **AOV Order**: The text provides an example of a typical transitive clause with the order AOV (Agent-Object-Verb), which aligns with the SOV structure. This is further supported by the example sentence provided:
+   - 20.68a: ""wun m@n-a:m vi ma:"" (I you.masc-lk+acc/loc hit+neg neg) - ""I will not hit you.""
+
+3. **Non-Verb-Final Clauses**: Although the text mentions that not all clauses in Manambu end with a verb (with about 15-20% not following this pattern), it still indicates that the majority do. The presence of non-verb-final clauses does not negate the overall tendency towards a verb-final structure.
+
+4. **OAV Order for Contrastive Focus**: The text also mentions an OAV (Object-Agent-Verb) order when the object is contrastive, new, and unexpected. This indicates some flexibility in word order for pragmatic reasons but does not undermine the predominant SOV pattern.
+
+5. **General Principle**: The general principle of placing new and less topically established participants first does not contradict the SOV order but rather explains variations within the predominant structure.
+
+**Conclusion**: SOV
+
+The dominant word order in Manambu is SOV (Subject-Object-Verb), as evidenced by the predominant verb-final structure in main clauses and the typical AOV order in transitive clauses.",sov,sov
+Momu,"### Reasoning:
+
+Based on the provided paragraph from the descriptive grammar of Momu, the dominant word order in Momu can be determined as follows:
+
+1. **Basic Word Order**: The paragraph explicitly states that ""the basic word order of a simple clause in Momu is S(O)V"" and that Momu is ""verb-final."" This indicates that the subject (S) and object (O) typically precede the verb (V).
+
+2. **Fixed Ordering**: It is mentioned that ""all participants in a clause typically occur before the verb and observe a fixed ordering."" This reinforces the idea that the verb comes last in the clause, following the subject and object.
+
+3. **General Expectation for S(O)V Languages**: The text aligns Momu with the general expectations for S(O)V languages, where nominal heads are post-modified, adpositions are postpositive, and relational and adnominal case marking is post-positive upon dependents.
+
+4. **Verb-Final Order**: The paragraph notes that ""verb-final order is not strictly so,"" acknowledging some flexibility where a single non-subject participant may be postposed after the verb. However, it emphasizes that this does not detract from the dominant S(O)V order.
+
+5. **Dominant Word Order**: The concluding statement in the paragraph asserts that ""the dominant word order is clearly S(O)V,"" despite occasional deviations.
+
+### Conclusion:
+SOV",sov,sov
+Makasae,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Makasae, we can determine the dominant word order by examining the explicit statements about word order in declarative sentences where both the subject and object are nouns.
+
+1. **Paragraph 1**:
+   - The text explicitly states: ""The unmarked word order in the clause is SOV.""
+   - It further explains that the subject argument generally has little repercussion on the rest of the clause, and the non-subject argument can be realized either as an object or as a complement.
+
+2. **Paragraph 2**:
+   - The text reiterates: ""The majority of sentences in Makalero follows the unmarked SOV word order.""
+   - It also mentions that either argument may be placed in the left-detached position, but this does not affect the determination of the dominant word order in neutral declarative sentences.
+
+Given these explicit statements, it is clear that the dominant word order in Makasae is SOV (Subject-Object-Verb).
+
+### Conclusion:
+SOV",sov,sov
+Motuna,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Motuna, we can analyze the dominant word order as follows:
+
+1. **Transitive Verbal Clauses**:
+   - The example sentence (3-63) shows the order: O (Undergoer) - Topic, A (Actor), Verb.
+   - The example sentence (3-64) shows the order: A (ABS) - Topic, O (ABS), Verb.
+   - The table (Table 3-1) provides various possible word orders for core NPs in transitive verbal clauses:
+     - (1) O(ABS) A(ERG) VP
+     - (2) A(ERG) O(ABS) VP
+     - (3) A(ABS) O(ABS) VP
+     - (4) O(ABS) A VP
+     - (5) A(ERG) O VP
+     - (6) O VP or unexpressed A, A VP or unexpressed O
+
+2. **Word Order Flexibility**:
+   - The text mentions that when A is in ergative case, word order is free.
+   - When A is in absolutive case, A must precede O.
+   - The choice between different orders depends on which argument is the topic and whether the information is given or new.
+
+3. **Dominant Order**:
+   - The grammar does not indicate a single dominant word order. Instead, it shows that multiple orders are possible and used depending on the context (topic, given/new information).
+   - The flexibility and context-dependence suggest that there is no single dominant order.
+
+### Conclusion:
+**No dominant order**",no dominant order,no dominant order
+Lavukaleve,"Based on the provided paragraph from the descriptive grammar of Lavukaleve, we can determine the dominant word order of the language. Here is the relevant excerpt:
+
+""Constituent order in Lavukaleve is fixed: SV/AOV. Departures from this norm are rare; an argument which is an afterthought can be postposed.""
+
+From this statement, we can infer the following:
+
+1. **Fixed Order**: The grammar explicitly states that the constituent order in Lavukaleve is fixed.
+2. **SV/AOV**: This notation indicates that the subject (S) precedes the verb (V) in intransitive clauses (SV), and in transitive clauses, the subject (A) precedes the object (O) and the verb (V) follows both (AOV).
+
+Given this information, we can conclude that the dominant word order in Lavukaleve is SOV (Subject-Object-Verb).
+
+### Reasoning:
+- **Fixed Order**: The language has a fixed constituent order, which means it does not exhibit flexible word order.
+- **SV/AOV**: The notation provided (SV/AOV) clearly indicates that in transitive clauses, the subject comes first, followed by the object, and then the verb.
+
+### Conclusion:
+SOV",sov,sov
+Dla (Menggwa),"Based on the provided paragraphs from the descriptive grammar of Dla (Menggwa), we can analyze the dominant word order of the language.
+
+### Reasoning:
+
+1. **Verb-final Clauses**:
+   - The first paragraph explicitly states that ""Most clauses are verb-final."" This suggests that the verb typically comes at the end of the clause, which is a characteristic feature of SOV (Subject-Object-Verb) languages.
+
+2. **Free Order of Constituents Before the Verb**:
+   - The paragraph also mentions that ""the order amongst the free constituents (noun phrases and other words) before the verb is free."" This indicates that while the subject and object can appear in any order relative to each other, the verb consistently appears at the end of the clause.
+
+3. **Postverbal Constituents**:
+   - It is noted that one constituent can occupy the postverbal position to specify the identity of a reference mentioned earlier. However, this does not negate the general pattern of verb-final clauses but rather indicates a specific syntactic construction that allows for additional information to be appended after the verb.
+
+Given these points, the dominant word order in Dla (Menggwa) is clearly indicated as SOV, where the verb consistently appears at the end of the clause, and the subject and object can appear in any order before the verb.
+
+### Conclusion:
+SOV",no dominant order,sov
+Duna,"Based on the provided paragraphs from the descriptive grammar of Duna, we can analyze the typical word order of subject, object, and verb in declarative sentences where both the subject and object are nouns.
+
+### Reasoning:
+1. **Subject and Object NPs**:
+   - The text states that in typical word order, subject argument NPs are clause-initial, and object NPs typically follow subject NPs. This suggests an SOV order.
+   - Figure 4.1 in the text visually represents this order as:
+     ```
+     (NPsubject) Verb (NPobject)
+     ```
+   - Example (65) illustrates this order:
+     ```
+     na uru ndu pandu-ka so-ra.
+     1SG.CS rat one trap-INSTR strike-SHRD
+     Subj Obj Oblique V
+     ‘I killed a rat with a trap.’
+     ```
+     Here, the subject ""na"" (I) precedes the object ""uru ndu"" (rat) and the verb ""so-ra"" (strike).
+
+2. **Obliques**:
+   - The text mentions that in monovalent clauses, obliques typically follow a subject argument NP if one is present, as in example (64):
+     ```
+     inu ho-nga ra-o-na.
+     1/2PL here-EXCV be/sit-PFV-SPEC
+     Subj Oblique V
+     ‘We sat here.’
+     ```
+   - In bivalent or trivalent clauses, participatory obliques typically follow an object NP, reinforcing the SOV structure.
+
+3. **Summary of Typical Word Order**:
+   - Figure 4.2 summarizes the typical word order of a verbal clause as:
+     ```
+     (NPsubject) (ObliqueCircum.) (NPobject) (ObliqueParticip.) Predicate
+     ```
+   - This further supports the SOV order, where the subject precedes the object, and the verb comes at the end.
+
+### Conclusion:
+Based on the provided information, the dominant word order in Duna is **SOV**.
+
+**Conclusion: SOV**",sov,sov
+Taulil,"Based on the provided paragraph from the descriptive grammar of Taulil, the constituent order in transitive clauses is explicitly stated as A V P, where A stands for the agent (subject), V for the verb, and P for the patient (object). This corresponds to the SVO (Subject-Verb-Object) word order.
+
+### Reasoning:
+1. **Explicit Statement**: The grammar explicitly mentions that the order of constituents in transitive clauses is A V P.
+2. **Terminology**: In linguistic typology, A (agent) corresponds to the subject, V to the verb, and P (patient) to the object. Therefore, A V P translates directly to SVO.
+3. **Intransitive Clauses**: The grammar also mentions that in intransitive clauses, the order is either SA V or V SP, which further supports the consistency of the subject preceding the verb in transitive clauses.
+
+### Conclusion:
+SVO",svo,svo
+Taiap,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Taiap, the dominant word order can be determined as follows:
+
+1. **Verb-Final Language**: The text explicitly states that ""Tayap is a verb-final language,"" which strongly suggests that the verb typically appears at the end of the sentence.
+
+2. **Unmarked Order in Declarative Sentences**:
+   - For intransitive sentences, the unmarked order is Subject-Verb (SV).
+   - For transitive sentences, the unmarked order is Subject-Object-Verb (SOV).
+
+3. **Examples Provided**:
+   - Example (9-2b): ""Merew-ŋgro=gi munje par-ŋgɨ-ro"" translates to ""the Sanae villagers buried the man,"" following the SOV order.
+   - Example (9-3a): ""Sopak=yi orákaŋgar yim=ana ni-tu-ku-n"" translates to ""Sopak made us food,"" also following the SOV order.
+   - Example (9-4): ""pomɨŋg ta-tu-ku-re omɨndeomɨnde sene ŋan"" translates to ""his two wives heard the conch shell,"" following the OVS order, but this is noted as a variation rather than the unmarked order.
+
+4. **Flexibility and Variations**:
+   - The text mentions that the order of object and oblique is fairly free, but the object never follows the verb, reinforcing the verb-final characteristic.
+   - The subject normally occurs in the sentence-initial position, which aligns with the SOV structure.
+
+Given these points, the dominant word order in Taiap is clearly SOV, as it is explicitly stated and exemplified as the unmarked order for declarative transitive sentences.
+
+### Conclusion:
+SOV",sov,sov
+Yimas,"Based on the provided paragraph from the descriptive grammar of Yimas, the following points can be noted:
+
+1. **Free Word Order**: The text explicitly states that ""Word order in Yimas is remarkably free, even in comparison to the relative freedom exhibited by other Papuan languages."" This indicates that there is no fixed or dominant word order in Yimas.
+
+2. **Verb Position**: While there is a mention that ""The verb has a slight tendency to occur last in a pragmatically unmarked context,"" this is not strong enough to establish a dominant word order, especially since it is also stated that ""it is common for a nominal to occur after the verb with a slightly marked pragmatic force.""
+
+3. **Scrambled Pattern**: The text describes a ""scrambled"" pattern of noun phrases, similar to some Australian languages, where noun phrases and their modifiers can be separated within the clause. This further supports the idea of a highly flexible word order.
+
+4. **Pronominal Agreement**: The grammar mentions that ""overt nominals are rare and carry strong contrastive emphasis,"" which implies that when nouns do appear, their order is likely influenced by pragmatic factors rather than a fixed syntactic structure.
+
+Given these points, it is clear that Yimas does not adhere to a single dominant word order for subject, object, and verb in declarative sentences with noun participants.
+
+**Conclusion**: No dominant order",no dominant order,no dominant order
+Kanum (Ngkâlmpw),"Based on the provided paragraph from the descriptive grammar of Kanum (Ngkâlmpw), we can analyze the dominant word order as follows:
+
+1. **Evidence from the Text:**
+   - The text explicitly states that ""Ngkolmpu is largely a verb-final language,"" which suggests a tendency towards SOV or OSV orders.
+   - It further mentions that in pragmatically neutral circumstances, there is a strong tendency to order the constituents as AOV (Agent-Object-Verb). This aligns with the SOV order.
+   - An example sentence is provided: ""Markus-w pr pi storui"" (Markus-ERG tree 3.ABS SG>3.HOD.PFV\cut.PFV), which translates to ""Markus cut the log (earlier today)."" Here, the order is clearly SOV (Subject-Object-Verb).
+
+2. **Conclusion:**
+   - The grammar indicates that while word order can vary due to pragmatic factors, the dominant order in neutral contexts is SOV.
+   - The example provided supports this by showing a clear SOV structure.
+
+**Conclusion: SOV**",no dominant order,sov
+Maybrat,"Based on the provided paragraph from the descriptive grammar of Maybrat, the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states that the basic structure of the clause in Maybrat is SVO and that this order is rigid. This means that the subject (S) precedes the verb (V), and the object (O) follows the verb.
+   - Example (2) in the paragraph confirms this structure by illustrating the order of constituents as SVO.
+   - The text also mentions that while objects can be fronted for topicalization, this does not change the basic or dominant order, which remains SVO.
+
+2. **Conclusion:** SVO",svo,svo
+Asmat,,not mentioned in the grammar,
+Kuot,"Based on the provided paragraph, it is mentioned that Kuot has VSO word order. This statement is clear and directly addresses the dominant word order of the language.
+
+**Reasoning:**
+The paragraph explicitly states that Kuot has VSO word order. This is a direct indication of the dominant word order in the language, as it specifies the arrangement of the subject, verb, and object in declarative sentences.
+
+**Conclusion:** VSO",vso,vso
+Imonda,"Based on the provided paragraph from the descriptive grammar of Imonda, the following observations can be made:
+
+1. The paragraph explicitly states that the verb must occur in the final position within the clause. This is a clear indication of a verb-final structure.
+2. The order of other constituents (subject, object, adverb, etc.) is flexible and does not affect the grammaticality of the clause, although different orderings have different pragmatic effects.
+
+Given that the verb is consistently in the final position and the subject and object can appear in any order before the verb, the dominant word order in Imonda is SOV (Subject-Object-Verb).
+
+### Reasoning:
+- The verb-final constraint indicates that the verb (V) always comes last in the clause.
+- The flexibility of the subject (S) and object (O) positions before the verb suggests that the most common and unmarked order would be SOV, as this is a typical pattern in verb-final languages.
+
+### Conclusion:
+SOV",no dominant order,sov
+Nimboran,,not mentioned in the grammar,
+Abun,"Based on the provided paragraph from the descriptive grammar of Abun, the dominant word order is explicitly mentioned. The text states:
+
+""Most notable is the rigid word order of SVO as distinct from the Papuan SOV word order.""
+
+This sentence clearly indicates that Abun has a rigid word order of Subject-Verb-Object (SVO). The term ""rigid"" suggests that this word order is consistently used in the language, making it the dominant order.
+
+### Reasoning:
+1. The paragraph explicitly mentions that Abun has a ""rigid word order of SVO.""
+2. The comparison with the Papuan SOV word order further emphasizes that SVO is a distinctive and notable feature of Abun.
+
+### Conclusion:
+SVO",svo,svo
+Meryam Mir,"Based on the provided paragraph from the descriptive grammar of Meryam Mir, we can make the following observations:
+
+1. The paragraph explicitly mentions that the word order tends to be A-O-V (Agent-Object-Verb) or S-V (Subject-Verb) with local arguments either following or preceding the nucleus. This suggests a preference for SOV or SVO structures, but it does not definitively establish one as dominant over the other.
+
+2. The examples provided in the paragraph do not include transitive clauses with both subject and object as nouns, which are necessary to determine the dominant word order in declarative sentences.
+
+3. The mention of variations due to pragmatics implies some flexibility in word order, but without specific examples of transitive clauses, it is difficult to ascertain which order is more frequent or neutral.
+
+Given this information, the grammar does not provide enough evidence to conclusively determine a single dominant word order for Meryam Mir.
+
+**Conclusion:** Not mentioned in the grammar",sov,not mentioned in the grammar
+Hatam,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Hatam, we can analyze the dominant word order as follows:
+
+1. **Paragraph 1**:
+   - The introduction explicitly states that ""Hatam is a rather strict SVO language.""
+   - Example (4.4) demonstrates this order: ""I-ngot igy-a."" (3PL-tie house-CIT) translates to ""They are building a house,"" where the subject (they) precedes the verb (are building), which precedes the object (a house).
+
+2. **Paragraph 2**:
+   - The text reiterates that ""the basic word order is SVO.""
+   - Example (4.54) shows an object-fronting construction: ""Nok lene nisindem pi-ma noni bi-yoni 0-pinak"" translates to ""So then that power he sent to them."" Here, the object (that power) is fronted for emphasis, but the basic structure remains SVO.
+   - Examples (4.55) and (4.56) also illustrate object-fronting but maintain the underlying SVO structure: ""Miai-a ji-jip"" (garden-CIT 2PL-cut) translates to ""Gardens, you will cut,"" and ""Ni-ngat-a big. i-ta"" (1INC-plant not 3SG-fruit-CIT) translates to ""Its fruit (i.e., of the banana) we do not plant.""
+
+3. **Additional Evidence**:
+   - The examples provided in the grammar consistently show the subject preceding the verb and the verb preceding the object in their basic forms.
+   - The presence of object-fronting constructions does not negate the dominance of the SVO order; it merely indicates flexibility for emphasis or topicalization.
+
+### Conclusion:
+**SVO**",svo,svo
+Kwomtari,"Based on the provided paragraph from the descriptive grammar of Kwomtari, the dominant word order is explicitly mentioned. The text states:
+
+""Kwomtari grammar shows many features typical of Papuan languages or of the Sepik region. Core noun phrases take nominative-accusative agreement, and constituent order is SOV.""
+
+This sentence clearly indicates that the dominant word order in Kwomtari is Subject-Object-Verb (SOV).
+
+### Reasoning:
+1. The grammar description explicitly states that the constituent order is SOV.
+2. This statement is made in the context of discussing core grammatical features, suggesting it is a fundamental aspect of the language's syntax.
+3. The mention of nominative-accusative agreement and the cross-referencing of subjects and objects by verbal suffixes supports the idea that the SOV order is a central and dominant structure in the language.
+
+### Conclusion:
+SOV",sov,sov
+Inanwatan,"Based on the provided paragraphs from the descriptive grammar of Inanwatan, we can analyze the dominant word order of the language as follows:
+
+1. **Evidence from the Text**:
+   - The grammar explicitly mentions that transitive clauses in Inanwatan can have either SOV or SVO order. This is stated in the sentence: ""Transitive clauses (SOV/SVO) have transitive verbs as their heads.""
+   - Examples provided in the text show both SOV and SVO orders:
+     - Example (4.9): ""Ni-a-weigo-re."" (I deceived you.) - This follows SOV order.
+     - Example (4.10): ""Ao uto ura me-rf-we-be."" (They gave us their fish.) - This follows SVO order.
+
+2. **Analysis**:
+   - The grammar does not indicate a clear preference for either SOV or SVO order. Both orders are presented as possibilities without any indication that one is more frequent or more neutral than the other.
+   - The presence of both SOV and SVO orders without a dominant preference suggests that the language does not have a single dominant word order for transitive clauses.
+
+3. **Conclusion**:
+   - Given the information provided, it is reasonable to conclude that Inanwatan lacks a dominant word order for transitive clauses, as both SOV and SVO orders are used without a clear indication of one being more prevalent.
+
+**Conclusion:** No dominant order",no dominant order,no dominant order
+Iau,"Based on the provided paragraphs from the descriptive grammar of Iau, we can determine the dominant word order in the language. Here is the reasoning:
+
+1. **Verb Final**: The grammar explicitly states that the verb with its associated particles always occurs clause-finally. This is a strong indicator that the verb typically comes at the end of the sentence.
+
+2. **Nouns Ordered by Topicality**: The grammar mentions that nouns in Iau clauses are not ordered according to their grammatical function (subject or object) but rather by topicality. This means that the subject and object can appear in either order (subject-object or object-subject), depending on which noun is more topical.
+
+Given these points, the verb is consistently placed at the end of the clause, while the order of the subject and object is flexible and determined by topicality rather than grammatical function. This suggests that the language does not have a fixed order for the subject and object, but it does have a fixed position for the verb.
+
+**Conclusion**: SOV",no dominant order,sov
+Karkar-Yuri,"Based on the provided paragraphs from the descriptive grammar of Karkar-Yuri, we can analyze the information to determine the dominant word order.
+
+### Paragraph 1 Analysis:
+The first paragraph primarily discusses the structure of clauses in Karkar-Yuri, mentioning different types of clauses (transitive, intransitive, and ditransitive) and their components. However, it does not provide explicit information about the order of subject, object, and verb in declarative sentences.
+
+### Paragraph 2 Analysis:
+The second paragraph provides more relevant information. It states:
+- ""The usual order of the finite verb is displayed as flexible.""
+- ""In transitive clauses, the subject, object, and predicate are displayed.""
+- ""The subject and object tagmemes are displayed in a flexible way.""
+
+This indicates that Karkar-Yuri has a flexible word order, meaning that there isn't a single dominant order of subject, object, and verb in declarative sentences. The flexibility suggests that multiple orders are possible and commonly used, without one being significantly more frequent than the others.
+
+### Conclusion:
+Given the information provided, Karkar-Yuri does not have a dominant word order. The grammar describes the word order as flexible, implying that no single order is predominant.
+
+**Conclusion: No dominant order**",sov,no dominant order
+Yelî Dnye,"### Reasoning:
+
+Based on the provided paragraph from the descriptive grammar of Yelî Dnye, the dominant word order is explicitly stated. The relevant sentence is:
+
+> ""The order of terms in the clause is SOV.""
+
+This sentence directly indicates that the typical or dominant order of constituents in a declarative sentence in Yelî Dnye is Subject-Object-Verb (SOV). There is no ambiguity or need for further analysis as the grammar explicitly mentions the dominant order.
+
+### Conclusion:
+SOV",sov,sov
+Sentani,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Sentani, we can determine the dominant word order by examining the structure of declarative sentences where both the subject and object are nouns.
+
+1. **Paragraph Analysis**:
+   - The text explicitly states that ""the most standard word order is SOV"" in the description of the basic clause structure.
+   - Example (55b) illustrates an SOV structure: ""tejæ onsa ərəj"" (I see Onsa).
+   - The text also mentions that while the word order is quite free and can vary depending on information structure, the unmarked or most standard order remains SOV.
+   - Example (56a) shows a sentence where the object is placed after the verb, indicating flexibility, but this is noted as a marked structure used for specific purposes like focalization.
+
+2. **Conclusion**:
+   - The grammar explicitly identifies SOV as the most standard or unmarked word order.
+   - Despite the flexibility in constituent order for pragmatic reasons, the dominant order in neutral contexts is SOV.
+
+### Conclusion: SOV",sov,sov
+Mpur,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Mpur, we can determine the dominant word order of the language.
+
+1. **Paragraph 1**:
+   - This paragraph provides background information about the Mpur language, including its classification, number of speakers, and some sociolinguistic details. Importantly, it mentions that Mpur exhibits ""subject-verb-object word order"" as one of its Austronesian features.
+
+2. **Paragraph 2**:
+   - This paragraph discusses verb morphology and provides examples of verb conjugation. It explicitly states, ""The word order in verbal clauses is SVO."" This is further supported by example sentences such as:
+     - (18) ""A-bot bak na in."" (3SM-give axe to ISG) - ""He gives me an axe.""
+     - (19) ""Ni ka muk-i in-unot jan."" (wood that name-CL ISG-know not) - ""I don't know the name of that wood.""
+
+The explicit mention of SVO word order in both paragraphs, along with the provided examples, clearly indicates that the dominant word order in Mpur is Subject-Verb-Object (SVO).
+
+### Conclusion:
+SVO",svo,svo
+Mehek,"Based on the provided paragraph from the descriptive grammar of the Mehek language, the following information is relevant for determining the dominant word order:
+
+1. The grammar mentions that Mehek shares general features with many non-Austronesian Papuan languages.
+2. Among these features, it specifically states that Mehek has a ""verb-final word order, typically SOV.""
+
+Given this information, the grammar explicitly indicates that the typical word order in Mehek is SOV (Subject-Object-Verb). This suggests that in declarative sentences where both the subject and the object are nouns, the dominant order is SOV.
+
+### Reasoning:
+- The grammar directly states that Mehek has a ""verb-final word order, typically SOV.""
+- This indicates that the most common and neutral word order in Mehek is SOV, aligning with the definition of ""dominant word order"" as the most frequently used or pragmatically neutral order in declarative sentences with noun subjects and objects.
+
+### Conclusion:
+SOV",sov,sov
+Abui,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Abui, we can analyze the word order of the language.
+
+**Paragraph 1:**
+- The introduction mentions ""basic Actor-Undergoer-Verb (AUV) constituent, pragmatic UAV order."" This suggests that the basic word order in Abui is one where the Actor (subject) comes first, followed by the Undergoer (object), and then the Verb. This aligns with the SOV (Subject-Object-Verb) order.
+
+**Paragraph 2:**
+- The clause structure provided in (15) shows the core structure as ""[NP PROA ADV] [NPU VP]"", where NP and PROA represent noun phrases and pronouns for the Actor (subject) and Undergoer (object), respectively, and VP represents the verb phrase. This structure supports the SOV order, as the subject and object precede the verb.
+
+### Conclusion:
+SOV",sov,sov
+Arapesh (Abu),"Based on the provided paragraph from the descriptive grammar of Arapesh (Abu), the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states that ""In Abu', sentences consist (in this order) of an actor-subject phrase argument (A) and a predicate.""
+   - It further clarifies that ""The predicate contains (in this order) a nominal concord actor prefix marker, an aspectual prefix, and a verb stem.""
+   - For transitive verbs, it mentions ""an objective case marker which must again be selected by the number and nominal class of the subject constituent.""
+   - The paragraph concludes with ""This morphological ordering is subject-verb-object (S-V-O).""
+   - Additionally, it states, ""This syntactic ordering is also found with free object noun phrases,"" and ""strict S-V-O grammatical word order.""
+
+These statements collectively indicate that the dominant word order in Arapesh (Abu) is Subject-Verb-Object (SVO).
+
+**Conclusion:** SVO",svo,svo
+Korafe,"### Reasoning:
+
+Based on the provided paragraph from the descriptive grammar of Korafe, the dominant word order can be determined as follows:
+
+1. **Explicit Mention of Word Order**: The paragraph explicitly states that ""The unmarked order of core constituents in the clause is subject-object-verb (SOV), but word order of clausal constituents is fairly free with the one stipulation that the verb be last."" This indicates that while there is some flexibility in the word order, the default or unmarked order is SOV.
+
+2. **Verb Position**: The paragraph emphasizes that the verb must be the last element in the clause, which is consistent with the SOV structure.
+
+3. **Flexibility**: Although the word order is described as ""fairly free,"" the stipulation that the verb must be last and the explicit mention of SOV as the unmarked order suggest that SOV is the dominant order.
+
+### Conclusion:
+SOV",sov,sov
+Alamblak,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Alamblak, we can analyze the word order as follows:
+
+1. **Paragraph 1** does not provide any relevant information about the word order in Alamblak. It mainly contains acknowledgments and general information about the research and contributors.
+
+2. **Paragraph 2** provides crucial information about the word order in Alamblak. It states:
+   - ""The basic word order of a Two-place Clause is SOV; however, it is flexible.""
+   - This indicates that while SOV is the basic or dominant order, there is some flexibility in the word order due to pragmatic reasons.
+   - The examples given (14a and 14b) illustrate the SOV order:
+     - (14a) ""Mariwan r' met fakmert worran"" translates to ""Mariwan got a woman,"" where ""Mariwan"" is the subject (S), ""worran"" is the object (O), and ""r' met fakmert"" is the verb (V), following the SOV order.
+     - (14b) ""Mariwan r' met fakmert nanho bro mendarem"" translates to ""Mariwan got my big sister,"" again following the SOV order.
+
+3. The paragraph also mentions that the object may precede the subject for pragmatic reasons, but this does not negate the fact that the basic or dominant order is SOV.
+
+### Conclusion:
+SOV",sov,sov
+I'saka,"Based on the provided paragraph from the descriptive grammar of I'saka, the dominant word order in declarative sentences is explicitly stated. The text mentions that the basic order of elements in a declarative sentence is SOY (which appears to be a typographical error and should be SOV, given the context and standard linguistic terminology). This order is described as quite strict, with oblique participants appearing after the verb and temporals usually being clause-initial.
+
+### Reasoning:
+1. **Explicit Mention**: The grammar explicitly states that the basic order in declarative sentences is SOV.
+2. **Examples and Structure**: The structure provided in the paragraph (S O V followed by oblique participants) aligns with the SOV order.
+3. **Strict Order**: The text emphasizes that I'saka exhibits a quite strict word order, reinforcing the idea that SOV is the dominant order.
+
+### Conclusion:
+SOV",sov,sov
+Urim,"Based on the provided paragraph from the descriptive grammar of Urim, the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states that ""Urim is a very consistent and rigid SVO-language.""
+   - It mentions that ""SVO word order occurs in all clause types.""
+   - The position of the subject is described as ""very fixed"" and typically cannot be moved after the verb or elsewhere, reinforcing the rigidity of the SVO order.
+   - The paragraph also highlights that the syntactic position of the noun phrase before or after the verb is crucial for indicating its syntactic function due to the lack of morphological case markings.
+   - Examples provided in the paragraph (25a, 25b, 26a, 26b) further illustrate the importance of word order in determining the meaning of clauses.
+
+Given this information, it is clear that Urim consistently uses the SVO word order in its declarative sentences involving both subject and object participants as nouns.
+
+2. **Conclusion:** SVO",svo,svo
+Abau,"Based on the provided paragraph, the dominant word order in Abau can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states that the neutral or frequently observed order within the clause places the subject before the object, and the verb phrase occurs clause-finally.
+   - Example (39) illustrates this order: ""Hano sa ko orih hiykwe kuey me lowk"" (SOV), where ""Hano sa ko orih hiykwe"" (my wife’s father) is the subject, ""kuey me"" (grubs PL-OBJ) is the object, and ""lowk"" (cut) is the verb.
+   - The paragraph also mentions that reversing the order of subject and object (OSV) results in a syntactically ill-formed structure unless the object is topicalized, which indicates that SOV is the unmarked or default order.
+
+2. **Conclusion:** SOV",sov,sov
+Chamorro,"Based on the provided paragraph from the descriptive grammar of Chamorro, we can determine the dominant word order of the language. Here is the reasoning:
+
+1. **Predicate-First Language**: The grammar states that Chamorro is a predicate-first language, meaning that the predicate (verb or adjective) typically comes before its arguments in neutral clauses.
+
+2. **Flexible Word Order with Verbs and Adjectives**: When the predicate is a verb or adjective, the word order of the arguments is flexible. However, the dominant word order is specified as Predicate-Subject-Object-Obliques (PSOO).
+
+3. **Examples Provided**:
+   - (51a) ""Ha dåggåo i patgun i bola guatu gi taotåo."" (The child threw the ball to the man.)
+     - Here, the verb ""Ha dåggåo"" (threw) comes first, followed by the subject ""i patgun"" (the child), and then the object ""i bola"" (the ball).
+   - (51b) ""Ma’a’ñåo si Juan ni ga’lågu."" (Juan is afraid of the dog.)
+     - The verb ""Ma’a’ñåo"" (is afraid) comes first, followed by the subject ""si Juan"" (Juan), and then the object ""ni ga’lågu"" (the dog).
+   - (51c) ""Humånåo guatu si nanå-hu para i me’nan i hetnu."" (My mother went to the front of the incubator.)
+     - The verb ""Humånåo"" (went) comes first, followed by the subject ""si nanå-hu"" (my mother), and then the oblique ""para i me’nan i hetnu"" (to the front of the incubator).
+
+From these examples and the description, it is clear that the dominant word order in Chamorro for declarative sentences with both subject and object as nouns is Verb-Subject-Object (VSO).
+
+**Conclusion**: VSO",vso,vso
+Awtuw,"Based on the provided paragraph from the descriptive grammar of Awtuw, we can determine the dominant word order of the language. Here is the reasoning:
+
+1. **Verb-final Order**: The paragraph explicitly states that Awtuw's basic word order is ""readily identifiable as verb final."" This indicates that the verb typically comes at the end of the sentence.
+  
+2. **SOV Order**: The paragraph further specifies that the basic word order is ""indeed as 50V,"" which seems to be a typographical error for ""SOV"" (Subject-Object-Verb). This confirms that the subject comes first, followed by the object, and then the verb.
+
+3. **Permutations**: Although the paragraph mentions that other permutations are common, it does not negate the identification of SOV as the basic or dominant word order. The presence of permutations suggests some flexibility in word order, but the dominant order remains SOV.
+
+Given this information, we can conclude that the dominant word order in Awtuw is SOV.
+
+**Conclusion:** SOV",sov,sov
+Mian,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Mian, we can determine the dominant word order as follows:
+
+1. **Paragraph 1**: 
+   - The text mentions that the unmarked constituent orders in medial and final clauses and independent sentences are SV (Subject-Verb) and AOV (Agent-Object-Verb). 
+   - It also states that the verb is clause-final, indicating a preference for verb-final structures.
+
+2. **Paragraph 2**:
+   - This paragraph reiterates that the unmarked constituent orders in Mian are SV in intransitive clauses and AOV in transitive clauses.
+   - It emphasizes that the verb is almost always final in any clause, reinforcing the verb-final characteristic.
+
+3. **Paragraph 3**:
+   - This paragraph provides specific examples of constituent order, showing that when full noun phrases are used for both subject and object, the unmarked order is AOV.
+   - Example (91) demonstrates this order clearly: ""naka=e unáng=o wa-têm’-Ø-e=be"" (man=SG.M woman=SG.F 3SG.F.O-see.PFV-REAL-3SG.M.SBJ=DECL), translating to ""The man saw the woman.""
+   - It also mentions that while natural discourse may show some flexibility, the verb-final position is mandated, and deviations from AOV are typically marked by other grammatical means such as argument indexing.
+
+### Conclusion:
+Based on the consistent mention of AOV as the unmarked order and the requirement for the verb to be clause-final, the dominant word order in Mian is **SOV** (Subject-Object-Verb).
+
+**Conclusion: SOV**",sov,sov
+Chácobo,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Chácobo, we can analyze the word order as follows:
+
+1. **Paragraph 1**:
+   - The text mentions that Chácobo has both ""constituent-flexible"" (C-flexible) and ""constituent-rigid"" (C-rigid) clause-type/rank morphemes.
+   - C-rigid morphemes enforce an OVA/VS word order.
+   - C-flexible morphemes allow free constituent ordering, meaning the subject (S/A) can appear in multiple positions (2, 7, and 16).
+
+2. **Paragraph 2**:
+   - The subject can occur in positions 2, 7, and 16, indicating flexibility in word order.
+   - In fronted-VP constructions, the subject (A/S) appears between the V̄-constituent and the clause-type/rank morpheme, while the object (P) appears in a fronted position before the V̄-constituent.
+
+From these observations, we can infer that Chácobo does not have a single dominant word order. The language allows for multiple syntactic arrangements depending on the clause-type/rank morphemes and specific constructions. The presence of both C-rigid and C-flexible morphemes, along with the ability for subjects and objects to appear in various positions, suggests that no single word order is predominant.
+
+### Conclusion:
+**No dominant order**",no dominant order,no dominant order
+Hup,"Based on the provided paragraph from the descriptive grammar of Hup, we can analyze the word order in the given examples. Here are the relevant sentences:
+
+1. (61a) [tiyi‡/ po‡g] /a‡p núw-úh
+   - Gloss: man big this-DECL NEG:ID
+   - Translation: ‘This is not a big man.’
+
+2. (61b) [tiyi‡/ po‡g] núw-úh
+   - Gloss: man big this-DECL
+   - Translation: ‘This is a big man.’
+
+3. (61c) núp tiyi/ [pog]-nˆ¤h
+   - Gloss: this man big-NEG
+   - Translation: ‘This man is not big.’
+
+4. (61d) [tiyi‡/ po‡g] pãÙ
+   - Gloss: man big NEG:EX
+   - Translation: ‘There is no big man.’
+
+5. (62) tˆh wQ¤d-Qp /a‡p páh yúw-úh !
+   - Gloss: 3sg eat-DEP NEG:ID PRX:CNTR that.ITG-DECL
+   - Translation: ‘That’s not his thing to eat!’
+
+In these examples, we observe the following patterns:
+
+- In (61a) and (61b), the structure is [Subject Predicate], where the subject is ""tiyi‡/ po‡g"" (man big) and the predicate is ""núw-úh"" (this-DECL) or ""/a‡p núw-úh"" (NEG:ID this-DECL). This suggests an SOV order.
+- In (61c), the structure is ""núp tiyi/ [pog]-nˆ¤h"" (this man big-NEG), which also suggests an SOV order.
+- In (61d), the structure is [Subject Predicate], with ""tiyi‡/ po‡g"" (man big) and ""pãÙ"" (NEG:EX), again suggesting an SOV order.
+- In (62), the structure is ""tˆh wQ¤d-Qp /a‡p páh yúw-úh"" (3sg eat-DEP NEG:ID PRX:CNTR that.ITG-DECL), which is more complex but still follows an SOV pattern with the subject ""tˆh"" (3sg), the object ""wQ¤d-Qp"" (eat-DEP), and the verb ""yúw-úh"" (that.ITG-DECL).
+
+Based on these examples, the dominant word order in Hup appears to be SOV (Subject-Object-Verb).
+
+**Conclusion:** SOV",sov,sov
+Kwaza,"Based on the provided paragraph from the descriptive grammar of Kwaza, we can make the following observations:
+
+1. **Word Order Variability**: The paragraph explicitly states that both SVO and SOV word orders occur frequently in Kwaza. This indicates that the language allows for flexibility in the arrangement of subject, object, and verb.
+
+2. **Discourse-Related Factors**: The paragraph mentions that alternative orders are often allowed and that word order might be determined by discourse-related factors. This suggests that the choice of word order in Kwaza may depend on the context or the emphasis of the sentence, rather than adhering strictly to a single dominant order.
+
+3. **No Clear Dominant Order**: Given that both SVO and SOV are frequently used and alternative orders are also possible, it implies that there is no single word order that is overwhelmingly more common or dominant in usage.
+
+Based on these points, it is reasonable to conclude that Kwaza does not have a dominant word order. The language exhibits flexibility in its word order, influenced by discourse and context rather than a fixed syntactic structure.
+
+**Conclusion:** No dominant order",no dominant order,no dominant order
+Huambisa,"Based on the provided paragraph from the descriptive grammar of Huambisa, the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly states that the basic constituent order in Wampis (another name for Huambisa) is predicate-final.
+   - It specifies that in basic, pragmatically unmarked declarative clauses, the word order is A P V, where A stands for the most Agent-like participant (subject), P stands for the most Patient-like participant (object), and V stands for the verb.
+   - This directly corresponds to the SOV (Subject-Object-Verb) order.
+
+2. **Conclusion:** SOV",sov,sov
+Cocama,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Cocama, we can analyze the dominant word order as follows:
+
+1. **Paragraph 1:**
+   - The language does not display case marking or verb agreement to express grammatical relations; instead, subject and object are defined by their position with respect to the verb.
+   - Different orders of subject, object, and verb are observed depending on whether the clause is marked by tense or progressive aspect.
+   - For **tense-marked transitive clauses**, the orders are A V OT (SVO) and O A VT (OVS).
+   - For **progressive-marked transitive clauses**, the orders are A O VP (SOV), O VP A (VOS), and A VP O (SVO).
+
+2. **Paragraph 2:**
+   - In **tense-marked transitive clauses**, allowable patterns are OSV, SVO, but not SOV.
+   - In **progressive-marked transitive clauses**, allowable patterns are SOV, OVS, but not OSV.
+
+### Analysis:
+- The language exhibits different word orders based on the aspectual marking of the verb (tense vs. progressive).
+- **Tense-marked clauses** allow SVO and OVS orders.
+- **Progressive-marked clauses** allow SOV, OVS, and VOS orders.
+- The presence of multiple orders without a clear indication of one being more frequent or neutral suggests that there is no single dominant order.
+
+### Conclusion:
+**No dominant order**",no dominant order,no dominant order
+Tiriyo,"Based on the provided paragraph from the descriptive grammar of Tiriyo, the language exhibits different dominant word orders depending on the clause type. Specifically, habitual past clauses and remote past clauses show a clear tendency toward OVA order, while conjugated sentences do not exhibit a single dominant order and display a variety of word orders.
+
+### Reasoning:
+1. **Habitual Past Clauses**:
+   - **OVA**: 71.4% (10 out of 14 instances)
+   - **AOV**: 3 instances
+   - **AVO**: 1 instance
+
+2. **Remote Past Clauses**:
+   - **OVA**: 67.3% (33 out of 49 instances)
+   - **AOV**: 8 instances
+   - **AVO**: 4 instances
+   - **OAV**: 2 instances
+
+3. **Conjugated Sentences**:
+   - **AOV**: 31.1% (14 out of 45 instances)
+   - **OVA**: 11 instances
+   - **VOA**: 2 instances
+   - **AVO**: 6 instances
+   - **OAV**: 5 instances
+   - **VAO**: 5 instances
+
+From this data, it is evident that there is no single dominant word order across all clause types in Tiriyo. The word order varies significantly depending on the type of clause, with habitual past and remote past clauses favoring OVA, but conjugated sentences showing a more diverse set of orders without a clear dominant pattern.
+
+### Conclusion:
+**No dominant order**",ovs,no dominant order
+Ticuna,"Based on the provided paragraph from the descriptive grammar of Ticuna, the following observations can be made:
+
+1. The paragraph explicitly states that it is unclear whether an unmarked order of main constituents (or Basic Word Order) can be detected from a pragmatic perspective. It mentions that all possible orders occur in various types of clauses without one being clearly identifiable as less marked than the others pragmatically.
+2. It does note that the relative ordering of the subject (S) and the object (O) is constrained in cases where both are expressed as nominal phrases and occur before the predicative phrase (V), specifically allowing SOV but not OSV.
+3. From a strictly morphosyntactic perspective, the order S(O)V is considered the least marked as it requires the least morphosyntactic material.
+
+Given these points, the language exhibits a high degree of flexibility in word order, with no single order being pragmatically dominant. The morphosyntactic preference for S(O)V does not necessarily translate into a dominant word order in actual language use.
+
+**Reasoning:**
+- The grammar explicitly states that all possible orders occur without one being pragmatically dominant.
+- The morphosyntactic preference for S(O)V does not equate to a dominant word order in usage.
+
+**Conclusion:** No dominant order",no dominant order,no dominant order
+Huitoto (Murui),"1. **Reasoning:**
+
+Based on the provided paragraphs from the descriptive grammar of Huitoto (Murui), the dominant word order can be determined by examining the examples given and the explicit statements about the order of arguments. 
+
+In paragraph 6.3, it is explicitly stated that ""Grammatical relations in Murui are shown by the order of core arguments in relation to the predicate: SV and AOV."" This indicates that in intransitive clauses, the subject (S) precedes the verb (V), and in transitive clauses, the agent (A) and object (O) precede the verb (V). The examples provided further support this:
+
+- Example (6.165) shows an intransitive clause: ""AdamS San Rafael-moLOC jaai-d-ePRED"" (Adam went to San Rafael), where the subject ""Adam"" precedes the verb ""jaai-d-e"" (go).
+- Example (6.166) shows a transitive clause: ""ooA bai-ñaiñoO fata-dɨ-oPRED"" (You hit her), where the agent ""oo"" (you) and the object ""bai-ñaiño"" (her) precede the verb ""fata-dɨ-o"" (hit).
+
+These examples and the explicit statement about the order of arguments indicate that the dominant word order in Huitoto (Murui) is SOV (Subject-Object-Verb).
+
+2. **Conclusion:** SOV",sov,sov
+Iquito,"Based on the provided paragraph from the descriptive grammar of Iquito, the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The paragraph explicitly discusses the basic word order of Iquito, emphasizing that it is syntactically defined and not influenced by factors such as animacy, definiteness, or phrase weight.
+   - It states that although Iquito allows more than one possible word order, the most common word order is considered the basic word order.
+   - The author argues that the basic word order in Iquito is SVO (Subject-Verb-Object) rather than SOV (Subject-Object-Verb).
+   - The table provided in the paragraph lists various word order variations, but the consistent mention of SVO as the basic and most common order supports the conclusion.
+
+2. **Conclusion:** SVO",svo,svo
+Movima,"Based on the provided paragraph from the descriptive grammar of Movima, we can analyze the dominant word order of the language. Here is the reasoning:
+
+1. **Clause Structure**: The paragraph describes the basic clause structure of Movima, indicating that the predicate usually comes first in the clause. This suggests a verb-initial structure.
+   
+2. **Transitive Clauses**: For transitive clauses, the structure is given as `PREDbivalent=ARG1 (ARG2)`. This implies that the verb (predicate) is followed by the first core argument (ARG1), which is the subject, and optionally by the second core argument (ARG2), which is the object. This structure aligns with a Verb-Subject-Object (VSO) order.
+
+3. **Examples**: The examples provided in the paragraph further support this analysis. Although the examples are intransitive, they show the verb preceding the subject, which is consistent with a VSO order in transitive clauses as well.
+
+Given this information, the dominant word order in Movima appears to be VSO.
+
+**Conclusion:** VSO",no dominant order,vso
+Bora,"### Reasoning:
+
+Based on the provided paragraph from the descriptive grammar of Bora, the following points are relevant for determining the dominant word order:
+
+1. **Typological Classification**: The text explicitly states that Bora is an OV language.
+2. **Word Order Examples**: It mentions that both Subject-Object-Verb (SOV) and Object-Subject-Verb (OSV) are common word orders.
+3. **Complement Clauses**: Predicate complement clauses generally have Complement-Subject-Verb order, which aligns with the OV typology.
+4. **Postpositions**: The presence of postpositions rather than prepositions supports the OV classification.
+5. **Genitive Construction**: The possessor precedes the possessed, which is typical in OV languages.
+6. **Adjective Positioning**: Adjectives may follow the nouns they modify, which is also a characteristic of OV languages.
+7. **Auxiliary Verbs**: Auxiliary verbs follow the main verb, another feature consistent with OV languages.
+
+Given that both SOV and OSV are common, but the language is typologically classified as OV, it suggests that SOV might be the more frequent or pragmatically neutral order among the two OV orders mentioned.
+
+### Conclusion:
+SOV",no dominant order,sov
+Wari',"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Wari', we can determine the dominant word order as follows:
+
+1. **Paragraph 1 Analysis:**
+   - The paragraph explicitly states that the pragmatically unmarked constituent order in Wari' is VOS (Verb-Object-Subject). This is mentioned in the context of simple sentences and complementizer clauses.
+   - Example structures provided in the paragraph reinforce this VOS order, where the verb appears first, followed by the object and then the subject.
+
+2. **Paragraph 2 Analysis:**
+   - The paragraph reiterates that the most frequent constituent word order in Wari' is VOS.
+   - It also mentions that although the preferred order is object followed by subject, there are occasional instances where the subject precedes the object, especially when there is no ambiguity in identifying the subject and object.
+   - Examples (204a) and (204b) illustrate both the normal VOS order and the less common SVO order. However, the text emphasizes that VOS is the normal order.
+
+### Conclusion:
+**VOS**
+
+The dominant word order in Wari' is VOS (Verb-Object-Subject), as explicitly stated and exemplified in the descriptive grammar.",vos,vos
+Aymara (Central),"Based on the provided paragraph from the descriptive grammar of Central Aymara, we can analyze the word order in the given examples:
+
+1. ""Mama Meriajj awichapan utap sarasqui.""
+   - Translation: 'Señora Maria is going to visit her grandmother's house.'
+   - Word order: S (Mama Meriajj) O (awichapan utap) V (sarasqui)
+   - Order: SOV
+
+2. ""Navaji mamajjan tiend ghaya_tiend sarasqui.""
+   - Translation: 'I am going to buy bananas for my mother.'
+   - Word order: S (Navaji) O (mamajjan tiend ghaya_tiend) V (sarasqui)
+   - Order: SOV
+
+3. ""Jupajj_ pokot alasir jichhaii.""
+   - Translation: 'He is going now to that store.'
+   - Word order: S (Jupajj) O (pokot alasir) V (jichhaii)
+   - Order: SOV
+
+From these examples, it is evident that the dominant word order in Central Aymara is Subject-Object-Verb (SOV). Each example consistently follows this pattern, indicating that SOV is the preferred or dominant order in declarative sentences where both the subject and object are nouns.
+
+### Conclusion: SOV",sov,sov
+Trumai,"Based on the provided paragraph from the descriptive grammar of Trumai, we can determine the dominant word order for declarative clauses with verbal predicates. The relevant information is found in the following excerpt:
+
+> ""For clauses with verbal predicates, the basic or unmarked word orders are [S V (DAT)] and [A O V (DAT)].""
+
+This indicates that the basic or unmarked word orders for declarative clauses with verbal predicates in Trumai are SVO and AOV. Since the focus is on the order of subject, object, and verb in transitive clauses, the relevant order here is AOV, which corresponds to SOV (Subject-Object-Verb) in the typological framework.
+
+1. **Reasoning:**
+   - The grammar explicitly states that the basic or unmarked word order for clauses with verbal predicates is [A O V (DAT)], which translates to SOV in typological terms.
+   - Although variations in word order are possible for highlighting specific information, the basic or unmarked order is the primary concern for determining the dominant word order.
+   - The presence of variations does not negate the identification of a dominant order, as the grammar specifies a clear unmarked structure.
+
+Conclusion: SOV",no dominant order,sov
+Apinayé,"Based on the provided paragraph from the descriptive grammar of Apinayé, the dominant word order is explicitly mentioned. The text states:
+
+""Word order is predominantly SOV.""
+
+This indicates that the typical or most frequent arrangement of constituents in declarative sentences, where both the subject and object are nouns, follows the Subject-Object-Verb order.
+
+### Reasoning:
+1. The paragraph directly states that the word order in Apinayé is predominantly SOV.
+2. This explicit mention provides clear evidence without the need for further analysis of example sentences or additional context.
+
+### Conclusion:
+SOV",sov,sov
+Yagua,"Based on the provided paragraphs from the descriptive grammar of Yagua, the text discusses the complexities and theoretical considerations surrounding the determination of a ""basic"" or ""dominant"" word order. It references various linguistic theories and models, such as Hale's and Givón's, and mentions that the determination of a basic word order can be influenced by syntactic, pragmatic, and discourse factors. The text also notes that different theoretical models might lead to different conclusions about what constitutes the basic word order.
+
+However, the text does not provide specific examples or clear evidence of the dominant word order in Yagua. Instead, it focuses on the theoretical discussion of how one might determine such an order and the challenges associated with it.
+
+Given that the paragraphs do not provide concrete examples or a definitive statement about the dominant word order in Yagua, it is not possible to determine the dominant word order from the provided information.
+
+**Conclusion:** Not mentioned in the grammar.",no dominant order,not mentioned in the grammar
+Cacua,"Based on the provided paragraph from the descriptive grammar of Cacua, the dominant word order can be determined as follows:
+
+1. **Reasoning:**
+   - The text explicitly states that ""Kakua has a predominant preference for an (S)OV order of constituents.""
+   - It further explains that ""whenever overtly expressed, the subject argument most frequently precedes both the object(s) argument(s) and the verb.""
+   - The verb is described as ""predominantly in final position.""
+   - Examples provided in the text illustrate this preferred SOV order:
+     - Example (3) shows the sentence ""hiw mɨhiw=diʔ ʔã=t-tʃãk=na=wɨt=be,"" which translates to ""the jaguar bit the dog, it is said,"" following the SOV structure.
+
+2. **Conclusion:** SOV",sov,sov
+Yuracare,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Yuracare, the following observations can be made:
+
+1. **Paragraph 1:**
+   - The text mentions that word order in Yuracare is relatively free.
+   - Overtly expressed subjects most frequently appear in postverbal position.
+   - Objects occur on both sides of the verb with about equal frequency.
+
+2. **Paragraph 2:**
+   - Discusses noun phrases and quantifier floating but does not provide specific information about the dominant word order in declarative sentences.
+
+3. **Paragraph 3:**
+   - States that grammatical relations in Yuracare are mainly marked through verbal cross-referencing.
+   - Word order does not play a role in identifying grammatical relations.
+   - Subjects and objects are marked on the verb, with subjects as suffixes and objects as prefixes.
+
+From these observations, it is clear that Yuracare has a flexible word order. The fact that subjects most frequently appear in postverbal position and objects can occur on both sides of the verb suggests that there is no single dominant word order. The language relies more on verbal cross-referencing for grammatical relations rather than a fixed word order.
+
+### Conclusion:
+**No dominant order**",no dominant order,no dominant order
+Kuna,"Based on the provided paragraphs from the descriptive grammar of the Kuna language, we can determine the dominant word order by examining the example sentence given in the grammar section.
+
+The example sentence provided is:
+
+**An ogob kumpi.**
+- **An** (Subject: ""I"")
+- **ogob** (Object: ""coconut"")
+- **kumpi** (Predicate: ""eat-want-to"")
+
+This sentence translates to ""I want to eat coconut,"" and it follows the order Subject-Object-Verb (SOV).
+
+### Reasoning:
+1. **Explicit Mention**: The grammar explicitly states that the normal word order in a transitive sentence is ""subject, object, predicate.""
+2. **Example Sentence**: The provided example sentence ""An ogob kumpi"" follows the SOV order, where ""An"" is the subject, ""ogob"" is the object, and ""kumpi"" is the verb.
+
+### Conclusion:
+SOV",sov,sov
+Uru,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Uru (Uchumataqu), the following observations can be made regarding the dominant word order:
+
+1. **Paragraph 1**:
+   - It explicitly states that Uchumataqu is predominantly an SOV language but allows great variation with respect to word order.
+   - The basic SOV word order is mentioned in the context of relative clauses.
+
+2. **Paragraph 2**:
+   - This paragraph reiterates that Uchumataqu has a relatively free word order, but in principle, it is SOV.
+
+3. **Paragraph 3**:
+   - The principal word order is mentioned as SOV, although it is noted that this makes it difficult to determine noun incorporation syntactically.
+
+4. **Paragraph 4**:
+   - It confirms that the basic word order in declarative clauses is SOV.
+   - Example (30) illustrates an SOV structure: ""ni-ki cins(i) pa-cay"" (s)he-TOP mat make-DEC '(S)he makes a mat.'
+   - Other sequences like SV and OV are also mentioned, but these do not contradict the basic SOV order.
+
+### Conclusion:
+Based on the consistent mention of SOV as the basic word order in multiple contexts and examples, it is clear that the dominant word order in Uchumataqu (Uru) is **SOV**.
+
+**Conclusion: SOV**",sov,sov
+Camsá,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Kamsá, we can analyze the dominant word order as follows:
+
+1. **Paragraph 1.6.3 (Word order and syntax)**:
+   - The paragraph explicitly states that the basic order of constituents in Kamsá ""seems to be SOV but it is extremely flexible and is also perhaps becoming SVO under the influence of Spanish.""
+   - This indicates that while SOV is identified as the basic or default order, there is significant flexibility in the word order, and SVO is also becoming common due to external influences.
+
+2. **Paragraph 1.6.4 (Kamsá compared with Andean languages)**:
+   - The paragraph reiterates that Kamsá has ""very free word order"" and mentions that the language ""seems to be SOV"" but due to the free word order and influence of Spanish, it is not clear what should be considered its basic word order.
+
+### Analysis:
+- **SOV as Basic Order**: Both paragraphs suggest that SOV is the basic or default word order in Kamsá. This is explicitly mentioned in both sections.
+- **Flexibility and Influence**: The grammar also highlights the flexibility of word order in Kamsá and the influence of Spanish, which is pushing the language towards SVO. However, this does not negate the identification of SOV as the basic order.
+- **Dominant Order**: Despite the flexibility and external influences, the grammar consistently identifies SOV as the basic order. The mention of flexibility does not necessarily imply the absence of a dominant order but rather indicates variability around a central tendency.
+
+### Conclusion:
+**SOV**
+
+The dominant word order in Kamsá is SOV, as identified in the descriptive grammar, despite the noted flexibility and influence from Spanish.",no dominant order,sov
+Warao,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Warao, the following observations can be made:
+
+1. **Verb Finality**: The first paragraph explicitly states that ""Warao is a verb final language,"" which indicates that the verb typically appears at the end of the sentence. This is a strong indicator of SOV or OSV word order.
+
+2. **Subject Position**: The same paragraph mentions that the subject ""nearly always immediately precedes V,"" which suggests that the subject typically comes before the verb. This further supports the likelihood of SOV or OSV order.
+
+3. **Object Position**: The paragraph also notes that ""the remaining sentence constituents (both subject and objects) usually precede"" the verb. This implies that both the subject and object generally come before the verb, reinforcing the SOV order.
+
+4. **Examples**: The examples provided in the paragraphs show sentences where the subject and object precede the verb:
+   - (12a) ""The inhabitants of this land helped us"" (S O V)
+   - (12b) ""Wauta helped us"" (S O V)
+   - (70-71) ""It was on a tree trunk on the side of the river that one Warao sat down"" (S O V)
+
+5. **Focus Fronting Rule**: The second paragraph discusses the FOCUS FRONTING RULE, which allows for variations in word order for emphasis or focus. However, it is noted that this rule does not change the basic word order but rather moves constituents to the front for focus. This indicates that the basic word order remains consistent despite these variations.
+
+6. **OSV Hypothesis**: The second paragraph mentions an OSV word order hypothesis but also indicates that this is not the basic order but rather a result of focus fronting. The basic order is still maintained as SOV.
+
+### Conclusion:
+Based on the evidence provided in the descriptive grammar, the dominant word order in Warao is SOV.
+
+**Conclusion: SOV**",osv,sov
+Cuiba,"### Reasoning:
+
+The provided paragraphs from the descriptive grammar of Cuiba do not contain explicit examples or descriptions of the word order in declarative sentences involving both a subject and an object as nouns. The paragraphs primarily discuss the structure and classification of clauses, tagmemes, and various grammatical elements without providing specific information on the relative order of subject, object, and verb in transitive clauses.
+
+### Conclusion:
+Not mentioned in the grammar",sov,not mentioned in the grammar
+Apurinã,"Based on the provided paragraph, we can extract the following information:
+
+1. The language is described as ""predominantly OV in terms of its word order correlations.""
+2. However, it is also mentioned that ""the most frequent order in text is VO.""
+
+This suggests that there is some flexibility in the word order of Apurinã, but the most frequent order observed in texts is VO (Verb-Object). This implies that the language tends to follow a Verb-Object structure more often than not.
+
+Given this information, we can infer that the dominant word order in Apurinã is likely to be SVO (Subject-Verb-Object), as the VO order is the most frequently observed in texts, and it is common for the subject to precede the verb in many languages.
+
+**Reasoning:**
+- The paragraph indicates that while the language has OV tendencies, the most frequent order in texts is VO.
+- In languages where VO is frequent, the subject typically precedes the verb, leading to an SVO structure.
+
+**Conclusion:** SVO",svo,svo
+Kadiwéu,"### Reasoning:
+
+The provided paragraph from the descriptive grammar of Kadiwéu offers substantial information about the word order in the language. Here are the key points:
+
+1. **Nonconfigurational Properties**: Kadiwéu is described as having nonconfigurational properties, which include free ordering of nominal phrases with respect to each other and the verb.
+
+2. **Free Constituent Order**: The text explicitly states that the constituent order in Kadiwéu main clauses varies freely among several possible orders: OVS, VOS, SOV, OSV, SVO, and VSO.
+
+3. **Predominantly SVO**: Although Griffiths (1987, 1991) is cited as saying that the constituent order varies between VSO and SVO but is predominantly SVO, the author of the grammar notes that their data shows a much freer word order than Griffiths reports.
+
+4. **Examples Provided**: The examples given (140-145) illustrate various word orders, including SVO, VOS, SOV, OSV, OVS, and VSO, demonstrating the flexibility in constituent order.
+
+5. **Subordinate Clauses**: The text also mentions that subordinate clauses are predominantly VSO according to Griffiths, but the author has found alternative orders in subordinate clauses as well.
+
+Given this information, it is clear that Kadiwéu does not have a single dominant word order. Instead, it exhibits a high degree of flexibility in the arrangement of subject, object, and verb in declarative sentences.
+
+### Conclusion:
+No dominant order",no dominant order,no dominant order
+Karajá,"Based on the provided paragraph from the descriptive grammar of Karajá, we can determine the dominant word order of the language. The paragraph explicitly states that when both the subject and object are nouns, they can only be distinguished by the word order, which is canonically SOV. This is further supported by the example sentences provided:
+
+(33)
+
+a. ha)bu ha)lOkOE ∅-r-I-r´bUd´)èr-a
+   man jaguar 3-CTFG-TRANS-kill=CTFG-PERF
+   ‘The man killed the jaguar.’
+
+b. ha)lOkOE ha)bu ∅-r-I-r´bUd´)èr-a
+   jaguar man 3-CTFG-TRANS-kill=CTFG-PERF
+   ‘The jaguar killed the man.’
+
+In both examples, the subject (ha)bu 'man' or ha)lOkOE 'jaguar') precedes the object (ha)lOkOE 'jaguar' or ha)bu 'man'), and the verb (∅-r-I-r´bUd´)èr-a 'killed') comes at the end, confirming the SOV order.
+
+### Reasoning:
+1. The grammar explicitly states that the canonical word order for distinguishing subject and object when both are nouns is SOV.
+2. The example sentences provided follow the SOV pattern, where the subject precedes the object, and the verb comes last.
+
+### Conclusion:
+SOV",sov,sov

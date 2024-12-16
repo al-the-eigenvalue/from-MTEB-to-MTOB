@@ -1,0 +1,2097 @@
+Language,Response,Target,Predicted
+Supyire,"1. Based on the provided paragraphs from the descriptive grammar of Supyire, it is clear that standard negation in the language can be marked by modifications of the verb or by affixes/clitics that are phonologically bound to the verb. Here are the key points supporting this conclusion:
+
+- **Clause Final Negative Particles**: The language uses clause-final negative particles like ""mä"" and ""mi"" to mark negation. These particles are placed at the end of the clause and are not phonologically bound to the verb, but they are part of the negation strategy.
+
+- **Negative Marking in Auxiliary Position**: The language also employs negative marking in the auxiliary position, which is immediately following the subject. This marking can involve the use of the copula ""pye"" as a negative marker in front of perfect or progressive auxiliaries, or the introduction of a floating low tone that docks onto high-tone auxiliaries, effectively modifying the verb form to indicate negation.
+
+- **Affixes and Clitics**: The text mentions the use of a floating low tone that modifies the tone of the auxiliary verb to indicate negation. This is a clear example of a phonological modification of the verb to mark negation. Additionally, the presence of the privative nominalizer ""-mbää"" attached to verbs indicates the use of affixes for negation.
+
+Given these points, it is evident that Supyire employs both modifications of the verb and affixes/clitics that are phonologically bound to the verb to mark standard negation.
+
+Conclusion: 1",1,1
+Jamsay,"1. Based on the provided paragraphs, it is clear that standard negation in Jamsay can be marked by an affix or modification of the verb. The evidence is found in the following points:
+
+- Paragraph 1 mentions that negation is expressed by verbal suffixation, with distinct negative suffixes for perfective and imperfective verbs. Examples provided include:
+  - (3.c) ""bE$rE$-go@-w"" (be.able-ImpfNeg-2SgS) meaning ""You-Sg cannot.""
+  - (3.d) ""ya$˘-li@˘-Ø"" (go-PerfNeg-1PlS) meaning ""We did not go.""
+
+- Paragraph 2 further elaborates on the use of negative suffixes:
+  - Perfective Negative suffix ""-li@-"" replaces several positive forms.
+  - Imperfective Negative suffix ""-go@-"" replaces the unsuffixed Imperfective and other marked forms.
+  - Examples include:
+    - (581.a) ""ya&˘-yE$-Ø"" (go-Perf-3SgS) meaning ""he/she went"" vs. ""ya$˘-li@-Ø"" (go-PerfNeg-3SgS) meaning ""he/she didn’t go.""
+    - (585) ""de$ne@-m$"" (I want) vs. ""de$ne$-go@-m"" (I don’t want).
+
+These examples clearly show that negation in Jamsay is achieved through the use of suffixes attached to the verb, thus fulfilling the criteria for marking standard negation by an affix or modification of the verb.
+
+Conclusion: 1",1,1
+Ma'di,"1. Based on the provided paragraphs, it is clear that standard negation in Ma'di is achieved through the use of sentence-final negation particles such as ""kü"" and ""küru."" The verb in these constructions must be uninflected, and the tense is expressed by the choice of the negation particle. There is no indication that negation is marked by an affix, clitic, or modification of the verb itself. Instead, the negation particles are separate words that follow the verb and other sentence constituents.
+
+For example:
+- (36) ""kü η má eßl pä"" (NEG(N) DEF IS fish N-eat) 'The one that I don't eat is fish.'
+- (77) ""má mû ku"" (IS go NEG(N)) 'I will not go.' / 'I am not going.'
+- (90) ""má mû kûrù"" (IS go NEG(P)) 'I did not go.'
+
+These examples show that the negation particles ""kü"" and ""küru"" are not phonologically bound to the verb and do not modify the verb itself. They are separate words placed at the end of the sentence.
+
+2. Conclusion: 0",0,0
+Bangime,"Based on the provided paragraphs from the descriptive grammar of Bangime, it is possible to determine the method of standard negation in the language.
+
+1. **Reasoning:**
+   - The negative morpheme [bíè] is described as the only means to negate a sentence in Bangime.
+   - It is stated that the negative marker [bíè] precedes the verb to negate it (Section 14.1: ""Verbs are also negated by the same marker preceding the verb"").
+   - The negative marker [bíè] is not described as an affix or clitic that attaches to the verb, but rather as a separate word that precedes the verb.
+   - There is no indication that the negative marker modifies the verb itself or attaches to it as an affix or clitic.
+
+Given that the negative marker [bíè] is a separate word that precedes the verb and does not attach to it or modify it directly, standard negation in Bangime cannot be marked by an affix, clitic, or modification of the verb.
+
+**Conclusion:** 0",1,0
+Gumuz,"Based on the provided paragraphs from the descriptive grammar of Gumuz, we can analyze the method of standard negation in the language.
+
+### Analysis:
+
+1. **Affirmative Marker and Negatives**:
+   - The text states that ""NoG and SoG verbs lack the affirmative marker when the verb is negated.""
+   - It further mentions that in both NoG and parts of SoG (Kamashi), the negative clitic /=(a)ŋg̩ ó/ attaches to the end of the conjugated verb.
+   - Example (7.76) illustrates this:
+     - Affirmative: ""b-úú-a-n-tsʼóχ"" (AFF-3PL.TR-RECP-PL-kidnap)
+     - Negative: ""úú-a-n-tsʼóχó-na=ŋgó"" (3PL.TR-RECP-PL-kidnap-LOC=NEG)
+
+2. **Example (7.76)**:
+   - The affirmative form ""b-úú-a-n-tsʼóχ"" includes the affirmative marker ""b-"".
+   - The negative form ""úú-a-n-tsʼóχó-na=ŋgó"" lacks the affirmative marker and includes the negative clitic ""=ŋgó"" attached to the verb.
+
+### Reasoning:
+
+- The negative clitic ""=ŋgó"" is phonologically bound to the verb, as indicated by the equals sign in the gloss.
+- The verb in the negative form lacks the affirmative marker, indicating a modification of the verb structure when negated.
+
+Given this information, it is clear that standard negation in Gumuz can be marked by a clitic that is phonologically bound to the verb, and there is a modification of the verb structure (absence of the affirmative marker).
+
+### Conclusion:
+1",1,1
+Koyra Chiini,"1. Based on the provided paragraphs, it is possible to determine that standard negation in Koyra Chiini can be marked by an affix, clitic, or modification of the verb. 
+
+In Paragraph 1, the sentence structure is described as having a ""mood-aspect-negation (MAN)"" slot before the verb. Example (8) shows the negation marker ""na"" occupying this slot: ""ay na guna [[huu di] kuna] [boro foo]"" which translates to ""I didn't see anyone in the house."" Here, ""na"" is a separate word that precedes the verb ""guna"" (see).
+
+In Paragraph 2, example (258c) shows another instance of negation: ""yer ma si goro nee"" which translates to ""(that) we not sit (=live) here."" Here, ""si"" is used as a negation marker in the context of a subjunctive clause. Additionally, example (258e) ""ni si yadda ay ma koy ka nan ni"" translates to ""You do not consent that I go leave you,"" where ""si"" is again used as a negation marker.
+
+The negation markers ""na"" and ""si"" are not affixes or clitics bound to the verb; they are separate words that occupy the MAN slot before the verb. Therefore, the negation in Koyra Chiini is not marked by an affix, clitic, or modification of the verb itself but rather by separate particles.
+
+2. **Conclusion:** 0",0,0
+Seme,"Based on the provided paragraphs from the descriptive grammar of Seme, we can analyze the method of standard negation in the language.
+
+1. **Analysis of Negation in Seme:**
+   - The primary method of negation in Seme is indicated by the clause-final negation particle ""bo"" as shown in example (101):
+     - ""À ri le dì bo."" (S/he didn't eat.)
+   - The particle ""bo"" is used to negate the verb phrase, and it appears at the end of the clause.
+   - There is no indication in the provided text that negation is marked by modifying the verb itself or by using an affix or clitic that is phonologically bound to the verb. The negation particle ""bo"" stands as a separate word.
+
+2. **Consideration of Past Tense Marker:**
+   - The past tense marker ""ín"" can precede the negation particle ""bo"" (as in 102a) but not follow it (as in 102b), and there are some variations in acceptability when ""ín"" appears in different positions relative to ""bo.""
+   - However, this does not change the fact that ""bo"" is a separate particle and not an affix or clitic attached to the verb.
+
+Given the information provided, it is clear that standard negation in Seme is not marked by an affix, clitic, or modification of the verb. Instead, it is marked by a separate negation particle ""bo.""
+
+**Conclusion:** 0",0,0
+Tima,"1. Based on the provided paragraphs, it is clear that standard negation in Tima involves the use of two negative particles: a proclitic 'kV-' and an enclitic '-Vŋ'. These particles are phonologically bound to the verb or verb phrase. Specifically, the proclitic 'kV-' attaches to the beginning of the verb, and the enclitic '-Vŋ' attaches to the end of the verb or verb phrase. This is evident from the examples provided in the text, such as:
+
+- Intransitive clause: 
+  - Affirmative: an-dɪyana-dʌ ('I laughed')
+  - Negative: kɨ-n-dɪyana-dʌ-ʌŋ ('I did not laugh')
+
+- Transitive clause: 
+  - Affirmative: ʌŋ-kamah-dʌ it̪uk ('I ate porridge')
+  - Negative: kɨ-ŋ-kamah-dʌ it̪uk-ʌŋ ('I did not eat porridge')
+
+- Ditransitive clause: 
+  - Affirmative: Hamid dudu-ii-dʌ t̪amaa d-umurik ('Hamid teaches me Tima language')
+  - Negative: Hamid ku-dudu-ii-dʌ t̪amaa d-umurik-ʌŋ ('Hamid does not teach me Tima language')
+
+These examples demonstrate that the negative markers are indeed affixes or clitics that are phonologically bound to the verb or verb phrase, fulfilling the criteria for standard negation as defined.
+
+2. Conclusion: 1",1,1
+!Xun (Ekoka),"Based on the provided paragraphs from the descriptive grammar of !Xun (Ekoka), we can analyze the methods of standard negation in the language. Here are the key points extracted from the text:
+
+1. **Negation Markers**: The text mentions that verbal negation is fairly uniform across all dialects of !Xun, with two primary markers: *l6a (general negation) and *kora (negative existence). These markers are described as pre-verbal clitics in the case of *l6a, while *kora has full predicate status and does not combine with another verb.
+
+2. **Examples of Negation**:
+   - ""a Iwi saa."" (2SG NEG hear) - ""You do not hear.""
+   - ""koara tha."" (NEG.EXIST elephant meat) - ""She never eats/will never eat elephant meat.""
+   - ""gdba lwa né mi o pangwe."" (NEG give 1SG ?) - ""The Mbunda did not give me Indian hemp.""
+   - ""hod loa na ga."" (1SG NEG PAST get) - ""I didn’t get it.""
+   - ""kx’6a ha (|6d ki da’ dma."" (NEG PROG look.for child) - ""He will never look for the child.""
+
+3. **Clitic and Affix Boundaries**: The negation marker *l6a is described as a pre-verbal clitic, which means it is phonologically bound to the verb. This is evident in the examples where *l6a appears immediately before the verb, such as in ""a Iwi saa"" and ""kx’6a ha (|6d ki da’ dma.""
+
+4. **Negation in Progressive Aspect**: The text also provides examples where negation interacts with the progressive aspect, as in ""kx’6a ha (|6d ki da’ dma."" Here, *l6a is used in conjunction with the progressive marker ki, indicating that negation can be marked by a clitic that is phonologically bound to the verb.
+
+Based on this information, it is clear that standard negation in !Xun (Ekoka) can be marked by a clitic that is phonologically bound to the verb.
+
+**Reasoning**: The descriptive grammar explicitly states that the negation marker *l6a is a pre-verbal clitic, and the provided examples show it being used in this manner. This satisfies the criteria for standard negation being marked by an affix, clitic, or modification of the verb.
+
+**Conclusion**: 1",1,1
+Katcha,"Based on the provided paragraphs, it is not possible to determine the method of standard negation in Katcha. The paragraphs focus on locative adverbs, case markers, and the role of adpositions, but they do not provide explicit information about how negation is marked in declarative sentences involving dynamic verbal predicates. 
+
+1. **Reasoning:**
+   - **Paragraph 1:** Discusses locative adverbs and their placement in sentences, but does not mention negation in the context of dynamic verbal predicates.
+   - **Paragraph 2:** Focuses on theoretical analyses of adjuncts, prepositions, and case markers, and does not provide information on the negation of verbs.
+
+Given the absence of relevant information on the standard negation of dynamic verbal predicates, it is not possible to determine if negation in Katcha can be marked by an affix, clitic, or modification of the verb.
+
+**Conclusion:** 0",0,0
+Ijo (Kolokuma),"Based on the provided paragraphs from the descriptive grammar of Ijo (Kolokuma), we can determine the method of standard negation in the language. Here is the relevant information extracted from the text:
+
+1. **Paragraph 1**:
+   - ""Sentences are made negative by the introduction of the marker -a between the last verb and the aspect marker; considerable re-ordering of the aspect markers takes place as a result.""
+   - Examples provided:
+     - ""a b6-a"" (she did not come)
+     - ""a b6-a"" (she is not coming)
+     - ""a b6-a, fa-qjmi"" (she will not come)
+
+From this information, it is clear that the negation marker ""-a"" is an affix that attaches to the verb. This affix is placed between the verb and the aspect marker, indicating that it is phonologically bound to the verb.
+
+### Reasoning:
+- The negation marker ""-a"" is explicitly described as being inserted between the verb and the aspect marker, which qualifies it as an affix.
+- The examples provided show the negation marker ""-a"" directly attached to the verb, confirming that it is phonologically bound to the verb.
+
+### Conclusion:
+1",1,1
+Emai,"Based on the provided paragraphs from the descriptive grammar of Emai, it is possible to determine that standard negation in Emai can be marked by an affix, clitic, or modification of the verb. Here is the reasoning:
+
+1. **Affixation and Clitics**: The paragraphs describe the use of specific morphemes for negation that are phonologically bound to the verb. For instance:
+   - In Paragraph 1, examples (12a-d) and (13a-d) show the use of the negation morpheme ""ì"" preceding the verb. This morpheme is phonologically bound to the verb, indicating that negation is marked by an affix or clitic.
+   - Paragraph 3.1.2 explicitly states that negative inflection is expressed by forms such as ""ì"" for Perfect Negation, ""khà"" for Prospective Negation, and ""yà"" for Past Absolute Negation. These morphemes precede the verb and are phonologically bound to it.
+
+2. **Modification of the Verb**: The tone of the verb changes in the presence of negation. For example:
+   - In Paragraph 1.6.2, it is mentioned that ""For simple negation, a transitive verb is preceded by subject concord and negation (NEG) morphemes. Under this condition, verb tone is low as well."" This indicates that the verb itself undergoes a tonal modification when negated.
+
+Given these points, it is clear that standard negation in Emai involves both the use of phonologically bound morphemes (affixes or clitics) and modifications to the verb (tonal changes).
+
+**Conclusion:** 1",1,1
+Ik,"Based on the provided paragraphs from the descriptive grammar of Ik, we can analyze the method of standard negation in the language.
+
+1. **Negating Verbs and Modal Suffixes**:
+   - The paragraphs indicate that negation in Ik involves the use of highly irregular negating verbs such as ""ńt-"", ""ma-"", ""na-"", and ""mo-"". These negating verbs fill the syntactic slot for the main verb in a clause.
+   - The negated main verb follows in the irrealis mood (or realis mood in the case of prohibitives) as a complement clause.
+
+2. **Examples**:
+   - The examples provided show the negating verbs combined with the main verb in the irrealis or realis mood:
+     - (140) ""Nta ƙod."" (ńt-á ƙó-dⁱ) - ""not-REAL go-2SG[IRR]"" - ""You don’t go.""
+     - (141) ""Maa naa ƙod."" (má-á=naa ƙó-dⁱ) - ""not-REAL=PST go-2SG[IRR]"" - ""You didn’t go (earlier today).""
+     - (142) ""Maa ƙod."" (má-á ƙó-d-ᵃ) - ""not-REAL go-2SG-REAL"" - ""Don’t go.""
+     - (138) ""Moo ƙod."" (mo-o ƙó-dⁱ) - ""not-SEQ go-2SG[IRR]"" - ""And you don’t go.""
+
+3. **Affixation and Clitics**:
+   - The examples show that the negating verbs (e.g., ""ńt-"", ""ma-"", ""mo-"") are phonologically bound to the verb forms they negate, either through affixation or cliticization. For instance, ""ńt-á"" and ""má-á"" are affixed forms indicating negation.
+
+Given this information, it is clear that standard negation in Ik can be marked by an affix, clitic, or modification of the verb. The negating verbs are phonologically bound to the verbs they negate, fulfilling the criteria for marking negation through affixation or cliticization.
+
+**Conclusion:** 1",1,1
+Ngiti,"Based on the provided paragraph, the following points can be noted:
+
+1. The language Ngiti has three negative markers: inzi, inzé, and imba.
+2. These negative markers can appear in two forms: a disyllabic form when used sentence-initially and a shortened form (nzi, nza, mba) when used non-initially.
+3. The negative markers can take one of two positions in the sentence: either in the initial position or immediately following the conjugated verb.
+
+From this information, it is clear that the negative markers are separate words that can occupy specific positions in the sentence. There is no indication that these markers are affixes or clitics that are phonologically bound to the verb. Instead, they appear to function as independent particles that can be placed either at the beginning of the sentence or immediately after the verb.
+
+Given the criteria for determining whether standard negation can be marked by an affix, clitic, or modification of the verb, the provided paragraph does not support such a conclusion. The negative markers in Ngiti are not described as being bound to the verb in any way.
+
+### Reasoning:
+- The negative markers are described as separate words that can occupy specific positions in the sentence.
+- There is no mention of these markers being affixes or clitics that attach to the verb.
+- The markers can appear either at the beginning of the sentence or immediately after the verb, indicating their independence from the verb.
+
+### Conclusion: 0",0,0
+Sidaama,"Based on the provided paragraphs from the descriptive grammar of Sidaama, it is possible to determine that standard negation in Sidaama can be marked by a clitic that is phonologically bound to the verb.
+
+1. **Reasoning:**
+   - The paragraphs describe the use of the negative proclitic ""di="" which attaches to verbs in various aspects (present perfect, imperfect, progressive, or continuous). This proclitic is phonologically bound to the verb, as indicated by the examples provided in the grammar.
+   - For instance, in example (3.437), ""di=haw-ø-anno"" (NEG=forget-3SG.M-IMPRF.3) shows the negative proclitic ""di="" attached directly to the verb ""haw-ø-anno"" (forget-3SG.M-IMPRF.3).
+   - Similarly, in example (3.438), ""di=a-ø-ino"" (NEG=drink-3SG.M-P.PRF.3) demonstrates the negative proclitic ""di="" attached to the verb ""a-ø-ino"" (drink-3SG.M-P.PRF.3).
+   - The grammar explicitly states that ""di="" can attach to verbs, as seen in the sections discussing ""di=verb"" and ""di=... verb"" constructions. This indicates that the negation is marked by a clitic that is phonologically bound to the verb.
+
+Given this information, it is clear that standard negation in Sidaama can be marked by a clitic that attaches to the verb.
+
+**Conclusion:** 1",1,1
+Mursi,"1. The paragraphs provided from the descriptive grammar of Mursi clearly indicate that standard negation in the language can be marked by affixes, clitics, or modifications of the verb. Specifically, the negation system in Mursi involves the use of circumclitics and enclitics that are phonologically bound to the verb. For instance, verbs in the imperfective aspect are negated using the circumclitics ŋà= and =ó, which attach to the verb root, as shown in examples like ""ŋà=gótó-ɲá=ìnù g=àw=ŋà ŋà=gárs-ɛ́=ó"" (NEG.IMPERV=disappear.IMPERV-3pl.SU.IMPERV=NEG). Similarly, verbs in the perfective aspect are negated using the negative enclitic =ó attached to the verb root, as seen in ""ŋànì k(V)-ROOT.PERV=ó"" (NEG.PERV 1SU-break=NEG).
+
+Additionally, the grammar mentions that the negation system includes bound negators such as circumclitics and enclitics, which are specifically attached to the verb and not to other constituents. This is evident in the detailed explanation of how these negators function across different aspects and moods, including the use of the proclitic ŋà= and the enclitic =ó in various forms.
+
+2. **Conclusion:** 1",1,1
+Majang,"1. Based on the provided paragraphs from the descriptive grammar of Majang, it is evident that standard negation in Majang can be marked by an affix or modification of the verb. Specifically, the negative auxiliary ""k-"" is used in conjunction with a negative verb form that includes a negative suffix ""-ɛːL"" (as seen in examples V.85a, V.85b, V.86, and V.87). The negative auxiliary ""k-"" is an inflectable element that attaches to the verb, and the negative suffix ""-ɛːL"" is a bound morpheme that modifies the verb to indicate negation.
+
+For instance:
+- In example V.85a: ""k-ìr"" (NEG-3P) and ""gáj-ɛːL"" (succeed-NEG).
+- In example V.85b: ""k-í"" (NEG-3S) and ""boŋ-íːɗ=ŋ"" (take-NEG=CND).
+- In example V.86: ""k-í"" (NEG-3S) and ""ɓokot-iːt"" (kill-NEG).
+- In example V.87: ""k-íːL"" (NEG-1P) and ""gàj-ɛːL"" (succeed-NEG).
+
+These examples clearly show that negation in Majang involves both a negative auxiliary that is inflected for person and a negative suffix that attaches to the verb.
+
+Conclusion: 1",1,1
+Birri,"Based on the provided paragraph from the descriptive grammar of Birri, we can analyze the method of standard negation in the language.
+
+1. The paragraph mentions the use of ""ca — sa — sha"" as negative particles that are found at the end of negative statements. This indicates that negation in Birri is marked by particles rather than affixes, clitics, or modifications of the verb itself. Since these particles are separate words and not phonologically bound to the verb, they do not meet the criteria for being considered affixes or clitics.
+
+2. The examples provided, such as ""They are not many atyone sha"" and ""Neg. ini agbb-sa,"" show that the negation is achieved by adding a particle at the end of the sentence. The particle ""sha"" or ""sa"" is used to mark negation, but it is not attached to the verb as an affix or clitic.
+
+Given this information, it is clear that standard negation in Birri is not marked by an affix, clitic, or modification of the verb. Instead, it is marked by separate particles that are not phonologically bound to the verb.
+
+Conclusion: 0",0,0
+Tamashek,"1. Based on the provided paragraphs, it is clear that standard negation in Tamashek can be marked by a modification of the verb. Specifically, the Perfective Negative (PerfN) is formed by adding an ablaut formative that changes the vowel ae in the Perfective Positive (PerfP) to e. This modification is a morphological change directly applied to the verb stem. Additionally, the negation is expressed by the preverb ""wser"" (or ""war"" when followed by a high vowel), which must directly precede the PerfN verb form. This indicates that negation involves both a preverbal particle and a morphological change to the verb itself.
+
+The relevant information from the paragraphs includes:
+- The PerfN is formed by adding an ablaut formative changing ae in the PerfP to e.
+- The PerfN must directly follow the negative preverbal particle ""wser"" with no intervening material other than clitics.
+- The PerfN is used to negate both the PerfP and the Resultative (Resit).
+
+These points demonstrate that the negation in Tamashek involves a modification of the verb (ablaut formative) and a preverbal particle, which is phonologically bound to the verb.
+
+Conclusion: 1",1,1
+Coptic,"1. Based on the provided paragraphs from the descriptive grammar of Coptic, it is evident that standard negation can be marked by elements that are phonologically bound to the verb. Specifically, the examples show the use of the negative auxiliary verb ""TH"" and the double negation strategy ""wn ... an,"" which involves two negative elements that together constitute a single instance of negation. The examples provided in the text demonstrate that these negative elements are integrated into the verb phrase, indicating that negation in Coptic can be marked by affixes or modifications of the verb.
+
+For instance:
+- The double negation strategy ""N-...-AN"" is shown in examples like ""N-G-CWTM AN"" (he is not hearing), where ""N-"" and ""-AN"" are bound to the verb ""CWTM.""
+- The negative auxiliary verb ""TH"" is used in forms like ""ETMPNOKE ETINOYTE NTAGTAMIOK"" (not to commit a sin), where ""TH"" is integrated into the verb phrase.
+
+These examples clearly indicate that negation in Coptic involves morphological changes to the verb, either through affixes or clitics.
+
+Conclusion: 1",1,1
+Igbo,"Based on the provided paragraphs from the descriptive grammar of Igbo, it is evident that standard negation in Igbo can be marked by an affix, clitic, or modification of the verb. Here is the reasoning:
+
+1. **Affixation**: The examples provided in the text show that negation can be marked by suffixes attached to the verb. For instance:
+   - In example (27), ""Ejèlà"" (Go not) shows the verb ""go"" with a negative suffix ""-là"".
+   - In example (28), ""O dighī"" (It is not good) shows the verb ""be"" with a negative suffix ""-ghī"".
+   - In example (29), ""Ò dibèghì"" (It is not yet good) shows the verb ""be"" with a negative suffix ""-bèghì"".
+
+2. **Negative Auxiliaries**: The text also mentions the use of negative auxiliaries for sentential negation, as seen in example (26), ""O dīka–àbia akwukwo"" (He has not (yet) come to school), where ""dīka"" is a negative auxiliary.
+
+3. **Morphological Negation**: The text explicitly states that Igbo exhibits morphological negation, where negative markers are part of the derivational morphology of the verb. This indicates that negation is integrated into the verb form through morphological means, such as affixes.
+
+Given these points, it is clear that standard negation in Igbo can be marked by affixes or modifications of the verb.
+
+**Conclusion:** 1",1,1
+Mambai,"1. Based on the provided paragraphs from the descriptive grammar of Mambai, it is clear that standard negation is not marked by a modification of the verb or an affix/clitic that is phonologically bound to the verb. Instead, negation is marked by negative particles (yá and gá) and negative subject pronouns. The negative particles and pronouns are separate words and not phonologically bound to the verb. The verb itself remains unchanged in its segmental and tonal form when negated.
+
+For example:
+- The negative particle yá is used with Indicative verb forms and is a separate word: ""mìí làà )ígà yá"" (I did not eat something).
+- The negative particle gá is used with Optative verb forms and is also a separate word: ""mú hèè gá"" (don’t [you (sg.)] climb! / you (sg.) mustn’t climb!).
+
+Additionally, the negative subject pronouns (e.g., mìí for 1SG:PFV.NEG) are separate from the verb and do not attach to it.
+
+Therefore, standard negation in Mambai cannot be marked by an affix, clitic, or modification of the verb itself.
+
+2. Conclusion: 0",0,0
+Ingessana,"Based on the provided paragraphs from the descriptive grammar of Ingessana, we can analyze the method of standard negation in the language.
+
+1. The negative particle ""wá"" is described as always occurring clause-finally and modifying or negating the preceding verb, verb predicate, or clause. It is explicitly stated that ""wá"" can be separated from the verb by verb complements or adjuncts, indicating that it is not phonologically bound to the verb. Instead, ""wá"" functions similarly to an adverb and is positioned at the end of the clause.
+
+2. The examples provided further illustrate that ""wá"" is a separate word (particle) that follows the verb or verb phrase:
+   - In example (14a), ""wá"" follows the verb phrase ""mə̄īd̪ kūūd̪=ū d̪àɔ̀-sā ɟɛ̀ɛm̀ d̪ɛɛ́ ́"".
+   - In example (14b), ""wá"" follows the verb phrase ""mássɛ̄ɛ ̄ ɟìs-ə᷅n=ə᷇ mâŋ"".
+   - In example (14c), ""wá"" follows the verb phrase ""ɟɛ̀ɛm̀ âr-s āān ánɛ̄ɛń ɛ́ nāānd̪-á ma᷇n"".
+
+3. Since ""wá"" is not an affix or clitic that is phonologically bound to the verb, and there is no indication of verb modification for negation, we can conclude that standard negation in Ingessana is not marked by an affix, clitic, or modification of the verb.
+
+Conclusion: 0",0,0
+Gorowa,"1. Based on the provided paragraphs from the descriptive grammar of Gorowa, it is clear that standard negation in the language can be marked by a clitic that is phonologically bound to the verb. Specifically, the negative clitic =ká(ng) attaches to verb roots that have been extended by the suffix -a in the present tense and -i in the past tense. This is evident from the examples provided:
+
+- In the present tense: ""tam motloo ngi xu’aká"" (She doesn’t even know tomorrow), where the clitic =ká attaches to the verb root extended by -a.
+- In the past tense: ""inós tunáy ngu xu’iká’"" (She didn’t know of dried honey), where the clitic =ká attaches to the verb root extended by -i.
+
+These examples demonstrate that the negative clitic =ká is phonologically bound to the verb, fulfilling the criteria for marking standard negation through an affix, clitic, or modification of the verb.
+
+2. Conclusion: 1",1,1
+Shatt,,0,
+Koromfe,"Based on the provided paragraphs from the descriptive grammar of Koromfe, we can analyze the methods of standard negation in the language. Here are the key points:
+
+1. **Negative Particle ""ba""**: The negative particle ""ba"" is positioned before the verb to negate a sentence. This particle is not phonologically bound to the verb, as it is a separate word.
+
+2. **Negative Subject Pronouns**: The language also uses negative subject pronouns, which are proclitics on the verb. These proclitics are phonologically bound to the verb, as indicated by the use of the equals sign in the glosses (e.g., ""maa"" for 1st person singular negative pronoun).
+
+3. **Examples**:
+   - (262) ""vaga kOI) ba bEllE"" (The dog did not come) uses the negative particle ""ba"".
+   - (263) ""maa hamandaa ke sa btllaa"" (I don't think that he will come back tomorrow) uses the negative pronoun ""maa"".
+   - (264) ""mg hamandaa ke sa daa bElla"" (I don't think that he will come back tomorrow) uses the negative pronoun ""daa"".
+
+4. **Phonological Boundaries**: The negative subject pronouns are described as proclitics, which means they are phonologically bound to the verb. This is evident from the examples and the description provided.
+
+Given this information, it is clear that standard negation in Koromfe can be marked by an affix, clitic, or modification of the verb, specifically through the use of negative subject pronouns that are proclitics.
+
+**Conclusion:** 1",1,1
+Nobiin,"Based on the provided paragraphs from the descriptive grammar of Nobiin, it is possible to determine the method of standard negation in the language. Here is the reasoning:
+
+1. **Periphrastic Constructions in Old Nobiin**:
+   - The text describes that negation in Old Nobiin is periphrastic, using the verb ""men-/min-"" meaning 'not to be'. This verb can follow a participle, predicative, or indicative form.
+   - Examples provided show the use of ""men-/min-"" in various constructions, such as:
+     - ""iar-il min-il-gu-!"" (Participle Periphrastic)
+     - ""kon-men-na-lo"" (Predicative Periphrastic)
+     - ""kop-ona men-a"" (Indicative Periphrastic)
+
+2. **Modern Nobiin**:
+   - The text transitions to Modern Nobiin, where the formerly independent verb ""min-/men-"" has evolved.
+   - In Modern Nobiin, the element ""-min/-muun-"" is inserted between the verbal base and the ending, indicating a shift from a periphrastic to a more bound form of negation.
+   - The paradigm of the negative present shows the insertion of ""-muun-"" or ""-min-"" as a bound morpheme:
+     - 1SG: -muun (-mun)
+     - 2SG: -muunam
+     - 3SG: -muun
+     - 1PL: -muun
+     - 2PL: -muunokom
+     - 3PL: -muuna (-muunna)
+
+From this information, it is clear that in Modern Nobiin, standard negation can be marked by an affix or modification of the verb. The element ""-muun-"" or ""-min-"" is inserted into the verb, making it a bound morpheme that marks negation.
+
+**Conclusion:** 1",1,1
+Nyimang,"Based on the provided paragraph, it is possible to determine that standard negation in Nyimang can be marked by an affix, clitic, or modification of the verb. Here is the reasoning:
+
+1. **Affixation**: The paragraph mentions the particle ""-de"" which can be attached to verbs to indicate negation. For example, ""tAde gwesheag"" translates to ""They are not fighting,"" where ""-de"" is attached to the verb ""tA"" (fight).
+
+2. **Modification of the Verb**: The examples show modifications in the verb forms to indicate negation. For instance, ""a fg tai"" translates to ""I am not going,"" where ""fg"" seems to be a modification indicating negation.
+
+3. **Cliticization**: The glosses provided do not explicitly show clitics marked by an equals sign ""="", but the presence of affixes and verb modifications is sufficient to conclude that negation can be marked directly on the verb.
+
+Given these points, it is clear that standard negation in Nyimang can be marked by an affix or modification of the verb.
+
+**Conclusion:** 1",0,1
+Lamé,"Based on the provided paragraphs from the descriptive grammar, it is clear that standard negation in Lamé is marked by the use of negative particles ""tsú"" and ""mì"". These particles are not affixes or clitics that are phonologically bound to the verb. Instead, they are separate words that occur in specific positions within the clause: ""tsú"" follows the subject noun or pronoun, and ""mì"" appears at the end of the clause.
+
+There is no indication in the provided text that negation is marked by modifying the verb itself or by using affixes or clitics that attach to the verb. The examples and explanations consistently show the use of separate negative particles.
+
+**Reasoning:**
+1. The negative markers ""tsú"" and ""mì"" are described as separate particles that are positioned in the clause but are not bound to the verb.
+2. The examples provided show these particles as separate words, not as affixes or clitics attached to the verb.
+3. There is no mention of any modification of the verb itself to indicate negation.
+
+**Conclusion:** 0",0,0
+Bininj Gun-Wok,"Based on the provided paragraphs from the descriptive grammar of Bininj Gun-Wok, it is possible to determine the method of standard negation in the language. Here are the key points extracted from the text:
+
+1. **Negation Particle Placement**:
+   - The text states: ""This is signalled by a negative particle placed immediately before the verb.""
+   - This indicates that negation is marked by a particle that precedes the verb rather than by modifying the verb itself or using an affix/clitic.
+
+2. **Examples of Negative Particles**:
+   - The forms of the negative particle are given as ""Dj djama, W minj, and o.d. marrek.""
+   - These particles are used to signal negation in various contexts, including past events and other TAM values.
+
+3. **Interaction with Verbal Affixes**:
+   - The text mentions: ""The negative interacts with a number of verbal affixes to give specific complex meanings.""
+   - However, this interaction does not imply that the negation itself is marked by an affix or clitic on the verb. Instead, it suggests that the negative particle can combine with verbal affixes to convey more complex meanings.
+
+4. **Examples of Usage**:
+   - Several examples are provided where the negative particle precedes the verb:
+     - ""IlIl-spear |ʵӗ 2OBL NEG ‘I looked for your spear, but didn’t find it.’""
+     - ""Marrek _  birri-ngu-yi. NEG 3a/3-eat-IRR ‘They didn’t eat it.’""
+     - ""Minj‫ ؀‬ karri-yawoyh-dulubun NEG Č12a/3-again-shootNP ‘We won’t be able to shoot any more flying foxes.’""
+
+From these points, it is clear that standard negation in Bininj Gun-Wok is primarily marked by a negative particle placed before the verb, rather than by an affix, clitic, or modification of the verb itself.
+
+### Conclusion:
+0",0,0
+Wambaya,"Based on the provided paragraph from the descriptive grammar of Wambaya, we can analyze the method of standard negation in the language. Here are the key points:
+
+1. **Negative Particles**: The paragraph mentions two negative particles, ""yangula"" and ""guyala,"" which appear in the initial position in the clause. These particles are used to mark negation in declarative sentences.
+
+2. **Auxiliary Modifications**: The paragraph describes that the presence of these negative particles often requires modifications in the auxiliary verb. Specifically:
+   - Both particles usually require the presence of the hypothetical suffix in the auxiliary in future clauses.
+   - ""Guyala"" requires the auxiliary to contain an irrealis mood suffix in past and present tense clauses.
+   - In past and present tense clauses with ""yangula,"" the auxiliary has the same form as in the corresponding positive sentence.
+
+3. **Examples**: The examples provided show the use of these negative particles in sentences:
+   - (7-155) ""Guyala ng-uda gajbî manganyma."" (I couldn't eat any dinner.)
+   - (7-156) ""Guyala ngurr-uji ngajbi irra."" (We never see them.)
+   - (7-157) ""Yangula îrri-ng-a jiyawu."" (They didn't give me (my country).)
+   - (7-158) ""Yangula îrri-n nananga guri-guriny-mi."" (They're not looking after her properly.)
+
+From the analysis, it is clear that standard negation in Wambaya involves the use of negative particles (""yangula"" and ""guyala"") that are separate words and not phonologically bound to the verb. Additionally, the auxiliary verb may be modified by suffixes (hypothetical or irrealis) in the presence of these negative particles.
+
+However, the negative particles themselves are not affixes or clitics attached to the verb. They are separate words that trigger modifications in the auxiliary verb. Therefore, standard negation in Wambaya is not marked by an affix, clitic, or modification of the verb directly but rather by the presence of separate negative particles and auxiliary modifications.
+
+**Reasoning**: The negative particles ""yangula"" and ""guyala"" are separate words and not phonologically bound to the verb. The auxiliary verb may be modified, but this modification is triggered by the presence of the negative particles, which are not affixes or clitics.
+
+**Conclusion**: 0",0,0
+Wardaman,"Based on the provided paragraphs from the descriptive grammar of Wardaman, it is possible to determine how standard negation is marked in the language. Here is the reasoning:
+
+1. **Negation with Particles**: The paragraphs indicate that negation in Wardaman is commonly marked with the particles ""wonggo"" or ""warna"". These particles appear before the verb to negate the clause, as seen in examples (420) through (425).
+
+2. **Verb Forms in Negated Clauses**: The verbs in the negated clauses do not show any affixation or cliticization specifically for negation. Instead, the negation is achieved through the use of the particles ""wonggo"" or ""warna"".
+
+3. **Absence of Verb Modification for Negation**: There is no evidence in the provided text that suggests the verbs themselves are modified (e.g., through affixation or cliticization) to indicate negation. The negation is consistently marked by separate particles that precede the verb.
+
+Given this information, it is clear that standard negation in Wardaman is not marked by an affix, clitic, or modification of the verb itself. Instead, it is marked by separate particles that are not phonologically bound to the verb.
+
+**Conclusion:** 0",0,0
+Gooniyandi,"Based on the provided paragraphs from the descriptive grammar of Gooniyandi, we can analyze the method of standard negation in the language.
+
+1. **Analysis of Negation in Gooniyandi:**
+   - The paragraphs describe the use of the lexeme ""mangaddi"" as a negative particle in Gooniyandi.
+   - ""Mangaddi"" is used to negate propositions, indicating that the proposition in its scope is false.
+   - Examples provided show ""mangaddi"" functioning as a separate word (particle) that precedes the verb or other elements in the sentence to convey negation.
+   - There is no indication that ""mangaddi"" attaches to the verb as an affix or clitic. Instead, it appears as an independent word that modifies the entire clause or specific elements within the clause.
+
+2. **Examples:**
+   - (6-113) ""mangaddi girili-ya-nyali mangaddi warayaddi"" translates to ""We didn't stand by that tree again.""
+   - (6-114) ""mangaddi ganaddaya mangaddi bijginyjawoo"" translates to ""Don't come at dawn.""
+   - (6-117) ""mangaddi maa ngabgidda"" translates to ""No(thing), we're eating meat.""
+
+In all these examples, ""mangaddi"" is used as a separate particle and not as an affix or clitic attached to the verb.
+
+**Reasoning:**
+The provided paragraphs indicate that standard negation in Gooniyandi is marked by the use of the negative particle ""mangaddi,"" which functions independently and is not phonologically bound to the verb. There is no evidence in the provided text that negation is marked by an affix, clitic, or modification of the verb itself.
+
+**Conclusion:** 0",0,0
+Tiwi,"Based on the provided paragraphs from the descriptive grammar of Tiwi, we can analyze the methods of standard negation in the language.
+
+1. **Paragraph Analysis:**
+   - **Paragraph 1 (6.5.2):** Discusses possessive non-verbal clauses and provides examples of negation using the word ""kaluwu"" (translated as ""not""). This negation appears to be a separate word, not an affix or clitic.
+   - **Paragraph 2 (6.6.1):** Describes general negation in Tiwi (TT) using negative particles like ""arnuka"" or ""karluwu"" and mentions that these particles normally occur immediately before the verb or verbal complex. It also mentions the use of subjunctive or irrealis prefixes on the verb in negative clauses.
+   - **Examples (6-90):** Provide instances of negation with ""arnuka"" and ""karrikuwani,"" which are separate words, not affixes or clitics.
+   - **Examples (6-91):** Discuss negative imperatives using the particle ""ngajiti"" and different verbal prefixes for negative imperatives, but these prefixes are not explicitly shown as being used for standard negation in declarative sentences.
+   - **Examples (6-92):** Show the use of ""kalu"" for negation, which is a separate word.
+   - **Examples (6-93):** Include negative pronouns and particles, again as separate words.
+
+2. **Reasoning:**
+   - The provided paragraphs consistently show that negation in Tiwi is marked by separate negative particles (e.g., ""arnuka,"" ""karluwu,"" ""kalu"") and not by affixes or clitics attached to the verb.
+   - There is no evidence in the provided text that standard negation in declarative sentences involving dynamic verbal predicates is marked by an affix, clitic, or modification of the verb itself.
+
+**Conclusion:** 0",0,0
+Nakkara,"Based on the provided paragraphs from the descriptive grammar of Nakkara, we can analyze the method of standard negation in the language.
+
+1. **Paragraph 1** discusses various pronominal prefixes and oblique forms but does not provide information directly related to the negation of dynamic verbal predicates.
+
+2. **Paragraph 2** introduces the concept of irrealis in Nakkara, which includes future tense, negative verbs, and subjunctive clauses. It specifically mentions that the form of the verb can change according to the status, polarity, and mood of the accompanying verb complex.
+
+3. **Paragraph 3** elaborates on the irrealis components in the verb complex, identifying three slots that indicate the status and polarity of a verb:
+   - The Negative prefix slot preceding the PP (Negative Irrealis: /ka/)
+   - The irrealis slot immediately following the PP (Irrealis: /*y/)
+   - The tense slot following the verb-stem (Negative Irrealis: /-ma/)
+
+4. **Paragraph 4** provides further details on the morphological representations of the irrealis category, specifically mentioning the palatal segment /*y/ and the negative affix /-ma/. It states that the palatal segment /*y/ always occurs immediately following the PP and is often accompanied by the negative marker /-ma/, which follows the verb stem in the tense suffix slot of the verb complex.
+
+From this information, it is clear that standard negation in Nakkara can be marked by an affix or modification of the verb. The negative affix /-ma/ attaches to the verb stem, and the palatal segment /*y/ functions as a status marker for negative verb constructions.
+
+**Reasoning:**
+- The negative affix /-ma/ is explicitly mentioned as following the verb stem in the tense suffix slot.
+- The palatal segment /*y/ is also part of the verb complex and is used in negative constructions.
+
+**Conclusion:** 1",1,1
+Garrwa,"1. Based on the provided paragraphs, it is clear that standard negation in Garrwa can be marked by an affix, clitic, or modification of the verb. The evidence is as follows:
+
+- The negative particle ""miku"" is used in initial position to mark negation.
+- In non-past contexts, verbs occur in the irrealis form, marked by the suffix ""-kanyi"" (e.g., ""jilaj-kanyi"" in example 9.95).
+- In past contexts, the pronoun takes the clitic ""=ya(nyi)"" for past negation (e.g., ""yali=yanyi"" in example 9.101).
+- The clitic ""=yi"" is used to mark negation of ability (e.g., ""ngayi=yi"" in example 9.106).
+
+These examples demonstrate that negation in Garrwa involves modifications of the verb (irrealis suffix ""-kanyi"") and the use of clitics (e.g., ""=yanyi"" for past negation and ""=yi"" for negation of ability), both of which are phonologically bound to the verb or pronoun.
+
+Conclusion: 1",0,1
+Ngankikurungkurr,"1. Based on the provided paragraphs, it is possible to determine that standard negation in Ngankikurungkurr can be marked by an affix or clitic that is phonologically bound to the verb. 
+
+In Paragraph 1, the example ""minbe-tye"" (Neg-Past) indicates the use of a negation marker ""minbe"" which is combined with the past tense marker ""tye"". This suggests that negation can be marked by a bound morpheme (affix or clitic) attached to the verb.
+
+In Paragraph 2, the sentence ""minbe-tye ngana-ne-kuli"" (Neg-Past 1sgFeet-3sg-throw) further supports this observation. The negation marker ""minbe"" is again bound to the past tense marker ""tye"", indicating that negation is marked by a bound morpheme.
+
+Therefore, the evidence from these paragraphs shows that standard negation in Ngankikurungkurr can indeed be marked by an affix or clitic that is phonologically bound to the verb.
+
+Conclusion: 1",0,1
+Wagiman,"Based on the provided paragraphs from the descriptive grammar of Wagiman, we can analyze the method of standard negation in the language.
+
+### Analysis:
+
+1. **Paragraph 1 (10,1.2):**
+   - The negator ""wudyi"" is described as the usual sentential negator, which negates the proposition expressed in the clause.
+   - Examples provided:
+     - **Example 10-5:** ""wudyi ga-ya' ganq-ma ga'an lagiban g-~a-ggi yedena""
+       - Gloss: ""NEG 3sg:IPFV-tell 1sg OBL-FOC that man 3sg:PFV-go-PAST sneak""
+       - Translation: ""(That man) said nothing to me but just sneaked off.""
+     - **Example 10-6:** ""wudyi gety gan-ge-0 daganp-gu""
+       - Gloss: ""NEG ask-PCT 3sg/lsg-put-PPCT food-DAT""
+       - Translation: ""He didn't ask me for food.""
+     - **Example 10-7:** ""mdyi ga-nanda-yi ga'an lagiban daty gan-bu-0""
+       - Gloss: ""NEG 1sg-see-PAST that man belt-PCT 3sg/lsg-hit-PPCT""
+       - Translation: ""I didn't see that man who hit me.""
+
+From the examples and descriptions provided, we can observe the following:
+- The negator ""wudyi"" (or ""mdyi"") appears as a separate word at the beginning of the clause.
+- There is no indication that the negator attaches to the verb as an affix or clitic.
+- The verbs in the examples do not show any modification that indicates negation.
+
+### Conclusion:
+Based on the information provided in the paragraphs, standard negation in Wagiman is marked by a separate word (wudyi or mdyi) that precedes the verb and negates the entire proposition. There is no evidence from the given text that negation is marked by an affix, clitic, or modification of the verb itself.
+
+**Conclusion:** 0",0,0
+Neo-Aramaic (Assyrian),"Based on the provided paragraph from the descriptive grammar of Neo-Aramaic (Assyrian), we can analyze the method of standard negation in the language.
+
+### Reasoning:
+
+1. **Negation Particle ""la""**:
+   - The paragraph states that verbal forms are negated by the particle ""la,"" which is placed before verbs derived from the present and past bases and also before the imperative.
+   - Examples provided include:
+     - la-pál6† ~ lá-pal6† (‘He does not go out’)
+     - la-plí†le ~ lá-pli†le (‘He did not go out’)
+     - la-plú† ~ lá-plu† (‘Do not go out!’)
+
+2. **Phonological Binding**:
+   - The negation particle ""la"" is frequently linked to the verb in the same stress group, indicating a close phonological relationship.
+   - The stress can fall either on the negator or on the verb, suggesting that ""la"" can be phonologically bound to the verb.
+
+3. **Combination with Pre-verbal Particles**:
+   - The particle ""la"" can combine with pre-verbal particles such as ""i-"" and ""q6m-,"" and undergoes phonetic processes that further integrate it with the verb.
+   - Examples include:
+     - le-y-pal6†
+     - l5-pal6†
+
+4. **Corpus Examples**:
+   - The text corpus examples show the negation particle ""la"" (or its contracted forms) directly preceding the verb:
+     - ""an-náše le-y-mbáqri m6n-""árxa ""áti m-ˆk5w6t} (‘Those people do not ask from a guest “Where are you from?”’)
+     - bás le-y-mabyênwa} (‘but it did not show’)
+     - le-y-máxi pr•zla l-""áql6t dawˆre?} (‘Don’t people put metal on the feet of mules?’)
+
+### Conclusion:
+Based on the evidence provided, standard negation in Neo-Aramaic (Assyrian) can be marked by a particle (""la"") that is phonologically bound to the verb. Therefore, the correct option is:
+
+**Conclusion: 1**",1,1
+English,"1. The paragraphs provided from the descriptive grammar of English clearly indicate that standard negation in English can be marked by a modification of the verb or an affix/clitic that is phonologically bound to the verb. Specifically, the text describes two forms of primary verbal negation: analytic and synthetic. 
+
+- Analytic primary negation involves adding the word ""not"" after the auxiliary verb (e.g., ""Kim will not be here later on"").
+- Synthetic primary negation involves inflecting the auxiliary verb with the suffix ""-n't"" (e.g., ""Kim won’t be here later on"").
+
+The synthetic form, which uses the suffix ""-n't"", is a clear example of a phonologically bound morpheme (an affix) that marks negation directly on the verb. Additionally, the text explicitly states that ""-n't"" is a verbal suffix and provides syntactic, morphological, and phonological reasons for distinguishing it from the separate word ""not"".
+
+Given this information, it is evident that standard negation in English can indeed be marked by an affix or modification of the verb.
+
+2. Conclusion: 1",1,1
+Korean,"Based on the provided paragraphs from the descriptive grammar of Korean, we can analyze the methods of standard negation in the language.
+
+### Reasoning:
+
+1. **Short Negative**:
+   - The short negative form involves the use of the negative adverb ""an(i)"" or ""mos"" placed before the verb. For example:
+     - ""An(i) ponta"" (does not sell)
+     - ""An(i) c6h.ta"" (does not like)
+     - ""Cip i ani 'tu"" (is not at home)
+   - Here, ""an(i)"" and ""mos"" are separate words (negative adverbs) that precede the verb, indicating that they are not affixes or clitics attached to the verb.
+
+2. **Long Negative**:
+   - The long negative form involves the use of the auxiliary verb ""anh-"" or ""mos"" combined with the verb stem and the suffix ""-ci"". For example:
+     - ""Poci ani hantl"" (does not sell)
+     - ""Coh.ci ani hantl"" (does not like)
+     - ""Poci mds hantl"" (definitely does not sell)
+     - ""Coh.ci m6s hata"" (definitely does not like)
+   - In these constructions, the negative auxiliary ""anh-"" or ""mos"" is combined with the verb stem and the suffix ""-ci"". This indicates that the negation involves a periphrastic construction rather than a simple affix or clitic attached directly to the verb.
+
+From the analysis, it is clear that standard negation in Korean primarily involves the use of negative adverbs or auxiliary verbs in a periphrastic construction. There is no indication that negation is marked by an affix or clitic that is phonologically bound to the verb itself.
+
+### Conclusion:
+0",1,0
+Basque,"Based on the provided paragraph, we can analyze the method of standard negation in Basque:
+
+1. The paragraph indicates that the presence of negation induces changes in the basic word order pattern of Basque finite clauses. Specifically, the auxiliary verb merges with the negation and precedes the lexical verb. This is evident in the example provided:
+
+   - Affirmative: Etxea erori da. ('The house has fallen down.')
+   - Negative: Etxea ez da erori. ('The house has not fallen down.')
+
+2. The negation particle ""ez"" appears to be a separate word that precedes the auxiliary verb ""da."" There is no indication that ""ez"" is an affix or clitic that attaches to the verb. Instead, it seems to function as a separate particle that causes the auxiliary to move to a different position in the sentence.
+
+3. The description does not mention any modification of the verb itself or the use of affixes or clitics attached to the verb for marking negation. The negation is achieved through the use of the separate particle ""ez"" and the reordering of the auxiliary verb.
+
+Given this information, it is not possible to determine that standard negation in Basque is marked by an affix, clitic, or modification of the verb. Instead, it appears to be marked by a separate particle.
+
+**Conclusion:** 0",0,0
+Malayalam,"Based on the provided paragraphs from the descriptive grammar of Malayalam, we can analyze the method of standard negation in the language.
+
+Paragraph 8.29.2 explicitly states that the negative is formed by the addition of ""ie§y"" after the tense marker. Additionally, it mentions that when ""ie§y"" is added, the final ""-§"" of the tense marker becomes zero. This indicates a modification of the verb form to express negation.
+
+The key points are:
+1. The negative marker ""ie§y"" is added after the tense marker.
+2. The final ""-§"" of the tense marker becomes zero when the negative marker is added.
+
+This process involves both the addition of a bound morpheme (an affix or clitic) and a modification of the verb form (the final ""-§"" becoming zero). Therefore, it satisfies the criteria for standard negation being marked by an affix, clitic, or modification of the verb.
+
+**Reasoning:**
+- The negative marker ""ie§y"" is added directly after the tense marker, indicating it is phonologically bound to the verb.
+- The modification of the final ""-§"" of the tense marker to zero further supports that the verb form is altered to indicate negation.
+
+**Conclusion:** 1",1,1
+Iu Mien,"1. Based on the provided paragraphs, standard negation in Iu Mien is marked by the particle ""maiv"" /mai˦˥˧/ or its contracted form ""mv"" /m̩ ˦˥˧/, which are placed immediately before verbs, adjectival verbs, and auxiliary verbs. These particles are not affixes or clitics, as they are separate words that precede the verb rather than being phonologically bound to it. The examples provided show that negation is achieved through the use of these particles rather than through any modification of the verb itself or the addition of affixes or clitics to the verb.
+
+For instance:
+- (861-3) ""lorz maiv buatc."" (seek NEG see) translates to ""and yet didn’t find any.""
+- (862-3) ""Yie mbuo yaac mv buatc."" (1PL TOPCNTRST NEG see) translates to ""As far as we are concerned, we didn’t see (as they said though).""
+
+These examples illustrate that the negation is marked by the particles ""maiv"" or ""mv"" placed before the verb, rather than by any modification of the verb or the use of affixes/clitics.
+
+2. Conclusion: 0",0,0
+Semelai,"Based on the provided paragraphs from the descriptive grammar of Semelai, we can analyze the method of standard negation in the language. The key points to consider are:
+
+1. **Negator ""da?""**: The primary negator used for standard negation in Semelai is ""da?"" which is described as a propositional negator. It is used to negate both verbal and non-verbal predicates.
+
+2. **Position and Function**: ""da?"" always precedes the verbal word, including modal auxiliaries, and cannot stand alone as a minimal clause. This indicates that ""da?"" is a separate word that occupies a specific syntactic position rather than being an affix or clitic attached to the verb.
+
+3. **Examples**: The examples provided (e.g., (224) ""da? ?yot kdhn ke"" - ""He didn't return"") show ""da?"" preceding the verb without any indication of it being phonologically bound to the verb as an affix or clitic.
+
+4. **Scope of Negation**: The negation scope is over the whole predicate, and ""da?"" can co-occur with various aspectual and modal markers, but it remains a separate word.
+
+Given this information, it is clear that standard negation in Semelai is marked by a separate word ""da?"" that precedes the verb, rather than by an affix, clitic, or modification of the verb itself.
+
+### Reasoning:
+- The negator ""da?"" functions as a separate word that precedes the verb and is not phonologically bound to it.
+- There is no evidence in the provided paragraphs that negation is marked by an affix or clitic attached to the verb or by modifying the verb itself.
+
+### Conclusion:
+0",0,0
+Yukaghir (Kolyma),"1. Based on the provided paragraphs from the descriptive grammar of Yukaghir (Kolyma), it is clear that standard negation in the language can be marked by a prefix attached to the finite verb. This is evident from the examples given in paragraph 4.1.1, where the prefix ""el+"" is attached to the verb to indicate negation. For instance:
+
+- ""el+jan-ni"" (NEG+send-3PL:INTR) in the sentence ""They did not let me go there.""
+- ""el+jaqa-te-je"" (NEG+achieve-FUT-INTR:1SG) in the sentence ""I will not reach the house.""
+- ""el+keb-ej-te-jek"" (NEG+go-PFV-FUT-INTR:2SG) in the sentence ""You will not go away from here.""
+- ""el+lej"" (NEG+eat(NEG:3SG)) in the sentence ""That dog did not eat that.""
+
+These examples demonstrate that the negation is marked by an affix (prefix ""el+"") that is phonologically bound to the verb, fulfilling the criteria for standard negation marking as specified.
+
+Conclusion: 1",1,1
+Georgian,"Based on the provided paragraphs from the descriptive grammar of Georgian, we can analyze the method of standard negation in the language.
+
+1. **Modification of the Verb:**
+   - In the example ""txov+n+a-s ver äe-(Ø-)g-i-srul-eb"" ('I shall not be able to fulfil your request'), the verb ""äe-(Ø-)g-i-srul-eb"" is preceded by ""ver,"" which is a potential negation marker. This suggests that the verb form itself is not modified for negation in this instance.
+   - In the example ""gvino ar (Ø-)e-sm-ev-a"" ('X cannot drink wine'), the verb ""e-sm-ev-a"" is preceded by ""ar,"" which is described as the neutral marker of negation. Again, the verb form itself does not appear to be modified for negation.
+
+2. **Affix or Clitic:**
+   - The negation marker ""ar"" is described as the neutral marker of negation and is used before the verb. It is not an affix or clitic attached to the verb but a separate word.
+   - The example ""šen-s dge-ši ar ša-mo-(Ø-)m-rč-en-i-x-a+r"" ('In your day you did not fall short of me in battle') shows ""ar"" used before the verb ""ša-mo-(Ø-)m-rč-en-i-x-a+r."" This indicates that ""ar"" is a separate word and not an affix or clitic.
+
+3. **Conclusion:**
+   - The provided paragraphs indicate that standard negation in Georgian is marked by the separate word ""ar"" placed before the verb. There is no evidence in the given text that negation is marked by an affix, clitic, or modification of the verb itself.
+
+Therefore, based on the provided information, it is not possible to determine that standard negation in Georgian is marked by an affix, clitic, or modification of the verb.
+
+**Conclusion:** 0",0,0
+Alutor,"Based on the provided paragraphs from the descriptive grammar of Alutor, it is possible to determine that standard negation in the language can be marked by an affix, clitic, or modification of the verb. Here is the reasoning:
+
+1. **Affixes and Circumfixes**:
+   - The text mentions the use of circumfixes for negation, such as ""tymNi-...-a/-ta"" and ""a-...-kyl@in"". For example, in (17a), ""a-viHy-kyl@in"" (A-die-NEG+3sg) indicates the animal is not dead.
+   - The circumfix ""tymNi-...-a/-ta"" is used to derive negative forms, as seen in (18d) ""tymNi-wisat-a"" (NEG-turn.sour-SUP).
+
+2. **Negative Particles with Verb Modifications**:
+   - The negative particle ""ally"" is used in combination with verbs to form negative constructions, as in (13a) ""ally a-la@u-ka"" (not A-see-PRED`), meaning ""I didn't see (them)"".
+   - The particle ""kytvy(l)"" is used for prohibitive negation, as in (13b) ""kytvyl a-wintat-ka"" (must.not A-help-PRED`), meaning ""Don't you dare help"".
+
+3. **Analytical Forms**:
+   - The analytical form ""nuN-...-a/-ta"" is used in negation, as in (16a) ""nuNy-nm-a"" (NEG-kill-ANLT), meaning ""We don't have to kill them"".
+   - The combination of the negative particle with the analytical form derived from the deverbal predicative is also mentioned.
+
+4. **Clitics**:
+   - The text does not provide explicit examples of clitics used for negation in the provided paragraphs, but the presence of affixes and circumfixes is sufficient to meet the criteria.
+
+Given these points, it is clear that Alutor employs affixes, circumfixes, and modifications of the verb to mark standard negation.
+
+**Conclusion:** 1",1,1
+Thai,"Based on the provided paragraphs from the descriptive grammar of Thai, we can determine the method of standard negation in the language.
+
+### Reasoning:
+
+1. **Paragraph 1**:
+   - It mentions that a negative sentence is formed by putting a negative word in front of the verb or, in certain cases, after it. This indicates that negation is achieved through the use of separate negative words rather than affixes or clitics attached to the verb.
+
+2. **Paragraph 2**:
+   - The paragraph provides examples of negation using the word ""MY"" (negative word) placed before the verb. For instance:
+     - ""CHUN MY DY PY"" translates to ""I did not go.""
+     - ""MEU-A WAHN NEE CHUN MY DY PY"" translates to ""Yesterday I did not go.""
+   - These examples show that the negative word ""MY"" is used as a separate word preceding the verb, rather than as an affix or clitic attached to the verb.
+
+Given the information from both paragraphs, it is clear that standard negation in Thai is marked by separate negative words placed before the verb. There is no indication that negation is marked by an affix, clitic, or modification of the verb itself.
+
+### Conclusion:
+0",0,0
+Nganasan,"Based on the provided paragraphs from the descriptive grammar of Nganasan, we can determine the method of standard negation in the language. Here is the reasoning:
+
+1. **Negative Auxiliary and Connegative Form**: The text states that the default way to negate a sentence in Nganasan is through the use of the negative auxiliary ""ńisɨ"". This auxiliary is inflected for mood, tense, and agreement with the subject (and sometimes the object). This indicates that the auxiliary itself is a separate word that carries the negation.
+
+2. **Connegative Marker**: The main verb in the negative phrase takes a connegative marker ""-ʔ"". This marker is an affix that attaches to the verb, modifying it to indicate negation. The presence of this connegative marker on the verb shows that negation can indeed be marked by an affix that is phonologically bound to the verb.
+
+Given this information, it is clear that standard negation in Nganasan involves the use of an affix (the connegative marker ""-ʔ"") that attaches to the verb.
+
+**Conclusion:** 1",0,1
+Nivkh (South Sakhalin),"1. Based on the provided paragraphs, it is evident that standard negation in Nivkh (South Sakhalin) can be marked by a modification of the verb or an affix/clitic that is phonologically bound to the verb. This conclusion is drawn from the following observations:
+
+- The supine form is used for non-future negation in the Amur variety, as seen in examples (45a) and (45b), where the verb is modified to express negation.
+- Example (46) shows the use of a suffix for negation: ""siḑhagin-nә-j-xsu-r"" (anything-do-EXPL-NEG.HAB-CV:3s), where ""xsu"" is a suffix indicating habitual negation.
+- The text explicitly states that ""Negation is otherwise expressed with the suffix given in table 1.7,"" indicating that negation can be marked by a suffix attached to the verb.
+
+These points collectively indicate that negation in Nivkh (South Sakhalin) can indeed be marked by modifications of the verb or by affixes/clitics that are phonologically bound to the verb.
+
+Conclusion: 1",1,1
+Jarawa (in Andamans),"Based on the provided paragraphs from the descriptive grammar of Jarawa, it is clear that standard negation in the language can be marked by an affix or modification of the verb. Specifically, the paragraphs describe two methods of negation:
+
+1. **Using the independent negative word ""naɖem""**: This method places the negative word after the predicate, as shown in examples (4.57) and (4.58). While this method does not involve modifying the verb directly, it is one of the strategies for negation in Jarawa.
+
+2. **Using the suffix ""-ma""**: This method involves attaching the suffix ""-ma"" directly to the verbal predicate to indicate negation. This is explicitly demonstrated in example (4.67), where ""allema"" (come) becomes ""allema-ma"" (did not come). The grammar also notes that this suffix replaces any other suffixal markings on the verb, indicating that it is a direct modification of the verb for the purpose of negation.
+
+Given this information, it is evident that standard negation in Jarawa can indeed be marked by an affix (the suffix ""-ma"") that is phonologically bound to the verb.
+
+**Reasoning:**
+- The suffix ""-ma"" is used to negate the verb directly, as shown in example (4.67).
+- The grammar explicitly states that the suffix ""-ma"" is employed on the verbal predicate for negation.
+
+**Conclusion:** 1",1,1
+Nahali,"1. Based on the provided paragraphs, it is evident that standard negation in Nahali can be marked by an affix, clitic, or modification of the verb. Several examples demonstrate this:
+
+- The negative marker ""beṭhe"" can occur either before or after the verb, and it can undergo phonological changes when it precedes the verb, such as in ""jo beppa:ṭo"" (I will not come) where ""beṭhe"" is reduced to ""be-"" and the first consonant of the verb is geminated.
+- The negative marker ""ho:ṭo"" is used in past tense constructions and always precedes the verb, sometimes undergoing assimilation, as seen in ""jo ho:to ha:go ḍa:n"" (I had not laughed).
+- The negative imperative marker ""biji"" can precede or follow the verb and can undergo assimilatory changes when it precedes the verb, such as in ""bippa:ṭo"" (don’t come) where ""biji"" is reduced to ""bi-"" and the first consonant of the verb is geminated.
+
+These examples clearly show that negation in Nahali can be marked by elements that are phonologically bound to the verb, either as affixes or clitics, and by modifications of the verb itself.
+
+Conclusion: 1",1,1
+Kusunda,"Based on the provided paragraphs from the descriptive grammar of Kusunda, we can analyze the method of marking standard negation in the language. Here are the key points:
+
+1. **Negative Realis in Class II Verbs**:
+   - The negative realis assertion is marked by a suffix `-aÚu`.
+   - Examples provided show the suffix `-aÚu` attached to the verb:
+     - `tsi e-d-a u` (I give-1-NEG) translates to ""I did not give.""
+     - `tok e-d-a u` (we give-1-NEG) translates to ""We did not give.""
+     - `nu e-n-a u` (you give-2-NEG) translates to ""You did not give.""
+     - `nok e-n-a u` (you.pl give-2-NEG) translates to ""You [pl] did not give.""
+     - `gina e-g-a u` (he/she give-3-NEG) translates to ""He/she did not give.""
+
+2. **Negative Realis in Class I Verbs**:
+   - Class I verbs mark negative realis with the suffix `-daÚu`.
+   - The suffix `-d` in Class II verbs is part of the person marking system, but in Class I verbs, it has become part of the negative suffix.
+
+From these points, it is clear that standard negation in Kusunda is marked by a suffix that attaches to the verb. The suffixes `-aÚu` and `-daÚu` are phonologically bound to the verb, indicating negation.
+
+### Reasoning:
+The paragraphs provide explicit examples and descriptions of how negation is marked in Kusunda. The use of suffixes `-aÚu` and `-daÚu` attached to the verb forms clearly indicates that standard negation can be marked by an affix that is phonologically bound to the verb.
+
+### Conclusion:
+1",1,1
+Udihe,"### Reasoning:
+
+Based on the provided paragraphs from the descriptive grammar of Udihe, we can determine how standard negation is marked in the language. Here are the key points extracted from the text:
+
+1. **Negative Auxiliary Verb**: The primary method of negation in Udihe involves the use of a negative auxiliary verb e(i)-. This auxiliary verb precedes the main verb and can take various morphological forms to reflect tense, aspect, and agreement (e.g., e-si-ti, e-s'e-li).
+
+2. **Affixation and Clitics**: The negative auxiliary verb e(i)- can attach to the verb with affixes that indicate person, number, and tense. For example:
+   - e-si-ti (NEG-PAST-3PL)
+   - e-s'e-li (NEG-PERF-CC.SS)
+   - e-ini (NEG-3SG)
+
+3. **Periphrastic Construction**: The negation is often periphrastic, involving the negative auxiliary verb followed by the bare stem of the main verb. This construction can also include additional elements like the copula verb 'be' in certain tenses.
+
+4. **Examples**:
+   - ""Bi ei-mi sa:."" (me NEG-1SG know) - 'I don't know.'
+   - ""Ine'i e-ini yene."" (dog NEG-3SG go) - 'The dog is not walking.'
+   - ""Sin-tigi e-zeqe-i dian-a."" (you-LAT NEG-FUT-1SG say-0) - 'I won't tell you.'
+
+These examples show that the negative auxiliary verb e(i)- is morphologically bound to the verb, indicating that negation in Udihe can be marked by an affix or clitic that is phonologically bound to the verb.
+
+### Conclusion: 1",0,1
+Ingush,"Based on the provided paragraphs from the descriptive grammar of Ingush, we can determine the method of standard negation in the language.
+
+1. **Negation Marking on the Verb:**
+   - The text explicitly states that ""Negation is formally marked only on the verb in Ingush, regardless of its semantic scope."" This indicates that negation is directly associated with the verb.
+   
+2. **Types of Negative Morphemes:**
+   - The negative morpheme can be a suffix or a proclitic particle depending on the verb's inflectional form. Specifically:
+     - **Suffix** for tense forms (e.g., ""Xaa-c"" where ""-c"" is the negative suffix).
+     - **Proclitic cy** for converbs and nonfinites (e.g., ""Nuu cy hwaqacha"" where ""cy"" is the proclitic).
+     - **Proclitic my** for imperatives (e.g., ""my vaaliitalaa"" where ""my"" is the proclitic).
+
+3. **Examples Provided:**
+   - Example (1): ""Xaa-c suona=m."" (""know-NEG 1s.DAT=FOC"") - Here, the negation is marked by the suffix ""-c"" attached to the verb ""Xaa"" (know).
+   - Example (3): ""Nuu cy hwaqacha ladar chy-doalar"" (""broom NEG sweep.CVtemp leak in-D.go.IMPF"") - Here, the negation is marked by the proclitic ""cy"" attached to the verb ""hwaqacha"" (sweep).
+   - Example (4): ""my vaaliitalaa"" (""NEG V.go-CSind.IMPVmild"") - Here, the negation is marked by the proclitic ""my"" attached to the verb ""vaaliitalaa"" (go).
+
+From the information provided, it is clear that standard negation in Ingush can be marked by an affix (suffix) or a clitic (proclitic) that is phonologically bound to the verb. Therefore, the correct option is 1.
+
+**Conclusion:** 1",1,1
+Lezgian,"1. The paragraph provided gives clear evidence that standard negation in Lezgian can be marked by an affix or a modification of the verb. Specifically, it mentions that finite indicative verb forms are negated by means of the suffix -δ, as seen in the example ""guzwa 'gives', guzwa-c 'does not give'"". This indicates that a suffix, which is an affix, is used to mark negation directly on the verb. Additionally, it mentions prefixal negation for non-finite and non-indicative verb forms, involving either a negative auxiliary or a negative prefix (e.g., t(A)-). Both the suffix -δ and the prefix t(A)- are affixes that modify the verb to indicate negation.
+
+2. Conclusion: 1",1,1
+Galo,"Based on the provided paragraphs from the descriptive grammar of Galo, we can determine the method of standard negation in the language.
+
+1. **Evidence from the Text:**
+   - In example (611), the verb ""ascend"" is marked with the suffixes ""-kú"" (Completive) and ""-máa"" (Negative), resulting in ""càa-kú-máa"" which translates to ""doesn’t go up anymore.""
+   - Example (612) shows a similar structure with ""càa-kú-máa-rə́"" where ""-máa"" is again used as a negative suffix.
+   - Example (613) demonstrates another ordering with ""cáa-máa-rə́-kú,"" where ""-máa"" is used as a negative suffix before the irrealis and completive markers.
+   - The text explicitly states that ""Final predicates in negative polarity are obligatorily suffixed in -máa,"" indicating that the negation is marked by a suffix attached to the verb.
+
+Given this information, it is clear that standard negation in Galo can be marked by an affix (specifically, the suffix ""-máa"") that is phonologically bound to the verb.
+
+**Conclusion:** 1",1,1
+Yup'ik (Norton Sound),"1. Based on the provided paragraphs from the descriptive grammar of Yup'ik (Norton Sound), it is clear that standard negation in this language can be marked by affixes or modifications of the verb. The text mentions several verb-elaborating suffixes (VVn) that are used to indicate negation. For example, the most general and common negator is the VVn suffix |-nћլit-| meaning 'not', and its variant |+1pѠkѠ-|. Additionally, other negation suffixes such as |-at-|, |-nћլiћլ-|, and |-Ѥћլ(u)it-| are also listed, each serving different nuances of negation. These suffixes are phonologically bound to the verb, indicating that negation is indeed marked by affixes or modifications of the verb in Yup'ik (Norton Sound).
+
+2. **Conclusion:** 1",1,1
+Yuki,"1. Based on the provided paragraphs, it is clear that standard negation in Yuki can be marked by an affix that is phonologically bound to the verb. Specifically, the negative morpheme ""-ṭan"" is used as a suffix to negate verbs. This is evident in examples (103) and (104):
+
+- In (103) ""mu:šakṭanpaˀ"" (laugh-SEM-NEG-FUT), the verb ""muš-ąk"" (laugh) is negated by the suffix ""-ṭan"".
+- In (104) ""hąw č a:niṭan"" (fish give-NEG), the verb ""č an"" (give) is negated by the suffix ""-ṭan"".
+
+Additionally, the text mentions that verbs are negated with the negative ""-ṭan"" and provides further examples in (105) and (106), reinforcing the use of the suffix ""-ṭan"" for negation.
+
+2. Conclusion: 1",1,1
+Pipil,"Based on the provided paragraph, it is possible to determine the method of standard negation in Pipil. The paragraph explicitly states that Pipil uses the negatives ""te:"", ""tesu"", and ""inte"" and mentions that there is no ready evidence of any negative affixes. This indicates that negation in Pipil is achieved through separate negative particles rather than through affixes, clitics, or modifications of the verb.
+
+Here is the relevant excerpt from the paragraph:
+> ""Pipil has the negatives te:, tesu, and inte, with no ready evidence of any negative affixes.""
+
+Given this information, we can conclude that standard negation in Pipil is not marked by an affix, clitic, or modification of the verb.
+
+**Reasoning:**
+1. The paragraph explicitly states that Pipil uses separate negative particles (""te:"", ""tesu"", ""inte"") for negation.
+2. It also explicitly mentions that there is no evidence of negative affixes in Pipil.
+3. Therefore, negation in Pipil is not marked by an affix, clitic, or modification of the verb.
+
+**Conclusion:** 0",0,0
+Micmac,"Based on the provided paragraph, it is possible to determine that standard negation in the language Micmac can be marked by an affix or modification of the verb. Here is the reasoning:
+
+1. The paragraph discusses the negative forms of intransitive verbs in Micmac and provides several examples of these forms. It specifically mentions the negative morpheme ""-w-"" (or its variant ""[G]"") and describes its position within the verb structure. The negative morpheme appears to follow the dual or plural number morpheme and precedes the person markers. This indicates that the negative morpheme is an affix that attaches to the verb.
+
+2. The examples given, such as ""welagapiwun"" (2 singular negative) and ""welagapiweg"" (1 dual negative), show that the negative morpheme ""-w-"" is integrated into the verb form. This integration suggests that the negation is marked by a modification of the verb through the addition of an affix.
+
+3. The paragraph also states that even if the negative morpheme arises outside the verb and is moved within the verb transformationally, it is assumed to occur before any phonological rules apply. This further supports the idea that the negative morpheme is treated as part of the verb structure.
+
+Conclusion: 1",1,1
+Tepehua (Huehuetla),"1. Based on the provided paragraphs from the descriptive grammar of Tepehua (Huehuetla), it is clear that standard negation in this language is marked by a negative particle, specifically ""jaantu"" or its truncated form ""tuu"". These particles are not phonologically bound to the verb as affixes or clitics; instead, they occur as separate words that precede the verb or the verb phrase. The examples provided consistently show ""jaantu"" or ""tuu"" positioned before the verb or verb phrase, but not attached to the verb as an affix or clitic.
+
+For instance:
+- In (790a), ""jaantu"" precedes the verb ""laay"" (can-IMPFV).
+- In (790b), ""tuu"" precedes the verb ""laay"" (can-IMPFV).
+- In (791a), ""jaantu"" precedes the verb ""tamispaay"" (3PL.SUB-know-IMPFV).
+
+These examples demonstrate that the negative particle is a separate word and not an affix or clitic attached to the verb. Therefore, standard negation in Tepehua (Huehuetla) cannot be marked by an affix, clitic, or modification of the verb.
+
+2. Conclusion: 0",0,0
+Musqueam,"Based on the provided paragraphs from the descriptive grammar of Musqueam, we can observe several instances where negation is marked in the language. Here are some key examples:
+
+1. **Negation with verbs:**
+   - **?Swecel 1ém-21**: 'I don't go.'
+   - **?Swecex 1ém-ex**: 'You don't go.'
+   - **?Swo 1ém-os**: 'He/She/It doesn't go.'
+   - **?Swecet 1ém-et**: 'We don't go.'
+   - **?Swecep 1ém-Ep**: 'You folks don't go.'
+
+2. **Negation with other predicates:**
+   - **sc%eléx""om-é1**: 'I'm not a spirit dancer.'
+   - **sc%eléx""om-ex**: 'You're not a spirit dancer.'
+   - **sc%eléx""om-es**: 'He/She is not a spirit dancer.'
+   - **sc%eléx""om-Ep**: 'You folks are not spirit dancers.'
+
+In these examples, the negation marker **?Swe** (or its variants) appears before the verb or predicate. This marker is not phonologically bound to the verb as an affix or clitic but appears as a separate word. However, the verbs themselves do not show any internal modification to indicate negation.
+
+Given the information provided, it is clear that negation in Musqueam is marked by a separate particle **?Swe** and not by an affix, clitic, or modification of the verb itself. Therefore, the correct option is:
+
+**Conclusion: 0**
+
+Reasoning: The negation in Musqueam is marked by a separate particle **?Swe** that precedes the verb or predicate, rather than by an affix, clitic, or modification of the verb.",0,0
+Omaha,"Based on the provided paragraphs from the descriptive grammar of Omaha, we can analyze the method of standard negation in the language.
+
+### Analysis:
+
+1. **Negating Particle ""bazhi""**:
+   - The text mentions the use of the negating particle ""bazhi"" which is placed after the verb to declare that somebody did not do something. This indicates that ""bazhi"" is a separate word (particle) and not an affix or clitic that is phonologically bound to the verb.
+
+2. **Ablaut Before ""Not""**:
+   - The text describes an ablaut process where a preceding ""-e"" verb changes to ""-a"" before the negating particle ""azhi"" in commands. This ablaut process is a modification of the verb itself, indicating a phonological change in the verb to mark negation.
+
+3. **Negative Command**:
+   - For negative commands, the negating particle ""azhi"" is placed between the verb and the command particle. The ablaut process (e.g., ""-e"" to ""-a"") before ""azhi"" further supports that the verb undergoes a modification to mark negation.
+
+### Reasoning:
+
+- The ablaut process (modification of the verb) before the negating particle ""azhi"" in commands and the placement of ""bazhi"" after the verb in declarative sentences suggest that standard negation in Omaha can involve a modification of the verb.
+- Although ""bazhi"" and ""azhi"" are particles and not affixes or clitics, the ablaut process indicates that the verb itself is modified in the context of negation.
+
+### Conclusion:
+
+1. The standard negation in Omaha can be marked by a modification of the verb (ablaut process).
+2. The negating particles ""bazhi"" and ""azhi"" are not phonologically bound to the verb, but the ablaut process indicates a modification of the verb itself.
+
+**Conclusion: 1**",1,1
+Washo,"Based on the provided paragraph, it is possible to determine that standard negation in Washo can be marked by an affix, clitic, or modification of the verb. Here is the reasoning:
+
+1. The paragraph mentions several morphemes and suffixes that are used in different grammatical contexts. Specifically, it refers to a ""Negative suffix"" which is indicated by ""-hé*s."" This suggests that negation in Washo can be marked by a suffix attached to the verb.
+
+2. The paragraph also discusses other suffixes such as ""-duk"" and ""-i?"" in different grammatical constructions, indicating that the language uses suffixes to modify verbs for various grammatical purposes, including negation.
+
+Given this information, it is clear that Washo uses affixes (specifically suffixes) to mark standard negation in declarative sentences involving dynamic verbal predicates.
+
+Conclusion: 1",1,1
+Koasati,"Based on the provided paragraphs from the descriptive grammar of Koasati, it is possible to determine that standard negation in Koasati can be marked by an affix or modification of the verb. Here is the reasoning:
+
+1. **Affixation for Negation**: The examples provided include several instances where negation is marked by suffixes attached to the verb. For instance:
+   - The suffix `-@:pi-` is mentioned in the context of negation: ""phrases with suffixes such as -d:pi- are negated.""
+   - The example ""ca-téin-k-A:pi-t"" translates to ""I almost didn’t fall,"" where the negation is marked by the suffix `-A:pi-`.
+   - Another example is ""QUIT-3neg(2A)-modal-sw"" which shows the use of a negation suffix in the gloss.
+
+2. **Modification of the Verb**: The text mentions ""the position of the negative cross-referencing morpheme differs with the scope of the negation,"" indicating that the verb can be modified to express negation.
+
+Given these points, it is clear that Koasati employs affixes or modifications of the verb to mark standard negation in declarative sentences involving dynamic verbal predicates.
+
+**Conclusion**: 1",1,1
+Chumash (Barbareño),"Based on the provided paragraph from the descriptive grammar of Chumash (Barbareño), it is evident that standard negation can be marked by a prefix that attaches to the verb. Here are the key points supporting this conclusion:
+
+1. **Negation Prefix ""e-""**: The paragraph explicitly states that the prefix ""e-"" marks negation and precedes all other prefixes except for person, number, and the stative marker ""2al-"". This indicates that negation is marked directly on the verb through a prefix.
+
+2. **Examples of Negation**:
+   - **Example (144)**: ""ke=?al-e-wil-waS"" where ""e-"" is the negation prefix attached to the verb.
+   - **Example (146)**: ""s-iy-e-sili-nah-was"" where ""e-"" is the negation prefix attached to the verb.
+   - **Example (147)**: ""k-e-sa2?-apiyulunus"" where ""e-"" is the negation prefix attached to the verb.
+   - **Example (148)**: ""s-e-gili-saqutihan"" where ""e-"" is the negation prefix attached to the verb.
+   - **Example (149)**: ""hi=s-e-sackaw"" where ""e-"" is the negation prefix attached to the verb.
+
+These examples clearly show that the negation prefix ""e-"" is phonologically bound to the verb, marking standard negation in declarative sentences involving dynamic verbal predicates.
+
+### Conclusion: 1",1,1
+Yuchi,"Based on the provided paragraphs from the descriptive grammar of Yuchi, we can analyze the method of standard negation in the language.
+
+### Reasoning:
+
+1. **Presence of Negative Pre-Clitics**:
+   - The paragraph explicitly mentions two negative pre-clitics: **n2-** and **h&-**.
+   - It is stated that the negative pre-clitic **n2-** is the most productive today.
+
+2. **Attachment to the Verb**:
+   - The negative pre-clitic **n2-** can be attached to the verb, as indicated in the text: ""The negative pre-clitic ni- can be attached to the verb or a noun.""
+   - When attached to the verb, it has scope over the verb and therefore the sentence or clause.
+
+3. **Example Analysis**:
+   - In example (60a), the sentence ""Di dziosh'i'zci 'ahe nedzo hetede"" includes the negative pre-clitic **ne-** attached to the verb **dz6** (bring), forming **ne-dz6** (NEG-bring).
+   - This demonstrates that the negation is marked by a clitic that is phonologically bound to the verb.
+
+Given this information, it is clear that standard negation in Yuchi can be marked by a clitic that is phonologically bound to the verb.
+
+### Conclusion:
+1",1,1
+Alsea,"Based on the provided paragraph, it is not possible to determine the method of standard negation in the language Alsea. The paragraph mentions a ""particle of negation"" but does not provide sufficient information about how this particle interacts with the verb or whether it is an affix, clitic, or a separate word. 
+
+The paragraph does not give any examples or detailed descriptions of how negation is applied in declarative sentences involving dynamic verbal predicates. Without this information, we cannot conclude whether the negation is marked by a modification of the verb, an affix, or a clitic that is phonologically bound to the verb.
+
+Conclusion: 0",0,0
+Arikara,"Based on the provided paragraphs from the descriptive grammar of Arikara, we can analyze the method of standard negation in the language. Here are the key points extracted from the text:
+
+1. **Separate Negative Prefix**: The text mentions that ""the negative prefix that replaces it is a separate word."" This indicates that the negative marker is not an affix or clitic bound to the verb but rather a separate word.
+
+2. **Examples of Negation**:
+   - ""Ahnaanoéku’."" ('I'm not singing.')
+   - ""TAxciikaéhu’ becomes ___—Axciikadhu’."" ('You’re not crying.')
+   - ""T na&kUx kaaki’ T naéxA kaakf? 4 dropped and the negative the verbs you learned patat."" ('This is not a potato.')
+   - ""NuunadxA kaaki’ neesits."" ('That is not a knife.')
+
+3. **Indicative Prefix**: The text also mentions that ""the indicative prefix is a separate word,"" and similarly, the negative prefix is treated as a separate word.
+
+From these points, it is clear that the negation in Arikara is marked by a separate word rather than an affix, clitic, or modification of the verb. The negative marker does not attach to the verb but stands as an independent word.
+
+### Reasoning:
+- The negative marker in Arikara is described as a separate word, not an affix or clitic.
+- The examples provided show that negation is achieved through separate words rather than modifications or bound morphemes attached to the verb.
+
+### Conclusion:
+0",1,0
+Takelma,"Based on the provided paragraphs from the descriptive grammar of Takelma, it is clear that standard negation in the language is primarily marked by the use of the negative adverb ""wede."" This adverb is used to negate various forms of the verb, including future and imperative forms, as well as inferential and potential modes. The examples provided show that ""wede"" is prefixed to the verb to indicate negation:
+
+- yant'e® I went; a’ni* yant‘e® I did not go
+- wede yana‘k‘ he will not go
+- wede yana‘t' do not go!
+
+The negation is achieved by placing ""wede"" before the verb, without any modification of the verb itself or the addition of an affix or clitic that is phonologically bound to the verb. ""Wede"" functions as a separate word (particle) that precedes the verb to negate it.
+
+Given this information, it is evident that standard negation in Takelma is not marked by an affix, clitic, or modification of the verb itself. Instead, it is marked by a separate negative particle ""wede.""
+
+**Reasoning:**
+The paragraphs indicate that negation in Takelma is achieved through the use of the negative adverb ""wede,"" which is a separate word that precedes the verb. There is no evidence of negation being marked by an affix, clitic, or modification of the verb itself.
+
+**Conclusion:** 0",0,0
+Jemez,"Based on the provided paragraphs from the descriptive grammar of Jemez, it is possible to determine that standard negation in Jemez can be marked by an affix or modification of the verb. Here is the reasoning:
+
+1. **Paragraph 1** mentions a ""negative prefix /W&/"" as part of the verb structure. This indicates that negation can be marked by a prefix that attaches directly to the verb, making it phonologically bound to the verb.
+
+2. **Paragraph 2** provides an example of negation in a verb form:
+   - The sentence ""He did not wake up"" is glossed with the negative prefix: ""(neg iben[3sg]-neg-reWpl-wake.up/pf)"". This shows that the negative prefix /wf/ is used to mark negation and is attached to the verb, confirming that negation is marked by a modification of the verb.
+
+Given this information, it is clear that standard negation in Jemez can be marked by an affix or modification of the verb.
+
+**Conclusion:** 1",1,1
+Zuni,"Based on the provided paragraphs from the descriptive grammar of Zuni, we can analyze the method of standard negation in the language.
+
+### Analysis:
+
+1. **Paragraph 1:**
+   - Example (8) shows the sentence ""The women didn't wash a pot."" The verb form is ""k'oSo-na:w-amme-'kya,"" where ""na:w"" and ""amme"" are glossed as part of the negation.
+   - The prefix ""ka’"" is glossed as ""neg."" indicating a negative particle.
+   - The verb stem ""k'oSo"" (wash) is modified with the suffixes ""na:w"" and ""amme"" before the past tense marker ""'kya.""
+
+2. **Paragraph 2:**
+   - Example (31b) shows the sentence ""Filbert did not build a large house."" The verb form is ""‘a3-nam-kya,"" where ""nam"" is glossed as part of the negation.
+   - The prefix ""ka’"" is again used as a negative particle.
+
+3. **Paragraph 3:**
+   - It explicitly states that two elements are required to mark negation in the Zuni clause: a negative particle and a negative verb stem suffix.
+   - Example (38) shows the sentence ""We didn't feed the dog."" The verb form is ""‘itok'ya-na:w-amme-'kya,"" where ""na:w"" and ""amme"" are part of the negation.
+   - The negative particle ""ka’"" is used at the head of the clause.
+   - The negative suffix occurs after transitive subject agreement but before tense inflection.
+
+### Reasoning:
+From the examples and descriptions provided, it is clear that standard negation in Zuni involves both a negative particle and a negative suffix attached to the verb. The negative suffixes ""na:w"" and ""amme"" are phonologically bound to the verb, indicating that negation can indeed be marked by an affix or modification of the verb.
+
+### Conclusion:
+1. Standard negation in the language Zuni can be marked by an affix, clitic, or modification of the verb.
+2. **Conclusion:** 1",1,1
+Rama,"Based on the provided paragraphs from the descriptive grammar of Rama, we can analyze the method of standard negation in the language.
+
+1. **Paragraph Analysis:**
+
+   - **Paragraph 1:**
+     - The text mentions the existence of a negative imperative form ""arka"" and a negative particle ""aar."" However, it does not provide clear examples of how these are used in standard negation of declarative sentences with dynamic verbal predicates.
+
+   - **Paragraph 2:**
+     - The text provides examples of the negative form ""taama"" (and its variant ""tahma"") being suffixed to verbs:
+       - Example (43): ""naas kami-taama"" (1 sleep-NEG) translates to ""I don't sleep!""
+       - Example (44a): ""i-sik-taama"" (3-arrive-NEG) translates to ""he did not arrive!""
+     - These examples clearly show that the negation is marked by a suffix ""-taama"" attached to the verb.
+
+2. **Reasoning:**
+   - The examples provided in the second paragraph demonstrate that standard negation in Rama can be marked by a suffix attached to the verb. Specifically, the suffix ""-taama"" is used to negate verbs in declarative sentences involving dynamic predicates.
+
+**Conclusion: 1**",1,1
+Tonkawa,"Based on the provided paragraphs from the descriptive grammar of Tonkawa, we can determine the method of standard negation in the language.
+
+### Reasoning:
+1. **Negative Suffix**: The text explicitly mentions a ""negative suffix"" -abe- that is added directly to the verb theme to form the negative of any verb. This is a clear indication that negation can be marked by an affix in Tonkawa.
+   
+2. **Examples Provided**: The examples given (e.g., ""yagb-ab-o'c"" for ""I do not hit him"" and ""geigab-ab-o'"" for ""he does not hit me"") show the negative suffix -abe- attached to the verb theme. This demonstrates that the negation is indeed marked by an affix that is phonologically bound to the verb.
+
+3. **Modification of the Verb**: The description also notes that the initial -a- of the suffix obscures the form of the final theme element, causing its vowel to be -a-. This indicates that the verb itself undergoes a modification when the negative suffix is added.
+
+Given this information, it is clear that standard negation in Tonkawa can be marked by an affix or a modification of the verb.
+
+### Conclusion:
+1",1,1
+Tunica,"1. Based on the provided paragraphs from the descriptive grammar of Tunica, it is clear that standard negation in Tunica can be marked by affixes that are phonologically bound to the verb. Specifically, the negative paradigms of active verbs are formed using the negative postfixes -aha and -k?aha. These postfixes are added to the verb forms to indicate negation. For example, the negative form ""lo’tawehe"" (he did not run) is derived from ""lo’tawi"" (he ran) plus the postfix -aha, and ""lo’tawik?aha"" (he does not run) is derived from ""lo’tawi"" (he ran) plus the postfix -k?aha.
+
+2. Conclusion: 1",1,1
+Wappo,"Based on the provided paragraphs from the descriptive grammar of Wappo, we can analyze the method of standard negation in the language.
+
+### Analysis:
+
+1. **Paragraph 1**:
+   - This paragraph primarily discusses possessive pronouns, objective forms, reflexive forms, and directional prefixes. There is no mention of negation in this paragraph.
+
+2. **Paragraph 2**:
+   - This paragraph provides crucial information about negation in Wappo. It states:
+     > ""The Negative
+     > This is regularly formed by the postposition of la'ki, which is composed of la, not, and a suffix of unknown force which also appears with kaki, cannot. la'ki has the same effect upon the preceding verb-stem as the subordinating suffixes -tsel, -kwen and frequently causes them to lose the vowel of their tense-aspect suffixes. This fact, taken together with other indications, suggests that -ki is the general verbalizer.""
+   - From this, we learn that negation is formed by the postposition ""la'ki,"" which is composed of ""la"" (not) and a suffix ""-ki."" The postposition ""la'ki"" affects the preceding verb-stem, indicating that it is phonologically bound to the verb.
+
+3. **Paragraph 3**:
+   - This paragraph discusses various connectives and nominalization but does not provide additional information about negation.
+
+### Reasoning:
+
+The key information is found in Paragraph 2, where it is explicitly stated that negation in Wappo is marked by the postposition ""la'ki,"" which is phonologically bound to the verb. This postposition affects the verb-stem, indicating that it functions similarly to an affix or clitic in terms of its phonological binding to the verb.
+
+### Conclusion:
+
+1. Based on the information provided, standard negation in Wappo can be marked by an affix, clitic, or modification of the verb.
+2. **Conclusion:** 1",1,1
+Ute,"Based on the provided paragraphs from the descriptive grammar of Southern Paiute, which is closely related to Ute, it is evident that standard negation in Ute can be marked by affixes or modifications of the verb. Here is the reasoning:
+
+1. **Negative Suffixes**: The text mentions several negative suffixes that attach to verbs to indicate negation. For example:
+   - The suffix **-apa** is used for absolute negatives: ""imi'ntcaaijA qa p-A'qa'-ijudp-A"" (you did not kill him).
+   - The suffix **-ywa'ai** is used for non-absolute negatives: ""rii' qatcu'arjA qa'(uir)wa'a"" (do not let him sing).
+   - Future negative suffixes like **-va ywa'ain ia** are also mentioned: ""qatcu'A'qa-ijA p\ni'k aiwTfwain i"" (he will not see it).
+
+2. **Modification of the Verb**: The examples provided show that the verb forms are modified by adding these negative suffixes directly to the verb stem or within the verb complex.
+
+Given these points, it is clear that standard negation in Ute can indeed be marked by affixes or modifications of the verb.
+
+**Conclusion:** 1",1,1
+Yurok,"Based on the provided paragraphs from the descriptive grammar of Yurok, we can determine the method of standard negation in the language. The key information is found in the sections discussing the negative preverb ""neemee"" and the emphatic negative particle ""mos.""
+
+1. **Negation with neemee**:
+   - The preverb ""neemee"" is used before the verb to indicate negation. This is evident from examples such as:
+     - (123a) ""Neemee skuy’ soneenepek’."" - ""I don’t feel well.""
+     - (126a) ""Kwesee’ neemee nuemee wo chpaa nohl helomey’."" - ""Coyote did not dance for a very long time.""
+   - The preverb ""neemee"" attaches directly before the verb, indicating that it is phonologically bound to the verb.
+
+2. **Negation with mos**:
+   - The particle ""mos"" is described as a discourse particle that occurs at the beginning of a sentence. It is not phonologically bound to the verb but rather functions as a separate word.
+   - Examples include:
+     - (118a) ""Mos kol’ soosek’."" - ""I’m not thinking about anything.""
+     - (119a) ""Mos cheetaa wo pahchew."" - ""It was not moving at all.""
+
+Given the information, the preverb ""neemee"" clearly functions as an affix (specifically a preverb) that is phonologically bound to the verb, marking negation directly on the verb. This satisfies the criteria for standard negation being marked by an affix or modification of the verb.
+
+**Reasoning**:
+- The preverb ""neemee"" is used directly before the verb, indicating that it is phonologically bound to the verb and serves as an affix marking negation.
+- The particle ""mos,"" while used for negation, does not attach to the verb and thus does not meet the criteria for being phonologically bound to the verb.
+
+**Conclusion**: 1",0,1
+Nuuchahnulth,"Based on the provided paragraphs from the descriptive grammar of Nuuchahnulth, we can observe the following instances of negation:
+
+1. **Example (248a)**: 
+   - Nuuchahnulth: `vhJDFhrhc v`g@j`
+   - Gloss: `not–going.to=INDIC.1pl go.PERF`
+   - Translation: ‘We are not going to go.’
+
+2. **Example (248b)**:
+   - Nuuchahnulth: `vHx`c v@`
+   - Gloss: `never–INDIC.1pl say.PERF`
+   - Translation: ‘We don’t say that.’
+
+3. **Example (248d)**:
+   - Nuuchahnulth: `vhJ`QpTr vdFhC F`sGH`
+   - Gloss: `not=TEMP=COND=1sg sleep night`
+   - Translation: ‘I did not sleep nights.’
+
+4. **Example (248e)**:
+   - Nuuchahnulth: `vHX`l` gTx@K`
+   - Gloss: `never=INDIC dance`
+   - Translation: ‘He never danced.’
+
+5. **Example (248f)**:
+   - Nuuchahnulth: `vhL@pQdFhb QtKÊ#`ChQ`
+   - Gloss: `unable=INDIC=2sg good–INCEP`
+   - Translation: ‘You cannot become pretty.’
+
+From these examples, it is evident that negation in Nuuchahnulth can be marked by elements that are phonologically bound to the verb. Specifically, we see the use of negative morphemes such as `vhj`, `vHx`, and `vhL@pQ` which are attached to the verb forms as prefixes or clitics. These morphemes are integral to the verb forms and indicate negation directly on the verb.
+
+### Reasoning:
+- **Affixation/Cliticization**: The negative morphemes (`vhj`, `vHx`, `vhL@pQ`) are attached to the verbs, either as prefixes or clitics, indicating that negation is marked directly on the verb.
+- **Modification of the Verb**: The verb forms are modified by these negative morphemes to express negation.
+
+### Conclusion:
+1",1,1
+Columbia-Wenatchi,"Based on the provided paragraphs from the descriptive grammar of Columbia-Wenatchi, we can analyze the method of standard negation in the language.
+
+### Reasoning:
+
+1. **Negation Particle and Nominalization**:
+   - The examples (157) to (159) show the use of the negation particle ""lat"" followed by a nominalized clause. The nominalization is marked by the prefix ""s-"" on the verb, which is a morphological change to the verb itself. This indicates that negation involves a modification of the verb through nominalization.
+
+2. **Negation Particle and Indicative Clause**:
+   - H. Davis’s pattern C involves the negation particle ""lut"" followed by an unmarked indicative clause. While this pattern does not involve a modification of the verb, it still shows that the negation particle ""lut"" is used in conjunction with the verb.
+
+### Conclusion:
+1. The negation in Columbia-Wenatchi can be marked by a modification of the verb (through nominalization) or by the presence of a negation particle that interacts with the verb.
+2. Therefore, the appropriate response is 1.
+
+**Conclusion: 1**",0,1
+Hidatsa,"Based on the provided paragraphs from the descriptive grammar of Hidatsa, it is evident that standard negation in the language is marked by a suffix attached to the verb. This is demonstrated in several examples where the negative suffix ""-dhaa"" is attached to the predicate head (verb):
+
+1. **Example (266)**: ""macéé-dhaa-c"" (man-NEG-DECL) translates to ""He is not a man.""
+2. **Example (267)**: ""úˀsia-dhaa-c"" (arrive-NEG-DECL) translates to ""he hasn’t arrived.""
+3. **Example (268)**: ""hiirahbí-dhaa"" (difficult-NEG) translates to ""I didn’t think it would be hard.""
+4. **Example (269)**: ""mi-hiráwi-dhaa-gsá-wa"" (1C-sleep-NEG-USI-SIMULT) translates to ""I often go to bed late; therefore I am used to it.""
+5. **Example (270)**: ""mii-írigi-dhaa-rúg"" (1B-hit-NEG-COND) translates to ""so that it won’t hit us.""
+
+These examples clearly show that the negation is achieved by attaching the suffix ""-dhaa"" to the verb, which is a modification of the verb through an affix.
+
+### Reasoning:
+The negative suffix ""-dhaa"" is phonologically bound to the verb, as indicated by the hyphen in the glosses. This means that standard negation in Hidatsa can indeed be marked by an affix that is attached to the verb.
+
+### Conclusion:
+1",1,1
+Toqabaqita,"Based on the provided paragraph from the descriptive grammar of Toqabaqita, we can analyze the methods of standard negation in the language.
+
+1. **Negative Subject Markers**: The example (17-1) shows the use of a negative subject marker ""kesi"" which is part of the verb phrase. This marker is phonologically bound to the subject and modifies the verb phrase to indicate negation. This suggests that negation can be marked by an element that is closely associated with the verb.
+
+2. **Negative Verb**: The example (17-2) shows the use of a negative verb ""qe=aqi"" which translates to 'not be so'. This negative verb is a clitic as indicated by the equals sign in the gloss. This clitic is phonologically bound and modifies the verb phrase to indicate negation.
+
+Given these points, it is clear that standard negation in Toqabaqita can be marked by elements that are phonologically bound to the verb or modify the verb phrase directly.
+
+**Reasoning**:
+- The negative subject marker ""kesi"" in (17-1) is part of the verb phrase and modifies it to indicate negation.
+- The negative verb ""qe=aqi"" in (17-2) is a clitic that is phonologically bound to the verb phrase, indicating negation.
+
+**Conclusion**: 1",0,1
+Aghu,"Based on the provided paragraphs from the descriptive grammar of Aghu, we can analyze the methods of standard negation in the language.
+
+1. **Paragraph 1** discusses imperative forms and does not provide clear evidence of standard negation in declarative sentences involving dynamic verbal predicates. The examples given are imperative sentences with the verb forms ""not.want.IMP[SG]"" and ""not.want.IMP-PL,"" which are not relevant to standard negation in declarative sentences.
+
+2. **Paragraph 2** provides more relevant information. It mentions that verbal nouns are used in the negation of past and present events, as shown in example (134):
+   - ""joxo de baxe-n=de xo"" (3PL LOC sit_II-VN=NEG COP) meaning ""they are not here.""
+   This example shows the use of the suffix ""=de"" attached to the verbal noun ""baxe-n"" to indicate negation.
+
+   Additionally, it mentions an alternative way of negating past and present events using semifinite or finite realis forms followed by ""de xo"" (NEG COP), with the final stress of the verb shifting to the negator ""de."" This is illustrated in example (135):
+   - ""(fede) da-de=dè xo"" ((NEG) come-1SG.RLS=NEG COP).
+
+From these examples, it is evident that negation in Aghu can be marked by an affix or clitic that is phonologically bound to the verb. Specifically, the suffix ""=de"" is used to mark negation in declarative sentences involving dynamic verbal predicates.
+
+**Reasoning:**
+- The use of the suffix ""=de"" in example (134) and the clitic ""=dè"" in example (135) clearly indicates that standard negation in Aghu can be marked by an affix or clitic that is phonologically bound to the verb.
+
+**Conclusion:** 1",1,1
+Manambu,"Based on the provided paragraphs from the descriptive grammar of Manambu, it is possible to determine that standard negation in the language can be marked by a modification of the verb. Specifically, the paragraphs describe various root alternations and vowel modifications that occur in negative forms of verbs.
+
+Here are the key points supporting this conclusion:
+
+1. **Root Alternations and Vowel Modifications**:
+   - Paragraph 11.3.1 mentions that the deletion of a final vowel occurs in forming a negative non-future form of a disyllabic root, e.g., ""laku-"" (know) becomes ""ma: la:kw"" (did not/do not know).
+   - Paragraph 11.3.2 further elaborates on vowel alternations in negative non-future forms. For instance, ""waku-"" (go out) becomes ""ma: wa:kw"" (did not/do not go out), and ""gaji-"" (rub) becomes ""ma: ga:j"" (did not/do not rub).
+
+2. **Negative Declarative Non-Future Forms**:
+   - The text specifies that negative declarative non-future forms involve vowel changes and the dropping of the verb-final vowel, indicating a modification of the verb itself to express negation.
+
+3. **Examples of Verb Modifications**:
+   - The examples provided show consistent patterns of verb modification for negation, such as ""da-"" (go down) becoming ""ma: d@"" (did not/do not go down) and ""suku-"" (write, carve) becoming ""ma: sa:kw"" (did not/do not write/carve).
+
+These points indicate that negation in Manambu involves modifications to the verb, such as vowel changes and root alternations, which are phonologically bound to the verb.
+
+**Conclusion:** 1",1,1
+Momu,"Based on the provided paragraphs, we can analyze the method of standard negation in Momu.
+
+1. **Negation via Particle**: The text mentions that negation in Momu is primarily coded via a particle ""momu"" (§12.2.1). Examples (12.43a) and (12.43b) show the use of ""momu"" as a negator attached to the verb:
+   - (12.43a) ""Ie eru netyi=momu."" (He did not throw the fish.)
+   - (12.43b) ""ai-kuw=momu"" (does/did not eat)
+
+2. **Negation via Predicate**: The text also mentions a negating predicate ""onfa"" (§12.2.2), but no specific examples are provided in the given paragraphs.
+
+3. **Affix/Clitic Analysis**: The examples provided show ""momu"" as a clitic attached to the verb, indicated by the equals sign ""="" in the glosses:
+   - ""netyi=momu"" (throw.one[1|3sgS]=neg)
+   - ""ai-kuw=momu"" (impf-consume\3sgS=neg)
+
+Given this information, it is clear that standard negation in Momu can be marked by a clitic that is phonologically bound to the verb.
+
+**Conclusion:** 1",1,1
+Makasae,"Based on the provided paragraphs from the descriptive grammar of Makasae, we can analyze the method of standard negation in the language.
+
+1. **Negation Marker ""nomo""**:
+   - The negator ""nomo"" is described as the only VP-internal negator.
+   - It is used within the verb phrase (VP) and can be positioned with respect to adverbials, as shown in the VP templates (191) and (192).
+   - Examples (193) and (194) illustrate the use of ""nomo"" within sentences, where it appears as a separate word rather than an affix or clitic attached to the verb.
+
+2. **Negation Marker ""nomohaka""**:
+   - The compounded form ""nomohaka"" negates whole clauses and is not VP-internal.
+   - Example (190) shows ""nomohaka"" used in a sentence, again as a separate word.
+
+From the information provided, it is clear that the negation markers ""nomo"" and ""nomohaka"" are separate words within the sentence structure. They are not affixes or clitics that are phonologically bound to the verb. Instead, they function as independent particles within the verb phrase or clause.
+
+Therefore, based on the given paragraphs, standard negation in Makasae cannot be marked by an affix, clitic, or modification of the verb. The negation is marked by separate words that are not phonologically bound to the verb.
+
+**Conclusion:** 0",0,0
+Motuna,"Based on the provided paragraphs from the descriptive grammar of Motuna, we can analyze the information to determine if standard negation in the language can be marked by an affix, clitic, or modification of the verb.
+
+1. **Paragraph Analysis**:
+   - The first paragraph mentions the ""negative infix"" in the context of discussing the paradigms of verbs. This suggests that negation can be marked within the verb morphology.
+   - The structure of S0 verbs is given as including a ""(negative)"" component before the TAM (Tense-Aspect-Mood) suffix. This indicates that negation is integrated into the verb's morphological structure.
+
+2. **Reasoning**:
+   - The mention of a ""negative infix"" directly implies that negation can be marked by an infix, which is a type of affix.
+   - The structure diagram for S0 verbs explicitly includes a slot for a negative marker, further supporting the idea that negation is morphologically bound to the verb.
+
+Given this information, it is clear that standard negation in Motuna can be marked by an affix or modification of the verb.
+
+**Conclusion:** 1",0,1
+Lavukaleve,"Based on the provided paragraph, there is no explicit information about the method of standard negation in Lavukaleve. The paragraph mainly consists of narrative text and does not provide examples or descriptions of how negation is marked in declarative sentences involving dynamic verbal predicates. 
+
+To determine whether standard negation in Lavukaleve can be marked by an affix, clitic, or modification of the verb, we would need specific examples or descriptions of negative constructions. Since this information is not present in the given text, it is not possible to determine the method of negation from the provided paragraph.
+
+**Reasoning:**
+1. The paragraph does not contain any examples of negation.
+2. There is no description of how negation is marked in declarative sentences involving dynamic verbal predicates.
+3. The text is narrative and does not focus on grammatical structures related to negation.
+
+**Conclusion:** 0",1,0
+Dla (Menggwa),"Based on the provided paragraphs from the descriptive grammar of Dla (Menggwa), we can analyze the methods of marking standard negation in the language.
+
+### Analysis:
+
+1. **Negative Realis:**
+   - Example 3-17: ""yarifi bokefyehi"" (stir.sago NEG:R-N1FDU-PRES:CONT) translates to ""They two are not stirring sago.""
+   - Example 3-18: ""nefi boka-hi-Ø-hwa"" (shoot NEG:R-1SG-3MSG:O-PAST) translates to ""I did not shoot him.""
+
+   In these examples, the negation is marked by the morphemes ""boke-"" and ""boka-"" which are prefixes attached to the verb.
+
+2. **Negative Semi-Realis:**
+   - Example 3-21: ""ga yari-nya-a"" (NEG:SMR stir.sago-N1DU-3FSG:O) translates to ""They two will not stir sago.""
+   - Example 3-22: ""ga na-hi-Ø"" (NEG:SMR shoot-1SG-3MSG:O) translates to ""I will not shoot him.""
+
+   Here, the negation is marked by the separate word ""ga,"" which is not phonologically bound to the verb.
+
+3. **Negative Irrealis:**
+   - Example 3-25: ""yari-ma-nya-a-naho"" (stir.sago-NEG:IR-N1DU-3FSG:O-CNTF) translates to ""They would not have stirred sago.""
+
+   In this example, the negation is marked by the morpheme ""-ma-"" which is an infix within the verb complex.
+
+### Reasoning:
+
+From the examples provided, it is clear that standard negation in Dla (Menggwa) can be marked by affixes (e.g., ""boke-"", ""boka-"", and ""-ma-"") that are phonologically bound to the verb. This satisfies the criteria for marking negation through affixes or modifications of the verb.
+
+### Conclusion:
+1",1,1
+Duna,"Based on the provided paragraphs from the descriptive grammar of Duna, we can determine that standard negation in Duna can be marked by an affix or modification of the verb. Here is the reasoning:
+
+1. **Negative Circumfix**: The paragraphs describe a negative circumfix ""na- -ya"" that is used to express negation on verbal predicates. This circumfix is added to the verb bases (a-base for consonantal verbs and i-base for wa-class verbs). The circumfix consists of two parts: a prefix ""na-"" and a suffix ""-ya"", which together form a circumfix that attaches to the verb.
+
+2. **Examples of Usage**:
+   - In example (721), ""na-ra-ya"" (NEG-be/sit-NEG) shows the circumfix attached to the verb ""ra"" (be/sit).
+   - In example (722), ""na-si-ya"" (NEG-hold-NEG) shows the circumfix attached to the verb ""si"" (hold).
+   - In example (723), ""na-ke-ya-o"" (NEG-see-NEG-PFV) shows the circumfix attached to the verb ""ke"" (see) with an additional perfective suffix ""-o"".
+   - In example (724), ""na-na-ya-na"" (NEG-eat-NEG-HAB) shows the circumfix attached to the verb ""na"" (eat) with an additional habitual suffix ""-na"".
+
+3. **Combination with TAM Markers**: The circumfix can also occur in combination with tense, aspect, and mood (TAM) markers, indicating that it integrates into the verb morphology and forms a negative stem that can take further inflections.
+
+Given this information, it is clear that standard negation in Duna can be marked by an affix (specifically, a circumfix) that is phonologically bound to the verb.
+
+**Conclusion:** 1",1,1
+Taulil,"Based on the provided paragraph, there is no information related to the marking of standard negation in the language Taulil. The paragraph discusses syntactic functions of demonstratives, their usage in speech, and modifying elements like PPs and adverbs. It does not provide any details on how negation is marked in declarative sentences involving dynamic verbal predicates.
+
+Given the lack of relevant information, it is not possible to determine whether standard negation in Taulil can be marked by an affix, clitic, or modification of the verb.
+
+**Reasoning:**
+1. The paragraph focuses on demonstratives and their syntactic functions, not on negation.
+2. There is no mention of any negation markers or examples of negative sentences.
+3. Without specific information on negation, we cannot conclude how it is marked in the language.
+
+**Conclusion:** 0",0,0
+Taiap,"1. Based on the provided paragraphs from the descriptive grammar of Taiap, it is clear that standard negation in the language can be marked by an affix, clitic, or modification of the verb. Specifically, the negation process involves the use of irrealis suffixes attached to the verb stem, as well as the addition of the negator ""wákare"" at the end of the clause.
+
+For transitive verbs, the verb stem changes to its irrealis form, and an irrealis object suffix is added. For example, in the sentence ""he didn’t eat pork"" (ŋɨŋi mborsip akru wákare), the verb ""consume"" is in its irrealis form ""akru"" with the irrealis object suffix ""-kru"".
+
+For intransitive verbs, the verb stem also changes to its irrealis form, and an irrealis suffix is added. For example, in the sentence ""I didn’t go"" (okɨ wákare), the verb ""go"" is in its irrealis form ""okɨ"" with the irrealis suffix ""-kɨ"".
+
+These examples demonstrate that negation in Taiap involves morphological changes to the verb, specifically the use of irrealis suffixes, which are phonologically bound to the verb.
+
+2. **Conclusion:** 1",0,1
+Yimas,"1. Based on the provided paragraphs from the descriptive grammar of Yimas, it is clear that standard negation can be marked by a modification of the verb through the use of a prefix. Specifically, the negative prefix ""ta-"" is used to indicate negation. This prefix attaches directly to the verb, as seen in the examples provided:
+
+- Positive: ""ama-wa-t"" (1SG S-go-PERF) meaning 'I went.'
+- Negative: ""ta-ka-wa-t"" (NEG-1SG S-go-PERF) meaning 'I didn't go.'
+
+The presence of the negative prefix ""ta-"" directly attached to the verb indicates that negation in Yimas can indeed be marked by an affix that is phonologically bound to the verb.
+
+Conclusion: 1",1,1
+Kanum (Ngkâlmpw),"1. Based on the provided paragraphs, it is evident that standard negation in Kanum (Ngkâlmpw) can be marked by a clitic that is phonologically bound to the verb. Specifically, in Paragraph 1, example (4.33b), the gloss shows ""e=pne"" where ""e="" is a clitic indicating negation attached to the verb ""pne"". Similarly, in Paragraph 3, example (A.2.13), the gloss ""e=pi"" shows ""e="" as a clitic indicating negation attached to the verb ""pi"". These examples demonstrate that negation in Kanum can be marked by a clitic that is phonologically bound to the verb.
+
+2. Conclusion: 1",0,1
+Maybrat,"1. Based on the provided paragraphs from the descriptive grammar of Maybrat, it is clear that standard negation can be marked by a modification of the verb or an affix/clitic that is phonologically bound to the verb. Specifically, the negator ""m-fe"" functions as a verb and takes a third person unmarked person prefix, as seen in examples like (166) ""arko m-fe"" ('There is no firewood') and (168b) ""m-he ait m-fe"" ('She sees that he is not there'). This indicates that negation can be marked by a modification of the verb through the use of ""m-fe"".
+
+2. Conclusion: 1",0,1
+Asmat,"1. Based on the provided paragraphs, it is evident that standard negation in Asmat can be marked by elements that are phonologically bound to the verb. Specifically, the negation markers such as ""opdk/pak"" and ""opow/pow"" are shown to be linked to specific forms of the verb, such as the m-/mV- forms. For example, in the sentence ""Sujit masetdj powd"" (Sajit has not arrived), ""powd"" is a negation marker that is linked to the verb form ""masetdj."" Similarly, ""opdk"" and ""pak"" are used in conjunction with verb forms to indicate negation, as seen in ""m@or pdk embf"" (I did not see it).
+
+Additionally, the negation markers ""emdr"" and ""pok"" are also shown to be linked to verb forms, further indicating that negation in Asmat can be marked by elements that are phonologically bound to the verb. For instance, ""j6mupupok"" (don't let the sun rise) uses ""pok"" as a negation marker linked to the verb form ""j6mupu.""
+
+Therefore, the evidence from the descriptive grammar indicates that standard negation in Asmat can indeed be marked by an affix, clitic, or modification of the verb.
+
+Conclusion: 1",0,1
+Kuot,"Based on the provided paragraphs from the descriptive grammar of Kuot, we can analyze the methods of standard negation in the language.
+
+1. **Negation with Particles**: The primary method of negation in Kuot appears to be the use of the particle ""tǝle"" (and its variant ""tǝla"" for future contexts). This particle precedes the negated constituent, as shown in examples (17) and (18):
+   - (17) Tǝle=kan [u-me ubi] (NEG=EMPH 3mS-HAB work=Ø) ‘He didn’t use to work’
+   - (18) tǝle kakarat, kakkaliat=arokan. (NEG near far=a.little(.more)) ‘it wasn’t near, it was rather far.’
+
+2. **Alternative Negation with ""mani""**: Another method involves the use of ""mani,"" which is originally a question word meaning 'what' but is used for negation in some dialects:
+   - (19) mani u-la=kan u-onǝma (what 3mS-go=EMPH 3mS-sit) ‘he didn’t go and sit down’
+
+3. **Negative Existential ""karuk""**: The negative existential ""karuk"" is used to express non-existence:
+   - (20) Karuk=kan ma lop tiro (is.not=EMPH 3p.PossI child.nsg here) ‘There are no children here’
+
+4. **Prohibitive ""buat""**: The prohibitive particle ""buat"" is used for negative imperatives:
+   - (21) Buat ma-mi-lo! (PROHIB 3pO-2pS-tell) ‘Don’t tell them!’
+
+From the examples provided, it is clear that the primary method of negation in Kuot involves the use of particles that precede the verb or the negated constituent. There is no evidence in the provided text that negation is marked by an affix or clitic that is phonologically bound to the verb, nor is there any indication of verb modification for negation.
+
+Therefore, based on the given paragraphs, standard negation in Kuot cannot be marked by an affix, clitic, or modification of the verb. The negation is achieved through separate particles that are not phonologically bound to the verb.
+
+**Conclusion:** 0",0,0
+Imonda,"1. Based on the provided paragraphs from the descriptive grammar of Imonda, it is clear that standard negation can be marked by both affixes and modifications of the verb. Here are the key points supporting this conclusion:
+
+- **Affixes:** The suffix `-rn` (or its variant `-me`) is used to mark negation directly on the verb. Examples include:
+  - (5) ""ehe sg eg -1 -uagl-f -me"" (he does not follow them)
+  - (6) ""puhG -i -me"" (Muit did not turn up)
+
+- **Modification of the verb:** The verb can be modified by the discontinuous marker `se ... -rn`, where `se` is a clause particle and `-rn` is a verbal suffix. This is evident in the explanation and examples provided in the text.
+
+- **Clitics:** The text mentions the use of the clitic `-gar` for emphatic negation, which can attach to verbs among other parts of speech:
+  - (18) ""adeia-ga ka -ga fe-f -ma"" (I do not do any work at all)
+
+These examples demonstrate that negation in Imonda can indeed be marked by affixes, clitics, or modifications of the verb.
+
+2. **Conclusion:** 1",1,1
+Nimboran,,0,
+Abun,"1. Based on the provided paragraphs, standard negation in Abun is marked by the use of particles ""yo"" and ""nde"" that bracket the predicate. These particles are not affixes or clitics that are phonologically bound to the verb. Instead, they are separate words that bracket the entire predicate, including the verb, object, and any adjuncts. The particles ""yo"" and ""nde"" are used to indicate negation in various sentence types, including negative indicative sentences, negative descriptive sentences, and negative location sentences. The grammar explicitly states that Abun has very little affixation and does not use affixes to negate words. Therefore, standard negation in Abun cannot be marked by an affix, clitic, or modification of the verb.
+
+2. **Conclusion:** 0",0,0
+Meryam Mir,"Based on the provided paragraphs from the descriptive grammar of Meryam Mir, we can analyze the method of standard negation in the language.
+
+### Analysis:
+
+1. **Negation Particle**:
+   - The negation particle ""nole"" or ""ne"" is used to mark negation in Meryam Mir. These particles are in free variation and mean 'not' or 'no'.
+   - Examples provided in the text show that the negation particle precedes the verb:
+     - (5.77) ""wi kikem-ge le nole umer-kak da-r(a)a"" ('They did not know at first.')
+     - (5.78) ""e ne tabra mamorser tabra bud itkiri op-ge"" ('She did not properly wipe off the mud on her face.')
+     - (5.79) ""ma nole abi dip0"" ('Don't dob him in.')
+
+2. **Position of the Negation Particle**:
+   - The negation particle typically occurs following the first accented element in the utterance to negate an event.
+   - It can also occur at the beginning of a clause that is intonationally dependent on the preceding clause:
+     - (5.80) ""wi sikak we-ge akarik-ley, nole lelut yabi nardar-i"" ('They (2) landed on the beach, allright, no-one saw them.')
+
+### Conclusion:
+
+The provided paragraphs indicate that standard negation in Meryam Mir is marked by a negation particle (""nole"" or ""ne"") that precedes the verb. There is no evidence in the provided text that negation is marked by an affix, clitic, or modification of the verb itself. The negation particle is a separate word and not phonologically bound to the verb.
+
+Therefore, based on the given information, standard negation in Meryam Mir cannot be marked by an affix, clitic, or modification of the verb.
+
+**Conclusion:** 0",0,0
+Hatam,"1. Based on the provided paragraphs from the descriptive grammar of Hatam, it is clear that standard negation in the language is marked by the negative adverb ""big"" which appears in clause-final position. There is no indication that negation is marked by a modification of the verb or by an affix/clitic that is phonologically bound to the verb. The examples provided show ""big"" as a separate word at the end of the clause, not as an affix or clitic attached to the verb.
+
+For instance:
+- (4.90) ""hab hi Ieni ji-ttei big e?"" (You didn't bring a bird, did you?)
+- (4.92) ""Njap gom dem mem ni-pilei hab can kan big."" (One day was not at all enough for us to shoot two birds.)
+
+These examples demonstrate that ""big"" functions as a separate negative particle rather than an affix or clitic bound to the verb.
+
+2. Conclusion: 0",0,0
+Kwomtari,"Based on the provided paragraph from the descriptive grammar of Kwomtari, we can analyze the information to determine if standard negation in Kwomtari can be marked by an affix, clitic, or modification of the verb.
+
+1. **Affixation Table Analysis**:
+   - The table titled ""VERBAL AFFIXATION"" lists various affixes that can be attached to verbs in Kwomtari.
+   - Among the listed suffixes, there is a specific entry labeled ""NEG"" under the ""Verb final suffixes"" category.
+
+Given this information, it is clear that Kwomtari uses a suffix to mark negation on verbs. This suffix is phonologically bound to the verb, which fits the criteria for standard negation as defined in the prompt.
+
+**Reasoning**:
+The presence of a ""NEG"" suffix in the ""Verb final suffixes"" category indicates that negation in Kwomtari can be marked by an affix that attaches to the verb. This satisfies the requirement that standard negation can be marked by a modification of the verb or an affix/clitic that is phonologically bound to the verb.
+
+**Conclusion**: 1",1,1
+Inanwatan,"Based on the provided paragraphs from the descriptive grammar of Inanwatan, it is possible to determine that standard negation in the language can be marked by an affix or modification of the verb. Here is the reasoning:
+
+1. **Negative Imperative**: The negative imperative forms use the negative imperative adverb ""egcibara"" in combination with future forms marked by the suffix ""-sa"" (e.g., ""Egcibara nciwe e-see-sa"" meaning ""Don't cut me""). This indicates that negation can be marked by a combination of an adverb and a verb modification.
+
+2. **Negative Suffix -aigo**: The paragraphs explicitly mention that other negative verb forms found thus far have a negative suffix ""-aigo"" (e.g., ""Nawo ne-se-s-aigo"" meaning ""I am not going to walk""). This suffix attaches directly to the verb, indicating that negation can be marked by an affix.
+
+3. **Neutralization of Tense, Gender, Person, and Number**: The text also notes that negation with ""-aigo"" can lead to the neutralization of these distinctions, further supporting that the suffix ""-aigo"" is a standard method of marking negation on the verb itself.
+
+Given these points, it is clear that standard negation in Inanwatan can be marked by an affix or modification of the verb.
+
+**Conclusion:** 1",1,1
+Iau,"Based on the provided paragraphs from the descriptive grammar of Iau, it is evident that standard negation in Iau is marked by particles that follow the verb or the verb and the clitic stative particle if present. These particles are not affixes or clitics that are phonologically bound to the verb but are separate words (particles) that immediately follow the verb.
+
+Here are the key points from the paragraphs:
+
+1. **Negation Particles**: Negatives in Iau are marked by the particles 'ae' and 'ai'. These particles follow the verb or the verb and the clitic stative particle if present.
+   - Example: ""Y⁸ bui² i⁷ ai⁹ y⁴."" (We didn't /never did go upstream.)
+   - Example: ""A⁹ to⁶ i⁷ ae⁵."" (I did not go at all.)
+
+2. **Position of Negation Particles**: The negation particles are separate words that follow the verb directly, indicating that they are not affixes or clitics that attach to the verb.
+   - Example: ""Ui⁷⁻⁸-de⁸ ae⁵."" (He is not standing.)
+
+3. **Tone and Negation**: The addition of status/epistemic modality tone morphemes to the negative particles distinguishes different kinds of negatives in Iau, but these tones are applied to the particles themselves, not as modifications of the verb.
+   - Example: ""Di⁹ to⁶ ba³tu³ sa⁸ ae⁹ ba³?"" (You do not eat corn do you?)
+
+Given this information, it is clear that standard negation in Iau is not marked by an affix, clitic, or modification of the verb itself. Instead, it is marked by separate particles that follow the verb.
+
+**Conclusion:** 0",0,0
+Karkar-Yuri,"Based on the provided paragraph, it is challenging to extract clear and coherent information about the standard negation in Karkar-Yuri due to the fragmented and unclear nature of the text. The paragraph does not provide a clear example or explanation of how negation is marked in declarative sentences involving dynamic verbal predicates.
+
+1. The paragraph is highly fragmented and lacks coherent examples or explanations of negation in Karkar-Yuri. There are mentions of suffixes and other morphemes, but it is not clear how they function in the context of standard negation. The text does not provide sufficient information to determine whether negation is marked by an affix, clitic, or modification of the verb.
+
+Conclusion: 0",1,0
+Yelî Dnye,"Based on the provided paragraphs from the descriptive grammar of Yelî Dnye, it is possible to determine that standard negation in the language can be marked by an affix, clitic, or modification of the verb. Here is the reasoning:
+
+1. **Affixation and Cliticization**: The text explicitly mentions that the basic form used in negation is ""daa"" meaning 'not'. It is noted that ""daa"" merges with the verbal prenucleus to produce new portmanteau morphemes. This merging process indicates that negation is marked by a modification of the verb, resulting in a phonologically bound morpheme. For example:
+   - Positive form: ""dipi ma"" (PCT.HAB.1SG.SB eat)
+   - Negative form: ""d:uudpi ma"" (PCT.HAB.1SG.SB.NEG eat)
+
+2. **Modification of the Verb**: The examples provided show that negation involves changes to the verb form itself, such as:
+   - Immediate past positive: ""Di mao"" (PLIM.PST.1SG.SB eat)
+   - Immediate past negative: ""D:oo ndli"" (PLIM.PST.1SG.SB.NEG eat.REM)
+
+3. **Imperative Negation**: The negation of imperatives also involves modifications to the verb form, as shown in the examples:
+   - Positive imperative: ""Vya !ll£i"" (hit.FOL T.PCT.IMP.3SG.O.2SG.SB)
+   - Negative imperative: ""Nange vy:a"" (PCT.IMP.NEG.2SG.SB hit)
+
+These examples demonstrate that negation in Yelî Dnye can be marked by modifications to the verb, including the addition of negation morphemes that merge with the verb forms.
+
+**Conclusion**: 1",1,1
+Sentani,"Based on the provided paragraph, it is clear that standard negation in Sentani can be marked by an affix or modification of the verb. The paragraph explicitly mentions the presence of a negative circumfix, ə- -j, which attaches directly to the verb root to negate the verb itself. This circumfix is a type of affix, and its attachment to the verb root meets the criteria for standard negation marking as defined in the prompt.
+
+Here is the relevant excerpt from the paragraph:
+
+""The negative, ə- -j NEG, also attaches directly to the verb root, but due to its infrequency it cannot be said whether it is reserved to the first verb root of the verbal complex. The negative circumfix only negates the verb itself, rather than having scope over the entire sentence.""
+
+This indicates that the negation is achieved through a circumfix that is phonologically bound to the verb, thus fulfilling the requirement for standard negation marking.
+
+**Reasoning:**
+1. The negative circumfix ə- -j is described as attaching directly to the verb root.
+2. This circumfix negates the verb itself, which is a form of standard negation in declarative sentences involving dynamic verbal predicates.
+3. The circumfix is phonologically bound to the verb, fitting the criteria for an affix or modification of the verb.
+
+**Conclusion:** 1",1,1
+Mpur,"Based on the provided paragraphs from the descriptive grammar of Mpur, we can analyze the method of standard negation in the language.
+
+1. **Paragraph 1.7 Adverb of negation**:
+   - The adverb of negation ""jan"" is described as always occurring clause-finally. Examples (201) and (202) illustrate this usage:
+     - (201) ""De-unot Seppi-a a-jap ku Bwatem jan."" (They don't know whether Seppy lives in Saukorem. They know that Seppy does not live in Saukorem.)
+     - (202) ""De-unot jan Seppi-a a-jap ku Bwatem."" (They don't know whether Seppy lives in Saukorem.)
+   - In both examples, ""jan"" is used as a separate word at the end of the clause to indicate negation.
+
+2. **Analysis**:
+   - The negation in Mpur is marked by the adverb ""jan,"" which is a separate word and not an affix or clitic that is phonologically bound to the verb.
+   - There is no indication from the provided paragraphs that negation is marked by modifying the verb or by using an affix or clitic attached to the verb.
+
+Given this information, it is clear that standard negation in Mpur is not marked by an affix, clitic, or modification of the verb. Instead, it is marked by a separate word ""jan.""
+
+**Conclusion:** 0",0,0
+Mehek,"1. Based on the provided paragraphs from the descriptive grammar of Mehek, it is clear that standard negation can be marked by an affix or a modification of the verb. Specifically, the suffix ""-nak"" is used as a negative suffix that attaches directly to the verb stem, as seen in examples (324), (325), (337), (338), and (339). Additionally, the verb can be modified by the negative suffix ""-nak"" when it functions as an auxiliary verb, as illustrated in examples (341) to (345). This indicates that negation in Mehek can indeed be marked by an affix that is phonologically bound to the verb.
+
+2. **Conclusion:** 1",0,1
+Abui,"1. Based on the provided paragraphs from the descriptive grammar of Abui, it is evident that standard negation in Abui is marked by the verb ""naha"" which means 'not be'. The verb ""naha"" follows the negated verb phrase (VP) and is glossed as NEG. This can be seen in examples such as:
+
+- (210) a. al loku di fe mahiting nee naha
+  Muslim PL 3A pig meat eat NEG
+  ‘Muslims do not eat pork’
+
+- (210) b. na tukoi naha
+  1SG be.strong NEG
+  ‘I am not strong’
+
+The negator ""naha"" is used to negate the entire clause and follows the verb it negates. It is not an affix or clitic but a separate verb that functions as a negator. Therefore, standard negation in Abui is not marked by an affix, clitic, or modification of the verb itself but by the addition of a separate negator verb.
+
+2. Conclusion: 0",0,0
+Arapesh (Abu),"Based on the provided paragraphs from the descriptive grammar of Arapesh (Abu), we can analyze the method of standard negation in the language.
+
+### Reasoning:
+
+1. **Negation Markers Identified**:
+   - The text mentions two forms used by Abu' speakers to express negation: ""uwa'"" meaning 'not' and ""duwa'"" meaning 'nothing'.
+   - These negation markers occur in utterance-final position.
+
+2. **Example Sentences**:
+   - Sentence 25: ""’She did not hit her.’"" is given as:
+     ```
+     kk-u-k-a-ha '3SGFA-IR-NONPST-EV-hit/kill-3SGFU' uwa' 'not'
+     ```
+     Here, ""uwa'"" is used as a separate word following the verb complex.
+   - Sentence 26: ""The men sat doing nothing."" is given as:
+     ```
+     alemam mm-a-fan 'men 3PLMA-R-S-sit' duwa' 'nothing'
+     ```
+     Here, ""duwa'"" is used as a separate word following the verb complex.
+
+3. **Negation Structure**:
+   - The structure for negation is described as ""NEG(s) ---> NEG"", indicating that the negation markers appear at the end of the sentence.
+
+4. **Affix/Clitic Analysis**:
+   - The negation markers ""uwa'"" and ""duwa'"" are not shown to be affixes (bound morphemes) or clitics (phonologically bound to the verb). They appear as separate words (particles) that follow the verb complex.
+
+### Conclusion:
+
+Given the information provided, standard negation in Arapesh (Abu) is marked by separate words (particles) that follow the verb and are not phonologically bound to the verb. Therefore, it cannot be determined that standard negation is marked by an affix, clitic, or modification of the verb.
+
+**Conclusion: 0**",0,0
+Korafe,"Based on the provided paragraphs from the descriptive grammar of Korafe, we can analyze the method of standard negation in the language. Here are the key points:
+
+1. **Negative Focus Marker and Deverbal**: The negation in Korafe involves the use of the negative focus marker ""jo"" and a negative deverbal form ""ae"" attached to the verb stem. This indicates that the verb undergoes a modification to express negation.
+
+2. **Examples of Negation**:
+   - **Example 4.85**: ""Na jo ning-ae=ri."" (I S NEG hear.I-not.do=COP.AQ) - 'I didn't hear (what was said).'
+   - **Example 4.86**: ""Na jo ning-ae+e-teni."" (I S NEG hear.I-not.do+dO.l-TP. I S.AQ) - 'I didn't hear (what was said just now).'
+   - **Example 4.87**: ""Na jo ning-ae+er-ena."" (I S NEG hear. I-not.do+IPF-do.PRES. I S.FN) - 'I do not hear (what is being said).'
+   - **Example 4.88**: ""Na jo ning-ae+arena."" (I S NEG hear.I-not.do+do.F.I S.FN) - 'I will not listen.'
+
+3. **Affixation and Cliticization**: The negative deverbal ""ae"" is attached to the verb stem, and in some cases, further affixes or clitics (e.g., ""e-teni"", ""er-ena"", ""arena"") are added to indicate tense and aspect. This shows that negation involves affixation or cliticization that is phonologically bound to the verb.
+
+4. **Focus on Non-Verbal Constituents**: The grammar also mentions that the negative focus marker ""jo"" can be placed before non-verbal constituents to negate them. However, this does not affect the analysis of standard negation of verbal predicates.
+
+Given this information, it is clear that standard negation in Korafe can be marked by an affix, clitic, or modification of the verb.
+
+**Reasoning**: The provided examples and explanations demonstrate that negation in Korafe involves the use of a negative focus marker ""jo"" and a negative deverbal ""ae"" attached to the verb stem, along with additional affixes or clitics to indicate tense and aspect. This indicates that negation is marked by elements that are phonologically bound to the verb.
+
+**Conclusion**: 1",1,1
+Alamblak,"1. Based on the provided paragraphs from the descriptive grammar of Alamblak, it is evident that standard negation can be marked by an affix or modification of the verb. Specifically, in the examples given:
+
+- In example 19(a), the negation is marked by the morpheme ""finji"" which is glossed as ""NEG"".
+- In example 19(b), the negation is marked by the morpheme ""tafite"" which is glossed as ""NEG"".
+- In example 19(c), the negation is marked by the morpheme ""finji"" which is glossed as ""NEG"".
+- In example 19(d), the negation is marked by the morpheme ""afe"" which is glossed as ""NEG"".
+
+These examples show that negation in Alamblak involves specific morphemes that are phonologically bound to the verb, either as prefixes or infixes. This indicates that standard negation in Alamblak can indeed be marked by an affix or modification of the verb.
+
+Conclusion: 1",1,1
+I'saka,"Based on the provided paragraphs from the descriptive grammar of I'saka, we can analyze the method of standard negation in the language.
+
+1. **Negation Particle**: The primary method of negation in I'saka is the use of the negative particle ""mi,"" which appears clause-finally. This particle is used with verbal, adjectival, and nominal predicates to indicate negation. Examples provided include:
+   - (216) k-ei Pi mi. ('It won't rain.')
+   - (217) Wasa dina taka mi. ('My basket isn't heavy.')
+   - (218) dina A mi. ('(That's) not my pig.')
+
+2. **Clause-Final Position**: The negative particle ""mi"" is not bound to the verb but appears at the end of the clause, indicating that it functions as a separate word (particle) rather than an affix or clitic attached to the verb.
+
+3. **Negative Existence**: Another form of negation, indicating non-existence, uses the particle ""mou,"" which also appears as a separate word:
+   - (221) SU mou. ('There's no sago.')
+
+4. **No Verb Modification or Affixation**: The examples and explanations provided do not indicate any modification of the verb itself or the use of affixes or clitics attached to the verb to mark negation. The negation is consistently marked by separate particles placed at the end of the clause.
+
+Given this information, it is clear that standard negation in I'saka is not marked by a modification of the verb or by an affix/clitic that is phonologically bound to the verb. Instead, it is marked by separate particles that are not phonologically bound to the verb.
+
+**Conclusion**: 0",0,0
+Urim,"Based on the provided paragraphs from the descriptive grammar of Urim, we can analyze the methods of standard negation in the language.
+
+### Analysis:
+
+1. **Negation with ""ake""**:
+   - **Position**: The negator ""ake"" can occur either immediately before or after the subject, and if the subject is fronted, ""ake"" occurs between the subject and the verb.
+   - **Examples**:
+     - ""Ake kil atning"" (NEG 3sg listen.R) - 'He did not listen'
+     - ""Tu ake kai anong"" (3pl NEG go village) - 'They did not go to the village/home'
+   - **Observation**: ""Ake"" is a separate word and not an affix or clitic. It does not attach to the verb but rather stands alone in the sentence.
+
+2. **Negation with ""kalpis""**:
+   - **Usage**: ""Kalpis"" is used to negate non-verbal existence and possessive clauses, often appearing at the end of the clause.
+   - **Examples**:
+     - ""Kupm hapm kweikwei pa kalpis"" (1sg clothes things D NEG) - 'I do not have things like clothes.'
+     - ""Kupm marpm kalpis-en-topm"" (1sg money NEG-ATR-1sgO) - 'I have no money.'
+   - **Observation**: ""Kalpis"" is also a separate word and not an affix or clitic. It does not attach to the verb but stands alone.
+
+3. **Other Negation Forms**:
+   - **Ampake, Akempa, Am(p)ur**: These words are used for obligations and prohibitions and always occur at the beginning of the sentence.
+   - **Examples**:
+     - ""Ampur ak ikgwam!"" (don’t do.R theft) - 'Do not steal!'
+     - ""Ampake kil iri"" (may.not 3sg see.IR) - 'He is not allowed to look.'
+   - **Observation**: These negators are also separate words and not affixes or clitics.
+
+### Conclusion:
+
+From the provided paragraphs, it is clear that standard negation in Urim is marked by separate words (particles) such as ""ake"" and ""kalpis"" and not by affixes, clitics, or modifications of the verb. Therefore, based on the given information, standard negation in Urim cannot be marked by an affix, clitic, or modification of the verb.
+
+**Conclusion: 0**",0,0
+Abau,"1. Based on the provided paragraphs from the descriptive grammar of Abau, it is clear that standard negation in Abau is marked by the clause-final negation markers ""pey"" and ""pa."" These markers are used to negate clauses with imperfective and perfective aspects, respectively. The examples provided (18) through (24) demonstrate that these negation markers are separate words that follow the verb phrase, rather than being affixes or clitics attached to the verb itself. 
+
+For instance:
+- In (18), ""hakwe hye nonkway lwak pey"" translates to ""I do not know him,"" where ""pey"" is the negation marker for the imperfective aspect.
+- In (22), ""enekwei sehiy non hakwe hano sa ke nonkway lwak pa"" translates to ""At that time I did not know my wife,"" where ""pa"" is the negation marker for the perfective aspect.
+
+These markers are not phonologically bound to the verb; they occur as separate words at the end of the clause. Therefore, standard negation in Abau is not marked by an affix, clitic, or modification of the verb.
+
+2. **Conclusion:** 0",0,0
+Chamorro,"Based on the provided paragraphs from the descriptive grammar of Chamorro, we can analyze the methods of standard negation in the language.
+
+1. **Sentential Negative ""ti""**: The default method for forming negative sentences in Chamorro is by using the sentential negative ""ti,"" which occurs at the beginning of the clause, to the left of the tense-aspect-mood marker and the predicate. This is illustrated in examples (1a) and (1b).
+
+2. **Negative Verbs**: Chamorro also uses negative verbs whose meanings include sentence negation. Examples of negative verbs include ""tai"" (not have), ""taigui"" (not be at a location), ""tåya’"" (not exist), ""cha’"" (better not, don’t), and ""mungnga"" (don’t, let it not be). These verbs inherently carry negation within their meaning, as shown in examples (4a), (4b), and (4c).
+
+3. **Negative Indefinites**: Another method involves negative indefinites that are syntactically focused. These are formed by combining the word-level negative ""ni"" with an indefinite noun phrase or a prepositional phrase whose object is an indefinite noun phrase. Examples include ""ni håyi"" (no one), ""ni håfa"" (nothing), and ""ni unu"" (no one), as shown in examples (5a), (5b), (5c), and (5d).
+
+Given these methods, we can determine that standard negation in Chamorro can indeed be marked by a modification of the verb (in the case of negative verbs) or by an affix/clitic that is phonologically bound to the verb (though the provided examples do not explicitly show affixes or clitics bound to the verb, the negative verbs themselves inherently carry the negation).
+
+**Reasoning**:
+- The negative verbs in Chamorro inherently include negation within their meaning, which can be considered a modification of the verb.
+- The sentential negative ""ti"" and negative indefinites are not phonologically bound to the verb but are separate words that occur in specific syntactic positions.
+
+Therefore, the evidence supports that standard negation in Chamorro can be marked by a modification of the verb.
+
+**Conclusion**: 1",0,1
+Awtuw,"Based on the provided paragraphs from the descriptive grammar of Awtuw, it is clear that standard negation in Awtuw can be marked by an affix or modification of the verb. Here is the reasoning:
+
+1. **Affixation for Negation**: Paragraph 4.2.3 explicitly mentions the use of morphological negation with the prefixes ""ka-"" and ""kffi-"" as the usual strategy for negating any clause with a verbal predicate. This indicates that negation is marked directly on the verb through these prefixes.
+
+2. **Examples Provided**:
+   - Example (28): ""Awt i y kffi-W- ffiy- re"" (Awtiy NG-NF-go-FU) translates to ""Awtiy isn 't going."" Here, the prefix ""kffi-"" is attached to the verb ""W-ffiy-re"" to indicate negation.
+   - Example (29): ""Awt i y - re wan k a - d - uwpo - ka"" (Awtiy-o lSG NG-FA-see- PF) translates to ""I haven 't seen Awtiy."" The prefix ""ka-"" is attached to the verb ""d-uwpo-ka"" to indicate negation.
+
+These examples clearly show that negation in Awtuw is marked by an affix that is phonologically bound to the verb.
+
+Conclusion: 1",1,1
+Mian,"Based on the provided paragraphs from the descriptive grammar of Mian, we can determine the method of standard negation in the language.
+
+1. **Analysis of the Paragraphs:**
+   - **Paragraph 1:** This paragraph does not provide any information about negation.
+   - **Paragraph 2:** This paragraph introduces the negative clitic `=ba`. It explains that `=ba` is used to express negation in clauses containing a finite verb. The clitic `=ba` follows the subject suffix and, in verbs with a tense suffix in the post-subject slot, it follows the tense suffix. The examples (198) and (199) illustrate the use of `=ba` in negation:
+     - Example (198): `un-aamab-i=ba=be` (go.PFV-IRR.NANPL-1SG.SBJ=DECL) translates to ""I will not carry the string bags.""
+     - Example (199): `un-Ø-i-bio=ba=be` (go.PFV-IRR.NANPL-1SG.SBJ=DECL) translates to ""I didn’t carry the string bags.""
+
+From this information, it is clear that the clitic `=ba` is phonologically bound to the verb and is used to mark negation in declarative sentences involving dynamic verbal predicates.
+
+2. **Conclusion:**
+   - The presence of the negative clitic `=ba`, which attaches to the verb, indicates that standard negation in Mian can indeed be marked by an affix, clitic, or modification of the verb.
+
+**Conclusion:** 1",1,1
+Chácobo,"Based on the provided paragraph, we can analyze the information to determine if standard negation in Chácobo can be marked by an affix, clitic, or modification of the verb.
+
+1. The paragraph mentions that the marker of verbal and clausal negation is =yáma ‘negation’ in all other construction types. The use of the equals sign (=) in the gloss indicates that =yáma is a clitic. Clitics are phonologically bound to other words, which in this case includes verbs.
+
+2. Additionally, the morpheme -ma expresses negation or antonymity when it combines with adjectives and certain nominalized verbs. The use of the dash (-) in the gloss indicates that -ma is an affix. Although the paragraph primarily discusses its use with adjectives and nominalized verbs, the presence of -ma as an affix related to negation is relevant.
+
+3. The paragraph does not provide explicit examples of standard negation in dynamic verbal predicates, but it does indicate that negation can be marked by clitics and affixes in the language.
+
+Given this information, it is reasonable to conclude that standard negation in Chácobo can be marked by an affix or clitic that is phonologically bound to the verb.
+
+**Conclusion:** 1",1,1
+Hup,"Based on the provided paragraphs from the descriptive grammar of Hup, we can determine the method of standard negation in the language. Here is the reasoning:
+
+1. **Negation Strategies**: The text mentions that Hup employs three distinct strategies for expressing negation, involving at least four different negative markers. Among these, the most common or basic form of negation involves a negative suffix (-nˆ¤h) that is used exclusively with verbal predicates.
+
+2. **Verbal Negative -nˆ¤h**: The suffix -nˆ¤h is described as a morphological strategy for the negation of clauses, specifically occurring as a suffix on the verb stem. This indicates that the negation is marked by an affix that is phonologically bound to the verb.
+
+3. **Examples and Structure**: The examples provided (e.g., ""t´w-nˆ¤h"" for ""scold-NEG"" and ""maca-nˆ¤h"" for ""grow-NEG"") clearly show the negative suffix -nˆ¤h attached to the verb stem, confirming that the negation is marked by an affix.
+
+Given this information, it is evident that standard negation in Hup can be marked by an affix (the suffix -nˆ¤h) that is phonologically bound to the verb.
+
+**Conclusion**: 1",1,1
+Kwaza,"Based on the provided paragraphs from the descriptive grammar of Kwaza, it is clear that standard negation in Kwaza can be marked by an affix that is phonologically bound to the verb. Specifically, the text mentions the use of a verbal suffix ""-he-"" for expressing negation. This suffix attaches to the verb and can occupy different positions within the verb complex depending on the construction (negative construction or countersupposition construction).
+
+Here is the reasoning for the chosen option:
+
+1. The text explicitly states that negation is expressed principally by a verbal suffix ""-he-"".
+2. The suffix ""-he-"" is described as occurring in specific positions within the verb complex, indicating that it is phonologically bound to the verb.
+3. The description of the suffix ""-he-"" attracting stress and its placement between the verb root and person inflexion further supports that it is an affix modifying the verb for negation.
+
+Given this information, it is evident that standard negation in Kwaza involves a modification of the verb through the use of an affix.
+
+Conclusion: 1",1,1
+Huambisa,"Based on the provided paragraphs from the descriptive grammar of Huambisa, we can determine the method of standard negation in the language. Here is the analysis:
+
+1. **Affixation in Negation**: The text explicitly mentions two negative suffixes, -t͡ʃa and -t͡su, which are used to mark negation on the verb. These suffixes are phonologically bound to the verb, indicating that negation in Huambisa can indeed be marked by an affix.
+
+2. **Complementary Distribution**: The suffix -t͡su is used with the imperfective stem and the existential verb ""a,"" while -t͡ʃa is used in all other contexts, including with the copular verb ""a."" This distribution further confirms that these suffixes are integral to the verb forms they attach to, modifying the verb to indicate negation.
+
+Given this information, it is clear that standard negation in Huambisa can be marked by an affix that is phonologically bound to the verb.
+
+**Conclusion:** 1",1,1
+Cocama,"Based on the provided paragraphs from the descriptive grammar of Cocama, it is evident that standard negation in Cocama is primarily marked by the use of negative particles, specifically ""tɨma"" and ""ni"". These particles are used to negate clauses, verb phrases, and specific arguments within a sentence.
+
+1. **Reasoning:**
+   - **Negative Particles:** The paragraphs describe the use of two negative particles, ""tɨma"" and ""ni"", which are used to negate different parts of the sentence. ""Tɨma"" is used to negate the whole clause or verb phrase, while ""ni"" is used to negate specific arguments.
+   - **Affixes and Clitics:** There is no mention of negation being marked by affixes or clitics that are phonologically bound to the verb. The examples provided show ""tɨma"" and ""ni"" as separate particles that precede the elements they negate.
+   - **Modification of the Verb:** There is no indication that the verb itself is modified to indicate negation. The negation is achieved through the use of the particles ""tɨma"" and ""ni"".
+
+Given the information, it is clear that negation in Cocama is not marked by an affix, clitic, or modification of the verb. Instead, it is marked by separate negative particles.
+
+**Conclusion:** 0",0,0
+Tiriyo,"Based on the provided paragraphs from the descriptive grammar of Tiriyo, we can analyze the methods of standard negation in the language.
+
+### Analysis:
+
+1. **Affixation**:
+   - In examples (70a) and (70d-e), we see the use of the suffix `-ta` to mark negation:
+     - (70a) `emamina-e_ta` (play-Sup_Neg) translates to ""in order not to play.""
+     - (70d) `t-éne_ta` (Rm.Pst-see:Rm.Pst_Neg) translates to ""We didn’t see your son.""
+     - (70e) `ii-rano_rén t-amii-se_ta` (Rm.Pst-take-Rm.Pst_Neg) translates to ""he didn’t take.""
+
+2. **Modification of the Verb**:
+   - In examples (71a-j), we observe the use of the suffix `-ewa` or `-sewa` to indicate negation:
+     - (71a) `in-akoronma-ewa` (30-help-Neg) translates to ""I am not helping him/her.""
+     - (71c) `i-kéhtun-jewa` (I-scream-Neg) translates to ""You are not screaming.""
+     - (71e) `e-pé-ewa` (Detr-bathe-Neg) translates to ""I am not bathing.""
+     - (71g) `in-apéé-sewa` (30-catch-Neg) translates to ""Don’t touch (lit. catch) his/her wound.""
+     - (71i) `&péé-sewa` (catch-Neg) translates to ""I can’t catch, I am not good at catching.""
+     - (71j) `ka-ewa` (say-Neg) translates to ""Don’t say, 'you are bad.'""
+
+### Reasoning:
+
+The examples provided clearly show that standard negation in Tiriyo can be marked by affixes such as `-ta`, `-ewa`, and `-sewa`, which are phonologically bound to the verb. These affixes directly modify the verb to indicate negation.
+
+### Conclusion:
+1",0,1
+Ticuna,"### Reasoning:
+
+The provided paragraphs from the descriptive grammar of Ticuna give us several examples and explanations of how negation is marked in the language. Here are the key points relevant to determining the method of standard negation:
+
+1. **Examples of Negation**:
+   - **(602)**: ""ērǘ chàwǘ rǜ tãů g̃èʼta̋ mārē nárǖ-go̊.""
+   - **(603)**: ""Tãů ngo̰wa̋ nā-méʼe̋chi ̄ʼü̃́.""
+   - **(604)**: ""̃̄ ñṵmárüʼ̋ ü̃̀ tíì-ĩ ̊ gá nůʼkǘmá gá påãt́ á.""
+   - **(605)**: ""Chòmà ṵ̈kü̋ tãů chā-nâʼwa̰e ̄ ērǘ ná-můʼchi ̋na̰ʼaʼüchi.""
+   - **(606)**: ""Tåu tá chā-pĕʼütàgú i ̀ ñṵmá.""
+
+2. **Negation Marker**:
+   - The negation marker ""tãů"" is used consistently across various examples to indicate negation.
+   - The marker ""tãů"" appears to be a separate word (particle) that precedes the verb or clause it negates.
+
+3. **Morphosyntactic Structure**:
+   - The grammar explicitly states that ""tãů"" functions as a general marker encoding the negative polarity of a clause without affecting its morphosyntactic structure.
+   - This suggests that ""tãů"" is not an affix or clitic but rather a separate particle.
+
+4. **Existential and Topical-Locational Negation**:
+   - For existential predicates, a different strategy is used with the verb ""tåʼu"" meaning ""be absent,"" indicating that ""tãů"" is not used in these contexts.
+
+### Conclusion:
+Based on the provided information, standard negation in Ticuna is marked by the particle ""tãů,"" which is a separate word and not an affix, clitic, or modification of the verb. Therefore, it cannot be concluded that standard negation in Ticuna is marked by an affix, clitic, or modification of the verb.
+
+**Conclusion: 0**",0,0
+Huitoto (Murui),"Based on the provided paragraph from the descriptive grammar of Huitoto (Murui), it is clear that standard negation in the language can be marked by an affix that is phonologically bound to the verb. The paragraph explicitly states that negation involves the morphological process of affixation, where a negative marker is added to a corresponding positive form in main and subordinate clauses. Specifically, it mentions the standard negative marker -ñe, which attaches to the verb (slot 10 on the verb structure).
+
+Here is the relevant excerpt:
+
+> ""Negation in Murui involves the morphological process of affixation, where a negative marker is added to a corresponding positive in main and subordinate clauses. Negation of predicates is expressed in two different ways: with the standard negative marker -ñe (slot 10 on the verb structure, see Scheme 7.1 in §7.1) and with the negative attributive -ni ‘lack of attribution (ability, property, possession)’ (slot 11, cf. the mutually exclusive positive attributive -re for having ‘attribution (ability, property, possession’).""
+
+This clearly indicates that the standard negation in Huitoto (Murui) can be marked by an affix that is phonologically bound to the verb.
+
+**Conclusion:** 1",1,1
+Iquito,"1. Based on the provided paragraphs, it is clear that standard negation in Iquito can be marked by an affix or modification of the verb. Specifically, the second type of sentential negation in Iquito, which occurs in interrogative and subordinate clauses, involves the use of the negative morpheme ""-ji"" that is marked on the verb. This morpheme follows the verbal root and precedes tense and aspect morphemes, as illustrated in examples (12), (13), (14), (27), and (29). The presence of ""-ji"" as a bound morpheme on the verb indicates that negation can indeed be marked by an affix in Iquito.
+
+2. **Conclusion:** 1",0,1
+Movima,"Based on the provided paragraphs from the descriptive grammar of Movima, we can analyze the methods of standard negation in the language.
+
+1. **Negation Particle ""kas""**: The primary method of negation in Movima involves the use of the negative particle ""kas"". This particle precedes the predicate in negative main clauses. For example:
+   - (256) ""kas joro-wa=n"" (NEG sleep-NMZ=2) translates to ""you probably won’t sleep anymore.""
+   - (257) ""kas u~’us-wa=as"" (NEG DR~move_away-NMZ=n.a) translates to ""He/she did not push the door anymore.""
+
+2. **Action Nominalization**: The predicate in negative clauses is often converted into a relational noun through action nominalization. This involves the use of the nominalizing suffix ""-wa"". For example:
+   - (256) ""joro-wa=n"" (sleep-NMZ=2)
+   - (257) ""u~’us-wa=as"" (DR~move_away-NMZ=n.a)
+
+3. **Reduplication and Suffixation**: When the predicate is a morphological noun, negation can involve reduplication or the addition of the suffix ""-e"". For example:
+   - (259) ""kas dichi<ye:~>ye"" (NEG child<NMZ.N~>)
+   - (260) ""kas don-’i-e=os"" (NEG blood-D-NMZ=ART.n.p)
+
+4. **Verbalizing and Nominalizing Suffixes**: Negation of free pronouns involves attaching the verbalizing suffix ""-ni"" and then the nominalizing suffix ""-wa"". For example:
+   - (261) ""kas rey i’ko-ni-wa"" (NEG again PRO.pl-PRC-NMZ)
+   - (262) ""kas rey isko-ni-wa"" (NEG again PRO.pl.a-PRC-NMZ)
+
+From the above examples, it is evident that standard negation in Movima can be marked by modifications of the verb, including the use of nominalizing suffixes and reduplication. The negative particle ""kas"" is used in conjunction with these modifications to form negative constructions.
+
+**Reasoning**:
+- The use of the nominalizing suffix ""-wa"" and the verbalizing suffix ""-ni"" indicates that negation involves morphological changes to the verb.
+- Reduplication and suffixation of morphological nouns in negative constructions further support the presence of verb modifications in negation.
+
+**Conclusion**: 1",0,1
+Bora,"Based on the provided paragraph from the descriptive grammar of Bora, we can determine the method of standard negation in the language. Here are the key points extracted from the text:
+
+1. **Negation by Suffix**: The paragraph mentions that a finite verb or predicate complement is negated by suffixing -© thm-ne (-tune) ‘negative-(n)’ or simply -© thm. (-tu). This indicates that negation can be marked by an affix attached to the verb.
+
+2. **Examples of Negation**:
+   - (837) Tsa dibye péétune.
+     - Gloss: teha? ti-p’è phé:-thm-nè
+     - Translation: ‘He did not go.’
+   - (838) Tsa dibye majchotu(ne).
+     - Gloss: teha? ti-p’è max$ho-thm-(nè)
+     - Translation: ‘He has not eaten.’
+   - (839) teha? o a:?iBè-thm
+     - Gloss: not I go.home-neg
+     - Translation: ‘I did not go home.’
+   - (840) Tsa dibye majchóityu(ne).
+     - Gloss: teha? ti-p’è max$hó-i-tjhm-(nè)
+     - Translation: ‘He will not eat.’
+
+3. **Negation by High Tone**: Additionally, the verb’s first syllable is marked with a high tone to indicate negation.
+
+4. **Negation by Prefix**: The particle teha?(a) ‘not’ is added to the beginning of the clause, but this is not phonologically bound to the verb and thus does not count as an affix or clitic.
+
+Given these points, it is clear that standard negation in Bora can be marked by an affix (-thm-ne or -thm) attached to the verb, and also by a modification of the verb (high tone on the first syllable).
+
+**Conclusion:** 1",1,1
+Wari',"1. Based on the provided paragraphs, it is evident that standard negation in Wari' can be marked by an affix, clitic, or modification of the verb. The evidence for this conclusion is found in several examples:
+
+- The use of the verb 'om ‘to not exist’ in combination with INFL morphemes (ca, ta, xi) to express negation in declarative sentences. For instance, in (79b) and (288b), 'om is used with the INFL morpheme ca to negate the verb:
+  - (79b) 'Om ca mao ca. ‘He did not go.’
+  - (288b) 'Om ca cao' cain carawa. ‘He did not eat meat.’
+
+- The presence of postverbal modifiers such as xi', 'a/'ara, and mao that express negation:
+  - (295b) 'Awi xi' na. ‘It’s no good.’
+  - (297b) 'Awi mao ne. ‘It isn’t good.’
+  - (298b) Hwara' 'a ca. ‘He is not big.’
+
+These examples show that negation in Wari' can be marked by elements that are phonologically bound to the verb (affixes or clitics) or by modifying the verb itself.
+
+2. **Conclusion:** 1",1,1
+Aymara (Central),"Based on the provided paragraph, we can analyze the standard negation in Aymara (Central) to determine if it involves an affix, clitic, or modification of the verb.
+
+1. **Analysis of the Paragraph:**
+   - The paragraph mentions the use of the negative suffix ""janiw"" and its variations such as ""janiwa"" and ""janiw...Vti.""
+   - The example ""Janiwa, Mariajj janiw jisc'a:tansa warmiti?"" translates to ""No, Maria is not a short woman.""
+   - The structure ""janiw...Vti"" indicates that ""janiw"" is a negative marker that is used in conjunction with the verb or predicate.
+   - The suffix ""-ti"" is mentioned as an interrogative suffix, but it is also part of the negative construction.
+
+2. **Determining the Method of Negation:**
+   - The negative marker ""janiw"" appears to be a separate word rather than an affix or clitic directly attached to the verb.
+   - However, the construction ""janiw...Vti"" suggests that the negative marker ""janiw"" is closely associated with the verb or predicate, and the suffix ""-ti"" is added to form the negative sentence.
+   - The paragraph does not provide explicit evidence of an affix or clitic that is phonologically bound to the verb itself. Instead, it shows a separate negative marker ""janiw"" that precedes the verb or predicate.
+
+Given the information in the paragraph, it is not possible to conclusively determine that standard negation in Aymara (Central) is marked by an affix, clitic, or modification of the verb itself. The negative marker ""janiw"" appears to function as a separate word rather than an affix or clitic.
+
+**Conclusion:** 0",1,0
+Trumai,"1. Based on the provided paragraphs, it is clear that standard negation in Trumai is primarily marked by the negation particle ""tak,"" which follows the verb or the verb plus other elements such as auxiliaries. This particle is not an affix or clitic but a separate word. However, there is also mention of the morpheme ""t(a)ke"" used to express a sense of negative condition, which is not a standard negation particle but rather a privative marker indicating a permanent negative condition. The provided paragraphs do not indicate that standard negation is marked by an affix, clitic, or modification of the verb itself. Instead, negation is achieved through the use of separate particles.
+
+Given that the negation particle ""tak"" is a separate word and not phonologically bound to the verb, and the privative ""t(a)ke"" is also a separate word, we can conclude that standard negation in Trumai cannot be marked by an affix, clitic, or modification of the verb.
+
+Conclusion: 0",0,0
+Apinayé,"Based on the provided paragraphs from the descriptive grammar of Apinayé, we can determine the method of standard negation for dynamic verbal predicates. Here are the key points:
+
+1. **Negation of Verbal Predicates**:
+   - The negation of intransitive and transitive verbal predicates is encoded by the clitic sequence **ket=ne**. This is explicitly mentioned in the text:
+     - ""Negation of intransitive (77-78) and transitive (79) verbal predicates is invariably encoded by the clitic sequence ket=ne.""
+     - Examples provided:
+       - (77b) ""pa kẽt paj ic-pikudẽ ket=ne"" translates to ""I won’t get lost.""
+       - (78b) ""na pa a-t-ẽ ic-pimdir ket=ne"" translates to ""I didn’t dream about you.""
+       - (79b) ""na Ø [i-kawã krẽ] katõr ket=ne"" translates to ""S/he didn’t cover (the inside of) his/her basket.""
+
+2. **Clitic Boundaries**:
+   - The clitic boundaries are marked with an equals sign (=) in the glosses, confirming that **ket=ne** is a clitic sequence bound to the verb.
+
+3. **Modification of the Verb**:
+   - The verb takes a nonfinite form when negated, as indicated by the text: ""The nonfinite form of the verb is required by the negative marker.""
+
+Given this information, it is clear that standard negation in Apinayé can be marked by a clitic sequence that is phonologically bound to the verb.
+
+**Reasoning**:
+- The clitic sequence **ket=ne** is used for negating both intransitive and transitive verbal predicates.
+- The clitic is phonologically bound to the verb, as indicated by the equals sign (=) in the glosses.
+- The verb also undergoes a modification to a nonfinite form when negated.
+
+**Conclusion**: 1",0,1
+Yagua,"1. Based on the provided paragraphs from the descriptive grammar of Yagua, it is evident that standard negation can be marked by an affix, clitic, or modification of the verb. Here are the key points supporting this conclusion:
+
+- Paragraph (137) mentions the use of the negative particle ""néé"" which precedes the verb, indicating that negation can be marked by a separate particle.
+- Paragraph (145) and subsequent examples illustrate the use of negative suffixes such as ""-ta,"" ""-tya,"" and ""-miy"" attached to verbs, which clearly shows that negation can be marked by affixes.
+- Paragraph (148) and (149) provide examples where the negative suffix ""-miy"" is used in conjunction with the preverbal particle ""néé,"" further supporting the use of affixes in marking negation.
+- Additionally, paragraph (151) mentions a negative infix ""y,"" indicating another method of modifying the verb for negation.
+
+Given these points, it is clear that Yagua employs affixes and modifications of the verb to mark standard negation.
+
+Conclusion: 1",0,1
+Cacua,"1. Based on the provided paragraphs, it is clear that standard negation in the language Cacua can be marked by an affix that is phonologically bound to the verb. Specifically, Paragraph 1 mentions the negation suffix -kan used for verbal negation, as seen in the example ""nun-hějʔ-kan=hĩ"" (I did not know any Spanish). Paragraph 2 further elaborates on the negation suffix -kan/-kap, providing examples such as ""wã=pĩ-dɨw-kan=hĩ"" (I never carried him) and ""ʔã=t-ɲǎk-beʔ-ep-kap-ta=be"" (maybe he didn’t scream). These examples demonstrate that negation in Cacua is marked by a suffix attached to the verb.
+
+Conclusion: 1",1,1
+Yuracare,"1. Based on the provided paragraphs, standard negation in Yuracare is marked by the negative adverb ""nish"" or its phonetic variant ""nij,"" which immediately precedes the predicate it negates. This method of negation does not involve an affix, clitic, or modification of the verb itself. Instead, it uses a separate word (negative adverb) that is not phonologically bound to the verb. 
+
+The examples provided in the text illustrate this:
+- (35) ""nish bobo-ø=w=ya latiji"" (NEG hit;kill-3=PL=NVR subsequently) translates to ""They did not kill him then.""
+- (36) ""nish ti-bashti ana"" (NEG 1SG-wife DEM) translates to ""This is not my wife.""
+- (37) ""nish [achu imbëtë-shta-ø=w=ya]"" (NEG like.that behave-FUT-3=PL=NVR) translates to ""They will not behave like that (but otherwise).""
+
+In all these examples, the negation is marked by the negative adverb ""nish"" or ""nij"" placed before the predicate, without any modification to the verb itself or the use of affixes or clitics attached to the verb.
+
+2. **Conclusion:** 0",0,0
+Kuna,"Based on the provided paragraphs from the descriptive grammar of Kuna, it is evident that standard negation in the language can be marked by an affix that is phonologically bound to the verb. Specifically, the paragraphs describe the use of the negative suffix -chul(i)/-zhul(i)/-jul(i) to negate verbs in declarative sentences. This suffix is attached directly to the verb stem or immediately following the aspect suffix, indicating that it is an affix that modifies the verb to express negation.
+
+Here are the key points from the paragraphs that support this conclusion:
+
+1. **Basic Negative Suffix**: The text explicitly states that a Kuna sentence is negated by adding the basic negative suffix -chul(i)/-zhul(i)/-jul(i) to the verb. This indicates that the negation is achieved through a suffix, which is a type of affix.
+   
+2. **Examples Provided**: Several examples are given where the negative suffix is attached to the verb to form negative sentences:
+   - ""An immal pakchul."" (I did not buy a thing.)
+   - ""An mol peichuli."" (I do not want cloth.)
+   - ""An nan takchajul."" (I did not see Mother.)
+   - ""An nebijul."" (I don’t want to go.)
+
+3. **Exercise Drills**: The exercises further reinforce the use of the negative suffix in negating sentences, showing its consistent application in various contexts.
+
+Given this information, it is clear that standard negation in Kuna can be marked by an affix that is phonologically bound to the verb.
+
+**Conclusion:** 1",1,1
+Uru,"Based on the provided paragraphs from the descriptive grammar of Uru, we can analyze the methods of standard negation in the language. Here are the key points:
+
+1. **Negation Morpheme ""ana""**: The morpheme ""ana"" is used to negate entire clauses as well as noun, verb, pronominal, and adjectival phrases. It can occur with all parts of speech and has several translations depending on the context.
+
+2. **Combination with Clitics**: The negation ""ana"" can combine with clitic elements. For example:
+   - (41) ""tomxe-ki ana-l t(a)xa-cay wir-ki"" (today-TOP NEG-CL=1 sleep-DEC I-TOP) translates to ""Today, I did not sleep.""
+   - (46) ""anas hek-i pek-aca-cay"" (NEG-CL=3 who-LV want-IR-DEC) translates to ""Nobody would want it.""
+
+3. **Affixation**: The negation ""ana"" can be inflected with clausal and personal clitics, such as declarative ""-cay"" and affirmative ""-pini"":
+   - (42) ""ana-cay tuku saki"" (NEG-DEC yet cold) translates to ""It is not cold yet.""
+   - (44) ""ana xuwa sels-cay ana-pini slekisini"" (NEG totora be-DEC NEG-AFF duck egg) translates to ""There is no totora, [there are] never [again] duck eggs.""
+
+4. **Position and Morphological Marking**: ""Ana"" typically precedes the element it negates and can be marked with various clitics or affixes. It can also be combined with indefinite pronouns to form negative indefinite pronouns.
+
+Given this information, it is clear that standard negation in Uru can be marked by an affix, clitic, or modification of the verb. The examples provided show that ""ana"" can attach to verbs and other elements through clitics and affixes, fulfilling the criteria for being phonologically bound to the verb.
+
+**Conclusion:** 1",0,1
+Camsá,"Based on the provided paragraphs from the descriptive grammar of Camsá, we can analyze the methods of standard negation in the language.
+
+1. **Negator Words**:
+   - Paragraph 9.3.1 discusses the negator words ""ndoñ"" and ""tonday"". These words are used to negate various word classes, including adjectives and nouns. However, these examples do not involve verbs and thus do not provide information about standard negation in declarative sentences with dynamic verbal predicates.
+
+2. **Negating Verbs**:
+   - Paragraph 9.3.2 explicitly addresses the negation of verbs. In example (10b), the verb ""ts-oben"" (1SG-be.able) is negated using the negator word ""ndoñ"" and additional prefixes ""ke-"" and ""at-"". The gloss provided is:
+     - ""ndoñ ke-ts-at-oben"" (NEG IRR-1SG-NEG-be.able) meaning ""I can’t.""
+   - This example shows that the verb is modified by prefixes ""ke-"" and ""at-"", which are phonologically bound to the verb, indicating that negation can be marked by affixes.
+
+3. **Additional Negation with ""tonday""**:
+   - Paragraph 9.3.3 discusses the use of ""tonday"" to indicate negation, but the examples provided do not involve dynamic verbal predicates. Instead, they involve nouns and adjectives.
+
+Given the information in paragraph 9.3.2, it is clear that standard negation in Camsá can be marked by affixes that are phonologically bound to the verb.
+
+**Conclusion:** 1",1,1
+Warao,"Based on the provided paragraphs from the descriptive grammar of Warao, we can determine the method of standard negation in the language.
+
+### Reasoning:
+
+1. **Negation Suffix**: The paragraph explicitly states that negation in Warao is expressed by means of the suffix **-naka** 'NEG'. This suffix is directly attached to the verb root. This indicates that negation is marked by an affix that is phonologically bound to the verb.
+
+2. **Example Provided**: The grammar provides an example where the negative marker **-naka** is added to the verb root, followed by inflectional markers for number and aspect/tense on the auxiliary verb **ta** 'AUX'. This further supports that negation is marked by an affix attached to the verb.
+
+Given this information, it is clear that standard negation in Warao can be marked by an affix that is phonologically bound to the verb.
+
+### Conclusion:
+1",1,1
+Cuiba,"1. Based on the provided paragraphs from the descriptive grammar of Cuiba, it is possible to determine that standard negation in Cuiba can be marked by an affix, clitic, or modification of the verb. 
+
+In Paragraph 1, we see examples of declarative negative sentences where the negation is marked by ""jopa."" For instance:
+- ""Neg: jopa S: huaca ©): naca P: sinayo"" translates to ""not—the-bird—us—bite-he-not"" (The bird doesn’t bite us).
+- ""Neg: jopa -C125: duhueiyo"" translates to ""not—meat—not"" (It is not meat).
+
+In Paragraph 2, the section titled ""The Verb Group Clitics"" lists ""-yo"" as a negative clitic:
+- ""VbClit 20= -yo ‘negative’""
+
+This indicates that negation can be marked by a clitic that is phonologically bound to the verb, fulfilling the criteria for standard negation marking.
+
+2. Conclusion: 1",1,1
+Apurinã,"Based on the provided paragraphs from the descriptive grammar of Apurinã, we can analyze the methods of standard negation in the language.
+
+### Reasoning:
+
+1. **Morphological Negation:**
+   - The text mentions a morphological negation marker ""m(a)-"" which attaches to verbs. This is evident in the example (108):
+     ```
+     kuki-nhi m-areka-kati-nhi upũpe
+     man-AFFECT NEG-be.good-REL.NEG.M-AFFECT die
+     ‘The man who is bad died.’
+     ```
+     Here, ""m-areka"" shows the negative prefix ""m(a)-"" attached to the verb ""areka"" (be good), indicating that negation can be marked by an affix.
+
+2. **Periphrastic Negation:**
+   - The text also describes the use of the periphrastic negation particle ""kona"" which can precede or follow a pre-verbal constituent:
+     ```
+     nota kona sa-ru
+     1SG not go-3M.O
+     ‘I’m not going there.’
+     ```
+     Although this method involves a separate word (particle) and does not attach to the verb, it is important to note that the morphological negation method is already sufficient to determine the presence of verb-bound negation.
+
+3. **Shortened Forms:**
+   - The text mentions that in some speech varieties, ""kona"" can be phonologically shortened to /a/ or /n/ before consonant-initial or vowel-initial words respectively:
+     ```
+     a#n-ayata-panhi
+     NEG#hunt-IMPFTV
+     ‘I’m not going to go hunt.’
+     ```
+     This indicates a phonological binding to the verb, though it is a reduced form of the periphrastic negation.
+
+Given the evidence of the morphological negation marker ""m(a)-"" attaching directly to verbs, it is clear that standard negation in Apurinã can be marked by an affix or modification of the verb.
+
+### Conclusion:
+1",1,1
+Kadiwéu,"1. Based on the provided paragraphs from the descriptive grammar of Kadiwéu, it is clear that standard negation in the language can be marked by a proclitic that attaches to the verb. Specifically, the negation marker ""+aG"" is described as a proclitic that attaches to the verb of the main clause and has scope over the main clause exclusively. This is evident in example (75):
+
+(75) Pedro ayema: me dawi:.
+Pedro aG+y-ema:n: me y-d:-awi:
+‘Peter does not want to hunt.’
+
+Here, the negation marker ""aG+"" is attached to the verb ""y-ema:n:"" (3sg.SUBJ-want), indicating that negation is marked by a proclitic that is phonologically bound to the verb.
+
+Additionally, the third negative marker ""nG+"" is also described as attaching to imperative and conditional clauses, further supporting the presence of phonologically bound negation markers in Kadiwéu:
+
+(78) naGalokoti!
+nG+a-alokon-d-i
+imp.neg + 2sg.SUBJ-run-atel-pl
+‘Don't run!’
+
+Therefore, it is evident that standard negation in Kadiwéu can be marked by an affix, clitic, or modification of the verb.
+
+Conclusion: 1",1,1
+Karajá,"1. Based on the provided paragraphs from the descriptive grammar of Karajá, it is clear that standard negation in Karajá can be marked by an affix or clitic that is phonologically bound to the verb. Specifically, the negative morpheme ""-ko)"" is suffixed to the verb to negate the entire sentence, as illustrated in example (73):
+
+(73) ♂ Î´kI Oha) ∅-r-I-rOèko) koè) r-e
+he armadillo 3-CTFG-TRANS-eat=NEG=CTFG-IMPERF
+‘He doesn’t eat armadillo.’
+
+This example demonstrates that the negative morpheme ""-ko)"" is attached directly to the verb, indicating that negation can be marked by a suffix in Karajá. Additionally, the negative morpheme can also occur with the imperfective clitic, further supporting that negation can be marked by elements that are phonologically bound to the verb.
+
+Conclusion: 1",1,1
