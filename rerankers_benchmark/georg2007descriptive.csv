@@ -1,0 +1,2188 @@
+Paragraph,Annotation,Word order,Page number,Relevance Score,BM25 Rank,BM25 NDCG@K,Binary Relevance Score
+"The Ket nominative codes the sentential subject, as well as the sentential object (the
+patient of transitive clauses), or, in symbolic terms:
+ A S
+ O
+In sentences with two actants, A and O, A will always precede O, thus
+disambiguating these fundamental semantic roles by means of word order alone.
+",2.3,"No dominant order, SOV, VSO",[107],4,1,1.0,1
+" ""Yenisei-Ostyakic"" Pumpokol ""Assanic""Arin
+ Ket Yugh AssanKott
+2.2.7. External genetic relationships of Yeniseic
+None.
+Of course, throughout the history of Yeniseic studies, scholars have compared Ket
+and its relatives with a great number of Eurasian and at times even North American
+languages, sometimes merely in terms of typology, but very often also in order to
+show these languages to be genetically related. Repeatedly, Chinese/Sino-Tibetan,
+North Caucasian languages, Basque, Burushaski, and even Athabaskan (or then
+""Na-
+17
+Ket and Yugh words are given in the transcription used in this grammar; the notation of
+the other Yeniseic languages follows that of the respective sources, without any attempt
+at a phonological analysis.
+",0.0,,[21],0,2,0.8637574337885663,0
+"The word order of matrix verb and complement infinitive is variable, cf.:
+(261)
+ƒd sùj da8-ba/t6-a4-b3-et
+I swim\Inf 3f-1/D-Th-b-R
+I can swim. (Werner 2002, II, 225)
+More frequently, the irregular verb it7-am ""to know"" is used (4.4.10):
+(262)
+ƒd i¿lit7-ba6-di1-am
+I sing\Inf know-1-1-R
+I can/know how to sing. (Vajda 2004, 78)
+b) inability:
+The above verbs can, expectedly, be negated with b#n . There is also a particle
+expressing inability with infinitives: qó~an420. We have not been able to record this
+in the field, but Werner (2002, II, 108) presents several examples with various
+constructions, thus with an impersonal predicative suffix and the subject of the
+infinitive in the dative:
+(263)
+úk-a~a !~ qó~an-am
+you-DAT sit\Inf not.able-PRn
+You (sg.) cannot sit.
+",1.0,,[307],1,3,0.8770340301127121,0
+"190A DESCRIPTIVE GRAMMAR OF KET
+In order to avoid misunderstandings about alignment in Ket, we mention the
+respective orientation of the conjugation classes, but will refer to them simply as
+""conjugation I, II, etc."" in the remainder of this grammar206.
+The notion of transitivity is taken in its traditional (non-scalar) definition, i.e. a
+transitive construction/verb will be one with (and an intransitive construction one
+without) an overt patient/object.
+4.4.3.1 Conjugation I
+The sentential subject is encoded in P8 (for transitive and intransitive verbs),
+objects are referenced in P4, P3, or P1.
+The P8 subject morphemes, identical for singular and plural207, are:
+1SG/PLdi
+2SG/PLku
+3SG/PLm du
+3SG/PLf da208
+The distribution of object morphemes in transitive verbs of this class is:
+1SG P1di
+2SG P1ku
+3SGmP4a (o)209
+3SGfP4i
+3SGnP3b
+1PL P1da~
+2PL P1ka~
+3PL P4a~ (o~)
+Subject and object morphemes in the verbal chain of conjugation I verbs:
+P8 P7 P6 P5 P4 P3P2P1RPL
+dia (o)b di
+kuiku
+dua~ (o~)da~
+da ka~
+206
+The essence of conjugations I-IV has been clearly worked out and described for the first
+time by Comrie (1982). He summarizes the Ket agreement system in a table on p. 125
+(terminology: DI affixes = our P8, BI affixes = our P6, DII affixes = our P1); his categories
+may by and large be translated into our system as follows: a) Primary DI + Secondary Ø,
+number agreement = conjugation I; Primary DI + Secondary BI, number agreement =
+conjugation II; Primary DI + Secondary DII, variable number agreement = conjugation IV;
+Primary DII + Secondary Ø, no number agreement = conjugation III.
+207
+Subject plural is signalled by the PL morpheme -Vn following R, discussed in 4.4.5.5.
+208
+The 3SGf subject morpheme da8- is subject to surface-changing rules discussed in
+4.4.4.1
+209
+ The morphemes a and a~ undergo preterite labialization in past tense forms, cf.
+4.4.5.8.3.
+",0.0,,[192],0,4,0.809118759552961,0
+" MORPHOLOGY 205
+d-), while elision refers to complete loss of such a morpheme, although it can be
+shown to be paradigmatically present. For brevity's sake, both kinds of processes
+will be referred to as T Rs (""truncation rules""), which are given in a somewhat
+arbitrary order below.
+4.4.4.2.1 Truncation Rule 1 (TR1):
+Any P8 subject marker (≠ 3SGf. /da-/) loses its vowel when immediately standing
+before the preterite marker /il/, /in/ in P2, i.e. in configuration P8-P2:
+di8-loq~ ""I shiver""
+vs.
+d[i]8-il2-loq~ ""I shivered""
+That the only /i/ present in the surface form belongs to P2, rather than to P1, is clear
+from the 2SG form:
+k[u]8-il-loq~""you shivered""
+4.4.4.2.2 Truncation Rule 2 (TR 2)
+Any P8 subject marker (≠ 3SGf. /da-/) loses its vowel when immediately standing
+before some overt marker in P3 (i.e. b, inactive 3SG inanimate, or applicative and
+any phonetic material intervening between P3 and R (P8-P3-x-R):
+d[i]8-b3-il2-a ""I ate it""
+vs.
+di8-b3-a ""I eat it""
+The intervening phonetic material (x) is here, of course, the P2 preterite marker, but
+any morpheme occupying P1 equally provides the required configuration.
+4.4.4.2.3 Truncation Rule 3 (TR 3)
+Any P8 subject marker (≠ 3SGf /da/) loses its vowel in configuration P8-P5-P4-x-R:
+d[i]8-t5-o4-[i]l2-o~ ""I saw""
+vs.
+di8-t5-o~""I see""
+Note: the resulting initial sequence td- is, in the speech of most speakers, further
+simplified to t- . Other potential clusters resulting from this and similar rules,
+however, remain intact at least for some speakers (thus producing the only
+exceptions to the language's general tendency to avoid initial clusters). The P4
+206 A DESCRIPTIVE GRAMMAR OF KET
+vowel /a / (present in the preterite in regularly labialized form) is elided in the
+present form regularly before a vowel-initial root.
+4.4.4.2.4 Truncation Rule 4 (TR 4)
+Any P8 subject marker (≠ 3SGf. /da/) loses its vowel in the configuration P8-P4-x-R:
+d[i]8-a4-(j)-s""I dress him""
+vs.
+di8-ku1-s ""I dress you""
+The bracketed (j) in the first example is due to SR 5 (s. b.).
+4.4.4.2.5 Truncation Rule 5 (TR 5)
+Any P8 subject marker (≠ 3SGf. /da -/) loses its vowel immediately before any
+vowel-initial P7 incorporate or P6 subject/object marker: P8-P7V/P6V:
+d[i]8-™t7-a4-d[i]1-daq ""I go into the forest""
+or
+d[u]8-a/k6-(i)-(s)-toq ""he assaults him""
+The truncation of the last /i/ (P1) in the first form is due to Sync (s.b.). The second
+example shows two anaptyctic elements, (s) due to SR 4 and (i) because of VIR 3
+(operative in that order).
+4.4.4.2.6 Truncation Rule 6 (TR 6)
+Any P8 subject marker (≠ 3SGf. /da- /) is completely elided when occurring
+immediately before any consonant initial P7 incorporate or P6 subject marker: P8-
+P7C/P6C:
+[du]8-lubid7-ku/k6-a4-bed""he loves you""
+4.4.4.2.7 Truncation Rule 7 (TR 7)
+The P6 determiner /k is elided immediately before epenthetic /d/ produced by SR 11
+(cf. 4.4.4.4.11):
+d[i]8-bo/[k]6-(d)-i4-(t)-[i]l2-it225 <dbodítlit>
+I brought her away.
+225
+The second (t-) separator in this form is inserted because of SR 9, cf.4.4.4.4.9.
+",1.0,,"[207, 208]",1,5,0.8215325531488493,0
+"Adjectives may not be used in this way; in order to be usable in this function, they
+require prior nominalization with the suffix -s150:
+(93)
+*b! áqta
+ he good
+*He is good.
+(94)
+b! áqta-s
+he good-NM
+He is good (more exactly: he is a good one).
+",0.0,,[138],0,6,0.775116805562508,0
+"In order to explicitly locate an event in the future, Ket uses a particle, ƒs or ásn382,
+which may immediately precede a temporally unmarked (present) verb form:
+(243)
+ ƒd ƒs [di]8-lobed7-a4-bed
+ I FUT 1-work-Th-make
+ I will work. (Maksunova 2001, 11)
+It may do so, but this particle is actually very rarely used with finite verb forms383.
+",0.0,,[288],0,7,0.7361935933661188,0
+"174
+h™´na ""small""
+152 A DESCRIPTIVE GRAMMAR OF KET
+function as adverbs in that they modify the predicate. Most postpositions express
+local relations and, while the semantic force of some local postpositions may be
+metaphorically extended to capture temporal relations as well, others are
+exclusively temporal.
+Formally, postpositions may be derived from (identical with, etymologically related
+to) concrete nouns, adjectives and, of course, adverbs.
+All postpositions require their (nominal) head to be in the genitive, thus:
+(((NOUN)-GEN) postposition)
+Some postpositions arose from concrete nouns or adjectives with a (petrified)
+possessive prefix of the 3rd person singular neuter:
+dúkda ""during"" < d-úkda
+ 3SGn-long
+A unique use of Ket postpositions is that as syntactic subordinators. Some
+postpositions may be directly used after finite verb forms (i.e. without any prior
+nominalization of the verb, and consequently without any linking genitive suffix),
+in order to form various kinds of dependent clauses.
+The basic spatial postpositions are mostly found expanded by case suffixes. Here
+the locative denotes location without movement, the ablative movement from, the
+dative movement to, and the prosecutive a passing movement (""passing behind, in
+front of etc.""). The full set of these possibilities is displayed by175:
+ bƒl ""between""
+LOCbál-ka""id.""
+DATbáldi~a ""id., directional""
+ABLbál-di~al ""from between""
+PROSEC bál-bes ""passing through between""
+In the following, we enumerate the most common postpositions found in Ket,
+discussing their functions and their etymological relations to other lexical items
+found in the language. Some treatments of Ket differentiate between ""true""
+postpositions, and postpositional nouns, the latter being concrete nouns (usually
+designating some locational notion, or a body part, which is used metaphorically to
+indicate such a notion. The number of such postpositional nouns may be regarded
+as principally open, delimited only by the number of semantically suitable nouns:
+e.g., a noun meaning ""left side"" (Ket t!l qóleb), used with the genitive of some
+object noun and a local case suffix
+NOUN-GEN left.side-LOC
+175
+In the following, we list postpositions only with those case suffixes, which were actually
+found in either our field material or the Ketological literature (most notably Werner 1997c,
+Werner 2002 passim , and the works of Šerer, e.g. 1983). Other combinations may,
+however, be possible in the language.
+",0.0,,"[153, 154]",0,8,0.7027939519810603,0
+"The following discussion of Ket verbal morphemics will begin with a presentation
+of these five conjugations . This will be followed by a detailed presentation of
+morphotactic rules, which pervade the whole verbal morphology; these rules are
+unique in that they determine truncation and elision of morphological markers
+(sometimes only parts of them) according to the actual presence or absence of
+concrete fillers in the various morphemic slots; they do not react simply to the
+phonetic surrounding of an affected morpheme, nor can they be described as
+MORPHOLOGY 189
+morphophonemic. We thus follow Edward Vajda, who first described these rules
+for Ket (Vajda 2001) and dubbed them morphotactic.
+Following this, the individual morpheme slots will be discussed one by one,
+showing the possible fillers and their functions, as well as all phonetic distortions
+they may be subject to (including, of course, again morphotactic rules, but also
+phonotactic and other factors). The discussion of verbal morphology will then be
+continued by sections on mood, especially imperatives (4.4.6). This is followed by
+a more detailed description of derived categories (4.4.7). In this section, some
+verbal categories, which are regularly expressed by the exploitation of this very
+productive and versatile morphological technique, will be discussed, too, such as
+causatives, and several aktionsart-like categories. Sections on nominal verb forms
+(infinitives, ""participles""), ""copulae"" and predicative affixes, as well as a number of
+illustrative paradigms - including those of truly idiosyncratic and irregular verbs -
+conclude this chapter.
+4.4.3The five conjugation classes
+In order to be able to correctly inflect a given Ket verb, its conjugation class (or
+simply conjugation) has to be known. Though most verbs (i.e. either verbal roots,
+or derived verbs consisting of R plus either a P5 preverb, a P7 incorporate or both)
+will typically belong to one of these conjugations, some fluctuation does also occur,
+i.e. some verbs may be inflected according to more than one conjugational pattern
+(and some paradigms mix forms from different conjugations). It is usually the case
+that one speaker will conjugate a given verb according to one conjugational pattern
+only; in some cases a speaker will be willing to accept a different pattern, too, but
+equally often this may be rejected by some speakers, while accepted by others.
+Generally, no difference in function or semantic content is entailed by such
+alternatives (nor do the different conjugations as such express any clearly
+determinable and fully operational semantic/functional content). The (albeit
+limited) versatility of conjugational patterns for some verbs may reflect as yet
+undetected dialectal (or subdialectal) differences, which could in principle be
+elucidated by a full appraisal of all attested conjugated verb forms, but it seems also
+to be likely that the functional ""emptiness"" of these patterns, together with ongoing
+language death (which also led to some cases of first-language-attrition in formerly
+fully competent speakers) leads to a certain degree of uncertainty on the side of
+some speakers, how a given verb ""should"" be conjugated.
+Some of the Ket conjugations are markedly characterized by grouping certain
+argument positions together (or ""treating them alike"") against others, along the lines
+of syntactic ""alignment"". Thus, conjugation I treats sentential subject and object in
+what has been described as an ""active"" way, conjugation II may be referred to as
+""ergative"" etc. This is the only grammatical domain of the language where such
+instances of (non-nominative) alignment are found, and the use of an ""ergative"" or
+""active"" verb in any construction does not exert any influence on the behaviour of
+any other syntactic constituent.
+",0.0,,"[190, 191]",0,9,0.6736310571750515,0
+" 92A DESCRIPTIVE GRAMMAR OF KET
+ 4.1.1.2.2 Plural
+ Nominal plurals in Ket may be formed in different ways; most commonly the plural
+ is characterized by an overt plural suffix (4.1.1.2.4.1), but it may also be indicated
+ by a change of the root vowel (4.1.1.2.4.3), a change in tone (4.1.1.2.4.4), or a
+ combination of the latter two techniques (4.1.1.2.4.5). Moreover, entirely
+ suppletive plural forms do exist as well (4.1.1.2.4.7).
+ 4.1.1.2.3 Traces of natural dual, or paral
+ There is no dual in Ket, but at least in the case of a few naturally paired objects, two
+ different plural forms exist, one of which denotes a natural pair:
+ dŒs ""eye"": dès ""a pair of eyes"" :désta~ ""many eyes""
+ bánna ""sleeve"" : bánna-n ""pair of sl."" : bánna-n-i~ ""many sleeves""
+ ólta""testicle"" : ólta-~ "" a pair of t."" :ólta-kin""scrotum""
+ ókde""ear"": ókde-n ""a pair of ears"" : ókde-n-i~ ""many ears""
+ This remains a rare pattern, though; generally, in the absence of explicit numerals
+ or adverbs of quantity, the singular form of nouns denoting natural pairs denotes
+ one instance of such a pair, rather than only one eye, foot, sleeve, etc. This is
+ underlined by the fact that, in order to emphasize that only one single eye, sleeve
+ etc. is being talked about, Ket uses a strategy which is found widely in Eurasian
+ languages, viz. to use the expression ""half eye (etc.)""; qóleb ""half"" may be used as a
+ modifying adjective to denote one item of a pair, or it may form a bahuvr–hi- like
+ compound with its head to indicate the possessor of this item, cf.:
+(5)
+ qóleb b!l
+ half leg
+ one (single) leg
+(6)
+ bú-daq–m qólebdes òb⁄lda
+ he-GENm wife half.eye was
+ His wife had only one eye. (Dul'zon 1964a, 162)
+ 4.1.1.2.4 Plural markers
+ Ket nouns may form plurals by a variety of means and morphological techniques.
+ The singular nominative (""lexicon-"") form of a Ket noun does not allow to infer,
+ how its plural may be formed.
+",0.0,,[94],0,10,0.6478179050783401,0
+"All these interrogative pronouns assume the usual case suffixes found with nouns
+denoting animate beings (i.e. no locative, prosecutive, and, being pronouns, no
+vocative). For inanimate constituents, the two available interrogative pronouns
+show a differentiation not otherwise present in the language.
+ák(u)s ""what"" is used to ask for constituents displaying various syntactic functions,
+e.g. subject, object, or, with case affixes, various case roles:
+(188)
+ túde ákus?
+ this what
+ What is this?
+(189)
+ ákus ku8-b3-bed?
+ what 2-3n-make
+ What are you doing?
+",0.0,,[171],0,11,0.6247173385161898,0
+" THE KETS AND THEIR LANGUAGE 39
+ Kogonova, Lidija Aleksandrovna
+Kellog, born in Ratta (*1943), ethnic Sel'kup, fluent in Ket,
+limited Sel'kup
+2.6 Notational conventions and façons de parler
+Throughout the following - non-phonological - sections of this book, the
+transcription used will closely reflect the phonological system outlined and
+described below (chapter 3). However, for practical reasons, the following
+conventions are introduced:
+The correct morphological parsing of verbal forms will often involve the
+cancellation of several surface morphonological processes in the notation. Verbal
+forms will be given parsed according to the principles outlined in the chapters on
+morphology, sometimes accompanied by a representation of their surface
+manifestation; thus, e.g., ""I am going"" (√-tn) will be given as
+ bo/k6-a4-tn
+ 1/D-T-go
+in some cases accompanied by <bo¥ótn>, or, in Central Ket, <bo¥út>, which are
+closer to the forms actually heard. In the parsed transcriptions, certain
+morphonological rules are deliberately violated, or cancelled, such as the
+intervocalic voicing and spirantization rule (of /k/ and /q/), while they are largely
+represented in the bracketed notation, which thus remains closer to that of other
+Ketologists, resp. of the various orthographic conventions for Ket. However, even
+here, phonetic palatalization is not given, nor is non-phonemic, predictable vowel
+allophony (especially if leading to [æ], [ø], [ø], [œ] respectively, which are normally
+reflected in other notational traditions of Ketology).
+Examples taken from published sources are retranscribed into the notational system
+used throughout this book, except where noted otherwise, or where phonetic details
+are central to the discussion.
+2.6.1 The verbal formula
+The parsing of finite verb forms is justified throughout chapter 4.4 and the
+representation of full and/or partial paradigms is outlined in section 2.6.4.
+If verbs are quoted as lexical entries, a schematic ""verbal formula"" is applied
+throughout.
+This formula contains the purely ""lexical"" elements of the Ket verb in the linear
+order in which they occur in an actual form, separated by hyphens, thus starting
+with any P7 incorporate46 (cf. 4.4.5.2), followed by any P5 determiner (4.4.5.4) and
+giving the lexical root (R, 4.4.5.1) at the rightmost edge. This string of lexical
+elements is then invariably followed by an indication of the conjugation class (I-V,
+46
+ ""P"" stands for ""position"", and denotes one of the numbered morphological ""slots"" of the
+Ket verb, cf. 4.4.2
+40A DESCRIPTIVE GRAMMAR OF KET
+with, if applicable, a subscript indication of morphologically transitive (tr) or
+intransitive (itr) verbs, cf. 4.4.3).
+If present, thematic a4 is given in brackets47, as is the preterite marker used with this
+particular verb (i.e., in most cases, il or in, cf. 4.4.5.11)48.
+With verbs of conjugation classes II and III, the ""series"" of the P6 (subject and
+object) markers, which is not predictable, has to be indicated. This is done by
+bracketed (bo) or (ba). In these cases, following determiners are described in this
+grammar as ""co-occupying"" slot P6, rather than P5. These are given after a slash (/)
+in the same bracket as the P6 marker. More on P6 markers is to be found in 4.4.5.7,
+the justification of giving determiners as co-occupying P6 in these verbs is given in
+4.4.5.3. Some examples:
+loq~ Iitr (il) ""to shiver, tremble""
+ intransitive verb of conjugation I, no a4, preterite in il
+tn IIitr (bo/k) (a) (in) ""to go""
+ itr. verb, conj. II, bo-series of P6 markers, determiner
+ k, a4, preterite in in
+lubid7-bed IItr (bo/k) (a) (il)""to love""
+ tr. v., conj. II, P7 incorporate, bo -series in P6,
+ determiner k, a4, pret. in in
+ok IIIitr (ba/t) (a) (in)""to shudder""
+ itr. v, conj. III, ba-series in P6, determiner t, a4, pret.
+ in in
+tan IVitr (a) (il) ""to stop, remain standing""
+ itr. verb, conj. IV, a4, pret. in in
+This formula (usually given in italics in this grammar) summarizes the minimum
+morphological information necessary to generate correct finite forms, or, for that
+matter, to correctly parse forms found in texts or other sources.
+2.6.2 The notation of Ket words
+The transcription of Ket words in this grammar is intended to be as phonemic as
+possible. This makes it inevitable that some Ket words and morphemes - among
+them frequent lexical items and important affixes - may look at times unfamiliar to
+readers with some acquaintance with earlier ketological literature. The most
+important deviations from traditional Ketology (and, mutatis mutandis, from Ket
+orthography, as well) are the following:
+47
+ The status of this element as a lexical element vs. a purely morphological marker is
+disputed (cf. 4.4.5.8.2); though we treat it as mostly lexical in nature (it cannot be ""switched
+on or off"" by purely morphological processes; it may, though, as Vajda thinks, have a
+function describable in morphological terms), we chose this notation in order to reflect its
+somewhat unclear status.
+48
+ Of course, the preterite markers are morphological in nature, but the choice of the proper
+variant is governed by lexical factors only (at least in synchronically observable Ket and
+Yugh), so they need to be given in the formula, but are, here, removed from the purely
+lexical elements.
+",1.0,,"[41, 42]",1,12,0.6372490259714878,0
+"4.1.1.3.11 Translative
+This case form occupies a somewhat marginal position in the case system of Ket:
+its suffix -esa~ occurs relatively rarely on content nouns, where it indicates an
+object as the ""goal"" of a verbal action (with verbs of procuring, producing,
+becoming, transforming and the like). On the other hand, it is quite frequent with
+verbal infinitives where it serves to form subordinate clauses with purposive
+116A DESCRIPTIVE GRAMMAR OF KET
+meaning (""in order to V""), or the complement of verbs of wishing, wanting etc. It
+may also encode the ""role"" of a human being:
+(67)
+ d™~/k6-o4-[t]n bólba-n-esa~
+ 1PL/D-Th-go mushroom-PL-TRANS
+ We go for mushrooms.
+(68)
+ úl-esa~bo/k6-o4-[i]n2-[t]n
+ water-TRANS 3SG/D-Th-Pst-go
+ He went for water.
+(69)
+ da8-sijaq nán-esa~
+ 3SGf-ask bread-TRANS
+ She asks for bread.
+(70)
+ bú-da qà bìseb sídakat-s-esa~ [du]8-si7-(k)-a/t6-o4-[i]n2-oq
+ he-GEN big brother st.-N-TRANS 3-become-(k)-3SG/D-Th-Pst-R
+ His elder brother has already become a student.
+(71)
+ qòj kéd-esa~ da-qo¿j
+ bear person-TRANS 3SG-wish
+ The bear wants to become a human.
+(72)
+ bú da8-t5-o4-[i]l2-a1-bak íle~-esa~
+ she 3SGf-D-Th-Pst-3-want eat-TRANS
+ She wanted to eat.
+(73)
+ dóktor-esa~ da8-lobed7-a4-bed
+ doctor-TRANS 3SGf-work-Th-make
+ She works as a doctor.
+",0.0,,"[117, 118]",0,13,0.6172172667225375,0
+" MORPHOLOGY105
+BEN dón-ditadón-an-dita
+ABL dón-di~al dón-a~-di~al
+ADESdón-di~ta dón-a~-di~ta
+LOC dón-kadón-a~-ka
+PROSdón-bes dón-a~-bes
+INS dón-asdón-a~-as
+ABESdón-andón-a~-an
+TRANS dón-esa~dón-a~-esa~
+VOC --- ---
+4.1.1.3.1 Nominative
+Many other treatments of Ket grammar refer to this morphologically unmarked
+member of the Ket case system as ""absolutive"", which is unobjectionable, but here
+avoided, in order to underline the non-ergative, nominative, alignment of Ket
+syntax.
+",0.0,,[107],0,14,0.5988715080207347,0
+"184A DESCRIPTIVE GRAMMAR OF KET
+ - while <-> hyphens separate morphemes belonging to different position
+ classes (or morphological slots), a </> slash separates functionally
+ different morphological elements, which occupy the same slot,
+ - [square brackets] mark elements (morphs or parts of morphs) which are
+ viewed as paradigmatically present (or required by the morphological
+ formula of a given conjugation class), but truncated or elided due to
+ morphotactic or morphonological (or sometimes simply phonological)
+ rules,
+ - (round brackets) mark non-morphological elements (consonants and
+ vowels), which are inserted between certain slots due to morphotactic
+ rules (of anaptyxis) or morphotactic separators (to be discussed in great
+ detail in 4.4.4.4); these are further separated to the left and right by <->
+ hyphens, though they do not occupy morphological slots of their own,
+ - for clarity's sake, all elements (including truncated ones) which do
+ occupy morphological slots are indicated by a superscript number
+ indicating the respective slot.
+Below, we will first give a concise overview of the morphological categories
+expressed in Ket verbs, followed by a short presentation of the five different
+conjugation classes (or simply conjugations ); after that, the different position
+classes (or slots) will be treated, focussing on the morphological material which
+may fill them (and its functions), and morphotactic (and other) rules which
+determine their surface realisation. Then, a summary of morphotactic rules and
+separators will be given. Finally, derived categories (e.g. aktionsarten), mainly
+expressed by compounding and/or incorporation or by conspiring elements will
+conclude this chapter.
+4.4.1 General overview - categories
+Any Ket verb form will contain:
+ - a lexical root, which is generally found at the end of the morpheme
+ chain (followed optionally by a subject plural marker); the lexical core
+ of the verb may be (and very often is) compounded, in which case one
+ of the elements is found further left in the morpheme chain (at position
+ P7, where incorporated elements are also placed; in fact, all these cases
+ can be explained as instances of incorporation ); in a few cases -
+ discussed in 4.4.5.1, the material representation of the root morpheme is
+ eroded, leaving the verb form without an overt root morpheme,
+ - one or several actant markers, indicating at least the person (and,
+ sometimes, class) of the main actant (subject, agent), or the
+ object/patient of transitives; however, a verb with two actant markers
+ may cross-reference the sentential subject twice in its morpheme chain;
+ the choice of actant markers and their distribution over the morpheme
+ chain is largely lexically determined and leads to the classification of
+ Ket verbs into five different conjugations.
+Any Ket verb form may furthermore contain:
+MORPHOLOGY185
+-a determiner , usually consisting of one consonant, and occupying a
+ specific slot in the morpheme chain (P5), though this position is debated
+ among Ketologists: while there is general agreement that slot P5 exists
+ and is the proper host of determiners, some facts seem to call for
+ analyzing at least some determiners as (co-)occupying either slot P6 to
+ the left, or slot P4 to the right. Determiner is a traditional term, which is
+ revived here, though recent works use other designations for this type of
+ morphemes, such as preverb , or adposition; all observers agree that
+ determiners are lexical/derivative in nature and contribute to the
+ semantics of the complex verb, though the exact semantic force of them
+ is difficult to establish and mostly elusive,
+-an overt tense marker, only in preterite forms,
+-an overt plural marker, indicating the plurality of the sentential subject
+ or agent,
+-an incorporated element; the decision whether a given element is
+ inserted in its appropriate position (P7) by productive incorporation or
+ whether a formal incorporate has developed, together with the original
+ root, into a compound verb, is largely semantically determined,
+-the incorporated element (in slot P7) may be morphologically complex,
+ containing i.a. markers of plurality, iterativity, or the highly productive
+ causative marker.
+4.4.2 Position class
+In the history of Ket studies, the structure of the verb has been described in often
+widely differing ways. Up to 15 morpheme classes (or position classes, or orders)
+have been identified. The following treatment of the Ket verb basically follows
+Vajda's analysis, which assumes the presence of ten distinct position classes
+(including the root and the rightmost slot for an optional subject plural affix).
+The following table outlines these position classes (from P8, the leftmost slot,
+counting downward to P1, the R[oot], and PL, the optional subject plural marker
+standing after/to the right of the root morpheme):
+P8 - P7 - P6 - P5 - P4 - P3 - P2 - P1 - R - PL
+P8 subject person
+P7 lexical incorporate
+P6 subject or object person ( sometimes + /determiner)
+P5 lexical determiner
+P4 subject/object person or ""thematic"" vowel, partially
+ sensitive to tense
+P3 (neuter object) person (or - petrified - applicative/intensive)
+P2 tense (preterite)
+P1 subject or object person (or petrified resultative marker)
+Rlexical root
+PL subject plural
+186A DESCRIPTIVE GRAMMAR OF KET
+The morphological and functional peculiarities of the individual position classes are
+discussed in the subsections of chapter 4.4.5.
+",1.0,,"[186, 187, 188]",1,15,0.6279029674458633,0
+"4.1.4.4.15 The postposition daan ""when, while, during""
+This temporal (pseudo-) postposition (dáqan in NK) is exclusively used with finite
+verb forms to link two predications. It expresses simultaneity of action with that of
+the main verb of the sentence. An interesting differentiation, first described by
+Gri«ina 1981, involves the temporal relationship between two predications linked
+by daan. Thus, if both verbal actions are depicted as temporally coextensive, they
+will both be represented by verbs in the same tense (which is usually the preterite):
+(160)
+ ƒd [di]8-ses7-o4-[i]l2-ta daan d˜l d[u]8-an7-il2-da
+ I 1-sit-Th-Pst-Rwhile child 3-play-Pst-R
+ While I was sitting, the child was playing. (Gri«ina 1981, 32)
+If the verbal action of the main clause is depicted as occurring at a single point in
+time during the duration of the subordinate (backgrounded) verbal action, the latter
+will be expressed by a verb in the present tense, and the former (usually) in the
+preterite:
+(161)
+ b–s– d[u]8-⁄n7-(s)-[q]-ut daan ta¿j bŒj o/k6-o4-[i]n2-[t]n
+ evening sun 3-set-(Sep)-set while cold wind 3SG-Th-Pst-go
+ In the evening, at sunset, a cold wind blew. (Gri«ina 1981, 32)
+The linear order of both predications is generally (subordinate - main), as in the
+above examples, but this may be reversed:
+160 A DESCRIPTIVE GRAMMAR OF KET
+(162)
+b! be¿k ƒd d[u]8-eskij7-bo/k6-o4-[i]l2-bed ƒd d[i]8-lobed-a4-bed daan
+he always I 3-molest-1SG-Th-Pst-make I 1-work-Th-make while
+He always disturbs me, when I'm working. (Gri«ina 1981, 32)
+4.1.4.4.16 The postposition dó(q)ot ""for, on behalf of""
+This postposition is identical with the noun dóqot ""(one's) share, part"". However,
+instances with /k/ instead of /q/ are also recorded.
+(163)
+ b! da-ƒm dókot d[u]8-[ik]7-in2-bes
+ he 3SGm-mother for 3-direction-Pst-move
+ I came because of his mother.
+",1.0,,"[161, 162]",1,16,0.6563132165932273,0
+" MORPHOLOGY193
+With few exceptions, this pattern requires monosyllabic P7 incorporates. Disyllabic
+incorporated possessa trigger a different conjugational pattern (belonging to
+Conjugation II, but with some irregularities, cf. 4.4.5.2.3.1). This extends to P7
+incorporates, which are only historically disyllabic. The most obvious consequence
+of this rule/tendency is the fact that pluralized P7 possessa allow the verbum
+habendi to be formed according to this Conjugation I pattern only as long as the
+respective nouns form their lexical plural without any syllabic suffix (cf. 4.1.1.2.4
+for the formation of noun plurals in general).
+This sensitivity of position P7 to the number of syllables it contains or contained is
+further illustrated in 4.4.5.2.3.1.
+Apart from this highly frequent pattern, there is only a handful of Conjugation I
+intransitives marking their single actant in this (""active"") way.
+Though this subpattern is indeed rare, the distribution of personal morphemes in
+non-object function unites this paradigm with the transitive paradigm given above.
+It is thus certainly justified to view the distribution of morphemes in this
+conjugation as reminiscent of the ""active"" alignment pattern (subject/single
+argument of intransitive inactive verbs encoded like object/patient of transitive
+verbs, and subject of transitive verbs encoded like subject/single argument of
+intransitive active verbs). The designation ""active conjugation"" may thus be used as
+a mnemonic to show the resemblance of the morpheme distribution with otherwise
+known active/inactive patterns, but it should not lead to far-reaching conclusions
+about Ket morphosyntax212.
+4.4.3.2 Conjugation II
+Transitive verbs of this class mark their subject in P8 and objects in P6, while the
+single actant of an intransitive verb is marked in P6 only. This configuration has led
+observers to refer to this conjugation as the ""ergative"" (or ""absolutive"", as in recent
+works by E. Vajda) conjugation, because it treats the patient of transitive verbs and
+the subject/single actant of intransitives alike.
+The P8 (transitive) subject morphemes are the same as in conjugation I (""active"").
+Here, they can be referred to as the ""ergative"" actant morpheme. The morphemes
+filling P6 (as indicators of direct object or single actant/subject of intransitives) are:
+1SG ba~bo
+2SG ku
+3SGma~o
+212
+In fact, I wish to emphasize that I view it as quite unlikely that Ket may be meaningfully
+described as a language possessing ""active"" traits. All ""inactive"" paradigms of conjugation
+I are (sometimes highly) irregular and it seems possible to make the point that this ""pattern""
+rather consists of an array of verbs, which show various degrees of paradigm mixing,
+involving ""resultativity"" and a certain attraction by Conjugation IV (q.v.). I present these
+patterns here (and some more paradigms in 4.4.10), but a thorough discussion of their
+raison d'être transcends the scope of this grammar and must be placed in a wider - and, of
+course, historical - context. By the time volume II of this grammar sees the light of the day,
+I hope to be able to inform readers about the place where this discussion has materialized.
+",0.0,,[195],0,17,0.6563132165932273,0
+"32 A DESCRIPTIVE GRAMMAR OF KET
+language contact with a language which must have been Yeniseic, most probably
+Ket29.
+Other nationalities present in the Ket villages include of course the Russian and
+Ukrainian majorities and a sizable number of individuals belonging to ethnic groups
+deported to Siberia during World War II, including Volga Germans, Estonians,
+Latvians, Lithuanians, Kuban Greeks, and other peoples of the former Soviet
+Union; some individuals still use the emblematic languages of their nationalities.
+2.5History of the investigation of Ket/Yeniseic30
+The first Russian explorers reached the Yenisei relatively shortly after the cossack
+leader Yermak's successful campaigns against the Turkic Khanate Sibir' in the
+1580s, the event, which is traditionally taken as the beginning of the Russian
+expansion across the Ural mountain range, and which eventually led to the
+establishment of ""Siberia"" as an integral part of the Russian Empire. The first
+Russians reached the region of the Yenisei and its left affluents as early as the first
+decade of the 17th century. They were ""tax-collectors"" who extended the fur-tax
+system (yasak) long before established to the West of the Urals to the terra nova in
+the East. Semi-permanent settlements, later fortresses (ostrogs), were set up for this
+purpose, some of which remained stable and developed into full-scale cities.
+Mangazeya on the river Taz - in Sel'kup territory - was one of these early
+encampments, now abandoned, which imposed the fur-tax regime on the natives of
+the region already in 1601. Parts of the Ket and Yeniseian population were
+doubtlessly in the range of this system from its very beginning (in 1607, an outpost
+from Mangazeya was established at a place called Inbak), and the Pumpokol tribe
+officially accepted the yasak31. The city of Tomsk, to the West of the Yeniseian
+territory, was founded in 1604, in 1619 Yeniseisk (in Yugh and Pumpokol
+territory), and in 1628 Krasnoyarsk and Kansk (the former in Arin, the latter in
+Assan and Kott territory) followed suit. In order to establish their right on the yasak,
+Russians had to break the power of the Turkic Yenisei Kirghiz, until then the
+political overlords of the upper reaches of the Yenisei (and yasak -collectors
+themselves). No collections of Ket or Yeniseian linguistic data were undertaken in
+these early days, but some ethnographical observations, and of course clan, place
+and personal names, can be found in historical documents surviving from this time
+(for details cf. Dolgich 1960).
+29
+ It has, e.g., borrowed Yeniseic/Ket personal pronouns.
+30
+ This chapter is but a concise overview of scholars and their works pertaining to Ket and
+Yeniseian studies. In most cases, a few sentences have to suffice to characterize the
+contributions of the most important personalities in the field. A more detailed account can
+be found in Vajda 2001, 1-17. This outstanding book contains a remarkably complete
+bibliography of virtually everything written and published on Yeniseian linguistics and
+ethnography before the 21st century, and no student of Ket can afford to ever be without it.
+Readers demanding more information about the works of scholars mentioned in this chapter
+should open the relevant pages of Vajda's book and will find all of them enumerated,
+summarized and competently characterized, down to the tiniest newspaper article.
+31
+ Much to the disappointment of Tungus groups, then politically quite dominant in the
+region, who continued to fight against the Russians for quite some time.
+",0.0,,[34],0,18,0.6563132165932273,0
+"196A DESCRIPTIVE GRAMMAR OF KET
+Subject: 1PL
+Object↓:
+ present tense past tense
+3SGm [di]8-lubid7-o/k6-a4-bed-in [di]8-lubid7-o/k6-o4-[i]l2-bed-in
+3SGfn [di]8-lubid7-u/k6-a4-bed-in[di]8-lubid7-u/k6-o4-[i]l2-bed-in
+2PL[di]8-lubid7-k™~/[k]6-a4-bed-in [di]8-lubid7-k™~/[k]6-o4-[i]l2-bed-in
+ <dlúbitk™~òlbetin>
+3PL[di]8-lubid7-o~/[k]6-a4-bed-in[di]8-lubid7-o~/[k]6-o4-[i]l2-bed-in
+MRsTR 6, TR 8, TR 10
+4.4.3.3 Conjugation III
+Two markers of the subject, one in position P8, and the other in P6, characterize this
+conjugation; in transitive verbs, the direct object is marked in P4-P3-P1 in the same
+fashion as in conjugation I. Because of its redundant second subject marker, Vajda
+refers to this pattern as the ""coreferential absolutive construction"". The P8 subject
+marker is present in both transitive and intransitive verbs, and transitive objects are
+marked differently, so this pattern may be said to reflect nominative alignment.
+The ""coreferential"" person affixes in P6 are identical with the object markers in
+conjugation II, with the following exception: any 3rd person subject (singular and
+plural) in P6 is encoded by -bu-, instead of the array of suffixes found in this slot in
+conjugation II, where they mark true ""absolutive""; in other words, in conjugation
+III the opposition of class and number is neutralized for 3rd persons in the
+semantically empty ""coreferential"" slot.
+Subject, coreferential subject, and object markers in Conjugation III verbs:
+P8 P7 P6 P5P4P3 P2P1R PL
+diba~boa (o) bdi
+kuku iku
+dubu a~ (o~)da~
+dad™~ ka~
+k™~
+Like in Conjugation II, all P6 actant markers are followed by a determiner (4.4.5.3),
+and, again, they are differentiated according to the ""bo-"" and ""ba-"" series.
+Intransitive:
+ok III (ba/t) (a) (in) ""to shudder""
+ present tense past tense
+1SGd[i]8-ba/t6-okd[i]8-ba/t6-o4-[i]l2-ok
+2SG[ku]8-ku/t6-ok[ku]8-ku/t6-o4-[i]l2-ok
+3SGm d[u]8-bu/t6-okd[u]8-bu/t6-o4-[i]l2-ok
+3SGf da8-bu/t6-okda8-bu/t6-o4-[i]l2-ok
+ MORPHOLOGY197
+1PL[di]8-d™~/t6-uk-in[di]-d™~/t6-o4-[i]l2-ok-in
+2PL[ku]8-k™~/t6-uk-in[ku]8-k™~/t6-o4-[i]l2-ok-in
+ 3PL d[u]8-bu/t6-uk-in d[u]8-bu/t6-o4-[i]l2-ok-in
+MRsTR 6, TR 10
+ The raising of the root vowel in plural present tense forms is idiosyncratic.
+Conjugation III has only a few transitives: √qos ""to abduct, bring away"", present
+paradigm for 1SG and 2SG subjects218:
+qos III (bo/k) (in) ""to abduct, bring away""
+Subject:1SG 2SG
+Object↓:
+1SG -- [ku]8-ku/k6-di1-qos
+2SG d[i]8-bo/k6-ku1-qos--
+3SGm d[i]8-bo/k6-a4-qos[k]8-ku/k6-a4-qos
+3SGf d[i]8-bo/[k]6-[i]4-qosk[u]8-bo/[k]6-[i]4-qos
+3SGn d[i]-bo/k6-b3-i/qos --
+1PL--[k]8-ku/k6-da~1-qos
+2PLd[i]8-bo/k6-ka~1-qos
+3PLd[i]8-bo/k6-a~4-qos [k]8-ku/k6-a~4-qos
+MRs TR 6, FOR
+4.4.3.4 Conjugation IV
+This conjugation (called the ""coreferential inactive"" conjugation in the works of E.
+Vajda) is again characterized by two markers of the sentential subject, this time in
+P8 and P1 respectively. P6 contains, like in conjugation II, markers of the direct
+object, but only very few transitive (object-marking) verbs of conjugation IV are
+known; the various slots accept the morpheme sets outlined above.
+P8 contains the usual subject markers, as found with conjugations I, II, and III.
+In the few transitive verbs of this class, P6 object markers are the same as in
+conjugation II, with the restriction that only ""bo-""series markers are attested. It
+remains thus unclear, whether ""ba-"" object morphemes are categorically impossible
+here, or whether their non-attestation is a contingent result of the overall rarity of
+conjugation IV transitives. The content of P1 is different from the pattern found in
+conjugations I and III, in that it not only features markers for the ""speech-act-
+participants"", but also 3rd person morphemes. Additionally, conjugation IV verbs
+may display a P3 -b- (which elsewhere serves as a neuter object, ""applicative"" or
+intensive marker, cf. 4.4.5.9) as indicator of inanimate subjects (echoed in P1, as all
+other subject markers in this conjugation class), cf.:
+218
+Past tense forms are not given here, since some forms are suppletive.
+",0.0,,"[198, 199]",0,19,0.6563132165932273,0
+"250A DESCRIPTIVE GRAMMAR OF KET
+(?) k/d5-do IItr (a) (il) (bo)""prepare by hollowing out""
+*d[i]8-u6-k/d5-o4-b3-il2-do-n
+""we prepared it""
+The reanalysis consists of acknowledging only one P5 determiner and moving the
+other one as a co-occupant of P6 (which, as pointed out above, virtually never
+occurs without a determiner), thus the verbal formulae and forms given above may
+be (and are here) rewritten as:
+t5-ka~qutn IVtr (a) (il) (bo/k)
+[ku]8-bo/k6-t5-o4-[i]l2-ka
+d5-do IItr (a) (il) (bo/k)
+d[i]8-u/k6-d5-o4-b3-il2-do-n
+Some other cases, where seemingly two determiners have to be accommodated by
+the formal analysis can be accounted for in different ways (i.e. by eliminating one
+determiner from V/Z's representations), cf. the discussion below.
+Recently (2003) Vajda proposed to assign several other determiners (namely, some
+instances of d and t) to the following slot P4, basically using the same argument (i.e.
+in order to keep P5 free of more than one morpheme)289. As a corroborating
+argument, he points to the fact that these morphemes seem always to co-occur with
+a following (thematic or actant, cf. 4.4.5.8) morpheme in P4, which would mirror
+the situation found with P6.
+In sum, if we regard the avoidance of having more than one marker in the lexical
+slot P5 as a justified objective290, we are left with the choice between two basic
+solutions:
+ P6P5P4
+ba/t /a
+ku/  k /i
+... (a)...(b)...
+289
+He refers to these morphemes as proclitics, as opposed to adpositions, which occupy his
+P5 position.
+290
+Of cource both solutions have to accept that, then, P6 or P4 are overpopulated. However,
+it seems slightly preferable to us to see some P5 markers routinely paired with P4 (since
+thematic a4 is quite frequent in Ket, functionally opaque, and prone to be analogically
+extended to contexts/paradigms which did not originally possess it). On the other hand,
+reasons why any verb, which fills P6 with an actant marker should obligatorily require the
+verb to possess a (lexical) P5 determiner are hard to find. The solution adopted here states
+simply that many verbs fill P5 with some determiner, and, if so, they cling closely to any
+possible preceding P6 actant marker, making room for a possible further P5 marker; the fact
+that Vajda's P4 d / and t/ occur mostly, if not exclusively, with an overt marker in P4 can be
+viewed as an artefact of the overall high frequency of P4 in Ket verbs.
+",0.0,,[252],0,20,0.6563132165932273,0
+"4.1.2 Derivation and compounding of substantive nouns
+Suffixal derivation is untypical for Ket. However, a small number of derivative
+morphemes may be distinguished, the most important of which is the frequent
+ MORPHOLOGY 121
+nominalizer -s, which turns many parts of speech, which may be used attributively,
+into substantive nouns (4.1.2.1). There are only a few other morphological
+elements, which may be described as derivators.
+The dominating noun-forming technique of Ket is compounding. In fact, since the
+overwhelming majority of polysyllabic nouns seem to consist of at least two
+discernable lexical elements, it is probably safe to assume that in fact all such nouns
+are in fact historically compounds, although some of them may no longer be
+sufficiently transparent.
+Most compound nouns consist of a determining and a determined (""head"") element,
+always found in that linear order (i.e. they are ""tatpurus·a""-compounds, to use a term
+from the Indo-Europeanist tradition). These may further be subdivided into
+compounds whose are separated by a - petrified - genitive marker (4.1.2.3.2) and
+those lacking such a linker (4.1.2.3.1). The presence or absence of this marker may
+be indicative of the relative age of the formation, or of the compound's ""degree of
+coherence"", with genitive-linked compounds being possibly ""younger"" or ""less
+ coherent"" than those of the other group. A few instances, where the same lexical
+elements occur in compounds with and without this linker, may be further
+indications for the correctness of this assumption.
+Another differentiating behaviour of compounds is found in the domain of plural
+formation, where some compounds routinely pluralize both elements (which may
+be indicative of a lower degree of coherence) while others pluralize only one
+element, usually the head (4.1.2.3.1.1, 4.1.2.3.2.1).
+In the following paragraphs, we will illustrate, apart from the points mentioned
+above, nominal compounds in terms of the parts-of-speech which may occur as
+determining elements in Ket tatpurus·as, ""heavy"" determiners and heads, i.e. ones
+consisting of more than one element (4.1.2.3.4), and a few frequent determiners,
+which show a certain degree of paradigmaticity, which makes them resemble
+""prefixes"" (the sexus-differentiating nouns, 4.1.2.3.3.1).
+A special discussion is required by a moderately extensive set of very frequent
+compound heads, which have sometimes been described as ""suffixes"" in the
+Ketological literature. More recently, the notion of ""semisuffixes"" has been
+introduced into the discussion, indicating that these elements remain - on the one
+hand - identifiable with independently occurring content nouns of the language, but
+- on the other hand - have sometimes undergone some surface-changing erosive
+processes, which may in some instances even obscure their origin. However, since
+the origin of these elements is generally - if not always for speakers of the
+language, but certainly for the linguist - clearly determinable as content nouns, we
+describe ""semi-suffixation"" as just another instance of noun composition
+(4.1.2.3.3.2).
+Ket thus presents itself as a language, where the grammaticalization of content
+nouns to true deriving affixes has so far - with very few exceptions - reached a
+stage where the lexical origin of some affix-like elements is mostly still clear. A
+special group of these ""semisuffixes"" - diminutive and singulative forming
+elements - has to be singled out, which may be regarded as closest to ""true""
+suffixes.
+",1.0,,"[122, 123]",1,21,0.6823537185296601,0
+"248A DESCRIPTIVE GRAMMAR OF KET
+However, at least an etymological identity of these -q-s cannot be ruled out and
+both solutions (a suffix on P7 and a P5 determiner) remain basically defendable. We
+prefer the former solution, chiefly in order to highlight the function of the
+causativizer as an operator on the incorporate (if this is a verb, the resulting
+meaning is a ""true"" causative, ""to make sb. (do) P7"", if an adjective, factitive
+meanings result, ""to make sb./sth. (be) P7""). A further argument comes from the
+discussion in the following chapter: there, it will be seen that in some cases
+categorically distinct morphemes tend to co-occur, sometimes to the degree of
+virtually never being found without each other. ""Determiners"" are notorious for this
+behaviour, and (together with the principle not to overpopulate the ""true""
+determiner position P5 with more than one morpheme, s.b.), various parsing
+solutions have been proposed, which allow positions to the right or the left of P5 to
+be co-occupied by a ""determiner"". Apart from the semantic-functional argument
+given above, our writing of the causativizer -q- as a suffix on P7 is consistent with
+our overall approach of attaching these ""out-of-bounds"" morphemes to the
+morpheme to the left, rather than to the right (as it happens in parts of Vajda's
+system)285. A detailed discussion and justification of this solution is given in the
+following chapter.
+4.4.5.3 ""Determiners"": flotsam between P7 and P4
+This section discusses morphemes - exclusively consisting of one consonantal
+phoneme only - found in a great many of verbs between the slot positions P7 and P4.
+The morphemes found here are:
+t, k (very frequent), d (common), h, n,~ (rare)286
+Recall from the previous chapter that the causativizer q, though here analyzed as a
+suffixal increment on P7 incorporates, may under certain circumstances also be
+viewed as belonging to this set of determiners.
+The specialist literature refers to these morphemes by a variety of terms (i.a.
+""preverbs"" - Vajda 2000, 2001, or ""adpositions"" - Vajda 2002 and onward); here we
+propose to return to the more traditional - and intentionally vague - designation
+""determiners"" (henceforth without quotes). The behaviour of determiners is a
+healthy reminder that the template structure defended here (as well as any
+competing slot-based analysis) is a useful way to make sense of the ordering of
+morphemes in Ket and similarly organized languages, but that, on the other hand, it
+is also to some degree an artefact of the analysis.
+Though it may be regarded as a straightforward solution to assign all of these
+morphemes simply to P5, such an option is not without problems. Doing so would
+285
+This practice implies that we of course accept the possibility that the causativizer
+originally began its life as just another P5 determiner, before permanently leaning leftward
+to a P7 incorporate.
+286
+These are the possible shapes of determiners; though their functions remain difficult to
+ascertain, it may be the case that the number of actual morphemes (i.e. function-form-
+clusters) is greater.
+",1.0,,[250],1,22,0.7080250454239503,0
+" THE KETS AND THEIR LANGUAGE17
+2.2.2 Kott
+The first and last linguist, who worked on the Kott language with native informants
+was M.A. Castrén, who found a small settlement on the river Kan' (East of
+Krasnoyarsk), which was already at that time home to only five Kott individuals,
+who may have been the last speakers of this language.
+Kott was also spoken, in the XVIIth century A.D., along the river Biryusa (a right
+tributary of the Yenisei), and, possibly, on the Abakan (in Khakassia), the Mrass
+and the Kondoma (the latter two are tributaries of the river Tom' which in turn
+flows to the Ob' in the West); Kott may thus be a substratum language for the
+Turkic language Shor, which is spoken in this region. Toponymic evidence
+(hydronyms containing the element -«et/-‰et, cf. Kott «et ""river"") indicates that Kott
+settlements extended in the East into the Western parts of the Irkutskaya Oblast'
+and in the West until the river Tom'.
+The Kyshtym language, for which Strahlenberg 1730 records 30 words, was a
+variant of Kott, probably its southernmost variant.
+The self-designation of the Kotts has been recorded as Kottuen12. This name may,
+however, be originally a foreign exonym, cf. Buryat xoton ""settlement"", Written
+Mongolian qota(n) ""id., city"", a term used by Mongolic tribes for non-nomadizing
+neighbours13. It is also recorded as the autonym of the Assan (s.b.), whereas the
+Arin called the Kott ""Assan"".
+Apart from Ket and Yugh, Kott is the only Yeniseic language for which any
+information beyond mere word-lists is available. Kott words have been recorded by
+18th century travellers Messerschmidt, Miller and Fischer (s.b.), and have been
+noted in the comparative dictionaries published by Pallas (1786) and Klaproth
+(1823).
+M.A. Castrén compiled a full description of Kott phonology and morphology, as
+well as a fairly extensive vocabulary, which constitute the main corpus of available
+Kott data. On the basis of these data, Werner published two monographs on Kott
+(1990, 1997a), which summarize all known linguistic facts about the language14.
+Both Castrén's data and those found in 18th century sources show internal
+differences which indicate the existence of two Kott dialects; though some of the
+observable variants may be due to imperfect transcription only, Werner (1997a, 6f.)
+treats them as ""Kott A"" and ""Kott B"", respectively15.
+However, no continuous texts and hardly any complete sentences in the Kott
+language have ever been recorded.
+2.2.3 Assan
+The status of Assan as an independent Yeniseic language is not entirely clear. The
+linguistic differences between Kott and data said to represent the ""Assan"" language
+12
+ There seems to be no linguistic reason, which justifies the geminate <tt> in this name.
+13
+ Even if this speculation be wrong, it deserves to be mentioned that the superficial
+resemblance of Ket and Kott is only fortuitous.
+14
+ Werner 1990 contains a full Russian-Kott glossary.
+15
+ A note for users of Castrén 1858: Castrén is not consistent about this, but it seems that he
+marked ""Kott B"" forms by an asterisk.
+",0.0,,[19],0,23,0.7080250454239503,0
+"44A DESCRIPTIVE GRAMMAR OF KET
+3PL o~/[k]6-a4-tno~/[k]6-o4-[i]n2-[t]n
+imperative singularimperative plural
+*ku/k6-a4-[i]n2-[t]n55(n.a.) [not attested]
+<koo~>
+MRs TR 8, TR 10 [morphotactic rules operating on one or several of the forms given]
+This may be followed by a - sometimes lengthy - commentary on irregularities and
+idiosyncrasies of several forms or the whole paradigm (for this verb, cf. 4.4.3.2)
+Transitive verbs will be given accordingly, but full paradigms with all possible
+subject forms will be the exception. In most cases, one subject form will be chosen
+(indicated directly below the verbal formula), if then other configurations do not
+show any noteworthy peculiarities, and the tabulated forms will represent the
+various object persons. For examples, cf. 4.4.3.1.
+Missing forms are either not attested/recorded or intentionally left out, because they
+do not add any important information, or show drastic irregularities, which may be
+viewed as too distractive at the given place of the grammar. However, given the
+complexities of the Ket verb and the propensity for irregularities, full paradigms
+showing idiosyncrasies of various kinds had to be cited even outside the sections
+specifically devoted to irregularities.
+2.6.5 Abbreviations
+BENbenefactive
+Cconsonant
+CK Central Ket
+COMP comparative
+Ddeterminer
+DATdative
+Demdemonstrative pronoun
+DERderivator
+DIMdiminutive
+ffeminine
+FUTfuture
+GENgenitive
+inch inchoative
+INDindefinite (pronoun)
+Infinfinitive
+INSinstrumental
+IRRirrealis
+mmasculine
+MR morphotactic rule
+nneuter
+NM nominalizer
+55
+ The asterisk indicates that this imperative is, partly, constructed: the parsed morpheme
+chain is expected according to the grammatical rules of the language, the actually attested
+form, however, squares only partly with this (but defies proper parsing).
+",0.0,,[46],0,24,0.7080250454239503,0
+"276A DESCRIPTIVE GRAMMAR OF KET
+incorporated into their verbal ""formula""). Such verbs are not rare and it seems
+justified to search for possible motivations for the presence of this morpheme in
+them. Vajda (2004, 67ff.) discriminates between the following cases: according to
+him, petrified b3 can form applicatives, intensives, involuntary causatives. It should
+be borne in mind, though, that these labels are by no means to be taken as
+functional descriptions of live morphological categories of Ket. They may serve as
+more or less felicitous mnemonics trying to capture what are at best former,
+historical functions of the b3-marker, which can no longer be actively ""switched on
+or off"" by Ket speakers to achieve a desired semantic effect, nor is its presence or
+absence governed by any syntactic circumstances or rules. Before we have a look at
+the array of functional labels mentioned above we should, however, review the
+distribution of such verbs among the different conjugation classes. An inspection of
+the ""b-verbs"" listed in Vajda/Zinn 2004 shows that, out of 56 verbs (discounting
+verbs which are only differentiated by different and semantically transparent P7
+incorporates), no less than 43 belong to conjugation class II (27 transitives, 16
+intransitives). Conjugation II is, thus, the hotbed of petrified b3, which is quite
+surprising, since this conjugation does not normally mark a neuter object in this
+position, but in P6 with a completely different set of morphemes (cf. 4.4.3.2). We
+may then try to look for possible reasons why this phenomenon seems to favour
+conjugation II. If we narrow down the sample of conjugation II verbs to those
+which fill P6 with the b a-series of person markers (4.4.5.7), we should take
+cognizance of the fact that, for this subgroup, the regular marker of 3rd SG neuter
+objects is Ø. Though bo-verbs with petrified b 3 do occur, ba-type conjugation II
+verbs are by far the most frequent subtype showing this phenomenon, which lends
+some strength to the scenario outlined here (recall that bo-verbs mark 3rd neuter
+object in P6 by u/6, thus no need would arise to introduce a ""foreign"" marker from a
+different class to overtly mark this actant).
+The regular 1st SG subject 3rd neuter object form of a conjugation II ba-verb like k5-
+daq ""to throw, shoot"" would then be:
+ *di8- Ø/k6-daq<díkdaq> ""I shoot it""
+Now, while this form would be perfectly correct according to the conjugational
+pattern (and such forms do in fact remain unchanged in some cases), it will be quite
+understandable that the lack of an overt marker of the inanimate object may be felt
+as infelicitous, so a suitable marker, namely b 3, could have been analogically
+introduced from other conjugation classes to yield:
+ [di]8- Ø/k5-(i)-b3-daq <kíbdaq>""I shoot it""
+This is the actually attested form (surface-changed by morphotactic rules, which
+operated regularly and predictably after the introduction of b3 into this form, which
+is its only ""non-Conjugation II"" feature). From here, this b3 will then have spread
+through the paradigm to be eventually present in all finite forms. Being an
+analogical process, we should not expect it to take place always and everywhere (it
+does not, of course), and we also expect to find verbs where b3 was introduced into
+3rd SG neuter object forms, but not extended to other forms. In fact we do find
+(albeit a few) such verbs, like for example:
+MORPHOLOGY277
+donan7-do IItr (a) (il) (ba/t)""to stab with a knife (iter.)""
+ [di]8-donan7- Ø/t6-a4-b3-do ""I stab it repeatedly with a knife""
+ but:
+ da8-donan7-a~/t6-a4-do ""she stabs them""
+Note that the first form also allows for a straightforward analysis in terms of
+conjugation I: [di]8-donan7-t5-a4-b3-do (i.e. with no marker at all in P6 and regular
+object marking in P3)365. We could thus speak of a ""mixed"" paradigm here, which
+combines conjugation I and conjugation II forms; conjugation mixing is not
+uncommon in Ket (4.4.3.6), but this analysis does of course not work for verbs,
+which generalize this b3 throughout the paradigm, like e.g.:
+t5-es IItr (b) (in)to draw
+Subject: 3rd SG f
+Object↓:
+ present tense
+1SGda8-ba/t6-b3-es
+2SGda8-ku/t6-b3-es
+3SGm da8-a/t6-b3-es
+3SGf da8-i/t6-b3-es
+3SGn da8-t5-(i)-b3-es
+1PLda8-d™~/t6-(i)-b3-es
+2PLda8-k™~/t6-(i)-b3-es
+3PLda8-a~/t6-(i)-b3-es
+The zero-marking of 3rd SG neuter objects in conjugation II ba-verbs366 is thus a
+""keyhole"", through which b3 objects markers may have been introduced into such
+forms, from where they could be generalized to the whole paradigms. This should
+alert observers to the possibility that many (if not necessarily all) instances of
+generalized/petrified/fossilized b3 may be (and some certainly are) due to a purely
+formal, analogical process, for which no functional explanations are necessary.
+That said, there are of course instances of generalized b3 in conjugation II bo-verbs
+and, though quite rarely, in verbs of other conjugation classes, including
+also intransitive verbs. For these367, we may look for possible functional
+explanations. First of all, there are verbs, in which petrified b3 seems to fulfil the
+365
+Recall the oscillation of ""determiners"" between P6 and P5 from 4.4.5.3.
+366
+A further corollary is that the verb should be semantically capable of taking inanimate
+objects, of course.
+367
+And of course for some conjugation II ba -verbs as well: for some of these, both the
+formal, analogical, explanation and one of the functional possibilities mentioned below
+seem to make much sense. Since the fossilization of b 3 is in no case predictible, both
+278A DESCRIPTIVE GRAMMAR OF KET
+function of an applicative marker. We define an applicative construction as one, in
+which a peripheral sentential constituent is ""promoted"" to direct object status. Such
+constituents are cross-linguistically often instruments, and we do find examples of
+b3-verbs which explicitly convey the meaning that some action is carried out by
+means of an instrument (very often a vehicle or other means of transport). Cf. the
+following example (Vajda/Zinn 2004, 93):
+(241)
+b!-~ ƒd súl-as da8-™la7-bo/k6-d5-o4-b3-il2-ta~
+he-PL I sled-INS 3f-outside-1/D-Th-b-Pst-drag-dragged
+She dragged me outside by sled.
+",0.0,,"[278, 279, 280]",0,25,0.7080250454239503,0
+"Maximal occupancy of morphological slots is achieved in different ways,
+depending on the different conjugational patterns203:
+all verbs mark the sentential subject, mostly in P8 (conjugation I inactive verbs
+mark it in P4 or P1, conjugation II intransitives in P6),
+verbs of conjugations III and IV (the ""coreferential"" conjugations) duplicate the
+subject marking in either P6 (III), or P1 (IV),
+transitive verbs mark additionally the sentential object/patient, in conjugations I
+and IV, P6 hosts the object morpheme, conjugations I and III mark one direct object
+in either P4, P3, or P1 respectively, according to animacy (3rd animate in P4, 3rd
+inanimate in P3, 1st and 2nd animate/speech-act-participant in P1),
+PL is only filled for animate subjects in conjugations I, II, and III.
+",0.0,,[188],0,26,0.7080250454239503,0
+"60 A DESCRIPTIVE GRAMMAR OF KET
+e)Other P8 agreement markers, though they may be truncated and thus be
+""dragged"" inside the realm of the phonological word, do show some signs of
+basically not belonging to it; thus, in the (relatively rare) case that P8
+agreement markers occur directly before the verbal root, without any
+intervening element, the inherent tone of this root is generally preserved69.
+f)Another language-internal rule which requires the notion of phonological
+word is what we call here Vowel Insertion Rule 4 (VIR 4, cf. 4.4.4.3.4),
+operative in finite verbs, which triggers the anaptyxis of /i/ between two
+initial - clustering - consonants of the phonological word, i.e. after the P8
+marker.
+g)Finally, as demonstrated by Vajda 2001, disyllabic, including historically
+disyllabic, P7 incorporates are followed by another boundary which divides
+the morphological word into two phonological words. The hallmark of this
+boundary is a virtual pause, and the prevention of the rule Sync (cf. 4.4.4.6),
+when the phonologically eligible context for it is divided by this boundary.
+The prosodic behaviour of tri-, quadrisyllabic and longer morpheme chains is more
+complicated and has not been subject to intense scrutiny70.
+Only few fairly recurrent patterns can be mentioned here, possibly only tendencies.
+The default rule is that the first two syllables of the phonological word receive one
+of the two disyllabic contours described above, leaving any syllable further to the
+right as a toneless appendix; most common is the fifth contour, cf.
+díldib™k""he pulled me""(d[u]8-il2-di1-b™k)
+dúbb™kin""they pull it""(du8-b3-b™k-in)
+bákissal""I spend the night"" (ba/k6-(i)-(s)-sal)
+P8 3SGf /da/ stands outside of the phonological word:
+ daíldib™k""she pulled me"" (da8-il2-di1-b™k)
+The sixth contour is also found, though somewhat less often, e.g.:
+di8-(k)-a4-daq (dìkadaq) ""I live""
+Note the complicated case of the two-argument verb ""to beat"":
+di8-(k)-a4-ted ""I beat him"" (díkated), fifth contour on the first two syllables,
+vs.
+di8-(k)-a~4-ted ""I beat you"" (diká~ted), sixth contour on the first two syllables
+69
+ Cf. for instance the paradigm of the verb t™™l ""to freeze"": di8- t™™l, ku8- t™™l, du8- t™™l,
+ 8
+da - t™™l; in such cases, it is justified to keep the inherent tone of the root syllable (here tone
+3) in the transcription.
+70
+ However, Werner 1996 must be mentioned, where a great number of empirical data has
+been assembled. Much of the following is based on this source and its examples, difficult to
+obtain in the field nowadays.
+",0.0,,[62],0,27,0.7080250454239503,0
+"PHONOLOGY67
+A good number of examples is thus explicable by assuming loan-word status,
+sporadic regressive assimilations or a close etymological connection with
+monosyllables showing the high vowels /i/ or /u/.
+The overwhelming majority of other instances are clearly derived from
+monosyllabic roots, which display tone 1, i.e. where the closed vowel quality -
+predictable in monosyllabic roots - is maintained in affixed complexes and
+compounds.
+3.2.2 Segmental allophony
+/i/
+High front unrounded vowel, short with tones 2 and 4, half-long with tone 1 and
+long or geminated with tone 3:
+[i]
+ki¿ [ki/ÿ] ""thread""
+ìt[itë]""tooth""
+[iÖ]
+b–s [biÖs∆î] ""evening""
+[iÜ]
+siis[siÜsïÿ] ""small pile""
+/⁄/
+High back unrounded vowel; variants with different length as with /i/:
+[¨]
+h⁄¿b[h¨/pÿ]""son""
+⁄`n [¨në]""runner of sledge""
+[¨Ö]
+t˜t [t¨Ötî]""mosquito""
+[¨Ü]
+s⁄⁄ [s¨Üïÿ]""year""
+/u/
+High back rounded vowel with the usual length-variants:
+[u]
+hu¿n[hu/nÿ]""daughter""
+kùn [kun9∆ë] ""wolverine""
+[uÖ]
+q!k [quÖkî]""hole""
+[uÜ]
+uu[uÜïÿ] ""meadow""
+/e/
+Mid front unrounded vowel, usually open, with tone 1 closed and half-long:
+68 A DESCRIPTIVE GRAMMAR OF KET
+[E]
+e¿k[E/kÿ]""twenty""
+èn [Enë] ""son-in-law""
+[E…]
+eel[EÜlïÿ] ""berry""
+[eÖ]
+dŒs[deÖs∆î]""eye""
+/™/
+Central mid-high, unrounded vowel with tone one; with tones 2, 3, and 4 a lowered
+variant occurs:
+[´Ö]
+k#t[k´Ötî] ""winter""
+[ø]
+t™¿[tø/ÿ]""salt
+™°k[øVë] ""louse""
+[ø…]
+q™™l [qøÜlïÿ]""gall""
+/o/
+Mid-high, back, rounded vowel, mostly open, closed and half-long with tone 1:
+[oÖ]
+q¡ [qoÖî]""ice""
+[O]
+bo¿k [bO/kÿ] ""fire""
+hòl[hOlë]""outer appearance""
+[O…]
+ooj[OÜjïÿ] ""bosom""
+/a/
+Low, back-central vowel with the usual tonally determined variants of quantity. A
+labialized variant is encountered with tone 3 in Central Ket. After the uvular stop
+/q/, this vowel is realised as [œ] in the lexical root /qà/ ""big"". This is at the same
+time the only Ket example where the sequence /qa/ is found with tone 4, so this
+tonal environment is sufficient to predict this variant:
+[a]
+da¿l [da/lÿ] ""sinew""
+kàl[kalë]""war""
+[aÖ]
+tƒt[taÖtî] ""tusk""
+[a…]
+baam [bAÜmïÿ]""old woman""
+PHONOLOGY 69
+[A…]
+baat[bA…tïÿ]""old man"" (Central Ket)
+[œ]
+qà[qœë] ""big""
+3.3 Consonants
+3.3.1 Consonant phonemes
+The inventory of phonemic consonants is given in the following table:
+ labialalveolar lateral palatal velar uvular laryngeal
+stop b t dk q
+fricatives h
+continuant lj
+nasalm n~
+As with the vowels, earlier treatments of Ket often assign phoneme status to
+considerably more units. Thus, we often find /p/, /g/, /R/ and palatalized variants of
+/s/, /t/, /d /, /n/ transcribed as phonemes in many works, and acknowledged in the
+official Ket orthography.
+/p/ is not recognized in this grammar, though a few contexts seem to require it as a
+separate phoneme. In most cases, though, it is analyzable as devoiced /b/ in auslaut
+position or adjacent to (phonemically) voiceless consonants.
+The remaining cases include instances of initial /p-/, which are found in
+a) loanwords
+b) onomatopoetics
+c) some unclear words from earlier recordings (mostly from O. Donner's work and
+not found elsewhere), listed in the following table:
+pájbet ""to solder"" (a) < russ. pájat'
+pâm´t""collar-bone"" (c)
+parempas ""a k.o. hill"" (a) < sel'k. pâr´mpas
+pasát""to save"" (a) < russ. spasát'
+paxát""to till"" (a) < russ. paxát'
+pésta""polar fox"" (a) < russ. peséc
+pétnaN ""spots, marks""(a) < russ. pjatnó
+pétsaraNs""coloured, variegated""(a) < russ. pestryj
+pelaq""half""(a) < sel'k.?
+pi‰át""seal""(a) < russ. pe‰át'
+pílat""whip""(a) < russ. plet'
+pílistet ""to dance""(a) < pljasát'
+70 A DESCRIPTIVE GRAMMAR OF KET
+pílpej ""sound of burning wood""(b)
+pollaka""part of reindeer's harness"" (c)
+pólonsin ""to fill""(a) < russ. (na)pólnit'
+polót""raft"" (a) < russ. plot
+pomogát""to help""(a) < russ. pomogát'
+porqót ""steamship""(a) < russ. parochód
+posóbat""to help""(a) < russ. posóbit'
+postóp ""bottle"" ? (a) < russ. stópka
+púrtos ""a.k.o. 'undead' ghost""?
+p⁄rgatcek""merchant"" ? (a) < russ. pródavec
+p⁄rgéj ""to beat with club""?
+p⁄´m⁄l ""Jew's harp"" ? (a) < sel'k. piNkir76
+pys (? p˜s)""stopper of gun"" (c)
+This list is, as far as we can tell, exhaustive, and no minimal pairs involving /p/ and
+/b/ exist in Ket.
+Another, marginal, instance of seemingly unmotivated /p/ is found in the verb form:
+ <datopultet> ""she (the bitch) caught it (the meat)""
+Analysis:da8-tob7-u/[k]6-[i]l2-ted
+Alternatively, <datobultet> has also been recorded. The most likely explanation is
+that the root, in P7 (here intervocalic) position, was analogically remodelled
+according to its shape found in preconsonantal position, as e.g. in the infinitive
+tob7-ted [tóptæt]. Similar cases are found, sporadically, with final -d [-t] in -bed,
+which in some secondarily prevocalic contexts, especially when followed only by
+the verbal pluralizer -Vn, is sometimes articulated voicelessly.
+Yet another possible reason for the acknowledgement of /p / as a phoneme is the
+occurrence of phonetic [p] in geminate form in less than a handful of words, viz.:
+['op:as∆] ""stepfather""
+['h⁄p: as∆] ""stepson""
+Both are compounds with an (obsolete) lexical root, which may be reconstructed as
+*-has (possibly earlier *-fas, *-pas), cf. 4.1.2.3.3.2.3. Obviously, these compounds
+were formed in a fairly early stage of the language (very probably as early as Proto-
+Northern-Yeniseic), where the consonantal onset of this word could cause the
+gemination of final /b / (of ¡b ""father"", and h˜b ""son""), which in absolute auslaut
+position was already devoiced to [p].
+The resulting voiceless geminate stop cannot be written as <-bb ->, since this
+geminate exists independently. We chose to render it as <-bh->, to be read as [p:],
+in order to avoid the notation of a marginal /p /-phoneme with highly restrictive
+distribution, thus:
+76
+ The similarity with the Sel'kup word is, of course, vague at best.
+",0.0,,"[69, 70, 71, 72]",0,28,0.7080250454239503,0
+"The intransitive verb √loq~ ""to shiver"" shows only P8-morphology in the singular
+(for the form of the plural affix, cf. 4.4.5.5):
+loq~ Iitr (il)210""to shiver, tremble""
+present tensepast tense
+1SG di8- loq~d[i]8-il2-loq~
+2SG ku8- loq~k[u]8-il2-loq~
+3SGmdu8- loq~d[u]8-il2-loq~
+3SGfd™8- loq~da8-il2-loq~
+1PL di8- loq~-in d[i]8-il2-loq~-in
+2PL ku8- loq~-in k[u]8-il2-loq~-in
+3PL du8- loq~-in d[u]8-il2-loq~-in
+imperative singularimperative plural
+ il2-loq~il2-loq~-in
+MRs TR 1
+The affixes marking the subject in P8 and the object in P4, P3, and P1 may be
+illustrated by the following paradigm of b™k ""to find"":
+i/b™k ~ k™k Itr (in)""to find""
+Subject: 1SG
+Object↓:
+present tensepast tense
+2SG di8-ku1-b™kd[i]8-in2-ku1-b™k
+210
+This verbal formula, which summarizes the necessary information required for the
+proper inflection of a verb, is explained in 2.6.1.
+",0.0,,[193],0,29,0.7080250454239503,0
+" MORPHOLOGY 263
+q5-dil Itr (il)""to put on clothes, to skewer""333
+q5-dil IVitr (il)""to put oneself into a narrow space""
+dil IItr (il) (ba/q) ""to dress""
+Vajda describes its possible function as ""inessive"". His idea (Vajda 2004, 63) that it
+might be etymologically derivable from the adverb qƒ ""inside"" is attractive and
+probably correct.
+4.4.5.4.7 The determiner ~
+This determiner is found with a single verb only:
+ qo IIitr (a) (il) (ba/~) ""to search for (intrans)""
+In spite of the idiosyncratic nature of this element, the morphological makeup of
+this verb does not allow for a different analysis, cf.:
+ [di]8-ba/~6-(s)-u/qo ""I am searching""
+ da8-bu/~6-[i]l2-u/qo ""she was searching""
+4.4.5.5 PL - the subject plural
+4.4.5.5.1 The distribution of PL suffixes
+The only morphological slot to the right of the R morpheme is PL, which hosts the
+marker of subject/agent plural.
+It is not filled in every conjugation class (cf. 4.4.3):
+ PL filled for:
+Conjugation Iactive subjects
+Conjugation II transitive subjects
+Conjugation IIIall subjects
+Conjugation IV ----
+Conjugation V----
+Conjugation I:
+active subject (+PL):
+ d[i]8-es7-o4-[i]l2-ij-in ""we shouted""
+inactive subject (-PL):
+333
+Meaning ""to put on clothes"", the verb, obviously, allows animate objects, whereas with
+the meaning ""to skewer"" it does not. Both meanings form slightly different paradigms, in
+that the former has the imperative q5-il2-dil and ""to skewer"" the R-suppletive imperative q5-
+il2-on.
+",1.0,,[265],1,30,0.7314649396923802,0
+"THE KETS AND THEIR LANGUAGE 33
+Yeniseic peoples have been described in the early travel literature, beginning in the
+17th century (cf. Vajda 2001, 1, for a concise account). However, linguistic data
+begin to be recorded only a good one hundred years after ""contact time"".
+The first lexical data from Yeniseic languages (Arin and Kott) to appear in print
+seem to be those found in the work of the Swedish officer Strahlenberg (*1676, cf.
+Strahlenberg 1730). Strahlenberg spent some 13 years in Russia as a prisoner of war
+after the defeat of the Swedes at Poltava in the Great Nordic War in 1709. His work
+was very influential in the 18th century and enjoyed some reputation as a first
+attempt to classify some of the native languages of Siberia. Strahlenberg's exact
+itinerary in the country remains, however, unknown, and it is unclear whether he
+collected all linguistic data found in his book himself. In fact, it is known that he
+was a part-time travel companion of the botanist D.G. Messerschmidt, who
+travelled in Siberia between 1720 and 1727. It was the latter, who is distinguished
+as being the first scholar to record Ket language data in the field. According to his
+diary, he reached the estuary of the river Bakhta on the 9th of June 1723. He
+managed to record several names of wild birds and a few numerals from the
+language of the ""Ostyaks"" he encountered there, i.e. Kets. On the following day, on
+the estuary of the rivulet ""Eed-«e« "" (lit. ""sable river"", modern Ket èd sŒs ), he
+recorded a longer specimen.
+In the following, we reproduce the list of Ket words (alphabetized, without the
+numerals) found in Messerschmidt's diary, confronted with the same words (if any)
+as given in Castrén's materials (1858, see below) and our modern notation of Ket
+words, which may show the relative stability of the basic features of Ket phonology
+during the last 280 years, as well as both Messerschmidt's and Castrén's ways of
+putting Ket to writing:
+Messerschmidt M.'s translation32 Castrén21st c.translation
+aiyjohvulpes alba, weißer Fuchs---àjkonpolar fox
+oder Peeß [pesec]
+álleshattud noctua non aurita minor, saxatilis --- owl
+báh tringa limosa recurvirostra minor --- baaa.k.o. redshank
+balwétiggrando, Hagelbalbedengbálbed hail
+bángterra, die Erdeba~ba¿~ earth, ground
+beégh Wind beibŒjwind
+beéth nix, Schnee---bèdsnow
+bhéesslepus, Hase---bŒshare
+bógda sclopetum, ein Rohr oder Flintebogdog†am, bókdom gun, rifle
+ bogdag†a~
+boóck Feuerbokbo¿k fire
+cháng falco, subbuteo maior---qà~falcon
+chauglacies, Eis xû, xou, q¡ ice
+k`û, xû~el
+cheip luna, der Mond xip, xîp,q–bmoon
+k`îp, k`ip
+chógh stella, Sterne xoax, k`oag† qo¿star
+32
+ Some lengthy descriptions given by Messerschmidt have been abbreviated.
+",0.0,,[35],0,31,0.7314649396923802,0
+"16 A DESCRIPTIVE GRAMMAR OF KET
+2.2The Yeniseic family of languages
+Ket is a member of the Yeniseic language family, consisting of Ket, Yugh (which
+has for a long time been viewed and described as a Ket dialect, Sym-Ket ), Kott,
+Arin, Assan , and Pumpokol. All Yeniseic languages save Ket are now definitely
+extinct, and, apart from well-described Yugh and reasonably well-attested Kott,
+fragmentary word-lists constitute our whole knowledge about them11. In the
+following sections, the most important data on the location, time of extinction, and
+available data are given for the extinct members of the family. It must be mentioned
+that the documented history of Yeniseic may actually be much older. Though at
+present (and very probably for good) lacking a decisive and final proof, the theory
+that (atleast one of the languages of the) Xiongnu confederation, which ruled the
+Central Asian steppes and Northern China in the centuries around the turn of the
+Christian Era, might have been Yeniseic (or, to use a more conservative
+formulation: did contain some Yeniseic elements) continues to be discussed in the
+field. The most substantial contributions to this field are those by Ligeti (1950),
+Pulleyblank (1962) and recently Vovin (2000, 2002). We might also mention our
+own idea that the well-known Turkic/Mongolic religious term tengri (""sky, God"")
+may have a Yeniseic etymology (Georg 2001).
+2.2.1 Yugh
+Since Castrén's times, the Yugh language was mostly, and sometimes continues to
+be, referred to as the Sym dialect of Ket (symskij dialekt ketskogo jazyka), after the
+river Sym , where its last speakers lived. Throughout the 20th century, it was the
+southernmost language of the Yeniseic family. Apart from (Imbat-) Ket, the object
+of this grammar, Yugh is the best known of all Yeniseic languages; already the first
+coherent treatment of any Yeniseic language, Castrén 1858, was, though principally
+pan-dialectal, heavily based on data from Yugh. The question, whether Yugh should
+be regarded as a sister language of Ket, or as a mere dialect of it, is of little
+theoretical importance. Suffice it to say that both languages/variants are closer to
+each other within the family, than either is to any of the other extinct languages, that
+their genetic relationship is obvious in every subsystem, but that the last living
+speakers reported mutual unintelligibility with (Imbat) Ket, and that their
+differences, again in all subsystems, certainly warrant a separate treatment. Yugh
+data will thus not be discussed in this grammar. While the earlier literature
+(especially Dul'zon 1968) treated both variants/languages promiscue, an in-depth
+study of Yugh in its own right is Werner 1997c.
+The name Yugh is unexplained (Ket jùk/j!k, Yugh d'uk); it should be mentioned,
+though, that initial /j-/ is not normally found in native Yeniseian words.
+11
+As I write the last lines of this volume, I receive Werner 2005, a definite statement of all
+remnants of Yeniseic languages of the XVIIIth century, with full descriptions of all
+available data, exhaustive glossaries and some new discoveries and corrections to earlier
+treatments.
+",0.0,,[18],0,32,0.7314649396923802,0
+"MORPHOLOGY 215
+Recall from 3.1.3 that a disyllabic P7 incorporate is usually followed by a
+phonological word-boundary, which distributes the last three vowels of this
+morphological word between two different phonological words and thus prevents
+Sync . Vajda (2000, 20) shows that this also holds for some monosyllabic P7
+incorporates, which, however, may derive from originally disyllabic nouns, e.g.:
+ [di]8-haj7-i/bed ""I make oars""
+ hƒj, PL hàj is monosyllabic, but cf. Northern Ket (PL) hàji.
+4.4.4.7 Pre-root anaptyxis
+In certain contexts, which are not entirely describable in morphonological or
+morphotactic terms, some roots may be preceded by an excrescent vowel (mostly
+/i/, sometimes /a/ or /u/), cf.
+ d[u]6-i~qus7-(s)-i/bed ""he makes a house""
+ d[u]8-an7-(s)-i/bed""he thinks (of someone)""
+ d[i]6-i4-(t)-[i]n2-i/b™k ""I found her""
+ [di]8-ba/n6-k5-(s)-u/qo-n""we see""
+This process seems to be largely lexically motivated (occurring more commonly
+with some roots, less commonly with others; -bed ""to make"" is quite often found
+with i/); the avoidance of consonant clusters seems also to be one motivation for its
+occurrence.
+4.4.5 The individual position classes (morpheme slots)
+This chapter discusses the various position classes of the Ket verb, mostly under
+formal aspects.
+4.4.5.1 R - the root morpheme
+As a general rule, the root morpheme in any Ket verb form occupies the rightmost
+position of the morpheme chain (followed only by an optional marker of subject
+plural in position PL, confined to certain conjugational patters, cf. 4.4.5.5), all other
+morphological elements being technically prefixes233. All cases, where seemingly
+the root morpheme is found further left (more exactly in P7) and the R slot seems to
+be occupied by an ""affix"", can be interpreted by a widespread derivational process
+involving incorporation of the lexical (""content"") root element and its substitution
+by a different root-morpheme in R, which, however, has gradually acquired, or is in
+the process of acquiring, affix-like semantic properties. Nevertheless, it is
+233
+Some of them, especially the P8 feminine subject marker da-, should possibly rather be
+referred to as proclitics, due to some characteristics of their behaviour.
+",1.0,,[217],1,33,0.7542908238951972,0
+"MORPHOLOGY101
+ loan from Samoyedic (cf. Protosam. *j3jwa ""orphan""), with an adaptation of the
+ initial consonant to the b- found in many kinship terms.
+q⁄¿ PL q™´de~ ""sun-ray""
+ The additional -d- of the plural form (or in turn its lack in the singular) is not
+ explicable. A similar situation, this time with the singular showing a ""superfluous""
+ dental, is present in
+q⁄¿d PL q™¿~ ""bow (weapon)""
+ The semantic distance between these latter two words is considerable, but may be
+ reconcilable, so they both may in fact be etymologically related.
+ Two nouns seem to use a suffix -j to form their plural (Werner 1997c, 97), viz.:
+se¿s PL sŒj (also with tone-change) ""larch"", and
+ the root *ba/™, found in the compounds:
+dóba ""a.k.o. fish-weir"" PLdòb⁄j
+síkba ""a.k.o. fish-weir""PL síkb™j
+ They are, however, best treated as instances of suppletivism.
+ 4.1.1.2.4.9 Functions of the plural
+ Plural nouns denote the plurality of an object; as sentential subjects, they trigger
+ plural forms of verbs114; unsuffixed plurals betray their inherent number by plural
+ agreement; attributive numerals require the plural form of nouns (cf. 4.3.1):
+(7)
+áb-a~ta ké~assel
+I-ADESS bird
+I have a bird
+(8)
+áb-a~ta ké~asse-n
+I-ADESS bird-PL
+I have several birds
+ 114
+ Plural agreement is only found with animate subjects.
+",0.0,,[103],0,34,0.7542908238951972,0
+"Thus, candidates for verbs forms filling all ten morpheme positions may at best be
+found in transitive conjugation III verbs, where both subject slots (P8 and P6) are
+filled by default and one further object marker is needed204. If P4 is occupied by
+(lexical) ""thematic"" /a/, we would have to look for verb forms which either:
+fill P3 with a (neuter) object morpheme (/b/) and P1 with something else, or
+fill P1 with a (1st or 2nd person) object morpheme and P3 with something else.
+",1.0,,[188],1,35,0.7767526270486506,0
+"134A DESCRIPTIVE GRAMMAR OF KET
+Œs ""God, sky"" ésqus ""church""
+*in- ""?""ínnus ""summer-hut""
+*i~- ""?""143 í~qus ""house""
+*qon-144 ""silver fir"" qónnus""winter tent""
+to¿n ""simple"" tónnus""simple tent""
+q˜~""birch-bark\PL""q⁄´~qus ""birch-bark tent""
+4.1.2.3.4 Complex nominal compounds
+Determining elements in nominal compounds may be complex. Thus, adjectival
+compounds consisting of several elements (cf. 4.1.3.5.3) may attach to a nominal
+head to form an adjective-noun compound. Such heavy complexes are on the fringe
+between attributive syntagms and true compounds. Prosodically, they behave like
+compounds, e.g.:
+ho¿l ""long"" + huut ""tail"" + t–b ""dog""  hólhuttib ""a dog with a long tail""
+The one-word-status of such complex compounds is evidenced by the fact that they
+may accept a possessive prefix (cf. 4.1.1.4):
+na-hólhuttib
+our-long.tailed.dog (Werner 1998, 58)
+If we symbolize the scope of the various determining elements in this formation by
+brackets, we arrive at a layered structure:
+na-((hol-hut)-tib)
+4.1.3 Adjectives
+In distributional terms, adjectives in Ket may be defined as the class of non-
+verbal145 words, which may be used attributively to modify a noun.
+This means that the class of nouns proper contains only items, which may not be
+used to modify other nouns; so, for example, it is ungrammatical in Ket to use a
+noun as a modifier of another noun146:
+143
+Werner (2002, 372) thinks the determiner in this compound represents a nominal root
+meaning ""light, sun-light"", but the basis for this assumption remains unclear.
+144
+Attested is qónoks, ""silver fir"".
+145
+This is an important disclaimer, since finite verbs may also directly modify a noun.
+However, in these cases the head noun is modified by a predication, rather than a quality,
+and we will discuss this technique in the section on relative clauses in Vol. II. Another
+group of verbal words, which may modify a noun directly are infinitives (i.e., in many
+cases, morphologically uncharacterized verb roots), to be discussed in 4.4.8.1.
+146
+The sufficient definition of a noun can, in this context, be kept simple: a noun is any
+word, which may directly (i.e. without any intervening nominalization strategy) accept
+inflectional affixes of number, case, and possession. Adjectives, as shown below, can only
+take plural affixes.
+",0.0,,[136],0,36,0.7767526270486506,0
+" PHONOLOGY57
+The first of these disyllabic contours - often referred to as the fifth ""tone"" - is
+characterized by a rising tone on the first syllable, followed by a shorter, falling
+contour on the second syllable:
+d⁄´l-kit
+h'´mba[hømïbaö]""Ewenki person, Tungus""
+ásel[aïsElö] ""ski""
+bóktis[bOkïtiös∆]""flintstone""
+The acoustic impression is often that of a dynamic accent on the first syllable.
+Werner's experimental results on the 5th contour (cf. Werner 1996, 58):
+The second disyllabic contour - often called the sixth ""tone"" - shows a slightly
+rising contour on the first syllable, again followed by a falling one on the second,
+but this time the falling tone starts at a considerably higher point of the spectrum:
+èsa~
+èsa~[Eïs∆aNë]""gods""
+b™`ntan [bønïtanë] ""wild duck""
+dèsta~[dEsïtaNë] ""eyes""
+This often produces the acoustic impression of a dynamic accent on the second
+syllable. Cf. Werner's diagram (1996, 60):
+58 A DESCRIPTIVE GRAMMAR OF KET
+Minimal pairs showing the phonemicity of these contours are:
+ásel ""snowshoe"":àsel ""ilimka-boat""
+qáj~oq ""fly (n.)"":qàj~oq ""flies""
+qóqbun ""cuckoo"":qòqbun ""cuckoos""
+dúmkit ""small bird"":dùmkit ""small birds""
+Whenever a monosyllabic stem receives some increment (a suffix or a lexical
+element forming a compound), its inherent tone is cancelled, and the resulting
+disyllabic word - or the leftmost two syllables of a longer word - will assume one of
+the two disyllabic contours. The choice of v´v and v°v is largely unpredictable, but in
+most instances the ""fifth"" contour (v´v) is found on inflected nouns. The ""sixth""
+contour is considerably rarer and mostly found in (transparent and opaque)
+compounds, as well as in some plural forms; disyllabic singular nouns with the
+""fifth"" contour often, but not invariably, change this pattern to the ""sixth"" contour in
+the plural without any additional plural marker (the opposite, singular v°v : plural v´v
+does also occur, cf. 4.1.1.2.4.4 for examples).
+3.1.3 Tone/accent in polysyllabic words
+The assertion that any disyllabic Ket word features one of the two disyllabic
+contours starting with the first (i.e. leftmost) syllable needs some refinement by
+introducing the notion of phonological word (for which this rule holds) as opposed
+to the morphological word (for which it does not). While the morphological word
+poses no difficulties for definition (the nominal/verbal root and its affixes), a small
+group of prefixes - or rather clitics - (possessive prefixes with nouns, cf. 4.1.1.4,
+and personal agreement prefixes in verbs, cf. 4.4.4.1) show a behaviour, which
+places them outside the scope of the phonological word.
+This analysis is called for by the following facts:
+a) no Ket root may begin with a consonant cluster; however, non-syllabic personal
+clitics (occupying the leftmost morpheme slot P8, cf. 4.4.5.6) on consonant-initial
+verbal morpheme chains may produce such clusters, as may non-syllabic
+possessive
+ prefixes/clitics on nouns (no other instances of initial clusters being present in the
+language), e.g.67
+k-t–b""your dog"" (phonetically [ktiÖpî])
+d[u]8-k5-a4-d1-dij ""I grow up"" (phonetically [tkaddij])
+These clusters are usually pronounced when they are not utterance-initial, i.e. when
+other elements precede it; otherwise, quite often the first element is dropped.
+67
+ For clusters in general cf. 3.4.3, for the system of possessive prefixes cf. 4.1.1.4; P8 (and
+other labels of the form Px) denotes one of the position classes of the Ket verb, in this case
+the leftmost slot for personal/agreement affixes.
+",1.0,,"[59, 60]",1,37,0.7988805694417258,0
+" MORPHOLOGY269
+ba-series:
+a/k6-(i)-(s)-sal ""he spends the night""
+i/k6-(i)-(s)-sal ""she spends the night""
+Ø/k6-(i)-(s)-sal ""it/these (things) spend(s). th. n.""345
+bo-series:
+u/k6-a4-tn""she goes""
+o~/[k]6-a4-tn ""they go""
+b⁄´lda u/k6-a4-tn ""everything passes""
+In conjugation III (4.4.3.3), where P6 morphemes serve only as coreferential subject
+markers accompanying P8 ""D-series"" morphemes, all 3rd person P6 markers have
+the shape bu, thus the contrast of number and class is neutralized.
+The occurrence of P6 in conjugation IV verbs is marginal. Here, they only mark
+objects/patients, but transitive verbs of conjugation class IV are very rare in Ket
+(the paradigm given in 4.4.3.4 may indeed be the only good example). The fact that
+only the bo-series is found in ""verbs of this type"" is certainly contingent.
+Werner (e.g. 1997c, 193) explains the alternation of ba- vs. bo -suffixes as an
+expression of the category of version346. The ba -series is labelled as marking
+introvert version, whereas bo-verbs encode extrovert actions/processes. Extrovert
+verbal contents describe actions/processes, which spatially ""transcend"" the
+immediate sphere of the actant: most typically, they entail some spatial
+dislocation/movement ""away"" from the actant or the ""scene"" the narration is
+focussed on. Thus, introvert ba -verbs are more likely to describe processes of
+approaching, remaining within the scene, or non-lasting changes of state, whereas
+extrovert bo-verbs are often found for processes, which envolve movement away,
+disappearing, or permanent changes of state (Werner 1997, 193ff.).
+Recall (cf. 4.4.5.4.1) Vajda's claim that the ba-/bo-distinction is basically due to the
+labializing effect of one certain determiner (k ), provisionally referred to as
+""ablative"" /k /. The functions Vajda ascribes to this morpheme square well with
+Werner's notion of extrovert version. However, this reinterpretation does not
+necessarily render Werner's observations on ba -/bo - irrelevant or wrong. The
+functional content (be it of a contextually independent bo-series of P6 affixes, or of
+a labializing P5/6 determiner) of ""extroversion"" seems to be reasonably clear (but
+note the exceptions mentioned in 4.4.5.4.1), at least defendable. What is less clear,
+though, is the question, whether we should speak of a systematic opposition of
+verbal markers, or, in other words, a functional category of ""version"" in the Ket
+verb. The weak leg of such an assumption is certainly the ""introvert"" character of
+the ba-series, which, as numerous examples show, seems to be as much compatible
+with ""extrovert"" meanings as with ""introvert ones"".
+P6 markers are subject to the following morphotactic rules:
+345
+Natural context: ""some object is kept in some place during the night"". Example given by
+Werner 1997c (193).
+346
+This term was borrowed from Kartvelian/Georgian linguistics (kceva), where it refers to
+a set of morphological markers, which add directional or beneficial semantic nuances to a
+given verb form (i.e. whether the verbal action/process is directed towards/beneficial for a
+3rd person indirect object [sasxviso], the speaker himself [sataviso], or not [saarviso]).
+",0.0,,[271],0,38,0.7988805694417258,0
+"304A DESCRIPTIVE GRAMMAR OF KET
+4.4.8Nominal verb forms
+4.4.8.1Infinitive and participle
+Morphologically unmarked verbal roots may be used independently, i.e. as
+prosodically and grammatically autonomous words, to fulfil a variety of functions,
+which invite the functional label of an ""infinitive"" form. Some uses of these semi-
+nominal forms may justify the term ""participle"" as well416.
+We refer to Ket infinitives as ""semi-nominal"" in character, because, in terms of
+morphological behaviour, they participate in some, but not all, characteristics of
+both substantive nouns and adjectives. Thus, like substantive nouns (and unlike
+adjectives), infinitives may accept possessive prefixes (4.1.1.4). They also may take
+case suffixes, but apart from the translative suffix -esa~ (4.1.1.3.11), there are few
+unambiguous cases417.
+And like adjectives (contrary to substantive nouns), Ket infinitives may be used
+attributively and accept the nominalizing suffix -s (4.1.2.1). Examples for these
+behavioural characteristics will be given in the remainder of this section, but we
+will begin with the most verb-like use of these forms, i.e. as a complement of verbs
+(and particles) of intent, movement, ceasing, and a few other ""complementable""
+verbs418; the following is a fairly representative assortment of verbs/expressions,
+which take infinitive-complements:
+a) ability:
+With the verb et IItr (a) (in) (ba/t) ""to be able to, to know how to""419:
+416
+Generally, we use only the term infinitive in this grammar, though.
+417
+In other words, the Ket infinitive is no fully declinable ""gerund"". ""Unambiguous"" means
+that it is not easy to draw a clear-cut boundary between infinitive forms and outright
+substantive nouns with the same shape. Thus, i¿l may be treated as the verbal infinitive
+meaning ""to sing, singing"", as in, e.g. i¿l náda ""it is necessary to sing, one has to sing"" (cf.
+the finite verb il Itr (il): di8-b3-il ""I sing it"", [di]8-b3-il2-il ""I sang it""), and concrete nouns
+like i¿l ""song"", with its full morphological noun-like potential (including a plural éla~).
+Many, but by no means all, verbal infinitives are formally identical with nouns in this way.
+This may raise the question, whether concrete nouns have been dragged into the verbal
+system (first, maybe, as P7 incorporates, which position may host nouns and infinitives
+alike), or whether we are dealing with nominalized verbal roots here. In the absence of
+overt morphological material, which would clearly differentiate both ""avatars"" of roots
+with similar shape and content, there seems to be no simple answer to this question. In
+some cases, lexical etymology might help, thus, if i¿l is indeed a loan from early Turkic ˜r
+""song"" (and I am confident that it is, already at the Yenisei-Ostyakic stage), the concrete
+noun would be primary. But this should probably not be rashly generalized to all cases of
+noun-infinitive homonymy.
+418
+Apart from these independent uses, the most natural habitat of infinitive forms is slot P7
+of complex verbs, cf. 4.4.5.2.1.4.
+419
+The subject of this verb is always 3rd SG impersonal, 4.4.5.6.2, and the person being
+able to do something is construed as its object. The surface form given here <dabátavet>
+could of course also invite a parsing with a R element bed ""to make""; that this is wrong, is
+illustrated by preterite forms like <dabatómnet> da8-ba/t6-o4-b3-[i]n2-et, which show clearly
+that we are dealing with b3 here.
+",0.0,,[306],0,39,0.7988805694417258,0
+"208 A DESCRIPTIVE GRAMMAR OF KET
+4.4.4.2.10 Truncation Rule 10 (TR 10)
+The P2 preterite markers il/in lose their vowel immediately after any vowel. Note
+that this vowel may not be the inherent vowel of any P8 subject marker. In these
+configurations, it is the P8 vowel, which gets truncated, according to TR 1.
+That this is the case, is shown by the following set of examples:
+a) a form like [""dil∆l∆okN] ""I shivered"" could in principle be analyzed as either
+di8-[i]l2-loq~
+i.e. with the preterite marker truncated directly after a vowel, or as
+ d[i]8-il2-loq~
+with truncation of the P8 person marker.
+The second person singular form, however, shows that only the second analysis can
+be correct:
+ k[u]8-il2-loq~
+Vowels that do trigger TR 10 typically occur in P4 (a/o), cf. again:
+ d[i]8-o4-[i]l2-aq ""I went out""
+4.4.4.2.11 Truncation Rule 11 (TR 11)
+Any P1 person marker /a/ (subject or object) is elided before vowel-initial R, unless
+R itself begins with /a/, in which case no elision occurs but a (j)- separator is
+inserted between the two vowels (for which see SR 6); (P1-RV(≠/a/)):
+ du8-(j)-[a]1-ej ""he kills him""
+ vs.
+ du8-d[i]1-ej""he kills me""
+4.4.4.3 Vowel insertion (anaptyxis)
+4.4.4.3.1 Vowel insertion Rule 1 (VIR 1)
+P6 /t and P5 t require following anaptyctic (i) when occurring immediately before a
+consonant cluster, including those produced by the insertion of the (s)-separator (on
+which cf. 4.4.4.4):
+ MORPHOLOGY 209
+ ba/t6-(i)-b3-kit226
+ I sense it.
+ [di]8-ba/t6-(i)-(s)-suk
+ I push off.
+4.4.4.3.2 Vowel insertion Rule 2 (VIR 2)
+P6 /t triggers anaptyctic (i) when immediately preceded by /~/:
+This situation is met with in plural P6 forms:
+ [di]8-ka~/t6-(i)-b3-ij""I ask you""
+ vs.
+ [di]8-ku/t6-b3-ij ""I ask thee""
+4.4.4.3.3 Vowel insertion Rule 3 (VIR 3)
+P6 /k triggers anaptyctic (i) immediately before any consonant cluster:
+ ku/k-(i)-(s)-sal""you spend the night""
+4.4.4.3.4 Vowel insertion Rule 4 (VIR 4)
+Any consonant cluster occurring initially in the phonological word (i.e. after any P8
+marker) is separated by anaptyctic (i):
+ d[i]8-k5-(i)-b3-ta~""I roll it""
+4.4.4.3.5 Vowel insertion Rule 5 (VIR 5)
+Any P7 incorporate requires anaptyctic (i ) when directly occurring before the
+subject/object markers di and ku in P1. This configuration occurs only in verbs of
+conjugation IV (with a coreferential P1 subject marker) and I (with P1 object
+markers or inactive subject markers). The few verbs fulfilling the conditions for
+226
+This anaptyctic vowel may spread by analogy to other forms of the same paradigm, even
+if they do not provide the exact trigger-context, cf. d™~/t6-(i)-b3-in2-kit ""we sensed it"",
+where the preterite morpheme -in- avoids any cluster following the P6 marker.
+",0.0,,"[210, 211]",0,40,0.7988805694417258,0
+"Œ""iron""
+2
+i¿ i¿ ""day""
+2
+d⁄¿d⁄¿""cap""
+3
+ba:m/3baam baam ""old woman""
+3
+hu:t/3huut huut ""tail""
+4
+a~ à~ ""rope""
+4
+as'às ""feather""
+Though the phonetic basis of these suprasegmental entities is not uniform (while all
+tonemes are characterized by a specific contour, other features like
+creakiness/glottal stop and vowel length play a significant and perceptively salient
+role in distinguishing these units from one another), their status as suprasegmentals
+is enhanced by the fact that their distinctive features (including length and
+creakiness/glottal stop) are only relevant as long as the tone-bearing unit/lexeme
+remains an isolated monosyllable; upon suffixation (and, within limits, prefixation)
+all58 of these features are cancelled59, giving way to one of two disyllabic contours,
+58
+Some deviations from this general principle are outlined in the following lengthy
+footnote (dealing with cases we chose not to reflect in our transcription).
+59
+ This is a general observation. Werner (1996, 66ff.) observes cases, where the inherent
+tone of one element of a compound may be percieved as intact, such as (our transcription)
+d–kit ""young eagle"" (< d– ""eagle"", with preservation of tone 1), ask™¿t ""fairy tale"" (tone 2
+preserved, possibly from k™¿t ""child""; if pluralized, the glottal segment is, however, lost,
+and the expected disyllabic contour appears: ásk™ta~), aa~bes ""to become hot"" (tone 3
+preserved from aa~ ""hot""), or the numerous cases, where Central and Northern Ket display
+an ""additional"" vowel in fourth (and, to a lesser degree, in first) tone words (which are as a
+rule monosyllabic in Southern Ket). All these cases violate the rule that non-monosyllables
+show disyllabic contours, rather than full-fledged tone on their ""basic"" syllable. However,
+the author's fieldwork showed such cases to be rare and usually confined to overdistinct
+(""explaining"" or ""teaching"") speech, and may just represent an ""iconic"" reintroduction of
+the inherent syllabic tone of a monosyllable into one or some of its compounds. On the
+other hand, this observation may be due to language attrition, cf. Vajda 2001, 20, who says
+(in the context of the proper investigation of the effect of intonation on lexical pitch) that
+""such a study may now be only possible with the aid of archived tape recordings of
+monolingual native speakers"". Throughout this grammar, we will write Ket non-
+monosyllables as containing disyllabic (""accent-like"") contours and extend this practice -
+for the sake of a unified description - also to lexical items cited from dictionary sources.
+Thus, we will give ""mud"" as ált™q, whereas users of Werner's comparative dictionary
+(2002) will find this word rendered as (his notation) 1a…l∞t™q, or húttus ""having a tail"" vs.
+Werner's 3hu:ttus ∞; there are no doubts that Werner's rendering is a most faithful
+reproduction of the phonetic reality of these words in his recordings (though he repeatedly
+asserts that the replacement of inherent tone by disyllabic contours is, after all, the rule in
+the language, cf. also Werner 1996, 65ff., where several examples of this kind are given,
+often confirmed by cognate Yugh words). We have to leave open, whether this discrepancy
+is due to language change/attrition (which would require a more involved description of the
+""earlier"" system, where independent tone would have been possible in derived disyllables),
+or to any kind of observational or descriptional inaccuracy (which, in case of doubt, will
+most certainly be on the part of the author of these lines). With the second tone, I could at
+times (certainly not generally) observe that at least the glottal segment characteristic of it
+(¿ ) could surface in the second syllable of a disyllabic compound (as with the term for
+PHONOLOGY49
+which perceptively resemble patterns of accentuation, rather than syllabic tones (cf.
+3.1.2).
+The domain of Ket tones is thus the leftmost two syllables of a word.
+The articulatory features of the monosyllabic tones in Southern Ket are:
+Tone 1:
+Even or slightly rising, vowel-length half-long:
+ aÖaÖ
+[a·î], [a·ü]
+Examples:
+!l[uÖlî], [uÖlü]""water""
+– [iÖî], [iÖü]""sun""
+k˜l [k¨Ölî], [k¨Ölü]""raven""
+ƒd[aÖtî], [aÖtü]""I""
+Œn[eÖnî], [eÖnü]""now""
+¡b[oÖpî], [oÖpü]""father""
+#k[´Ökî], [´Ökü]""thou""
+Tone 2:
+Shortly rising, then abruptly falling, accompanied by pharyngeal
+constriction, vowel length short60:
+ a/
+[a/ÿ]
+du¿t [du/tÿ]""awl""
+i¿n[i/nÿ]""needle""
+h⁄¿l [h¨/lÿ]""clear""
+ba¿~ [ba/Nÿ]""place""
+ke¿d [kE/tÿ]""human""
+qo¿j [qO/jÿ]""a mythical boat""
+q™¿t [qø/tÿ]""garbage""
+""fairy tale"" mentioned above); I am, however, unable to hear any tone 2 contour on this
+syllable. Vajda, too, observes a certain propensity of this glottal element to escape deletion
+in disyllables, as long as it occurs at the right fringe of the word (Vajda 2001, 14).
+60
+ For typographical reasons, the IPA tone sign used in the following examples captures
+only the ""high-falling"" part of the tone curve.
+",0.0,,"[50, 51]",0,41,0.7988805694417258,0
+"MORPHOLOGY289
+4.4.6.2.1 Imperatives in conjugation I
+Intransitive conjugation I verbs are among the simplest of Ket verb forms; P8
+subject markers389 are dropped, P2 il or in are retained, and the imperative formula
+can be given as:
+ (P7)-(P5)-(a4)-P2-R-(PL)
+Without any lexical elements other than R, the maximally simple imperative form
+consists of P2 il/in and the root:
+ il2-kak""pull it !""
+Transitive conjugation I verbs are built alike, but they retain (animate) object
+markers in P4 and P1, respectively; P3 object b is, though, generally dropped; a form
+without any object marker is thus interpreted as ""VERB it !"":
+ (P7)-(P5)-(a4/P4)-P2-(P1)-R-(PL)
+Cf. a full object paradigm:
+""beat ...""
+mein2-di1-ted
+him a4-[i]n2-ted
+her/iti4-[i]n2-ted
+usin2-da~1-ted
+thema~4-(a)-[i]n2-ted390
+4.4.6.2.2 Imperatives in conjugation II
+There are no imperatives formed from conjugation II intransitives391. Transitive
+conjugation II imperatives contain object markers in P6:
+389
+I.e. the logically expectable P8 2nd person marker k u8. Imperatives may, cross-
+linguistically, not be expected to contain a 2nd person subject marker; however,
+""coreferential"" 2nd person markers are retained in those conjugation classes, which have
+them. In this respect, we may be allowed to say that other imperative forms ""drop"" those
+markers (cf. below).
+390
+The presence of the (a)-seperator in this form is irregular. It is highly likely that it serves
+to emulate the -an-sequence of the 3rd SG object form.
+391
+Vajda/Zinn 2004 (p. 185 and 219) list two such forms, ku/k6-in2-qut (Pl. k™~/[k]6-in2-
+qut) from qut IIitr (b) (in) bo/k ""to faint"", and ku/k6-a4-b3-in2-den (Pl. k™~/[k]6-a4-b3-in2-den)
+from tn ~ den IIitr (a) (in) bo/k ""to run out (once)"". However, these are most likely simply
+290 A DESCRIPTIVE GRAMMAR OF KET
+ (P7)-P6-(P5)-(a4)-P2-R-(PL)
+A full object paradigm is:
+ ""paint ...""
+me ba/t6-in2-es
+hima/t6-in2-es
+her/it i/t6-in2-es
+us d™~/t6-in2-es
+them a~/t6-in2-es
+4.4.6.2.3 Imperatives in conjugation III
+In intransitive conjugation III imperatives, the ""coreferential"" P6 subject marker -
+for the 2nd person, obviously - is retained throughout:
+ ej7-ku/k6-a4-[i]l2-[k]il ""bundle up!""
+ ej7-k™~/[k]6-a4-[i]l2-[k]il-n
+ tukun7-ku/t6-a4-[i]l2-kit""comb!""
+ tukun7-k™~/t6-a4-[i]l2-kit-n
+However, imperatives of conjugation III verbs are not numerous; some verbs of this
+class form their imperative according to a different conjugational pattern; thus, e.g.,
+the imperative forms of
+ ej7-daq IIIitr (a) (b) (in) (ba/k) ""to throw oneself down""
+ k[u]8-ej7-ku/k6-a4-b3-daq""you throw yourself down""
+is clearly formed according to the imperative pattern of conjugation I392:
+ ej7-k5-a4-[i]n2-daq""throw yourself down!""
+ ej7-k5-a4-[i]n2-daq-n
+preterite indicative forms of the respective verbs (""faint"" being an unlikely candidate for
+imperative formation in the first place). Only the lack of b 3 is reminiscent of imperative-
+like behaviour. Vajda (p.c.) is now inclined to view these forms as erroneously labeled.
+They are not imperatives, but preterite indicatives, which were accompanied by the
+optative particle qƒn (cf. 4.4.6.3.2) in the original context.
+392
+And, for these forms, which lack any morphological material in P6, the verbal formula
+would have to be restated as k5-daq Iitr (a) (in).
+",0.0,,"[291, 292]",0,42,0.7988805694417258,0
+"66A DESCRIPTIVE GRAMMAR OF KET
+tikäj ""the sound of a bow being shot""
+Given these facts, the strictest application of traditional structuralist phonemic
+principles would of course require the recognition of more vocalic phonemes.
+However, our decision not to reflect this in our transcription is motivated by the
+attempt to steer a middle course between the aim to transcribe Ket as phonemically
+as possible, but at the same time not to overcomplicate typography. Consequently,
+we regard [E], [O], [ø] and [œ] as marginal phonemes of the Ket language, which
+are not recognized in our transcription.
+Since for the mid-vowels the open quality is by far the most frequently encountered
+realization, we give a tentatively exhaustive list of di- and polysyllabic words
+where the closed quality has been noted, and for which etymologically cognate
+monosyllables, which would allow to ""predict"" this variant, seem to be lacking74:
+bénel""fish-trap""
+bóltaq ""toe"" (here the /o/ vowel may actually go back to /u/ < b!l +
+ to¿q ""finger, digit""75)
+bónsol ""small sledge"" (the second part is suul ""sledge"", the
+ form búnsul is also found)
+bó~dej ""to hum"" (onomatopoetic)
+bó~ul""knot, bundle"" (possibly a loan-word from an Uralic language, cf.
+",0.0,,[68],0,43,0.7988805694417258,0
+"422
+Note that another possibility would have been to use the complex, object-incorporating
+infinitive nánbed-esa~ here. With this strategy, the subject would have sent the object
+person to ""busy herself with baking bread"", whereas here the request is to ""make a concrete
+amount of bread"", with a clear focus on the result.
+",0.0,,[309],0,44,0.7988805694417258,0
+"The sentential subject is encoded twice, as stipulated by conjugation III (4.4.3.3), in
+P8 and P6 (however, the verb form is not reflexive). The person marker in P8 was
+truncated according to TR5 (4.4.4.2.5); P6 contains a pleonastic 1SG marker (cf.
+4.4.5.7), together with a determiner as in the previously discussed verb form. Past
+tense is again signalled by two morphemes, -il- and the labialization of the
+(thematic) vowel in P4. This form shows clearly that both morphemes belong to
+different morphemic slots, since they are separated by a marker of 3n object in slot
+P3 .
+",0.0,,[190],0,45,0.7988805694417258,0
+"4.2.3).
+4.4.5.6.2 Petrified P8 da- in ""impersonal"" verbs
+In a small number of verbs, the feminine/neuter P8 marker da occurs without
+directly referring to a concrete actant338. All of these verbs are transitive
+(conjugation I, II and III), and encode the personal (most often human) actant as its
+object/undergoer, which is usually masked by the straightforward translation
+337
+Cf. the relevant chapters on the various conjugation classes for examples of their force
+as person markers.
+338
+Such as could be expressed as an independent lexical sentence constituent.
+",0.0,,[268],0,46,0.7988805694417258,0
+" MORPHOLOGY 223
+bak~kak Itr (il) ""to pull""
+di8-b3-bak""I pull it"" vs.ku8-d[i]1-kak ""you pull me""
+du8-ku1-bak ""he pulls you""k[u]8-il2-di1-kak""you pulled me""
+d[i]8-b3-il2-bak ""I pulled it""ku8-da~1-kak-n""you pull us""
+d[u]8-il2-ku1-bak ""he pulled you"" k[u]8-il2-da~1-kak-n""you pulled us""
+Note that the assimilatory influence of 2nd person subject is not repeated by 2nd
+person object morphemes in P1.
+The numerous complex verbs containing the root √bed ""to do, make"" show this
+alternation rather unpredictably. In many verbs it is altogether absent (i.e. only the
+variant bed occurs in all forms); other compound verbs with this root show a
+tendency to use the variant -ked with 2nd person subject (here the assimilatory
+influence of the 2nd person P8 subject marker ku is felt again), and in imperatives,
+cf.:
+k[u]8-il7-(s)-i/ked ""you breathe""
+k[u]8-il7-[i]n2-i/ked-n ""you (pl.) breathed""
+il7-[i]n2-i/ked ""breathe (ipv. SG)""
+il7-[i]n2-i/ked-n ""breathe (ipv. PL)""
+All other forms use the root shape -bed.
+Some verbs extend the velar-initial variant to 1st person subjects, too (though
+restricted to plural forms); this is true for three different interrogative verbs which
+express the meanings ""to do what?"" and ""to make what [out of some material]?""
+(these may, then, have exerted some analogical influence on each other248); all
+other forms of the following verbs use bed.
+d[i]8-akus7-il2-ked-n ""what did we do/make?""
+k[u]8-akus7-il2-ked-n ""what did you (pl.) do/make?""
+d[i]8-akus7-u/[k]6-[i]n2-ked-n ""what did we make out of it?""249
+k[u]8-akus7-u/[k]6-[i]n2-ked-n ""what did you (pl.) make out of it?""
+ƒj d[i]8-il-ked-n ""what did we do?""
+ƒj d[i]8-il-ked-n ""what did you (pl.) do?""
+As a general tendency, it can be said that the variant ked is most frequently found in
+imperative forms, quite commonly found with 2nd person (mostly plural) forms, and
+rarely present in 1st person (only plural) verb forms built with the R -bed.
+248
+We may hypothesize that the incorporate ákus originally triggered b --> k assimilation
+in the two verbs which contain it, whence the third (analytical) verb may have adopted this
+root variant.
+249
+The ""material"" out of which ""something is made"" is encoded as 3rd person neuter object
+in P6.
+",0.0,,[225],0,47,0.7988805694417258,0
+"266 A DESCRIPTIVE GRAMMAR OF KET
+4.4.5.6 P8
+4.4.5.6.1 P8 actant morphemes - the ""D-series""
+The actant morphemes filling this leftmost slot of the Ket verb are widely referred
+to as the ""D-affixes"" or the ""D-series"" of the person-differentiating markers of the
+language (as opposed to the ""B-affixes"", which occupy position P6, cf. 4.4.5.7).
+P8 is filled in all conjugation classes337 (save the ""possessive"" conjugation V); it is
+obligatorily present in active verbs of conjugation I, transitive verbs of conjugation
+II and all verbs of conjugations III and IV, which makes P8 morphemes the most
+frequent person markers in Ket. They strictly encode actant (subject) person only,
+with number being expressed by the subject plural morpheme in PL, or lack
+thereof:
+1st persondi
+2nd personku
+3rd person mdu
+3rd person f/nda
+P8 morphemes are routinely - and very often - affected by morphotactic rules,
+which may reduce their phonetic substance by syncopating their vowel element or
+eliding them completely. These morphotactic rules are:
+TR 1, TR 2, TR 3, TR 4, TR 5, TR 6, SR 1, SR 2, SR 3.
+On the various shapes of 3rd person f/m da in different morphotactic surroundings
+cf. 4.4.4.1.
+Historically, the ""D-Series"" seems to be strongly connected with (the nominative
+form of) personal pronouns, cf.:
+di :ƒd ""I""
+ku :!(k) ""you (sg.)""
+du, da :connection less clear, but one could think of
+the second syllable/element of demonstrative
+pronouns like k–d, ( kíde ) or t!d , (túde ) (cf.
+",1.0,,[268],1,48,0.8195629984406574,0
+"88A DESCRIPTIVE GRAMMAR OF KET
+4 Morphology
+4.1Nouns and adjectives
+4.1.1 Substantive nouns
+Ket nouns are characterized by the categories of class (which is morphologically
+covert in nominatives), number, case, and possession; these will be discussed in
+this order below.
+4.1.1.1 Class
+Every Ket noun is a member of one of three noun classes, which may be generally
+referred to as masculine, feminine, and neuter, respectively (m , f, and n ). Class
+membership is morphologically uncharacterized in nominative forms, but relevant
+for the choice of case suffixes and verbal agreement.
+The masculine and feminine noun classes are behaviourally opposed to the neuter
+class, forming the opposition animate vs. inanimate.
+4.1.1.1.1 Morphological characteristics of noun classes
+While both animate classes (m and f) differ in their morphological behaviour only
+in the singular, and form a single class in the plural, the neuter class behaves like
+the feminine in the singular, and stands out as an individual class in the plural (by
+showing the same suffixes in the plural as the feminine singular). The differential
+feature involves different case suffixes, or, more precisely, different genitive
+suffixes , which surface in the genitive itself and those case forms (dative,
+benefactive, ablative, adessive), which are formed by adding suffixes to the right of
+the genitive marker. The different paradigms will be given in full in the section on
+Case (4.1.1.3); here, the general scheme of class-sensitive case marking will be
+given only, with those entities, which behave morphologically alike, circled:
+SG PL
+mm
+ f
+f
+nn
+MORPHOLOGY89
+ I.e., m and f nouns receive the same suffixes in the plural (as ""animates""), but
+different ones in the singular, where f and n go together, as with n plural.
+Class membership is morphologically covert in nominative forms of nouns:
+tìk ""snake"" (masculine, m)
+be¿s""hare"" (feminine, f)
+do¿n""knife"" (neuter, n)
+The inherent class of nouns is only revealed in the genitive (and genitive-based)
+cases, cf.:
+Nom. SG tìk (m) ""snake""be¿s (f) ""hare""do¿n (n) ""knife""
+Gen. SG tík-da bés-di dón-di
+Gen. PL102tík-in-nabés-n-na dón-a~-di
+Another discernible difference between the two (macro-) classes animate and
+inanimate is the fact that only inanimate nouns may occur in the locative case
+(4.1.1.3.7), and only animate nouns form a vocative (4.1.1.3.12)103.
+4.1.1.1.2 Semantic characteristics of noun classes
+The semantic basis and numerous aspects of the Ket (and Yeniseic) class system
+are discussed in great detail in Werner (1994). Here, only a general outline and
+non-exhaustive lists will be given.
+The nomenclature adopted here is based on the fact that the basis of class m is
+formed by nouns denoting male human beings, that of f by nouns denoting female
+human beings, and that of n by nouns referring to inanimate things. With nouns for
+human beings, thus, no unexpected class membership can be observed. However,
+both animate classes contain names for lifeless things as well, furthermore names
+for animals and plants are generally found in one of the two animate classes, but
+whether they belong to class m or f is determined idiosyncratically, or, in other
+words, by taxonomic parameters germane to Ket culture (or to that of Proto-
+Yeniseic), which are not always reconstructible by modern scholarship.
+102
+Plural forms show, before the case suffix, a plural suffix, discussed in 4.1.1.2.4.1. Ket
+possesses a sizable number of plural formations (suffixal and non-suffixal); in the case of
+suffixal plurals the choice of -n or -~ is partly determined by class membership, but partly
+overridden by phonetic constraints.
+103
+The observations of Toporov and Civ'jan (1968) that, in Pakulikha and Surgutikha
+(Central Ket), a symmetrical four-fold class system may exist, which could be determinable
+on the basis of a) the case suffix chosen, and b) the specific form of the numeral ""one"",
+which accompanies a given noun, with:
+inanimateq!s ""1"" + ""fem."" Genitive -di~ta
+inanimate, masculine (!) q!s ""1"" + ""masc."" Genitive -da~ta
+animate, masculine qo¿k ""1"" + ""masc. "" Genitive -da~ta
+animate, feminineqo¿k ""1"" + ""fem."" Genitive -di~ta
+could not be verified, neither by Werner (1994, 11), nor by the present author.
+",1.0,,"[90, 91]",1,49,0.8401386179808763,0
+"MORPHOLOGY239
+- plural past tense forms were, then, streamlined under the analogical influence of
+singular past tense forms (with a ""reanalyzed"" P4 vowel only in the 3rd PL), where
+both the 3rd SG past tense form (with its ""P4"" /o/) and the 3rd PL present tense form
+(with its /a~/, there analyzed as P1, but principally reinterpretable as P4, and then
+""preterite-labializable"") make themselves felt as entities exerting analogical
+influence.
+g) historically disyllabic incorporate
+Monosyllabic possessa, which are historically derived from disyllabic words,
+require the same irregular ""conjugation-II-like"" paradigm as overtly disyllabic ones,
+cf. ""to have a sable"" (èd ""sable"" < *èdi, cf. NK èdi):
+ed7-bed IIitr/irreg (il) (ba/Ø)""to have a sable""
+present tensepast tense
+1SG ed7-ba/Ø6-(j)-a1-bed ed7-b[a]/Ø6-o4-[i]l2-bed
+2SG ed7-ku/Ø6-(j)-a1-bed ed7-ku/Ø6- [o4]-[i]l2-bed
+3SGm ed7-a/Ø6-(j)-a1-bed ed7- o4-[i]l2-bed
+3SGf ed7-i/Ø6-(j)-a1-bed ed7-i4-(t)-[i]l2-i/bed
+1PL ed7-da~1-bed ed7-da~/Ø6-[i]l2-i/bed
+2PL ed7-ka~1-bed ed7-ka~/Ø6-[i]l2-i/bed
+3PL ed7-a~1-beded7-o~4-[i]l2-i/bed
+4.4.5.2.4 The pseudo-incorporate bin7-
+A small group of mostly impersonal verbs require the P7 incorporate bin. These
+verbs have in common that they mostly express that some object undergoes a
+process. Usually, there is no known/knowable instigator of this process, and the
+obvious etymological identity of this ""dummy"" incorporate with the
+reflexive/emphatic pronoun b–n ""self"" (cf. 4.2.7) indicates that the metaphor
+underlying these formations is that certain objects undergo state-changing
+processes ""by themselves"" or ""of their own accord"". In most cases, the undergoer is
+cross-referenced in the morpheme chain by 3rd person neuter -b3-. Many of the
+attested forms display some idiosyncrasies, but some basic patterns can be
+described:
+ -in past tense forms, the incorporate bin7- is usually abbreviated to b7- or
+bi7-; though the past tense morpheme can be either il2 or i n2 in these
+verbs, a possible reason for this is the avoidance of two consecutive in-
+sequences275, cf. (past tense) *bin7-b3-in2-a ""time passed"", against
+attested bi[n]7-b3-[i]n2-a (<bímna>);
+275
+Or even the repetition of the whole sequence -bin-, as in this example; however, many
+past tense forms lose b3, see below.
+",0.0,,[241],0,50,0.8401386179808763,0

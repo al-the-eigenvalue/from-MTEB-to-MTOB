@@ -1,0 +1,483 @@
+Paragraph,Annotation,Word order,Page number,Relevance Score,BM25 Rank,BM25 NDCG@K,Binary Relevance Score
+"The prototypical use of the term ‘basic word order’ is
+ to refer to arrangements of subject, object, and verb in clauses, and, in these terms, there
+ are six basic word order types theoretically possible: SOV, SVO, VSO, VOS, OVS, and
+ OSV, listed here in the order of how common each type is among the world’s languages,
+ although the last two types, OVS, and OSV are so rare that it is not yet clear whether there
+10 See section 4.1.1, where specific examples are given.
+",2.2,,[518],3,1,0.6,0
+" Alsea, Siuslaw, and Coos have been tentatively categorized as having VOS as their
+ basic word order, by Greenberg (1966), on the basis of the fact that Greenberg found VOS
+ to be the most common order of subject, object, and verb in these languages.",2.2,,[519],3,2,0.6,0
+"It is well recognized, however, that word order in many languages can be largely a
+matter of Discourse Pragmatics, or what might be called information packaging, which is
+independent of constituent structure, so that the basic word order type of a language is only
+the most common arrangement of these clause constituents, or for some languages, not
+even a common order, but just the least mark order of these constituents in discourse
+pragmatic terms. For some languages, word order is evidently entirely a matter of Dis-
+course Pragmatics and for such languages there is apparently no basic word order, since
+each possible arrangement of subject, object, and verb in a clause is marked in discourse
+pragmatic terms, and has a specific discourse pragmatic function. This has been argued to
+ be the case for Hanis Coos, and a number of other languages, by Mithun (1984). Research
+ by the present author on Miluk Coos indicates that this is also equally true for Miluk. In
+ these two Coos languages, there are VOS, VSO, SVO, SOV, OVS, and OSV clauses. The
+ occurrence of each order can be explained by discourse pragmatic principles, without ac-
+ tually resorting to the notion that the language has a basic word order.
+",2.2,,[519],3,3,0.6,0
+"At the other
+ extreme, there are languages like the Coos languages which evidently use word order
+ exclusively for discourse pragmatic purposes, rather than to identify the syntactic categories
+ of sentence constituents. Because of this, the notion that these languages have a basic
+ word order may not be applicable. Kutenai seem to be like the Salishan languages in
+ having some use of word order, as a device to code information about syntactic structure,
+ although word order primarily codes discourse pragmatic information.
+",2.2,,[520],3,4,0.6000000000000001,0
+" It can be argued that the order VOS is more of a neutral order in discourse pragmatic
+terms in Kutenai than other orders. It is certainly more common than the other orders, but
+VOS, VSO, and SVO clauses are all rare in unelicited narratives and the other orders: SOV,
+OSV, and OVS are marginal, even in elicited examples obtained from English speaking
+bilingual speakers of Kutenai. It is apparently the case that any Kutenai clause containing
+both a lexical subject and a lexical object is already so highly marked in discourse pragmatic
+terms, that there is no ordering of lexical subject with lexical object which qualifies as a
+neutral order, or even as a least marked order, in discourse pragmatic terms.
+",3.0,VOS,[521],5,5,0.6524820310049367,1
+" One outstanding fact about the arrangement of lexical subject, verbal stem, and lexical
+ object in Kutenai is that lexical subjects and lexical objects only rarely occur together in the
+ same clause. The very occurrence of two lexical arguments in a clause may itself be highly
+ marked in discourse pragmatic terms to begin with. The order VSO, is somewhat less
+ common than the order VOS, and VSO is even less likely than VOS to qualify as a neutral
+ order in discourse pragmatic terms. The order SVO is somewhat less common in narra-
+ tives than VOS or VSO, although in elicited data where English sentences are the models
+for the Kutenai sentences, the order SVO is fairly common, following the influence of
+English word order.
+",3.0,VOS,[714],5,6,0.6899406990649898,1
+" One outstanding fact about the arrangement of lexical subject, verbal stem, and lexical
+object in Kutenai is that lexical subjects and lexical objects only rarely occur together in the
+same clause. The very occurrence of two lexical arguments in a Clause may itself be highly
+marked in discourse pragmatic terms to begin with. The order VSO, is somewhat less
+common than the order VOS, and VSO is even less likely than VOS to qualify as a neutral
+order in discourse pragmatic terms. The order SVO is somewhat less common in narra-
+tives than VOS or VSO, although in elicited data where English sentences are the models
+for the Kutenai sentences, the order SVO is fairly common, following the influence of
+English word order.
+",3.0,VOS,[428],5,7,0.7183500202739844,1
+"At one extreme end of this typological parameter, there are languages like English
+ which depend heavily on word order to code information about the syntactic categories of
+ sentence constituents, and the basic word order of such languages is obvious.",2.2,,[520],3,8,0.7089063350173654,0
+"This is a more
+common arrangement of lexical subject, verbal stem, and lexical object than any of the
+other arrangements of these three constituents. VOS may be the most common order,
+however, as much for discourse pragmatic reasons as for non-discourse pragmatic syntac-
+tic reasons. VOS may simply be the most called for order on discourse pragmatic grounds,
+rather than being a genuinely neutral order. In the rare cases where there is a lexical subject
+ and a lexical object in the same clause, the object is likely to be less expected at that point in
+ the narrative, if not absolutely new to the narrative, than the subject is.
+",3.0,VOS,[714],5,9,0.7295028887242991,1
+" Word order typology is generally figured to be primarily a matter of syntactic structure,
+ based on the concept of languages having a basic word order for a variety of different
+ constructions.",2.2,,[518],3,10,0.721263812869618,0
+"4.1Kutenai Word Order 397
+Kutenai the order is VOS, i.e. Verbal Stem + Object Suffix + Subject Suffix. There is
+some room for doubt about this order, because some pronominal affixes are zero affixes
+and the Higher Ranking Object Suffix, which might count as a pronominal object suffix, is
+not clearly a pronominal suffix on a par with the other pronominal suffixes.
+",1.0,,[716],1,11,0.691112896422474,0
+"4.1 Kutenai Word Order 397
+Kutenai the order is VOS, i.e. Verbal Stem + Object Suffix + Subject Suffix. There is
+some room for doubt about this order, because some pronominal affixes are zero affixes
+and the Higher Ranking Object Suffix, which might count as a pronominal object suffix, is
+not clearly a pronominal suffix on a par with the other pronominal suffixes.
+",1.0,,[430],1,12,0.6650527733205712,0
+" 4.1 Kutenai Word Order 395
+ Nominal phrases in a Kutenai clause typically follow the verbal phrase, although
+discourse pragmatic considerations may override this and a nominal phrase representing a
+newly introduced subject in a text may precede the verbal phrase. Discourse pragmatic
+principles do not evidently have free reign to put a nominal phrases representing a direct
+object or indirect object before the verbal phrase, although there are rare examples. It
+would appear that, for Kutenai, the most neutral order, in discourse pragmatic terms, is
+Verbal Phrase-Subject Nominal Phrase-Object Nominal Phrase, or VOS. This is a more
+common arrangement of lexical subject, verbal stem, and lexical object than any of the
+other arrangements of these three constituents. VOS may be the most common order,
+however, as much for discourse pragmatic reasons as for non-discourse pragmatic syntac-
+tic reasons. VOS may simply be the most called for order on discourse pragmatic grounds,
+rather than being a genuinely neutral order. In the rare cases where there is a lexical subject
+and a lexical object in the same clause, the object is likely to be less expected at that point in
+the narrative, if not absolutely new to the narrative, than the subject is.
+",3.0,VOS,[428],5,13,0.6814799119210337,1
+" 4.1 Kutenai Word Order 387
+4.1 Word Order and Syntactic Categories.
+",2.1,,[706],2,14,0.6747964682889785,0
+"A Kutenai text has to be this long in order to contain examples of the three orders, VOS,
+4.1Kutenai Word Order 396
+VSO, and SVO. Just looking at the text for clausal examples, rather looking at whole
+sentences, one can find four examples of the order VOS in the text, one example of the
+order VSO, and one example of the order SVO.",2.2,,"[714, 715]",3,15,0.6774076311317699,0
+"Notably, example WO.11 above, a VOS clause, has the same basic meaning as the
+ clause in example WO.12, just below, which is the one VSO clause found in the text. One
+ difference between the two clauses is that the subject noun in the VSO clause below is
+ preceded by the determiner /ni?/. The standard translation of /ni?/ is 'the', but the
+ Kutenai determiner /ni?/ is more specifically anaphoric than the English definite article.
+ This makes the subject of the VSO clause, below, more marked in discourse pragmatic
+ terms, in this particular way, than the subject of the VOS clause, above. This suggests that
+ in Kutenai the order VSO is not only less common than the order VOS, but is also more
+4.1 Kutenai Word Order 399
+marked in discourse pragmatic terms than the order VOS is. The one example of an SVO
+clause found in the text, which is presented as example WO.13, further below, also has a
+subject nominal stem modified by the anaphoric Kutenai determiner /ni?/. It is a fact,
+though, that two of the four VOS clauses in the text also have their subject nominal stems
+preceded by the determiner /ni?/.
+Verb-Subject-Object Example.
+Example WO.12 (line 366 from the Chief and Ogress Text by Rosalie McCoy).
+",2.3,"No dominant order, SOV, VOS, OSV, OVS","[717, 718]",4,16,0.6880085754054854,1
+" Languages
+ which have VOS as a basic word order, or are even suspected of having VOS as a basic
+ word order, are rare among the world's languages, so rare, in fact, that Alsea, Siuslaw,
+ and the two Coos languages constitute a significant percentage of the known cases. Other
+ languages which can also be tentatively, or superficially classified as VOS languages
+ include Kutenai and perhaps two Salishan languages, Twana and Coeur d'Alene.
+",3.0,VOS,[519],5,17,0.7055464464406301,1
+" Just how rare VOS, VSO, and SVO clauses are in Kutenai narratives can be seen by
+examining a text of some 520 clauses, the Chief and Ogress Text told by Rosalie McCoy.
+ A Kutenai text has to be this long in order to contain examples of the three orders, VOS,
+4.1Kutenai Word Order 396
+VSO, and SVO. Just looking at the text for clausal examples, rather looking at whole
+sentences, one can find four examples of the order VOS in the text, one example of the
+order VSO, and one example of the order SVO. These are the only straightforward exam-
+ples of clauses in the text where there is both a lexical subject and a lexical object in the
+same Clause. In an English text of the same length and similar content, one would expect
+many examples of clauses with both a subject noun and an object noun in the same clause,
+and most if not all of them would be of the order SVO. Notably, the English translation of
+the edited form of the Chief and Ogress Text, in its clause-by-clause format , does not
+count as a good example of such an English text, because it closely follows the Kutenai text
+and avoids the occurrence of two lexical arguments in the same clause. In this somewhat
+artificial English translation of the text, there are many examples where there is a pronom-
+inal subject and a pronominal object together in the same clause, but this is unavoidable
+because of the requirements of English grammar and the fact that every Kutenai verbal stem
+in a text has at least an unmarked pronominal subject.
+",2.2,,"[428, 429]",3,18,0.7121596407225133,0
+" Notably, example WO.11 above, a VOS clause, has the same basic meaning as the
+clause in example WO.12, just below, which is the one VSO clause found in the text. One
+difference between the two clauses is that the subject noun in the VSO clause below is
+preceded by the determiner /ni?/. The standard translation of /ni ?/ is ‘the’, but the
+Kutenai determiner /ni ?/ is more specifically anaphoric than the English definite article.
+This makes the subject of the VSO clause, below, more marked in discourse pragmatic
+terms, in this particular way, than the subject of the VOS clause, above. This suggests that
+in Kutenai the order VSO is not only less common than the order VOS, but is also more
+ 4.1Kutenai Word Order 399
+marked in discourse pragmatic terms than the order VOS is. The one example of an SVO
+clause found in the text, which is presented as example WO.13, further below, also has a
+subject nominal stem modified by the anaphoric Kutenai determiner /ni?/.",2.3,"No dominant order, SOV, VOS, OSV, OVS","[431, 432]",4,19,0.7255756847550634,1
+" Therefore the clause is underlyingly /k |ha- da n-xuU-?/
+SM have-hanging.above-by.body~GSV|
+ 4.1Kutenai Word Order 406
+ “nun?inikwi¢qa kakudac""
+ /hucn Pi-ni/ /k wit+qa-?k jha-ku¢ac/
+1CPLPM — be-NC.IND SM.big-STV-IN SM have-testicle
+lam Cit/nim).w.that (he) is big... that (ne) has testicles
+ (b) ""Iam (c) abig stud""
+ There are other instances of the sequence of words /kKwWitqakaku+ac/ in the text,
+in this same order, and not as direct quotes from Constable Pritchard as in WO.17 here.
+The basic order of words for this type of construction in Kutenai is for the ostensibly mod-
+ifying and most verb-like k-form to precede the lexicalized and most noun-like k-form. It
+is not quite safe to say that these examples represent an order of Relative Clause-Noun,
+much less that they represent an order of Adjective-Noun.",1.0,,"[724, 725]",1,20,0.7174133030874962,0
+" Kutenai evidently does have a basic word order which can be identified as head-first, as
+ opposed to dependent-first, but discourse pragmatic factors are very important in Kutenai
+ word order and may always be the dominant factors in the ordering of dependents among
+themselves, which is the situation when there is more than one syntactically dependent
+5.1Areal-Typology484
+constituent in a syntactic construction, such as when there is a lexical subject and a lexical
+object together in the same clause. This is a delicate matter, in Kutenai, because, as already
+pointed out above, it is rare in normal speech for there to be more than one lexical argument
+for a single predicate.
+",2.3,"No dominant order, VOS, VSO","[520, 521]",4,21,0.7297838669041921,1
+"In
+ these terms, Kutenai is a prepositional language, which is very much in line with VOS as a
+ basic word order of the language.
+",3.0,VOS,[732],5,22,0.7479739385943807,1
+" In
+these terms, Kutenai is a prepositional language, which is very much in line with VOS as a
+basic word order of the language.
+",3.0,VOS,[446],5,23,0.765241210120546,1
+"Otherwise in the language, the clitic pronouns only
+ occur singly as subject proclitic pronouns preceding verbal stems, strictly in the order SV,
+ i.e. Subject Clitic + Verbal Stem. The order VOS can be seen again in Kutenai verbal
+ forms where pronominal word suffixes are involved. It would appear that within words in
+2 See section 3.2.4 for examples.
+",1.0,,[715],1,24,0.7573722706800444,0
+"Otherwise in the language, the clitic pronouns only
+occur singly as subject proclitic pronouns preceding verbal stems, strictly in the order SV,
+ i.e. Subject Clitic + Verbal Stem. The order VOS can be seen again in Kutenai verbal
+ forms where pronominal word suffixes are involved. It would appear that within words in
+9 See section 3.2.4 for examples.
+",1.0,,[429],1,25,0.7498746504409173,0
+"4.1Kutenai Word Order 394
+derived adverb + verbal stem. This is the only possible order in Kutenai for an adverb in
+construction with a verbal stem, although derived adverbs can be strung together in a verbal
+phrase and may be arranged in different orders among themselves, with slightly different
+meanings for alternative arrangements of the same adverbs.
+4.1.1The Order of Nominal Phrases and Verbal Phrases.
+",1.0,,[427],1,26,0.7427190087567721,0
+" Another factor which needs to be taken into account is that these
+is to be read as the subject of the verbal stem and not an object (although the object reading
+is only possible in second person singular imperative forms). In diachronic terms, this
+may be the grammaticalization of what was originally a discourse-pragmatically motivated
+fronting from the original basic order which was VS, to than the current s-V order of this
+construction.
+ 18 See section 4.2 where examples are given of the words /na/ 'this', /7in/ ‘that
+ (nearby)', and /qu?/ ‘that (yonder)', and the quantitative word/ Gapi/ ‘all’ as
+pronouns and as ostensible modifiers of other words including nominal stems.
+",1.0,,[440],1,27,0.7358792623840742,0
+"Kutenai is a language which helps to illustrate that languages can differ by degree in the
+extent to which they use word order for discourse pragmatic purposes, as opposed to using
+word order to mark the syntactic function of constituents, for example, to mark words as
+predicates by having them precede words which are identifiable as the lexical arguments of
+predicates. Kutenai is near one end of this typological parameter, but not at the extreme
+ end.
+",2.2,,[520],3,28,0.7401750089509281,0
+Is Basic Word Order Universal.,2.1,,[764],2,29,0.742934557415591,0
+" 385
+4.1 Word Order and Syntactic Categories.",2.1,,[10],2,30,0.7456105771893048,0
+"385
+4.1 Word Order and Syntactic Categories.",2.1,,[600],2,31,0.7482076928111259,0
+" Word Order Typology.
+",2.1,,[518],2,32,0.7507301452645742,0
+"In nominal phrases in Kutenai where deictic words, the quantitative word / api ?/, or
+ the determiner /Nj?/ 'the' precede a nominal stem, ostensibly modifying it, it is possible
+ to see the ostensible modifier as fundamentally or alternatively a pronoun, and therefore
+ fundamentally a nominal stem in its own right. The modifying word is also a proclitic
+ element on the following word and a part of the same nominal phrase. If nominal stems are
+subordinate predications, as is assumed here, then the deictic words, the quantitative
+4.1Kutenai Word Order 413
+/Qapi?/, and the determiner /ni?/ ‘the’ are each specialized kinds of predications. The
+comparability of the various constructions in Kutenai where one word or phrase modifies a
+following word or phrase and the further comparability of these constructions to Verbal
+Stem-Lexical Subject construction seen above in WO.15 makes it questionable that the
+Dependent-Head word orders represented by the ostensibly modifying constructions are
+very fundamental or old in the language. It may be that in diachronic terms the Dependent-
+Head constructions are derivative of a basic Head-Dependent order.
+4.1.3Prepositional Prefixes: Morpheme Order and Basic Word Order.
+",2.1,,"[731, 732]",2,33,0.7531818344547696,0
+"4.1Kutenai Word Order 387
+4.1.",2.1,,[420],2,34,0.755566355839676,0
+"Another factor which needs to be taken into account is that these
+is to be read as the subject of the verbal stem and notan object (although the object reading
+is only possible in second person singular imperative forms). In diachronic terms, this
+may be the grammaticalization of what was originallya discourse-pragmatically motivated
+fronting from the original basic order which was VS,to than the current s-V order of this
+construction.
+",1.0,,[726],1,35,0.7531399844837319,0
+"4.1Kutenai Word Order394
+derived adverb + verbal stem. This is the only possible order in Kutenai for an adverb in
+construction with a verbal stem, although derived adverbs can be strung together in a verbal
+phrase and may be arranged in different orders among themselves, with slightly different
+meanings for alternative arrangements of the same adverbs.
+4.1.1 The Order of Nominal Phrases and Verbal Phrases.
+",1.0,,[713],1,36,0.7507771481654123,0
+" Languages
+which are fairly closely related may have rather different word order characteristics, but
+closely related languages do not generally have completely different characteristics in terms
+of whether syntactic heads or dependents are marked with affixes. It is known that in
+ several centuries a language can go from having one basic word order type to an nearly
+opposite one. In contrast, there are almost no cases of obviously related languages having
+opposite, or nearly opposite morphological marking characteristics. There are no well
+ established language families in the world which have member languages which are very
+ different from each other in morphological marking type.
+",2.2,,[515],3,37,0.757655473697957,0
+" 4.1Kutenai Word Order 391
+Example WO.2.
+(a) waqi‘to be thick’.(b) Waqi?ni.",2.1,,[424],2,38,0.7598446151513225,0
+"4.1Kutenai Word Order 402
+ Vat qa¢7ati?ukuqwi¢inka?isYawukiykam.
+",2.1,,[435],2,39,0.7653826036118518,0
+"4.1 Kutenai Word Order 395
+Nominal phrases in a Kutenai clause typically follow the verbal phrase, although
+discourse pragmatic considerations may override this and a nominal phrase representing a
+newly introduced subject in a text may precede the verbal phrase. Discourse pragmatic
+principles do not evidently have free reign to put a nominal phrases representing a direct
+object or indirect object before the verbal phrase, although there are rare examples. It
+would appear that, for Kutenai, the most neutral order, in discourse pragmatic terms, is
+Verbal Phrase-Subject Nominal Phrase-Object Nominal Phrase, or VOS.",3.0,VOS,[714],5,40,0.7840838484059351,1
+"When the nominal stem represents the subject of the verbal stem, the verbal stem is
+either indicative or interrogative, and the basic word order of the construction is Verb-
+Subject. This follows from the apparent basic word order in Kutenai of Verb-Object-
+Subject. Where a nominal stem is in construction with a subordinate form of a verbal stem
+as in WO.15, part (c), the basic word order is ostensibly Relative Clause-Noun, but this is
+actually the same order as the VS order in WO.15, parts (a) and (b). Exactly the same
+segmental morphemes are involved in (b) and (c). The morphological difference between
+(b) and (c) lies in the matter of intonation. The interrogative k-form of the verbal stem in
+(b) has a rising interrogative intonation, while the relative clause k-form of the stem in (c)
+has a falling indicative intonation. In all three constructions, the most common order and
+least marked order in discourse pragmatic terms is for the verbal stem whether indicative,
+interrogative, or relative to precede the nominal stem. In all three constructions, the nomi-
+ nal stern is coreferent to, and in apposition to, the actual subject of the verbal stem, which
+ is a third person zero affix on the verbal stem.!3
+4.1 Kutenai Word Order 404
+The following text examples, from the Constable Pritchard Text, contain constructions
+functionally similar to the one in WO.15, part (c), above,where a relative clause type k-
+form precedes and ostensibly modifies a nominal stem. The clause in WO.16, part (d) is of
+a relative clause type k-form preceding and ostensibly modifying a lexicalized k-form. A
+literal meaning of the second k-form, at one level of analysis, is ‘that he/she/it has a badge,
+that they have badges’. It is also a lexical item meaning ‘policeman’. In morphological
+terms it remains a k-form, in spite of being lexicalized, in that it does not take possessive
+affixation as nominal stems do.
+Text Example WO.16.",3.0,VOS,"[436, 437]",5,41,0.8025016511650055,1
+" |
+qaki¢ni
+/qa-ki-¢yni/
+ be.thus-say-DI.JIND
+(a) he told him,
+ 16 Underlyingly the compound lexical suffix meaning 'badge' consists of three mor-
+phemes. Therefore the clause is underlyingly /k jha-qan-xu-7?/
+ SM have-hanging.above-by.body-GSV|
+4.1 Kutenai Word Order 406
+ ""hun 7ini kwi¢qakakudae¢’
+ /huyn Vi-ni//k wieqa-? =k ha-ku¢a¢/
+1CP,PM be-NC INDSM ybig-STV-INSM have-testicle
+Lam(it/nim).w.that (he) is big... that (he) has testicles
+ (b) ""Iam(c) a bigstud”
+ There are other instances of the sequence of words /kwitqakaku¢a¢/ in the text,
+in this same order, and not as direct quotes from Constable Pritchard as in WO.17 here.
+The basic order of words for this type of construction in Kutenai is for the ostensibly mod-
+ifying and most verb-like k-form to precede the lexicalized and most noun-like k-form. It
+is not quite safe to say that these examples represent an order of Relative Clause-Noun,
+much less that they represent an order of Adjective-Noun. For one thing, the adjectival
+verbal stem /wi¢qa/ ‘to be big' is an adjectival verbal stem, not an adjective. For an-
+other thing, the lexicalized k-forms are not nominal stems, much less nouns in the sense
+that the word ‘noun’ has in English grammar and generally elsewhere. Nonetheless, lex-
+icalized k-forms, and also k-forms which represent ad hoc nominalizations (such as /k,
+wid¢qa/ ‘the he/she/it who is big, the they who are big’) are each potentially nominal
+phrases, certainly in semantic terms, and there is a pattern here of an ostensibly modifying
+phrase preceding a nominal phrase (i.e. preceding a nominal stem or lexicalized k-form).
+This was already seen above in example WO.15, part (c), where a relative clause type k-
+form precedes a nominal phrase consisting of a nominal stem.!7
+ 17 One thing which may have to be considered here is that the preceding and ostensibly
+modifying k-form may not really constitute a separate phrase from the following nominal
+phrase which it appears to modify. There may be a clitic-like relationship between the two
+phrases so that they constitute an single compound nominal phrase. This would be a par-
+allel to the commonly occurring type of verbal phrase where a clitic pronoun /hu,/ First
+Person, or /hin,/ Second Person, representing the subject (a dependent argument) of the
+verbal phrase is proclitic to the verbal stem which is the head of the construction. This is a
+ Dependent-Head order, and the only possible order if the dependent pronominal argument
+4.1Kutenai Word Order407
+One can generalize that Kutenai has the order Head-Dependent as a basic word order.
+This is certainly true for the arrangement of verbal stems and their lexical arguments, where
+the basic word order is evidently VOS. The type of construction where a modifying k-
+form precedes a nominal stem or lexicalized k-form seemingly has an opposite basic order
+of Dependent-Head, but all the lexical stems involved are inflected stems which each have a
+subject in the form of a zero third person pronominal affix, so the nominal stem or k-form
+which follows the ostensibly modifying k-form is coreferent and in apposition to the
+subject of a preceding verbal stem. In these terms, the order of lexical words is VS and not
+some Dependent-Head order such as Relative Clause-Noun or Adjective-Noun.
+",3.0,VOS,"[438, 439, 440]",5,42,0.8206455047366852,1
+"When the nominal stem represents the subject of the verbal stem, the verbal stem is
+ either indicative or interrogative, and the basic word order of the construction is Verb-
+ Subject. This follows from the apparent basic word order in Kutenai of Verb-Object-
+ Subject. Where a nominal stem is in construction with a subordinate form of a verbal stem
+ as in WO.15, part (c), the basic word order is ostensibly Relative Clause-Noun, but this is
+ actually the same order as the VS order in WO.15, parts (a) and (b). Exactly the same
+ segmental morphemes are involved in (b) and (c). The morphological difference between
+ (b) and (c) lies in the matter of intonation. The interrogative k-form of the verbal stem in
+ (b) has a rising interrogative intonation, while the relative clause k-form of the stem in (c)
+ has a falling indicative intonation. In all three constructions, the most common order and
+ least marked order in discourse pragmatic terms is for the verbal stem whether indicative,
+ interrogative, or relative to precede the nominal stem. In all three constructions, the nomi-
+ nal stem is coreferent to, and in apposition to, the actual subject of the verbal stem, which
+ is a third person zero affix on the verbal stem. !*
+4.1 Kutenai Word Order404
+The following text examples, from the Constable Pritchard Text, contain constructions
+functionally similar to the one in WO.15, part (c), above,where a relative clause type k-
+form precedes and ostensibly modifies a nominal stem. The clause in WO.16, part (d) is of
+a relative clause type k-form preceding and ostensibly modifying a lexicalized k-form. A
+literal meaning of the second k-form, at one level of analysis, is ‘that he/she/it has a badge,
+that they have badges’. It is also a lexical item meaning ‘policeman’.",3.0,VOS,"[722, 723]",5,43,0.8385243680160515,1
+"In Kutenai, the most commonly occurring personal pronouns are affixal or clitic pro-
+ nouns and they are constituents of verbal phrases, rather than nominal phrases which could
+ be freely ordered either before or after a verbal phrase. There is one notable case of vari-
+ able order of clitic pronouns within Kutenai verbal phrases. In second person singular
+ subject imperative verbal forms, the First Person Clitic Pronoun /hU./ and the Second
+ Person Clitic Pronoun /hin./ occur encliticized onto verbal stems. When they occur
+ together encliticized onto the same verbal stem, they are in the order VOS, i.e. Verbal Stem
+ + Object Clitic + Subject Clitic.?",1.0,,[715],1,44,0.8392081587650334,0
+"In Kutenai, the most commonly occurring personal pronouns are affixal or clitic pro-
+nouns and they are constituents of verbal phrases, rather than nominal phrases which could
+be freely ordered either before or after a verbal phrase. There is one notable case of vari-
+able order of clitic pronouns within Kutenai verbal phrases. In second person singular
+ subject imperative verbal forms, the First Person Clitic Pronoun /hu,/ and the Second
+Person Clitic Pronoun /hin,/ occur encliticized onto verbal stems. When they occur
+ together encliticized onto the same verbal stem, they are in the order VOS, i.e. Verbal Stem
+ + Object Clitic + Subject Clitic.?",1.0,,[429],1,45,0.8398823067405429,0
+" The type of construction where a modifying k-
+form precedes a nominal stem or lexicalized k-form seemingly has an opposite basic order
+of Dependent-Head, but all the lexical stems involved are inflected stems which each have a
+subject in the form of a zero third person pronominal affix, so the nominal stem or k-form
+which follows the ostensibly modifying k-form is coreferent and in apposition to the
+subject of a preceding verbal stem. In these terms, the order of lexical words is VS and not
+some Dependent-Head order such as Relative Clause-Noun or Adjective-Noun.
+",1.0,,[726],1,46,0.8405471066352794,0
+" IMpty all-hear-Bf-STVIND
+ ‘he told everyone'
+(b) ni?s ki?in (c) kwi¢qa(d) kaku¢a¢
+ /ni?-s,k hit. ?i-n//k witqa-? k ha-kud¢a¢/
+ the-S3,SMLBptybe-NCSMybig-ST V-IN SM. have-testicle
+ the (fact) that he was that (he) is big that (he) has testicles
+‘that he wasa bigstud.’
+ In nominal phrases in Kutenai where deictic words, the quantitative word /api?/, or
+the determiner /ni ?/ ‘the’ precede a nominal stem, ostensibly modifying it, it is possible
+ to see the ostensible modifier as fundamentally or alternatively a pronoun, and therefore
+ fundamentally a nominal stem in its own right. The modifying word is also a proclitic
+ element on the following word and a part of the same nominal phrase. If nominal stems are
+ subordinate predications, as is assumed here, then the deictic words, the quantitative
+ 4.1Kutenai Word Order 413
+/ api ?/, and the determiner /ni ?/ ‘the’ are each specialized kinds of predications. The
+comparability of the various constructions in Kutenai where one word or phrase modifies a
+following word or phrase and the further comparability of these constructions to Verbal
+Stem-Lexical Subject construction seen above in WO.15 makes it questionable that the
+Dependent-Head word orders represented by the ostensibly modifying constructions are
+very fundamental or old in the language. It may be that in diachronic terms the Dependent-
+Head constructions are derivative of a basic Head-Dependent order.
+4.1.3Prepositional Prefixes: Morpheme Order and Basic Word Order.
+",2.1,,"[445, 446]",2,47,0.8453152215616995,0
+" 3.2.2Inflectional Paradigms367
+pronominal object marking, these forms are given an analysis where zero morphemes are
+posited in the analyzed forms. The arrangement of the zero suffixes here follows a pattern
+whereby the Subsidiary Third Person (Subject) Suffix /-$/~/iS/ follows the overt pro-
+nominal object suffixes it co-occurs with. This makes for an order of Verb-Object-Subject.
+There is evidence for VOS as the language's basic word order.! 7
+RiktuquaniP3 > S3hiktuqu?si $3 > $3
+ /no?iktuqu?-B-P ni/ /n?iktuqu?-g-s i/
+PM. Wash-$3(ob j)-P3(subj) IND PM. Wash-P3(obj)-S3¢subj)IND
+""He/she/it/they (proximate) washed ""He/she/it/they (obviative) washed
+him/her/it/them (obviative)’.him/her/it/them (obviative)'.
+ (c) hiktuqunapsi $3 — HRO-P3 (d) hiktuqunapsisni $3 — HRO-S3
+ /n?iktuqu?-n-ap-9-svi//ny?iktuqu?-n-ap-s-isyni/
+PM. Wash-NC-HRO-S3INDPM. Wash-NC-HRO-S3-S3 IND
+ ""He/she/it/they (obviative) washedHe/she/it/they (obviative) washed
+him/her/it/them (proximate), orhim/her/it/them (higher ranking obv), or
+ ""He/she/it/they (proximate) got washedHe/she/it/they (higher ranking obv) got
+ by him/her/it/them (obviative).'washed by him/her/it/them (obviative)’.
+",3.0,VOS,[399],5,48,0.8622411199408476,1
+"One possibility explored by Dryer is that the ending /-apS/ is a single morpheme and
+that the forms with it are genuinely passive, where the patient has become a syntactic sub-
+ject. Although the sentences here are elicited, which introduces the influence of English
+ word order, at least to a small extent, these examples are interesting for the study of Kute-
+ nai word order in that, in examples HRO.4 and HRO.5, lexical arguments representing
+ patients actually occur preverbally in sentences which were accepted as grammatical by a
+ Kutenai elder. The same elder, on an earlier occasion’orking with the author, questioned
+ the grammaticality of OSV word orders in sentences which could only be translated as
+ active sentences in English. In that session, direct elicitation based on English sentences
+ was avoided, but, of course, OVS sentences are not grammatical in any event in English,
+ although Patient-Verb-Agent sentences are grammatical in English, but only when they are
+ passive.
+",2.2,,[469],3,49,0.8708702528209258,0
+" For the most part, Kutenai word order is a matter of discourse pragmatics at the sen-
+tence level (i.e. the arrangement of clauses within sentences), and it is also largely a matter
+of discourse pragmatics at the clause level (i.e. the arrangement of phrases within clauses).
+In contrast, Kutenai word order at the phrase level (i.e. the arrangement of words within
+phrases) is relatively fixed. At the phrase level, word order in Kutenai is almost entirely a
+matter of the requirements syntactic structure, rather than any choices offered by discourse
+pragmatics. Moreover, even phrases in Kutenai which consist of several words generally
+ sound like a single long word, at least judging the matter from the standpoint of English.
+Words within Kutenai phrasesare strung together with cliticization boundaries, making
+ Kutenai phrasal syntax very much like word morphology.
+",2.3,"SVO, SOV, VOS, VSO, OVS, OSV",[708],4,50,0.8833872005313372,1

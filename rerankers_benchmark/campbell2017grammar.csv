@@ -1,0 +1,1467 @@
+Paragraph,Annotation,Word order,Page number,Relevance Score,BM25 Rank,BM25 NDCG@K,Binary Relevance Score
+"[CH:76]
+3.3.1 Evidence for subjecthood and objecthood
+From the above discussion and example sentences given so far, it is clear that word order in Gã
+is strictly SVO, but so far the terms ‘subject’ and ‘object’ have been used without any real
+justification. In order to determine whether Gã has the grammatical relations of subject and
+object, there needs to be determined whether there are any syntactic phenomena that apply
+equally to the arguments that have been labelled as subjects and which do not apply to those
+arguments labelled as objects. In other words, are A and S arguments treated alike while P
+arguments are treated differently in Gã? If the answer to this is affirmative, then Gã
+grammatical relations are functionally similar to those in languages like English where A and S
+undergo various syntactic phenomena from which P is excluded. A and S are then subjects and
+P is object, giving a nominative-accusative case system.
+",3.0,SVO,[319],5,1,1.0,1
+"49
+2.2 Word Classes
+In order to identify word classes in Gã, I will be relying mostly on distributional evidence, with
+support from morphological and semantic criteria. Utilizing the distributional method is
+unproblematic from a language-particular point of view. However, in order to define word
+classes universally (and by this is meant only the major classes of nouns, verbs and adjectives),
+other criteria need to be looked at, since the morphosyntax of one language differs from the
+next. Some linguists are of the view that there are languages which lack one or more of these
+word classes. For instance, some Austronesian, Salishan and Iroquian languages are said to lack
+verbs (Haspelmath (2012:118). However, some linguists, such as Croft (2000) and Haspelmath
+(2012) maintain that all languages possess these three word classes or parts of speech.
+",0.0,,[64],0,2,0.6131471927654585,0
+" The syntactic behaviours in Gã that establish A and S as one grammatical relation
+distinct from P are word order, pronominalization, raising and indispensability of A and S.
+These will be examined in turn.
+ 305
+i) Word order
+A and S arguments always occur before the verb while P occurs after the verb in the immediate
+post-verbal position. As hinted at earlier, the A or S argument need not necessarily be an agent.
+It may be a patient, instrument, recipient, location or benefactor. The P argument, on the other
+hand, cannot be an agent. It is usually a patient, location or recipient. Switching the order of the
+A and P arguments results in a different meaning. Example:
+(205a) tsàtsú !tsɛ̃́ òkó
+antsting Oko
+“An ant stung Oko.”
+(205b) òkó !tsɛ̃́tsàtsú
+Okosting ant
+“Oko stung an ant.”
+",3.0,SVO,"[319, 320]",5,3,0.7039180890341348,1
+"Many linguists agree that the head noun and the so-called relative clause or sentence
+together form one NP (Givón 2001b, Andrews 2007, Lehmann 1986). One problem that
+Shibatani (2011) has with this view is that if it is maintained that the argument nominalization
+is actually a clause, it entertains a scenario where a larger, more complex structure (a clause) is
+embedded within a smaller structure (a noun phrase). This is impossible and it entreats us to
+search for a more syntactically sound analysis of relative constructions. This, I believe is the
+nominalization analysis put forward by Shibatani.
+6.4 Verb-based argument nominalizations in modification function (Relative
+clauses)
+In Gã, the verb based argument nominalization is marked at the initial boundary by the
+nominalizer, ni,̃́ an invariant particle. It is the most important nominalizer in Gã and is found in
+various other grammatical nominalizations which carry out a variety of functions, such as
+complementation and adverbial modification. When the nominalized argument is subject or
+object, the argument nominalization has a gap in the position where that grammatical relation
+531
+would be. Recall that Gã has strict SVO word order and grammatical relations are determined
+primarily by word order.
+",3.0,SVO,"[545, 546]",5,4,0.75369761125927,1
+"If a grammatical word is a noun with plural number, then the final boundary may be
+identified by the plural morphemes -ì, -ji,̃̀ -bí!í and -mɛ̀ì since these always occur finally. For
+verbs, the verb head itself or the post-verbal affixes such as the habitual -ɔ, and negative
+perfect kò will mark the final boundary of the grammatical word. The initial boundary is
+marked by the bound pronouns if the subject is a pronominal. If the subject of the verb is a full
+NP then the initial boundary of the verb complex is marked either by the verb itself or the
+perfect prefix é-.
+2.1.4 Clitics
+It is important to recognize a small class of elements in Gã which correspond to what have
+been described in other languages as clitics. Matthews (1991:218) writes that clitics “are units
+which are word-like in their grammar, but phonologically must lean for support…on another
+word adjacent to them.” Clitics therefore share characteristics with both words and affixes and
+are considered by many (e.g. Haspelmath 2011; Dixon and Aikhenvald 2002) to be
+grammatical words. Whereas a particular affix must occur with words of a particular syntactic
+category and in a particular order, clitics have no such restriction. They may attach to different
+classes of words and have variable word order. In Gã, there are two classes of clitics: subject
+ 45
+pronominals and articles. The former are proclitics while the latter are enclitics. These will be
+discussed in detail in §2.3.2.1 on subject pronominal clitics (bound pronouns) and §2.3.1.2 on
+articles. For now, a brief discussion with examples will suffice.
+Articles:- The definite and indefinite articles lɛ and ko are clitics. They occur after the noun
+phrases they modify and form a phonological word with their host noun phrases. The definite
+article, in spoken Gã, is hardly realized as lɛ. It has the allomorphs -ɛ, -a, or -ɔ, the realization
+of which is dependent on the final phoneme of the noun phrase. Like true clitics, they exhibit
+low selectivity of hosts and so they attach to the last word of the noun phrase, regardless of its
+syntactic category. It is attached to a noun in (6a) and (6c), a nominalization marker in (6b) and
+an adjective in (6d). In chapter 7, it will be shown that the definite article also functions as a
+marker of topicality.
+(6)a.́̃ =ã
+wɔ̀-shi!ã ́ ́
+1PL-house=DEF
+‘our house’ [DF:33]
+ b.",1.0,,"[59, 60]",1,5,0.6810496732555991,0
+"Another difference between the subject pronominal clitics on one hand and object and
+free pronouns on the other is that whereas free pronouns and object pronouns may be modified
+by the additive adverb hṹ ‘too’ and the quantifier, fɛ̃ɛ́ ̃́ ‘all’, the subject pronominals cannot. So
+(121) is grammatical because it is the object pronoun that is modified by fɛ̃ɛ́ ̃́ ‘all’, but (122),
+where the subject proclitic takes the modifier is not grammatical. In order for a subject
+pronominal to take on such qualifiers, free pronouns must be employed. These can be modified
+100
+and left-dislocated and then can be followed by the subject pronominal clitic, as in (123). The
+inability of the subject clitics to be modified shows that they are not quite like ordinary words.
+(121) wò-bíì=ɛ̀ jè kpò yɛ̀tsó=ɛ̀ nɔ̃̀
+honey-people=DEF exitcompoundbe.located tree=DEF top
+kɛ̀-bɔ̀lè̀ ɛ̃̀
+ ãmfɛ̃ɛ́ ̃́
+take-surround 3PL all
+“The bees exited the tree and surrounded them completely.”",0.0,,"[114, 115]",0,6,0.6076399047861836,0
+" In many languages, especially Indo-European languages, stress is a reliable marker of
+phonological words. This is because the placement of stress in such languages is predictable,
+always falling on a syllable in a particular position. As is the case in many tone languages of
+West Africa, stress does not play a significant role at the word level and is therefore unhelpful
+in determining phonological words. For instance, Dakubu (1981:235) finds that in Gã, as in
+Yoruba, the domain of semantically based syllable stress is not the word but the pause group
+(i.e. the intonation unit).
+2.1.3 The grammatical word
+A grammatical word is described by Dixon and Aikhenvald (2002:19) as consisting “of a
+number of grammatical elements which a) always occur together rather than scattered
+throughout the clause (the criterion of cohesiveness), b) occur in a fixed order and c) have a
+ 42
+conventionalized coherence and meaning.” These are considered to be the essential properties
+that every grammatical word in every language should possess. Other, less universally-
+applicable characteristics exist that could be used as supporting evidence. These are that there
+will be only one inflectional affix in a word (in languages which have a single inflectional
+system on each word class), there will be pauses between words, words may constitute an
+utterance all by themselves (isolatability) and finally, morphological processes which apply to a
+word will not apply recursively.
+",0.0,,"[56, 57]",0,7,0.5519646285328452,0
+" 313
+3.3.2.1 Identifying the direct and indirect object in a ditransitive clause
+A decades-old problem in syntax is that of ascertaining which object in a ditransitive
+construction is the direct object i.e. which object exhibits the same syntactic behavior as the
+single object in a transitive clause. The other object, by virtue of not exhibiting these
+characteristics nor characteristics of the subject, is then ascribed the status of indirect object. In
+order to answer this question with respect to Gã, one must recognize that various objects will
+display various syntactic properties depending on the verb they occur with. Therefore, not all
+direct objects in ditransitive clauses are the same. Some exhibit more typical direct object
+features than others.
+",0.0,,[328],0,8,0.5246670931345011,0
+" Table 14: Nouns morphologically derived from adjectives
+Semantic classEngish gloss Adjective Singular noun Plural noun
+COLOURredtsùlù étsùlùétsùjiì̃ ̀̃
+whiteyɛ̃!ŋ́́ éyɛ̃!ŋ́́éyɛ́jiì̃ ̀̃
+blackdi!ŋ́́̃ édi!ŋ́́̃édijí̃ ì̃ ̀̃
+PHYSICAL PROPERTY raw, fresh ŋmɔ̃!ŋ́́éŋmɔ̃!ŋ́ ́éŋmɔ̃jí ì̃ ̀̃
+unripe ŋmílíkítí éŋmílíkítíéŋmílíkítí!í
+AGE oldmómóémómó éméméjiì̃ ̀̃
+newhèè éhèèéhèì
+VALUE good kpákpáékpákpá ékpákpá!í
+bad ̌
+ fɔ̃!ŋ́̌
+ éfɔ̃!ŋ́ éfɔ̃jǐ ì̃ ̀̃
+511
+ Agentive nouns with the suffix, -lɔ and -fo are pluralized with the plural suffix -i.
+Example, jùlɔ̀ì ‘thieves’, tsɔ̃ɔ̀ l̃́ ɔ̀ì ‘teachers’, shãm
+̀ ɔ̃l̀ ɔ̀ì ‘those who urinate/idiots’ and òhiã̃̀ !́ fó!í
+‘poor people’. Words nominalized by tsɛ̀ are pluralized with -mɛ̃ì ,̃̀ which itself is the plural of
+mɔ̃̀ ‘person’. Example: àkùtútsɛ̀mɛ̃ì ̃̀ ‘orange sellers’, shìkátsɛ̀mɛ̃ì ̃̀ ‘rich people’.
+6.1.3 Nominalization of simple verb phrases and inherent complement verbs
+(ICVs)
+In Gã, it is possible to nominalize any simple verb phrase consisting of a verb and its object by
+switching the order of the verb and object and nominalizing the verb. That is, the object is
+fronted or preposed and the nominalized verb immediately follows it. This nominalization may
+then be used as an argument in a clause. Most of such nominalizations result in phrases and not
+necessarily lexical items. For example, the sentence in (10a) contains the verb phrase kɛ́ɛ ́ bò
+‘tell you’. It is provided in order to show the contrast between it and the nominalization, bò
+kɛ̀ɛ!́ mɔ̃́ ‘telling you’ in (10b). In (10a) the verb precedes the object; in (10b) it is nominalized
+and it now follows the object. The entire nominalization in (10b) also functions as an argument
+- the object of sà ‘fit’.
+(10a) è=sà á!kɛ́ é=kɛ́ɛ ́bò
+ 3SG=fit NMLZ3SG.SBJV=tell 2SG.OBJ
+ “He has to tell you.”
+(10b) nɔ̃fɛ̃́ ɛ̃́ nɔ̃
+́ ́ni ̃́sà bò ́ !ɔ̃́
+kɛ̀ɛ-́ mɔ̃= é=!kɛ́ɛ ́
+ everythingNMLZ fit2SG.OBJtell-NOM=DEF3SG.SBJV=tell
+ 512
+bò
+2SG.OBJ
+“Everything that you need to be told, he should tell you.”",3.0,SVO,"[525, 526, 527]",5,9,0.5761319133387375,1
+" 43
+In Gã it is relatively easy for the most part to identify a grammatical word. It is the
+distinction between affix and clitic that can be particularly tricky, as these form adjacent points
+on the continuum. Any root together with its inflectional and/or derivational morphemes
+constitutes a grammatical word. The words in (5) are all grammatical words. Their meanings
+are readily available to native speakers. The elements that make up these words always occur in
+a fixed order e.g. in (a) the pronominal clitic must precede the verb, which also precedes the
+future negative.
+(5) a) ́
+è=nyɛ̃-!ŋ́
+3SG=be.able-NEG.FUT
+‘S/he will not be able (to do it)’
+b)ònúkpá-!í
+elder-PL
+‘elders’
+c)jù-lɔ̀-ì
+steal-AG-PL
+‘thieves’
+d)gbèé ‘dog’
+The grammatical words listed above are also phonological words and in addition they constitute
+utterances by themselves. Dixon and Aikhenvald (2002:25) observe that the condition of
+isolatability applies to words which are both phonological words and grammatical words.
+",1.0,,[58],1,10,0.5821591690493084,0
+"321
+In order to express the intended meaning in (231b), a serial verb construction must be used. In
+this construction, the first verb is kɛ ‘take’ and its object is the definite theme NP, while the
+second verb is hã́ ‘give’ and its object is the recipient. This is seen in (232) below.
+(232) òkókɛ̀ shìká=àhã́!mí
+Okotakemoney=DEF give 1SG.OBJ
+“Oko gave me the money.”
+",0.0,,[336],0,11,0.5742790638625388,0
+"Each argument in a clause plays a role in the development of the action - a semantic
+role - and these roles may be marked morphologically or by word order. Languages differ in
+how the marking of semantic roles in a typically transitive clause corresponds to the marking of
+a single argument in an intransitive clause. This sets up the well-known binary division
+between nominative-accusative languages and ergative-absolutive languages. In nominative-
+accusative languages, the agent (A) of the transitive clause is marked the same as the single
+argument (S) of an intransitive clause, while the patient (P) of the transitive clause receives
+unique marking. In ergative-absolutive languages, it is the P of the transitive clause that is
+marked the same as the S of the intransitive clause, with the A of the transitive clause being
+uniquely marked.
+",2.2,,[476],3,12,0.6056772277667669,0
+" Other authors have noted that the adjective class (or more broadly, the class of words
+that occur as modifiers of nouns in NPs) in many West African languages is an innovation
+(Ameka 1991b). Schaefer and Egbokhare (1993:74) note that in Emai, the relatively new
+adjective class is an addition to a system where property concepts were primarily and perhaps
+160
+singularly coded by verbs. In Gã, it is not possible to determine whether the older form of
+property expression is property verbs or attributive adjectives and nouns. What does seem
+clear, though, is that complementation of yɛ̀ ‘have’ with property nouns is a more recent
+innovation, judging from the fact that most of the basic property concepts cannot occur in this
+construction.
+2.4.3.8 The relationship between possession and property-denotation
+The use of possessive syntax to introduce property concepts is common in the world’s
+languages. Francez and Koontz-Garboden (2013:536) observe that property concept lexemes
+which occur in possessive predicate constructions are those that denote abstract “substances”
+such as English ‘strength’ and ‘beauty’. These are essentially abstract nouns. Those that occur
+in canonical predicate constructions (e.g. copula constructions) tend to be adjectives in English.
+Their thesis is that substance-denoting property concepts require possessive semantics in order
+to meet the truth conditions of property concept constructions, while adjectivally-denoting
+property concepts have no such requirement.
+",0.0,,"[174, 175]",0,13,0.5981522516200167,0
+"The syntactic tests that will be used to determine which of the two objects aligns more
+with the direct object of a monotransitive construction are word order, pronominalization, equi-
+NP reference in complementation and to some extent, focalization. The first two phenomena
+are considered coding patterns while the rest are behavioural patterns (Malchukov et. al
+2010:10).
+i) Word order
+Since in a monotransitive clause the argument in immediate post-verbal position is the direct
+object, we may posit then that in a ditransitive clause the argument in this position is also the
+direct object. This by itself is not conclusive evidence as there are other languages like English
+314
+where the reverse obtains i.e. the argument immediately following the verb is the indirect
+object and the one furthest from the verb is the direct object. Therefore, more supporting
+evidence is needed.
+ii) Pronominalization
+When this test is applied, we see that only the post-verbal object most proximal to the verb, the
+R, is capable of being pronominalized. This argument takes the pronominal form that a direct
+object in a monotransitive clause would take. For example, in (219b), the immediate post-
+verbal object (R) - Oko - is pronominalized with lɛ̀. The second object (T) in the ditransitive
+clause, shìká ‘money’, by contrast, cannot be pronominalized (219c).
+(219a) ákú !hã́ òkó shìká
+AkugiveOko money
+“Aku gave Oko money”
+Pronominalization of recipient
+(219b) ákú !hã́ lɛ̀shìká
+Akugive3SG.OBJmoney
+“Aku gave him money”
+Pronominalization of theme
+(219c) *ákú!hã́ òkó Ø
+AkugiveOko 3SG.OBJ.INAN
+“Aku gave it to Oko”
+315
+Even if the T were a third person that was high on the animacy hierarchy and therefore capable
+of being pronominalized overtly, as in the animate theme gbèé ‘dog’ in (220a) , it still would
+not be possible (220b):
+(220a) ákúkèòkó gbèé
+Aku giftOko dog
+“Aku gifted Oko a dog.”
+(220b) *ákú kèòkó lɛ̀
+Aku giftOko 3SG.OBJ
+“Aku gifted him to Oko”
+iii) Equi-NP reference in purpose complementation
+This is the strongest evidence that the argument immediately posterior to the verb is the direct
+object. An event nominalization may function as an NP expressing purpose (221a). When the
+main verb is a modal verb such as tá!ó ‘want’, the object of the verb in the purpose
+nominalization may be raised to become the object of the main verb (221b).
+(221a) òkóŋ̀-tá!ó ni ́̃é=kpé lòò
+Oko PROG-want NMLZ 3SG.SBJV=chew meat
+“Oko wants to chew meat.”
+(221b) òkóŋ̀-tá!ó lòòini ̃́ é=kpéØi
+Oko PROG-want meatNMLZ3SG.SBJV=chew3SG.OBJ
+“Oko wants meat to chew.”
+",3.0,SVO,"[328, 329, 330]",5,14,0.6508102506055039,1
+"̀
+óbláyòò kò
+young.ladyINDEF
+‘a certain young woman’ [DF:119]
+ d. lɔ́lèyɛ̃ŋ́́ =!ɛ̃́
+46
+car dirty=DEF
+‘the white car’
+Bound pronouns:- These are clitics and they will be discussed in detail in §2.3.2. Bound
+pronouns in Gã are only found in subject position. They are always the first morpheme in the
+verb complex, if there is no full NP subject.
+2.1.5 Affixes
+Affixes are morphemes which cannot occur in isolation and which convey grammatical or
+semantic information about the stem to which they attach. They are neither phonological words
+nor grammatical words. They do not belong to any syntactic category and are restricted as to
+where they occur and in what order; a particular affix attaches only to words of a particular
+syntactic category e.g. aspect markers can only attach to verbs. Verbs generally exhibit more
+affixation than other word classes. Specific affixes and the functions they carry out will be
+examined as part of the discussion on the word class they occur with.
+2.1.6 Grammatical words consisting of phonological words
+Compound words are an example of grammatical words that are made up of more than one
+phonological word. They are considered one grammatical word because they take only one
+inflectional affix e.g. only one plural suffix. Examples are:
+(7) a.shiã̃́ ̀ wùɔ́ shiã̃́ ̀ wùɔ́-!í
+house chicken house chicken-PL
+‘local chicken’ ‘local chickens’
+47
+b.yàlà-bò yàlà-bò-ì
+funeral-clothfuneral-cloth-PL
+‘funeral cloth’‘funeral cloths’
+c.ŋ̀shɔ̀-ké ŋ̀shɔ̀-ké-!í
+ocean-pile ocean-pile-PL
+‘ocean wave’ ‘ocean waves’
+2.1.7 Phonological words consisting of grammatical words
+A clitic and its host are an example of two grammatical words that make up a phonological
+word e.g. a pronominal subject clitic and the verb complex it attaches to, as in (8).
+(8) è=bàá-gbó
+3SG=FUT-die
+“S/he will die.”
+Also, a possessive NP consisting of a pronominal clitic possessor and its NP host, the possessed
+entity (e.g. è=mãm ̀ i ̃́ ‘3SG=mother’, ‘his mother’). And finally, an NP host and the definite or
+indefinite article clitic that follows it also constitute one phonological word comprising two
+grammatical words (example 6).
+2.1.8 Grammatical words that coincide with phonological words
+There are many words in Gã wich constitute a single grammatical word as well as a single
+phonological word. According to Dixon and Aikhenvald (2002:24), these are words that can
+stand in isolation as an utterance. In Gã, the grammatical word and the phonological word
+coincide frequently; as long as they are made up of only one word component. That is, all
+ 48
+single phonological words are also grammatical words and all single grammatical words are
+also phonological words. So, for instance tsù-ɔ̀ (be.red-HAB) ‘be light-skinned’ is both a
+grammatical and phonological word but è=ninè ̃̀ (3SG=hand) ‘his hand’ is a phonological
+word made up of two grammatical words; è ‘3SG’ and ninè ̃̀ ‘hand’. One must also bear in mind
+ ̃̀ ‘hand’ is at the same time a phonological word. So, the only time a phonological
+that ninè
+word is not a grammatical word is when it consists of more than one word. Likewise, the only
+time a grammatical word is not one phonological word as well is when it consists of more than
+one word, as in the case of compounds (example 7).
+",1.0,,"[60, 61, 62, 63]",1,15,0.6548431472646874,0
+" [DT:9;50]
+379
+A particular constituent in a polar question may be focused by fronting it and following
+it with the focus particle, ni.̃̀ The English construction that best reflects the semantics of this
+construction would be a cleft construction, as in (363), where the subject, Oko is the referent
+whose identity is being questioned.
+(363) òkóni ̀̃bà-kɛ̀ɛ ́ ↑
+ bò
+OkoFOCVENT-tell 2SG.OBJ
+“Was it Oko who told you?”
+In (364), it is the object, bò, that is in focus.
+(364) bòni ̃̀ òkó bà-kɛ̀ɛ ̂
+2SG.OBJ FOC Oko VENT-tell
+“Was it you that Oko came and told?”
+The verb or action may also be focused in a polar question, but this results in a rhetorical
+question expressing disbelief that the subject referent is partaking in the action (365). In order
+for the verb to be focused it must be nominalized.
+ (365) fó-mɔ̃̀ni ̀̃ ò=fó-ɔ̀=ɔ̂
+cry-NOM FOC 2SG-cry-HAB=DEF
+“Are you really crying?” (Lit: “Is it crying that you are crying?”)
+The answer to a polar question may be minimally, hɛ̃ɛ̀ !̃́ ɛ̃/́ ɛ̃ɛ̀ !̃́ ɛ̃́ ‘yes’, dààbí ‘no’or an
+answer that communicates ignorance. Agreement may also be indicated by a vocative which
+involves simply vibrating the vocal cords to the tonal pattern of hɛ̃ɛ̀ !̃́ ɛ̃́ ‘yes’, a sound I
+transcribe as m̀ ḿ!ḿ. Disagreement may also be expressed by a vocative, one whose tone
+ 380
+pattern is not identical to dààbí ‘no’. It is best transcribed as ḿm̀ hm̀ ḿ. An alternative to this is -
+ɛ̃ɛ́ h̃̀ ɛ̃ɛ̀ ̃́ - which has the same tone pattern but involves oral articulation rather than just voicing
+with the vocal cords.
+3.6.2 Content questions
+The means of formation of content questions is similar to the focused polar questions just
+discussed. A content question is basically a focus construction which has a question word in
+focus. Watters (2000:215) notes that in many African languages question words are always
+focused constituents. The focus particle, ni ̃̀ may optionally occur after the question word. In all
+the examples in my data, the focus particle was absent. The question words found in Gã are
+nãḿ ɔ̃̀ ‘who’, mɛ̃ń i ̃̀ ‘what’, nɛ̃ǵ bɛ̀/niŋmɛ̃̃́ ̀ ‘where’, mɛ́ɛb̀ à/mãá b̃̀ à, mɛ̃ń i ̃̀ hèwɔ̀ [what sake] ‘why’,
+mɛ̃ɛ́ b̃̀ è ‘when’, té…tɛ̃ŋ́ ŋ́ ̀ ‘how’, é!nyiɛ̃̃́ ́ ‘how many, how much’, mɛ̃!́ ɛ̃́ NP ‘which NP’. One
+example featuring each question word is given below. A focus particle is included in brackets
+in examples where its presence is feasible. The norm, it seems, is to leave it out. There are no
+special pitch changes associated with content questions, in the manner that was seen with polar
+questions.
+(366) ãmɛ̃ ̀ =pàpá=!á
+̀ mɛ̃ń i ̃̀ wɔ̀=tsɛ́-ɔ̀lɛ́=!ɛ́
+ 3PL=father=DEFwhat1PL=call-HAB 3SG.OBJ=DEF
+ “Their father, what do we call him?”",1.0,,"[393, 394, 395]",1,16,0.6587005709498678,0
+"Chapter 2 looks at the concept of the word, word classes and their associated
+morphology. Gã has all the major word classes: nouns, verbs and adjectives. It has bound
+subject pronominal clitics and free object pronominals. Property concepts are expressed mainly
+by verbs and nouns. Ideophones are very common and belong to the adverb, adjective and noun
+classes. Chapter 3 is dedicated to verbs. Verbal categories are conveyed primarily by affixation.
+Gã is an aspectual language with a recently established future time
+prefix that is becoming more tense-like. Gã is nominative-accusative with highly transitive
+clauses and an indispensable subject. Chapter 4 discusses serial verb constructions. These were
+found to be pervasive and an important means of achieving valency changes and carrying out
+aspectual functions. As a result, morphological operations to alter valency are few. Major voice
+categories are manifested mainly through periphrastic means (Chapter 5). Chapter 6 looks at
+nominalizations generally. In Gã, grammatical nominalizations have functions ranging from
+relativization to complementation and adverbial modification. Topic and focus constructions are
+examined in the final chapter. Focus constructions are utilized for contrast and emphasis. Topic
+constructions are made up almost entirely of left-dislocated constructions. They may also mark
+contrast, and are used discursively to highlight background information.
+",0.0,,"[2, 3]",0,17,0.6587005709498678,0
+"With little historical data on Gã, it is difficult to unequivocally ascertain what the path
+of grammaticalization is and the order in which these senses (including the instrumental sense)
+appeared. Based on the semantics of kɛ, it can be assumed that originally, objects of kɛ had to
+be inanimate entities; things that could be picked up by hand in order to be transferred to
+another location or to be used to achieve some goal. This original construction will thus have
+featured instruments and inanimate patients as objects of kɛ. With further grammaticalization,
+inanimate objects which could not literally be ‘taken’ were permitted to serve as objects of kɛ.
+For example, yí!tsó ‘head’ (103) and shi!ã̃́ ́ ‘house’ (104) respectively. In (103) we see vestiges
+of the instrumental role of the object of kɛ, in that yí!tsó ‘head’ is the entity that was utilized to
+bring about the action of pushing the patient, ‘3SG.OBJ’. Stolz et al (2006:42) would term
+yí!tsó ‘head’, a body part instrument.
+(103) kòòlòó=!ɛ̀kɛ̀ è=yí!tsó é-bà-tsí!lɛ́
+animal=DEF take 3SG=head PERF-VENT-push3SG.OBJ
+é-yà-gbèé è=yítsònɔ̃̀
+PERF-ITIV-fall3SG=head top
+“The animal has pushed him with his head and he’s fallen onto his (animal’s) head.”
+",0.0,,[459],0,18,0.6587005709498678,0
+"Some writers such as Haspelmath (2011) decry linguists’ obsession with finding a
+cross-linguistic definition of the word, specifically the morphosyntactic (i.e. grammatical)
+word. He believes that such a concept has no validity across languages and consequently that
+the division between morphology and syntax is spurious. Defining the word for specific
+languages is a much easier enterprise, but even so different writers give different weight to
+different properties with the result that each writer simply chooses whichever word criteria that
+his language of study exhibits as proof of wordhood (Haspelmath 2011:59). He advocates an
+approach that recognizes the concept of a fuzzy word or prototypical word, where grammatical
+units occupy a continuum from tightly bound entity to independent word (i.e. from affix
+through clitic to independent word). The same view is taken by Aikhenvald (2002:43) and
+others.
+",0.0,,[57],0,19,0.6587005709498678,0
+"In this chapter, I will apply Shibatani’s inclusive methodology to Gã in order to
+determine how major voice categories are realized in this language. In §5.1, the well-known
+active/passive voice opposition will be examined. §5.2 takes a look at the causative voice, §5.3
+looks at middles, and §5.4 at antipassives. Benefactives and applicatives have their turn in §5.5
+and the chapter is summarized in §5.6.
+",0.0,,[479],0,20,0.6587005709498678,0
+"ICVs are syntactically unique. They contain an obligatory complement which functions
+as the direct object to the verb. The complement exhibits a number of syntactic properties that
+are typical of objects, but at the same it lacks certain canonical features of direct objecthood
+such as pronominalization. The inability to display these features largely stems from the unique
+semantics of ICVs, where both components must be overtly present in order for the ICV to
+carry out its predicating function. The whole cannot function without a part and that is why
+sentences like (280b) sound awkward. In the following section, the semantics of ICVs will be
+discussed in greater detail.
+3.4.4 Semantics of ICVs
+In an ICV, the verb alone cannot code the state, event or activity that is coded by the ICV as a
+whole. In (282a) bí gbɛ̀ [ask way] codes the act of asking permission for something, in this
+case, permission to leave.
+347
+(282a) Auntie Sally wɔ̀=bàá-bí gbɛ̀ mɔ̃́
+Auntie Sally 1PL=FUT-ask road then
+“Auntie Sally, we will ask permission (to leave) then.”16 [FH:150]
+Omitting the complement, as in (282b) or replacing it with different arguments in (282c) results
+in different meanings, none of them involving permission. Since bí ‘ask’ is a transitive verb,
+when it occurs without an overt object, one may assume that its object is the null third singular
+inanimate pronoun. So, in (282b) what is being asked is presumably known from previous
+discourse. The point of relevance here is that, it does not code the act of asking permission.
+(282b) Auntie Sally wɔ̀=bàá-bî mɔ̃́
+Auntie Sally 1PL=FUT-ask then
+“Auntie Sally, we will ask, then.”
+(282c) Auntie Sally wɔ̀=bàá-bí ákûmɔ̃́
+Auntie Sally 1PL=FUT-ask Akuthen
+“Auntie Sally, we will ask Aku, then.”
+We see that it is only when bí ‘ask’ is used with the complement gbɛ̀ ‘way’ that it predicates
+the act of seeking permission. This obligatoriness of a specific complement in order to yield a
+specific meaning is what makes ICVs unique. The same phenomenon is illustrated in (283), this
+time with an ICV that has a relational noun complement - kũ̀ sɛ̀ɛ ̀ [break back] ‘return’. Its
+proper use is shown in (283a). In (283b) it is ungrammatical because it is missing its
+16
+ “wɔ̀=bàá-bí gbɛ̀” is usually said at the end of a visit to indicate that the visit has ended and one is about to
+leave.
+348
+complement and because kũ̀ ‘break’ is an ambitransitive verb, the (animate) subject is
+interpreted as the patient of kũ̀ ‘break’, a situation that is absurd. Finally, in (283c), the
+meaning of the predicate changes because the complement of kũ̀ ‘break’ changes.
+(283a) ãmɛ̃̀ -kũ̀
+̀ =ŋ̀ ̀ ɛ̃=
+ãm ̀ sɛ̀ɛ ̀
+3PL=PROG-break3PL=back
+“They are returning.”",0.0,,"[361, 362, 363]",0,21,0.6587005709498678,0
+"Although these are not SVCs, it is appropriate to discuss this construction type here
+because of its close relation to the canonical kɛ-SVC construction type. Exactly the diachronic
+relation between them is not clear. Based on Stassen’s (2000) observations in his typology of
+NP conjunction encoding, one hypothesis as to how these construction types are related is that
+the preposition kɛ construction gave rise to the comitative/coordinate construction involving
+verb kɛ. This position is untenable for Gã. A brief summation of Stassen’s findings is in order.
+Stassen noted that there are two kinds of languages: AND-languages and WITH-languages.
+AND-languages have two ways of encoding noun phrase conjunction. They either use a
+strategy in which the two NPs are of equal syntactic rank (coordinate strategy) or they use a
+strategy in which the two NPs are of unequal syntactic rank i.e. one is subordinate to the other
+(comitative strategy). In the coordinate strategy the NPs are often linked by a morpheme - the
+coordinator, while with the comitative strategy a comitative morpheme is employed. He notes
+that in WITH-languages the comitative strategy often grammaticalizes to produce a coordinate
+structure, making such languages more like AND-languages, with the major difference being
+that their coordinate and comitative markers are identical. The process in SVO languages,
+449
+according to Stassen (2000:27), involves the shift of the comitative phrase in sentences like
+(94a) into pre-verb position, resulting in a comitative/coordinate structure. He notes that many
+languages of Sub-Saharan Africa and Indonesia have undergone or are undergoing this type of
+grammaticalization. This path, however, is untenable for Gã, because it is rarely the case that a
+preposition will give rise to a verb. It is far more likely that the construction with the
+preposition arose from the SVC by movement of kɛ and its object from before the main verb to
+after it.
+",3.0,SVO,"[463, 464]",5,22,0.7091927509164178,1
+"[CH:232]
+ii) Focalization
+The complement in the ICV can be focused just like a direct object can. There is one major
+difference, however. As noted by Aboh and Essegbey (2010:59), when the complement in an
+ICV is focused, the semantic interpretation is one of event focus, not argument focus as
+expected. Compare the meaning of (274a) where the complement in an ICV (fã̀ gbɛ̀ ‘travel’) is
+focused, to (274b) where the object of an ordinary verb (shɛ́lé ‘smoke’) is focused.
+(274a) gbɛ̀ ni ̀̃̀̃
+i=fã ̀ ni ̀̃̀̃
+i=kɛ̀ -yà-táò shìká
+way FOC 1SG=uproot and1SG=take-ITIV-lookmoney
+“It was travelling that I did (as opposed to, say, illegal drugs) in order to make money.”
+",0.0,,[357],0,23,0.7091927509164178,0
+"626
+What allows such argument nominalizations to be used in focus constructions as well as
+relative constructions is the fact that they contain presuppositions about the involvement of
+some entity in an activity. The activity is presupposed and so naturally, the identity of the
+entities partaking in the activity will be sought. The function of focus constructions is to supply
+this missing information. In (220), it is presupposed in the argument nominalization that some
+money was stolen and the identity of the thief is supplied by the focused argument. As was
+shown in §3.6.2, content questions also make use of focus structures and hence grammatical
+nominalizations. In questions, the identity of the referent which has crucial relevance in the
+event presupposed in the grammatical nominalization is not known, and is being explicitly
+sought. This is done by putting a question word in subject position. In relative constructions,
+the presupposition in the grammatical nominalization is meant to aid the addressee to identify
+the referent of the head nominal. So again, in (221), there is a presupposition that some money
+was stolen. This information is given information and it is used to delimit the potential pool of
+referents of yòó!ɛ́ ‘the woman’ in order to make it more identifiable to the addressee. This is
+the modificational function. The new information is contained in the predicate - the fact of the
+woman having died. So what makes grammatical argument nominalizations a good vehicle for
+the expression of focus (and by extension content questions) and relativization is the
+presuppositions contained within them that demand the revelation of any missing actors
+ 627
+involved in the presupposed event. This connection was first reported by Shibatani and bin
+Makhashen (2009:23-24).
+",0.0,,"[641, 642]",0,24,0.7091927509164178,0
+"*Coordinate: “S/he and her/him are going home.”
+In order to express the coordinate meaning when at least one of the actors is a pronoun, the
+coordinate NP must be topicalized by left-dislocation and followed by the third person plural
+pronoun in subject position.
+(102) è=kɛ̀́
+ ã!mã́ ãmɛ̃
+ ̀ =ŋ̀
+ ̀ -yà ̃́ ́
+shi!ã
+3SG=take Ama 3PL=PROG-gohome
+“He and Ama, they are going home.”
+In such SVCs which have kɛ as V1 and a motion verb as V2, the semantic relationship between
+the various interpretations - comitative, causative and coordinative - is quite obvious. Assuming
+that kɛ did originally mean ‘take’, it is a logical implication that if a person, A takes an object
+X and moves while still in possession of X, then A is accompanied by X for as long as A is in
+possession of X, making a comitative interpretation possible. If X is inanimate, or is animate
+but subject to A’s control and manipulation, then it is A who causes or makes X move, hence
+the causative sense. When X is animate but is not subject to A’s control or manipulation, X
+ 444
+may on their own volition move in the company of A. The result is that A and X are now both
+involved in the same activity at the same time and kɛ is reanalysed as a coordinator.
+",1.0,,"[458, 459]",1,25,0.7189111823003393,0
+"In terms of wordhood, Gã SVCs form separate grammatical and phonological words. In
+a two-verb SVC, for instance, there may be several elements intervening between V1 and V2
+such as the object of V1, the pronominal subject marker on V2 and any aspectual morphemes.
+The verbs in the SVC may also be formally marked for different aspectual categories.
+",0.0,,[419],0,26,0.7189111823003393,0
+" [OYO:230]
+b) Aspectual function
+A few aspectual meanings are conveyed by minor verbs in asymmetrical SVCs.
+i) Completive aspect
+In order to express completive aspect, the verb tã̀ ‘be finished, be used up’ occurs in the verb-
+final slot in an SVC (28), (29).
+(28)hèwɔ̀ kɛ́à=wòbàá=!á à=tã-́ !ã́
+sakewhen 3PL.IMPERS=prepareleaf=DEF 3PL.IMPERS=finish-TOP
+“So, after they have finished preparing the herbs…”",1.0,,[422],1,27,0.7284134765173559,0
+" 37
+Chapter 2: Words and word classes
+2.0 Introduction
+This chapter examines the concept of the word in Gã. It categorises these words into various
+functional categories known as word classes and examines any accompanying morphology.
+§2.1 will focus on wordhood and the delineation of phonological and grammatical words. §2.2
+will give an overview of some of the difficulties encountered in divying up the lexicon of a
+language into syntactic/semantic categories such that they can be relevant to discussions of
+typology and linguistic theory. The following word classes will then be discussed in detail:
+nouns in §2.3, property concepts in §2.4 and adverbs in §2.5. Ideophones, which do not
+constitute a separate word class, will be looked at in §2.6, and finally, interjections will be the
+subject of §2.7. The entirety of chapter 3 will be devoted to verbs.
+2.1 Wordhood
+The concept of a word is one that linguists as well as non-linguists alike take for granted. It is
+assumed to be self-evident and easily identifiable, especially when examining a language in its
+written form. However, as many writers such as Matthews (1991) and Dixon and Aikhenvald
+(2002) have noted, several linguists have tried unsuccessfully to define “word” in a way that is
+applicable to all languages. One of the reasons why it has been difficult to reach a consensus is
+38
+that each writer utilizes different sets of criteria in arriving at their conclusion, with many
+appealing to both phonological and grammatical attributes in identifying a word. This,
+according to Dixon and Aikhenvald (2002:10) leads to ambiguities and conflicts when these
+criteria do not coincide. Some writers even appeal to orthographic conventions when
+delineating the word. For example, Pike’s (1947:89) definition of the word as the smallest unit
+of meaning capable of being written in between spaces. This approach also runs into problems
+because different orthographic conventions may be used for the same language or closely
+related languages. Dixon and Aikhenvald (2002) advocate an approach that keeps grammatical
+and phonological criteria separate and attempts to define the word in terms of each of these
+phenomena. In what follows I try to do that and subsequently compare the results from the
+utilization of these two rubrics to see whether and how they coincide.
+2.1.2 The phonological word
+Dixon and Aikhenvald (2002:13) define a phonological word as “a phonological unit larger
+than a syllable (in some languages it may minimally be one syllable) which has at least one
+(and generally more than one) phonologically defining property.” These defining properties
+belong to three broad phonological categories, namely: segmental features, prosodic features
+and phonological rules. Below, I discuss the phonological features that define the phonological
+word in Gã. These features are few and I have identified just two from two areas: segmental
+39
+features and prosodic features. Note that none of these features individually constitute both a
+necessary and sufficient condition for phonological word. However, the aggregate of these
+provide good evidence for it.
+2.1.2.1 Segmental features
+Segmental features comprise phonological features related to internal syllabic and segmental
+structure and related phonetic features, word boundary phenomena and pause phenomena
+(Dixon and Aikhenvald 2002:13). In Gã, there are certain vowel sequences that cannot occur
+within a phonological word. However some of these sequences are permitted across word
+boundaries. Therefore the occurrence of such vowel sequences suggests the presence of a
+phonological word boundary. These vowel sequences are ɛe, ɔe, ɛa, oe, ɔa and ae. For example,
+in (1), the sequence of the phonemes /ɛ/ in kɛ́ ‘when’ and /a/ in àwò ‘they prepare’ can only
+occur across word boundaries as it is prohibited word-internally. Therefore it is a good marker
+of the existence of a phonological word boundary.
+(1)hèwɔ̀ kɛ́ à=wò bàá=!áà=mã̀
+ sake when 3PL.IMPERS=prepare leaf=DEF3PL.IMPERS=put
+ shi ̀̃
+ down
+ “So when the herbal infusion has been prepared and put down…”",0.0,,"[52, 53, 54]",0,28,0.7284134765173559,0
+"It is hoped that this snapshot of Gã interjections and the power that they possess in
+communicating various crucial meanings will encourage more ambitious studies of these little
+words in this and other languages.
+2.8 Summary
+This chapter has seen the presentation and discussion of the phonological word (§2.1.2) and the
+grammatical word (§2.1.3) in Gã. It has been shown that in many instances they are one and
+201
+the same (§2.1.8). The various word classes and their accompanying morphology have also
+been discussed. Nouns, the grammatical categories associated with them, as well as pronouns
+and possession were presented in §2.3. Property concepts were the subject of §2.4. Gã was
+shown to have three main grammatical types of property concepts: those that manifest as verbs
+(§2.4.1), those that manifest as adjectives (§2.4.2) and those that manifest as nouns (§2.4.3).
+Grammatical differences between property verbs and non-property verbs were also noted
+(§2.4.1.3 and §2.4.1.4). The same was done with property nouns and regular nouns (§2.4.3.1
+and §2.4.3.2). The various semantic types of adverbs pertinent to Gã were discussed in §2.5.
+Finally, in §2.6 ideophones were recognized as a phonosemantic class of words with
+membership in the property noun and adverb classes. Their unique phonological and morpho-
+syntactic characteristics were discussed. Finally, interjections, were covered in §2.7.
+",0.0,,"[215, 216]",0,29,0.7284134765173559,0
+"[OYO:197]
+(45) ni ̀̃̀ =bɔ̃
+ãmɛ̃ ̀ í ̀̃ nyiɛ̃̀̃ -!mɔ̃
+́ ́ á!kɛ́ ̀ ɛ̃=
+ãm ̀ yàá-táò kɔ̀kɔ̀dé!né=!ɛ́
+ and3PL=start walk-NOMNMLZ3PL=PROS-search frog=DEF
+ “And they started walking in order to search for the frog” [DEB:30]
+ (Lit: “They started walking in order that they were going to search for the frog.”)
+ yàá- cannot occur with the independent verbs yà ‘go’ or bà ‘come’ (46). Only bàá- can
+be used with these verbs for future reference (47).
+(46a) *è=yàá-!yá
+ 3SG=FUT-go
+ “He is going to go.”
+(46b) *è=yàá-!bá
+ 3SG=FUT-come
+ “He is going to come.”
+(47a) è=bàá-!yá
+ 3SG=FUT-go
+ “He will go.”
+(47b) è=bàá-!bá
+ 3SG=FUT-come
+ “He will come.”
+This indicates that yàá- has not proceeded as far down the grammaticalization cline as bàá-,
+which can co-occur with both deictic verbs. yàá- retains enough of its spatial semantic meaning
+ 234
+to render co-occurrence with yà ‘go’ unnecessary and co-occurrence with bà ‘come’ a
+contradiction, hence their ungrammaticality.
+",0.0,,"[248, 249]",0,30,0.7284134765173559,0
+" [BGL 1976 3B:47; my glosses, tones]
+(307) hèniĩ́ ànã
+̃̀ à =
+̃́ !ã́ àsòmòá!ŋ́ ̀̃
+ shi-gbèé-mɔ̃́ ̀
+ =ɔ̃ mòŋ́ hi ̀̃hã́
+luckily=TOP unknowingdown-fall-NOM=DEF rather be.goodgive
+gbèé=!ɛ́
+dog=DEF
+“Luckily and unbeknownst (to us), falling down rather was good for the dog.” [PAT:52]
+The above examples belong to the adverb word class alone. However there are many manner
+adverbs which also function as adjectives and property nouns. This is not unexpected since they
+are all property concepts. Some adjectives and property nouns are used as adverbs without any
+overt derivational morphology. Others have to be reduplicated in order to be used as adverbs.
+In (308) to (311), the (a) examples contain property concepts modifying nouns while the
+corresponding (b) examples contain those same property concepts but modifying verbs (manner
+adverbs).
+(308a) àkpókplòǹtò̀ yɛ̀blɛ̀̀ òò
+turtlehave slow
+“The turtle is slow.”
+166
+(308b) ni ̀̃́ ̀ṹ=ɛ̃̀
+gbé!kɛ̃-nũbà-tè shi ̀̃blɛ̀̀ òò
+ andchild-male=DEF VENT-rise down slowly
+ “And the boy got up slowly.”",0.0,,"[180, 181]",0,31,0.7284134765173559,0
+"*“It was the way/road that I uprooted in order to make money.”
+343
+(274b) tàwáni ̀̃òkóshɛ́lé-ɔ̀
+ tobacco FOCOkosmoke-HAB
+ “It is tobacco that Oko smokes (not marijuana).”
+",0.0,,"[357, 358]",0,32,0.7284134765173559,0
+"Table of contents
+Acknowledgements ........................................................................................................................ iv
+Table of contents ............................................................................................................................ vi
+List of Tables ............................................................................................................................... xiv
+List of figures ................................................................................................................................ xv
+Chapter 1: Introduction ................................................................................................................... 1
+1.0 Overview, scope and aims of the study ................................................................................. 1
+1.1 The Gã people ...................................................................................................................... 3
+ 1.1.2 History of the Gã people ................................................................................................. 7
+1.2 Genetic classification ............................................................................................................ 9
+1.3 Sociolinguistic situation ...................................................................................................... 12
+ 1.3.1 Dialects ......................................................................................................................... 13
+ 1.3.2 Language attitudes, language shift and language maintenance .................................... 13
+1.4 Cultural background ............................................................................................................ 16
+ 1.4.1 Some important cultural observances ........................................................................... 18
+1.5 Previous work on Gã ........................................................................................................... 23
+1.6 Theoretical Framework ....................................................................................................... 27
+1.7 Data collection..................................................................................................................... 28
+1.8 Phonetics and Phonology .................................................................................................... 30
+ 1.8.1 Vowels .......................................................................................................................... 31
+ 1.8.2 Consonants.................................................................................................................... 31
+ 1.8.3 Syllable Structure ......................................................................................................... 33
+ 1.8.4 Tone .............................................................................................................................. 33
+1.9 Orthographic issues ............................................................................................................. 35
+Chapter 2: Words and word classes .............................................................................................. 37
+2.0 Introduction ......................................................................................................................... 37
+2.1 Wordhood ............................................................................................................................ 37
+ 2.1.2 The phonological word ................................................................................................. 38
+ 2.1.2.1 Segmental features ................................................................................................. 39
+ 2.1.2.2 Prosodic features - nasal spreading ........................................................................ 40
+ vii
+2.1.3 The grammatical word .................................................................................................. 41
+2.1.4 Clitics ............................................................................................................................ 44
+2.1.5 Affixes .......................................................................................................................... 46
+2.1.6 Grammatical words consisting of phonological words ................................................ 46
+2.1.7 Phonological words consisting of grammatical words ................................................. 47
+2.1.8 Grammatical words that coincide with phonological words ........................................ 47
+2.2 Word Classes ....................................................................................................................... 49
+2.3 Nouns .................................................................................................................................. 51
+2.3.1 Grammatical Categories associated with nouns ........................................................... 54
+ 2.3.1.1 Number .................................................................................................................. 54
+ 2.3.1.2 Articles ................................................................................................................... 62
+ 2.3.1.3 Demonstratives ...................................................................................................... 70
+ 2.3.1.3.1 Nominal demonstratives .................................................................................. 70
+ 2.3.1.3.3 Manner adverbial demonstratives ................................................................... 86
+ 2.3.1.3.4 Locational demonstratives............................................................................... 90
+2.3.2 Personal Pronouns ........................................................................................................ 93
+ 2.3.2.1 Subject pronominal proclitics ................................................................................ 95
+ 2.3.2.2 Object pronouns ................................................................................................... 101
+ 2.3.2.3 Free pronouns....................................................................................................... 105
+2.3.3 Possessive pronouns ................................................................................................... 109
+2.3.4 Possession ................................................................................................................... 110
+ 2.3.4.1 Alienable and inalienable possession................................................................... 115
+ 2.3.4.2 Plural possessors .................................................................................................. 116
+ 2.3.4.3 Locative nouns ..................................................................................................... 117
+ 2.3.4.3.1 Syntactic properties of locative relational nouns .......................................... 120
+2.3.5 Noun phrase constituency ........................................................................................... 123
+2.3.6 Noun phrase linkers .................................................................................................... 125
+2.4 Property concepts .............................................................................................................. 127
+2.4.1 Type A: Property concepts that are verbs (Property verbs)........................................ 127
+ 2.4.1.1 “Temporary” property verbs ................................................................................ 129
+ 2.4.1.2 “Permanent” property verbs ................................................................................. 130
+ 2.4.1.3 Verbal properties exhibited by property verbs..................................................... 134
+viii
+2.4.1.4 Verbal properties not exhibited by property verbs .............................................. 136
+2.4.1.5 Nominalization of property verbs ........................................................................ 137
+2.4.1.6 Transitivity ........................................................................................................... 139
+ 2.4.2 Type B: Property concepts that occur only as modifiers in an NP (Adjectives) ........ 140
+2.4.2.1 Number marking on adjectives ............................................................................ 142
+2.4.2.2 Nominalization of adjectives ............................................................................... 142
+2.4.2.3 Derivation of adjectives from verbs ..................................................................... 144
+ 2.4.3 Type C: Property concepts that function as arguments in clauses (Property nouns) . 146
+2.4.3.1 Nominal properties exhibited by property nouns................................................. 150
+3.4.3.2 Nominal properties not exhibited by property nouns .......................................... 152
+2.4.3.3 Number marking on property nouns .................................................................... 153
+2.4.3.4 Nominalized verb phrases as complements of yɛ̀ ................................................ 155
+2.4.3.6 Agent nominalization of property nouns ............................................................. 157
+2.4.3.7 Adjectives and the possessive construction ......................................................... 158
+2.4.3.8 The relationship between possession and property-denotation ........................... 160
+2.4.3.9 Adverbial use of property nouns .......................................................................... 161
+ 2.4.4 Comparison and Gradability ....................................................................................... 162
+ 2.5 Adverbs ............................................................................................................................. 164
+ 2.5.1 Manner adverbs .......................................................................................................... 164
+ 2.5.2 Degree adverbs ........................................................................................................... 167
+ 2.5.3 Time adverbs .............................................................................................................. 168
+ 2.5.4 Epistemic adverbs ....................................................................................................... 171
+ 2.5.5 Emphatic adverbs ....................................................................................................... 173
+ 2.6 Ideophones ........................................................................................................................ 175
+ 2.6.1 Onomatopoeic ideophones ......................................................................................... 176
+ 2.6.2 Non-onomatopoeic ideophones .................................................................................. 179
+ 2.6.3 Phonological features unique to ideophones .............................................................. 182
+ 2.6.4 Tonosemantics ............................................................................................................ 183
+ 2.6.5 Morpho-syntactic features unique to ideophones ....................................................... 186
+ 2.7 Interjections ....................................................................................................................... 188
+ 2.8 Summary ........................................................................................................................... 200
+Chapter 3: Verbs and simple clauses .......................................................................................... 202
+ ix
+3.0 Introduction ....................................................................................................................... 202
+3.1 Types of verbal predicates................................................................................................. 202
+3.2 Verb Morphology .............................................................................................................. 204
+3.2.1 Tense........................................................................................................................... 206
+ 3.2.1.1 The temporal and aspectual reference of bare verbs ............................................ 207
+ 3.2.1.2 Future bàá- ........................................................................................................... 214
+ 3.2.1.3 Modal uses of bàá-............................................................................................... 218
+ 3.2.1.4 Future and modal àá- ........................................................................................... 222
+3.2.2 Aspect ......................................................................................................................... 224
+ 3.2.2.1 Prospective yàá- ................................................................................................... 225
+ 3.2.2.1.1 Differences between future bàá- and prospective yàá- ................................. 229
+ 3.2.2.2 Progressive ŋ̀-....................................................................................................... 237
+ 3.2.2.3 Habitual -ɔ/-a ....................................................................................................... 240
+ 3.2.2.4 Perfect é- .............................................................................................................. 251
+ 3.2.2.4.1 The perfect of result ...................................................................................... 253
+ 3.2.2.4.2 Perfect of recent past ..................................................................................... 255
+ 3.2.2.4.3 Perfect of persistent situation ........................................................................ 257
+ 3.2.2.4.4 Narrative perfect ............................................................................................ 257
+ 3.2.2.4.5 The perfect in the past and future .................................................................. 263
+ 3.2.2.5 Iterative and distributive aspects .......................................................................... 264
+3.2.3 Mood........................................................................................................................... 272
+ 3.2.3.1 The subjunctive á-................................................................................................ 273
+ 3.2.3.2 Imperative mood .................................................................................................. 280
+3.2.4 Negation...................................................................................................................... 284
+ 3.2.4.1 Negative imperfectives and negative bare verbs ................................................. 284
+ 3.2.4.2 Negative future..................................................................................................... 288
+ 3.2.4.3 Negative perfect ................................................................................................... 290
+ 3.2.4.4 Negative subjunctive ............................................................................................ 291
+ 3.2.4.5 Negative imperative ............................................................................................. 291
+3.2.5 Deictic auxiliaries ba- and ya- .................................................................................... 293
+3.3 Transitivity and grammatical relations .............................................................................. 301
+3.3.1 Evidence for subjecthood and objecthood .................................................................. 304
+x
+ 3.3.2 Ditransitive clauses ..................................................................................................... 311
+3.3.2.1 Identifying the direct and indirect object in a ditransitive clause ........................ 313
+3.3.2.2 Definiteness, topicality and direct objecthood ..................................................... 320
+ 3.3.3 Transitivity classes of verbs ....................................................................................... 325
+3.3.3.4 Intransitive verbs.................................................................................................. 325
+3.3.3.5 Transitive verbs.................................................................................................... 326
+3.3.3.6 Ambitransitive verbs ............................................................................................ 327
+3.3.3.7 Ditransitive verbs ................................................................................................. 328
+ 3.4 Inherent complement verbs ............................................................................................... 329
+ 3.4.1 Morphology and syntax of ICVs ................................................................................ 335
+ 3.4.2 The ICV and transitivity ............................................................................................. 340
+ 3.4.3 Verbal syntax not exhibited by ICVs ......................................................................... 345
+ 3.4.4 Semantics of ICVs ...................................................................................................... 346
+3.4.4.1 ICV meaning clusters ........................................................................................... 350
+ 3.5 Non-prototypical clause types ........................................................................................... 359
+ 3.5.1 Copula clauses and verbless clauses ........................................................................... 359
+ 3.5.1.1 Copula jí .................................................................................................................. 360
+ 3.5.2 Verbless clauses: predicative particles ni,̃̀ nɛ̃́ and naã́ ̃̀ ................................................ 365
+ 3.5.3 Location, existence and possession ............................................................................ 369
+ 3.6 Question formation ............................................................................................................ 374
+ 3.6.1 Polar questions............................................................................................................ 375
+ 3.6.2 Content questions ....................................................................................................... 380
+ 3.7 Summary ........................................................................................................................... 385
+Chapter 4: Serial verb constructions ........................................................................................... 387
+ 4.0 Introduction ....................................................................................................................... 387
+ 4.1 Defining SVCs .................................................................................................................. 388
+ 4.2 Mono-clausality, mono-predication and single-eventhood ............................................... 393
+ 4.2.1 Tense, aspect, mood and polarity (TAMP) marking .................................................. 395
+4.2.1.1 Tense and aspect .................................................................................................. 395
+4.2.1.2 Mood .................................................................................................................... 396
+4.2.1.3 Polarity ................................................................................................................. 397
+ 4.2.2 Argument-sharing ....................................................................................................... 399
+xi
+4.2.2.1 Subject.................................................................................................................. 399
+4.2.2.2 Objects ................................................................................................................. 402
+ 4.3 Composition of SVCs........................................................................................................ 403
+ 4.3.1 Asymmetrical SVCs ................................................................................................... 405
+4.3.1.1 Functions of asymmetrical SVCs......................................................................... 406
+ 4.3.2 Symmetrical SVCs ..................................................................................................... 418
+4.3.2.1 Functions of symmetrical SVCs .......................................................................... 419
+ 4.4 Degree of semantic and syntactic integration: Integrated serial verb constructions (ISVC)
+ and chained serial verb constructions (CSVC) ....................................................................... 425
+ 4.4.1 Chained SVCs, mono-predication and the notion of cultural appropriateness .............. 434
+ 4.5 The status of kɛ .................................................................................................................. 438
+ 4.5.1 kɛ occurring immediately after the subject ................................................................. 438
+ 4.5.2 kɛ occurring as an adjunct in combination with an NP............................................... 447
+ 4.5.3 kɛ occurring as a pre-verb on a non-initial verb in an SVC ........................................ 449
+ 4.6 Finiteness and SVCs.......................................................................................................... 454
+ 4.7 SVCs and other multi-verbal constructions ...................................................................... 457
+ 4.8 Summary ........................................................................................................................... 460
+Chapter 5: Voice and Valency .................................................................................................... 461
+ 5.0 Introduction ....................................................................................................................... 461
+ 5.1 Active/Passive voice ......................................................................................................... 465
+ 5.2 Causative/Non-causative voice ......................................................................................... 469
+ 5.2.1 Lexical causatives ....................................................................................................... 469
+ 5.2.2 Periphrastic causatives ................................................................................................ 473
+5.2.2.1 Semantics of periphrastic causatives ................................................................... 473
+5.2.2.2 Syntax of periphrastic causatives ......................................................................... 479
+5.2.2.3 Comparison with serial verb constructions .......................................................... 481
+ 5.3 Active/middle voice .......................................................................................................... 486
+ 5.4 Antipassive voice .............................................................................................................. 496
+ 5.5 Benefactive and applicative voice ..................................................................................... 499
+ 5.6 Summary ........................................................................................................................... 502
+Chapter 6: Lexical and Grammatical nominalization ................................................................. 503
+ 6.0 Introduction ....................................................................................................................... 503
+ 6.1 Lexical nominalizations .................................................................................................... 505
+ xii
+ 6.1.1 Action/state nominalization ........................................................................................ 505
+ 6.1.2 Agentive/argument nominalization ............................................................................ 507
+ 6.1.3 Nominalization of simple verb phrases and inherent complement verbs (ICVs) ....... 511
+ 6.1.4 Nominalization of SVCs ............................................................................................. 516
+ 6.1.5 Nouns derived from sentences .................................................................................... 520
+ 6.2 Grammatical nominalizations ........................................................................................... 522
+ 6.3 The relationship between relativization and nominalization............................................. 523
+ 6.4 Verb-based argument nominalizations in modification function (Relative clauses) ........ 530
+ 6.4.1 Extraposed relative constructions ............................................................................... 539
+ 6.4.2 Non-restrictive verb-based argument nominalization (Non-restrictive relative clauses)
+............................................................................................................................................. 544
+ 6.5 Verb-based argument nominalizations in NP use (Headless relatives)............................. 547
+ 6.5 Noun-based argument nominalizations (Headless genitives) ........................................... 557
+ 6.6 Event nominalizations ....................................................................................................... 560
+ 6.6.1 Complementation........................................................................................................ 560
+ 6.6.1.1 Morphology and syntax of complementation ...................................................... 562
+ 6.6.1.2 Semantics of complementation ............................................................................ 573
+ 6.6.2 Adverbial modification ............................................................................................... 590
+ 6.6.2.1 Purpose adverbials ............................................................................................... 590
+ 6.6.2.2 (kó)nı́ ̃ as a coordinator ......................................................................................... 600
+ 6.6.2.3 Reason adverbials ................................................................................................ 605
+ 6.6.2.4 á!kɛ́ as a comparative preposition ........................................................................ 606
+ 6.6.2.5 Time adverbials .................................................................................................... 607
+ 6.6.2.5 Conditional adverbials ......................................................................................... 617
+ 6.7 Causal adverbials............................................................................................................... 622
+ 6.8 Possible historical relationships between nominalizations marked by nı́ ̃ and á!kɛ́ ........... 623
+ 6.9 Summary ........................................................................................................................... 629
+Chapter 7: Focus and topic ......................................................................................................... 631
+ 7.0 Introduction ....................................................................................................................... 631
+ 7.1 Syntax of focus constructions ........................................................................................... 633
+ 7.2 Semantics of focus constructions ...................................................................................... 641
+ 7.3 Topic constructions ........................................................................................................... 649
+ 7.3.1 Contrastive topicalization ........................................................................................... 657
+xiii
+ 7.3.2 Non-prototypical hosts of lɛ ....................................................................................... 663
+7.4 Right dislocation ............................................................................................................... 673
+7.5 Summary ........................................................................................................................... 674
+8.0 Conclusion ............................................................................................................................ 675
+References ................................................................................................................................... 678
+Appendix A: Glossing conventions ............................................................................................ 689
+Appendix B: Cited texts and speakers ........................................................................................ 691
+ List of Tables
+Table 1: Gã consonant inventory .................................................................................................. 32
+Table 2: Gã orthographic symbols and their corresponding IPA symbols ................................... 35
+Table 3: Historical comparison of plurals ..................................................................................... 58
+Table 4: Gã demonstratives - forms and functions ....................................................................... 93
+Table 5: Personal pronouns in Gã ................................................................................................. 94
+Table 6: Gã body part terms and their corresponding locational denotations ............................ 118
+Table 7: Nouns morphologically derived from adjectives .......................................................... 143
+Table 8: Verb template for non-imperative verb word ............................................................... 205
+Table 9: Some verbs and their iterative/distributive forms ......................................................... 265
+Table 10: Negative marking in Gã .............................................................................................. 293
+Table 11: Singular pronominal forms ......................................................................................... 306
+Table 12: Idiomatized SVCs ....................................................................................................... 423
+Table 13: Lexicalized SVCs ....................................................................................................... 424
+Table 14: Nouns morphologically derived from adjectives ........................................................ 510
+ List of figures
+Figure 1: Gã-speaking area showing some major towns ................................................................ 6
+Figure 2: Language map of Ghana.................................................................................................. 7
+Figure 3: Kwa family tree ............................................................................................................. 12
+Figure 4: Gã vowel chart............................................................................................................... 31
+1
+ Chapter 1: Introduction
+1.0 Overview, scope and aims of the study
+The aim of this dissertation is to provide a thorough description and analysis of a wide range of
+morphological and syntactic phenomena in the Gã language. Gã is a language of the Niger-
+Congo family, the largest language phylum in the world with 1,436 languages (Williamson and
+Blench 2000:11). It belongs to the Kwa sub-branch, which is the predominant branch in West
+Africa. Gã is spoken primarily in Accra, the capital city of Ghana. Native speakers are also
+referred to as Gã (people) or Gãs.
+",0.0,,"[6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",0,33,0.7284134765173559,0
+"Another characteristic of SVCs – that each component be able to stand on its own – or
+that each verb should be able to occur as the only verb in a simple clause, is also called into
+question by Shibatani (2009a). He shows that in an SVC, only one of the verbs is fully
+formally and functionally finite, while the other verbs are dependent on it. In order for these
+ 392
+non-finite verbs to occur independently they must be morphologically marked as such, and in
+this instance they are different from their SVC forms. This means that constructions which
+contain converbs can be considered SVCs. Converbs, common in Chinese, can only occur in
+the company of another verb and this fact has led Matthews (2006) and others to disqualify
+such converbal constructions as SVCs. This point is especially pertinent to Gã, where over a
+third of all SVCs contain a converb-like element, kɛ.
+",0.0,,"[406, 407]",0,34,0.7284134765173559,0
+"316
+If the verb in the purpose nominalization has two objects, as in (221c), only the object closest
+to the verb i.e. the recipient, can be raised to become the object of the main verb (221d). The
+theme cannot (221e). This shows that it is the recipient that is the direct object.
+(221c) òkó ŋ̀-tá!ó ni ̃́ é=!ké ákú kùɛ̀-ni!ĩ́ ̃́
+ Oko PROG-want NMLZ3SG.SBJV=gift aku neck-thing
+ “Oko wants to gift Aku a necklace.”
+(221d) òkó ŋ̀-tá!ó ákúini ́̃ é=!ké lɛ̀i
+ Oko PROG-want Aku NMLZ3SG=gift3SG.OBJ
+ kùɛ̀-ni!í̃ ́̃
+ neck-thing
+ “Oko is looking for Aku to gift her a necklace/Oko wants Aku in order to gift her a
+ necklace.”
+(221e) *òkó ŋ̀-tá!ókùɛ̀-ni!ĩ́ ĩ́ ni ́̃ é=!ké ákú
+ Oko PROG-want neck-thingNMLZ3SG.SBJV=gift Aku
+ Øi
+ 3SG.OBJ
+ “Oko is looking for a necklace to gift to Aku/Oko wants a necklace to gift to Aku.”
+iv) Focalization and constituent questioning
+These two are discussed together because they essentially comprise the same syntactic strategy.
+An argument is focused by placing it in sentence-initial position followed by the focus marker,
+ni.̃̀ The focus marker may be omitted, although its tone remains and docks on the preceding
+syllable (See chapter 7 for a fuller discussion). A content question is obtained by placing the
+317
+question word in initial position followed by the focus marker, ni.̃̀ Here also, the focus marker
+may be deleted.
+In (222), the patient/object in a monotransitive clause is focused and in (223) it is questioned.
+́
+(222) gbé!kɛ̃=!ɛ̃ ́ ni ̃̀òkóyì(lɛ̀)
+child=DEF NMLZ Okobeat(3SG.OBJ)
+“It is the child that Oko beat.”
+́ ̀ ni ̀̃
+(223) nãmɔ̃òkóyì (lɛ̀)
+who NMLZ Oko beat (3SG.OBJ)
+“Who did Oko beat?”
+The focalization and question-formation tests yield some mixed results. Since a direct object in
+a monotransitive clause is capable of being focused and questioned, one would expect that a
+direct object in a ditransitive clause will also be amenable to these processes. For most
+speakers, both the theme and recipient arguments of all ditransitive verbs do qualify in this
+regard. The example in (224a) contains the verb, mãj̀ é ‘send.from.abroad’.
+(224a) yòó=ɛ̀ ̀
+ mãjémi ̃̀ àtàlé
+woman=DEFsend.from.abroad 1SG.OBJ dress
+“The woman sent me a dress from abroad.”
+Theme - focus
+(224b) àtàléni ̀̃ yòó=ɛ̀mãjé̀!mi ́̃
+dress FOC woman=DEF send.from.abroad1SG.OBJ
+“It was a dress that the woman sent me.”
+",0.0,,"[331, 332]",0,35,0.7284134765173559,0
+"The template in table 8 shows verbal morphemes and the order in which they appear in
+the verb word. There are three pre-head slots and two post-head slots. If a slot can be occupied
+by more than one TAMP category, then these categories are mutually exclusive for the slot in
+question. Also, slot 3, containing the negative subjunctive prefix ká- may occur only in the
+presence of the subjunctive prefix á- in slot 2. There are two deictic pre-verbs: ba- is the
+ventive (VENT) pre-verb and generally indicates motion towards the deictic centre while ya- is
+the itive (ITIV) pre-verb and indicates motion away from the deictic centre. However, see
+§3.2.5 for a discussion of how these auxiliaries in some contexts have lost the semantic
+component of motion.
+",1.0,,[219],1,36,0.73718232377807,0
+"[CH:25]
+ 257
+This discourse-pragmatic use of the recent perfect has been described for English by Nishiyama
+and Koenig (2006) and is termed by them as “commonsense entailment”.
+3.2.2.4.3 Perfect of persistent situation
+In this use the perfect denotes situations that start in the past and still persist into the present
+(Comrie 1976:60). This is seen in (105) and (106), for example.
+(105) yòómó=!ɛ́é-!fó ãã̀ hṹũ
+ ̀ ̀
+old.woman=DEFPERF-crycontinuously
+“The old woman has cried continuously.” [FH:170]
+(106) é-!tsṹ ni!í̃ ́̃ yɛ̀jɛ́!mɛ̃́ é-tsɛ̀
+3SG.PERF=workthing be.located there 3SG.PERF-last.long
+“She has worked there for a long time.”
+3.2.2.4.4 Narrative perfect
+In Gã, there is a special use of the perfect optionally employed for the narration of a sequential
+set of events. This set of events comprises a temporally ordered series of activities that are
+presented as formulaic, fixed and methodical. Discourse genres where this perfect is abundant
+include procedural narratives, where a speaker describes the methods or steps involved in
+accomplishing some activity. Descriptions of everyday routines also make good candidates for
+perfect marking, as well as any set of events that is felt to be sequentially-ordered.
+",0.0,,"[271, 272]",0,37,0.73718232377807,0
+" The omission of the focus particle is not feasible in all syntactic environments. One of
+these is when the focused constituent ends in a low-tone syllable but the omission of the focus
+particle will result in a sentence with neutral pragmatic status i.e. the focus meaning will be
+lost. This commonly occurs when such a focused constituent is a full NP, rather than a
+pronoun, and the focused NP is also the agent of the clause. The pair of sentences in (14)
+illustrates this point. (14a) can only be interpreted as a pragmatically-neutral sentence and not a
+639
+focused one with an omitted focus marker. Constructions such as (14) where the focused NP
+ends in a low tone and that NP is also the agent or executor of the action must obligatorily
+feature the focus marker in order to be considered a focus construction.
+(14a) àtɛ̀jù ́ ̀
+gbé!kɛ̃=ɛ̃hè
+Atɛ bathe child=DEF body
+“Atteh bathed the child.”
+",0.0,,"[653, 654]",0,38,0.73718232377807,0
+"[SAM:81]
+In (24), the focus construction conveys not exactly a correction but an observation of a state of
+affairs that is contrary to what the hearer perceived. At the beginning of the conversation (a
+phone call), Deborah had told Tess to speak only Gã since the conversation would be recorded
+for the purposes of analysis of the Gã language. Tess agreed. At some point in the
+conversation, however, Deborah switches to English to quote an English proverb. It is in
+response to this apparent violation by Deborah of her own rule that prompts Tess to utter the
+focus construction in order to point out the irony.
+(24)Deborah: à=kɛ̀ɛ ́no news is good news
+ 3PL.IMPERS=say
+ “They say, “No news is good news.”
+",0.0,,[662],0,39,0.73718232377807,0
+"A detailed analysis of the semantics of all or most verbs and their inherent complements
+will constitute a huge undertaking. This modest analysis of a few ICV meaning clusters is
+meant to demonstrate that in Gã, these lexical items are not random combinations of verbs and
+nouns. For the most part, they have figurative and metaphorical extensions that can be traced to
+their meanings in non-ICV contexts. ICVs with the same components will therefore tend to
+ 359
+have some primitive conceptual concept in common, forming a systematic pattern of meaning
+expression within an ICV meaning cluster. Some are quite literal (yè ni!ĩ́ ̃́ [eat thing] ‘eat’, wò
+jàlà [put wares] ‘display wares for sale’) while others are more metaphorical (e.g. jè gbɛ̀ [exit
+way] ‘do sth. intentionally’, tsí yìsɛ̀ɛ ̀ [push back of head] ‘rush someone to do something’.
+Either way, they form a very tight semantic unit. Like all metaphor, the meanings of ICVs are
+rooted in human experience, which is culturally determined, and this should be at the forefront
+of any endeavor to unpack the semantics of these distinctive verbs.
+3.5 Non-prototypical clause types
+This sections looks at clause types that do not obey the prototypical SVO word order, as well
+as clauses which have non-prototypical predicates.
+3.5.1 Copula clauses and verbless clauses
+In addition to transitive and intransitive clauses, Gã also has copula clauses and verbless
+clauses. Copula clauses are clauses containing a verb, the copula, which lacks rich semantic
+content and only serves to relate two NP arguments: the subject and the complement. Dixon
+(2010:159) identifies five types of relations that may be predicated by the copula: identity,
+attribution, possession, benefaction and location.
+",3.0,SVO,"[373, 374]",5,40,0.7798145752575125,1
+" *“It is smoking that Oko smokes.”
+It is also not possible to focus the verb in the ICV. Verb-focusing is done by first nominalizing
+the verb and then fronting it.
+(275) *fã-ã̀ ̀ ni ̃̀̃̀
+i=fã ̀gbɛ̀ ni ̃̀̃̀
+i=kɛ̀-yà-táòshìká
+ uproot-NOM FOC 1SG=uproot wayand 1SG=take-ITIV-look.formoney
+ “It was travelling that I did in order to make money.”
+The fact that the second translation in (274a) is not possible speaks to the semantic unity of the
+verb and its inherent complement. As one semantic unit, its meaning is not restricted to the
+meaning of just one of its parts. It predicates an event and thus, like any verb, it is the event
+that is being emphasized and contrasted even when only the nominal part of the ICV is in focus
+position.
+iii) Modification by a verb-based grammatical argument nominalization
+Like a canonical direct object, the complement in an ICV can be modified by a verb-based
+grammatical argument nominalization. In (276), the ICV is fò shi ̃̀ [cut down] ‘wander’ .
+(276) shi ̀̃ni ́̃ ̀̃
+ i=yà-fó=!ɛ́hèwɔ̀ è=miŋ̀̀̃ é-!fṹ=!ɛ̃́
+ down NMLZ 1SG=ITIV-cut=DEF sake3SG=inside PERF-swell=DEF
+ “The wandering (about town) that I did is what has angered her.”
+",0.0,,[358],0,41,0.7798145752575125,0
+"385
+3.7 Summary
+In this chapter, the Gã verb, its associated morphology as well as the simple clause and its
+argument structure were introduced. It was noted that there were three types of verbal
+predicates in Gã: simple verbs, serial verbs and inherent complement verbs (ICVs) (§3.1).
+Verbal categories expressed morphologically were examined. It was determined that Gã was
+mainly an aspectual language. The future is the only category resembling tense in Gã, but it
+also has modal functions (§3.2.1.2). Most unmarked verbs are given a default past time
+interpretation, but depending on the semantics of the verb and the effect of time adverbials,
+present time and habitual aspectual interpretations may also be given for bare verbs. In §3.2.2,
+the prospective, habitual, progressive, perfect, iterative and distributive aspects were discussed.
+An examination of mood revealed that Gã has two irrealis categories, the subjunctive and
+imperative, which both signal hypothetical situations (§3.2.3). The various forms of negation
+were the subject of §3.2.4. In §3.2.5, the pre-verbal deictic auxiliaries were examined and
+shown to provide spatial, aspectual as well as temporal information about the event.
+Transitivity and grammatical relations were looked at in §3.3. Gã has nominative-accusative
+grammatical relations and evidence was provided in support of the notion of subject. Different
+transitivity classes of verbs were identified (§3.3.3). In §3.4, inherent complement verbs (ICVs)
+were investigated and it was proven that the complement in an ICV is also the direct object of
+386
+the verb in the ICV (§3.4). The semantics of ICVs were treated by examining a few meaning
+clusters in detail (§3.4.3). Non-prototypical clause types were looked at in §3.5. Copula clauses
+and verbless clauses were presented in §3.5.1 and §3.5.2, while the use of verb and preposition
+yɛ̀ for location, existential expression and possession was the subject of §3.5.3. Question-
+formation was the topic of §3.6. Polar questions are formed by a combination of question
+particles and pitch changes on the final syllable of the supposition. Content questions make use
+of a focus structure in which the question word is focused. The question word may also be in
+situ.
+",0.0,,"[400, 401]",0,42,0.7798145752575125,0
+"The semantics of possessive predication would require that the complement of yɛ̀ ‘have’
+be a noun. Only concrete ‘things’ can be possessed. An extension to allow property-denoting
+words to fill this slot is not unexpected. If a thing or person exhibits some quality, then that
+quality can be thought of as being a part of the thing’s or person’s constitution - a part of their
+‘body’ (to use the term loosely), which they then have control over (just as humans have
+control over their bodies) and can be said to have ownership over.
+2.4.3.9 Adverbial use of property nouns
+Property nouns can themselves be used for the adverbial modification of property verbs which
+have identical semantic component (298), (299). This is possible only in the affirmative, as the
+(b) examples show. The function of the property noun appears to be emphasis; it reinforces the
+property expressed by the property verb.
+(298a) àbìfáó=!ɛ́é-shwìàgbò
+baby=DEF PERF-be.fat big
+“The baby is very fat.”
+(298b) ?àbìfáó=!ɛ́ é-!shwí-kòàgbò
+baby=DEF PERF-be.fat big
+“The baby is not very fat.”
+162
+(299a) tsó=ɛ̀ kɛ̀kàkàdãŋ́ ŋ́ ́
+tree=DEFbe.tall tall
+“The tree is very tall.”
+(299b) ?tsó=ɛ̀é-kɛ́ɛɛ́ ́kàkàdãŋ́ ŋ́ ́
+tree=DEFPERF-be.tall.NEGtall
+“The tree is not very tall.”
+2.4.4 Comparison and Gradability
+One of the most common features of property words across languages is that they can occur as
+a parameter of comparison in comparative constructions. In Gã, only property verbs and
+property nouns can occur in comparative constructions. The comparative construction is a serial
+verb construction in which the property word constitutes the first VP or is a complement of the
+first VP and the comparative verb, fè ‘surpass’ constitutes the second VP. The object of fe
+‘surpass’ is the object of comparison. Since the comparative construction only has positions for
+nouns (objects of yɛ̀ ‘have’ or fèê ‘surpass’) and verbs (V1 slot), adjectives cannot occur in this
+construction since they cannot be objects of yɛ̀ ‘have’. However, since many adjectives in Gã
+have verbal counterparts, this does not represent a handicap for concepts expressed by
+adjectives; their verbal semantic counterparts can occur in comparative constructions. Example
+(300) contains a property verb as parameter of comparison while (301) and (302) have property
+nouns. (303a) is a comparative sentence where the property at issue is an adjective, tsùlù ‘red’.
+",0.0,,"[176, 177]",0,43,0.7798145752575125,0
+"[YM:192]
+The question of where the deictic centre is is a tricky one. It appears to be a conceptual
+space or environment in which both the speaker and the subject or agent of the clause are
+situated. This space need not coincide with the actual physical space that the speaker and agent
+occupy since they may be in two totally different locations (as the case may be if they are
+talking on the phone). For example, when the speakers utter the sentences in (35) to (37), they
+indicate that the respective subjects/agents will move away from their current locations in order
+to carry out their respective actions. My reason for postulating that the speaker and the agent
+share the same conceptual space is that yàá- cannot be used when the speaker is predicating an
+action that will affect the speaker or addressee (the first person or second person). In other
+words, yàá- may not qualify a verb when it is the speaker (38c) or addressee (38a), (38b) that is
+the object or patient of the verb. This is true whether the agent is a third person (38a), or the
+speaker himself i.e. first person (38b). These sentences are not acceptable because in such
+228
+pragmatic contexts, the speaker and addressee share the same physical space9 and so it is
+ungrammatical for the speaker to use a deictic morpheme which indexes movement away from
+that space if indeed the endpoint of the action (the patient) is confined to that same location. If
+the deictic centre was just the agent alone or speaker alone, it would be very difficult to explain
+the ungrammaticality of (38). In these instances, the future marker bàá- is preferred (39a),
+(39b). These examples show that in addition to its future time semantics, yàá- still has traces of
+its original motional sense and is not merely a future marker.
+(38a) *òkó yàá-yìbò
+okoPROS-beat 2SG.OBJ
+“Oko is going to beat you.”
+̃́
+(38b) *i=yá-yì 10
+ bò
+1SG=PROS-beat2SG.OBJ
+“I’m going to beat you.”
+(38c) *òkó yàá-yìmi ̀̃
+OkoPROS-beat 1SG.OBJ
+“Oko is going to beat me.”
+(39a) òkóbàá-yìbò
+okoFUT-beat2SG.OBJ
+“Oko will beat you.”
+9
+Barring special discourse contexts such as phone conversations and letters, an exchange in which the subject is
+first person and the object is second person takes place in one and the same location.
+10
+ When the prospective marker occurs with the first singular pronoun, the first vowel of the prospective marker is
+elided.
+229
+(39b) mã=́ yìbò
+1SG.FUT=beat2SG.OBJ
+“I will beat you.”
+There are also contexts in which the use of yàá- expresses no sense of physical motion on the
+part of the subject. This is especially obvious when the subject is inanimate, as in (40a). But
+even with animate subjects, in some contexts a motional interpretation is unsuitable (40b).
+(40a) plɛ́̀ !té=ɛ̀yàá-gbéé !shi ́̃
+plate=DEF PROS-falldown
+“The plate is going to fall down.”
+(40b) é=ŋàni ̃́ è=nã́ ni ̃́è=kɛ̀ lɛ̀
+3SG=wifeNMLZ 3SG=get NMLZ 3SG=take3SG.OBJ
+yàá-fɔ́ è=first born three
+PROS-give.birth 3SG=
+“His wife whom he had gotten whom he was going to have his first born (child) with,
+(they had) triplets.”",0.0,,"[242, 243, 244]",0,44,0.7798145752575125,0
+"[OYO:50]
+While the adjective tsùlù ‘red’ can replace the noun étsùlù in line 1, it cannot replace it in line
+2 (251). The implication of this is that an object complement denoting result must be a noun.
+(251) *wɔ̀=bàá-féé̀
+ kpékplé-!ɛ́ hṹ tsùlù
+1PL=FUT-do kpekple-DEF toored
+“We’ll make the kpékplè̀ too red.”
+2.4.2.3 Derivation of adjectives from verbs
+Adjectives may be derived from verbs by the following derivational processes.
+i) Suffixation
+This is not a very productive means of adjectivization. Two basic colour adjective terms are
+derived from verbs by the suffixation of -ŋ. These are di!ŋ́̃́ ‘black’ from di ̃́ ‘to become black’
+ 145
+and yɛ̃!́ ŋ́ ‘white’ from yɛ́ ‘to become white’. It is limited to these two words. Another suffix, -
+ru/-lu derives the adjective tsùrù/tsùlù from tsù ‘become red’.
+ii) Reduplication
+Another means of deriving adjectives is by reduplicating certain verbs. The verbs must be
+ambitransitive/labile verbs and must belong to the “temporary” property verb class (discussed
+in §2.4.1.1). This method is fairly limited in productivity. In (252) and (253), the property verb
+is found in the (a) examples while the adjective is in the (b) examples:
+(252) mɔ̃!́ nyɔ̃́ ‘smash, mangle’mɔ̃ń yɔ̃ḿ ɔ̃ń yɔ̃́ ‘tattered’
+(a) lɔ́lè ̀
+glá!sé=!ɛ́é-mɔ̃!́ nyɔ̃́
+car glass=DEF PERF-mangle
+“The window of the car is mangled’
+(b) àtàlé mɔ̃ń yɔ̃ḿ ɔ̃ń yɔ̃́
+dress tattered
+“a tattered dress”
+(253) tsɛ́!lɛ́ ‘tear (ITER)’ tsɛ́lɛ̀ìtsɛ́lɛ̀ì‘torn, tattered’
+(a) ó=tàlé=!ɛ́é-tsɛ́-!lɛ́
+2SG=dress=DEF PERF-tear-ITER
+“Your dress is torn.”
+(b) àtàlé tsɛ́lɛ̀ìtsɛ́lɛ́ì
+dress tattered
+“a tattered dress”
+146
+2.4.3 Type C: Property concepts that function as arguments in clauses (Property
+nouns)
+Certain descriptive words may occur as subjects or objects of verbs. Most are able to occur as
+objects of the verbs yɛ̀7 ‘have’ and fèê ‘do’. Hengeveld (1992:34) calls such linking words
+‘semi-copulas’. Such descriptive words are classed as property nouns because they occur in a
+syntactic position reserved for nouns (254). In (254a), the objects of yɛ̀ ‘have’ are regular
+nouns; in (254b) the object of yɛ̀ ‘have’ is a property noun.
+(254a) ákú yɛ̀shìká/nyɛ̃m̀ i/hèwàlɛ̀
+̃́/jwɛ̃ŋ̀ -̀ mɔ̃̀
+ Aku have money/sibling/strength/think-NOM
+ “Aku has money/a sibling/strength/sense”
+(254b) yòó=ɛ̀ yɛ̀ légélégé
+ woman=DEF have skinny
+ “The woman is skinny.”
+Property nouns constitute a large class with dozens of members from all semantic classes. They
+often describe a stable or permanent attribute. In Gã, the normal copula jí ‘be’ cannot have a
+property noun as complement (255).
+(255) *diŋ́́̃ ŋ̀ jí Kòjó
+ quiet COPKojo
+ “Kojo is quiet.”
+7
+The verb yɛ̀ is polysemous and may also mean ‘be located’.
+",0.0,,"[159, 160, 161]",0,45,0.7798145752575125,0
+"399
+In a negative subjunctive SVC, however, the negative morpheme ka- is marked just once on the
+first verb. All other verbs are unmarked. However, the negative morpheme is understood to
+have scope over all the verbs in the series.
+(12)òkó á-ká-tũ̀è=bó!ténṹ=ɛ̃̀ miŋ̀̃̀
+Oko SBJV-NEG.SBJV-jump 3SG=enterwater=DEF inside
+“Oko shouldn’t jump into the water.”
+As has been shown in this section, the verbs in a serial verb construction form a very tight
+syntactic unit because they cannot be independently marked for contrasting grammatical
+categories. Another unique feature of the verbs in SVCs in most languages (Gã being no
+different) is that they have just one syntactic subject and in some cases, a shared object as well.
+This is further proof that SVCs comprise just one clause. The following section will describe
+argument-sharing, generally.
+4.2.2 Argument-sharing
+4.2.2.1 Subject
+In all Gã SVCs the syntactic subject of the initial verb is the syntactic subject of subsequent
+verbs. In some SVCs a pronominal copy of the subject appears on all non-initial verbs (13),
+(14). Dakubu (2004:16) calls this resumptive serialization.
+",0.0,,[414],0,46,0.7798145752575125,0
+"502
+(73)̀
+ òblá-yòòkò tsɛ́mi ̀̃yɛ̀ òsúgɔ́ɔ ̀
+ life-female INDEFcallme be.locatedOsucemetery
+ miŋ̀̃̀
+ inside
+ “A woman called out to me in the Osu cemetary.” [DF:118]
+5.6 Summary
+This chapter has surveyed the various voice categories found in Gã with the understanding that
+major voice categories are rooted in the human conceptualization of the evolution of an action.
+As such, all languages will display these major voice oppositions albeit via different structural
+means. It has been shown that voice expressions in Gã often do not involve a change in valency
+or a realignment of grammatical relations. In §5.1 it was shown that Gã employs a non-
+promotional impersonal passive construction. The semantic and syntactic scope of causatives
+was discussed in §5.2. Causatives are expressed by a construction involving the causative verb,
+hã́ ‘give’ and a grammatical event nominalization which functions as its object. The middle
+voice was the subject of §5.3 and in Gã it is expressed lexically, by intransitive verbs and some
+transitive verbs (all ICVs), as well as periphrastically by the PRON+he possessive NP. This
+NP is primarily used to mark reflexive middles and reciprocals but may also be employed for
+non-reflexive middles. Antipassives were shown in §5.4 to be conveyed by fully transitive
+clauses with a generic noun (ni!ĩ́ ̃́ ‘thing’ or mɔ̃̀ ‘person’) in object position. Benefactives and
+applicatives were the topic of §5.5.
+",2.2,,[517],3,47,0.8043523770077206,0
+" Perhaps, the most intriguing aspect of the discussion of wordhood in Gã is the
+observation that whole sentences such as the verb complex in (8) above must also be
+considered phonological words. A strict line between Gã morphology and Gã syntax can then
+only be feasibly drawn by separating the study of grammatical words (as opposed to
+phonological words) from the study of how these grammatical words combine to form
+sentences. Making such a distinction does not seem worthwhile considering that verb
+complexes like those in (8) make up the core of most utterances in Gã. Following from this,
+there will not be a significant attempt in this dissertation to separate morphological phenomena
+from syntactic phenomena. The two are inextricably linked; each can be better understood in
+terms of the other and so ultimately it is best that they are examined inter-dependently.
+",0.0,,[63],0,48,0.8043523770077206,0
+"[CH:387]
+The fact that purpose constructions with main verb bà ‘come’ or yà ‘go’ are the only
+ones capable of doing away with the nominalizer is no accident. The conceptual link between
+motion, generally, and purpose is very strong indeed, as reported by Schmidtke-Bode
+(2009:97). She observes that in many languages, ‘motion-cum-purpose’ clauses, as she calls
+them, contain less morphological material (e.g. no purpose markers, no purpose clause
+subjects), suggesting a much tighter semantic bond than in non-motion purpose types. The
+ 597
+reduction in form comes about as a result of high predictability, which is a consequence of the
+cognitive link that humans make between movement from one location to another and the
+accomplishment of goals. Schmidtke-Bode writes that even from childhood we associate
+change of location with a need to get something done at the new location. It is the ubiquity of
+this cognitive association that makes purpose markers and purpose subject arguments
+redundant; afterall, it is normally the case that the one who moves is the one who has a goal to
+achieve by moving. Indeed, there are several languages for which purpose adverbials can only
+occur with motion main verbs (Smidtke-Bode 2009:94). In Gã, the ‘motion-cum-purpose’
+construction has even grammaticalized to mark prospective aspect. This is limited to the verb,
+bà ‘come’ when it is in the progressive.
+(162) kpãã̀ =ã
+́ ̀ŋ̀-bàé=bá-tsé
+rope=DEF PROG-come 3SG.SBJV=come-break
+“The rope is about to break.”
+Purpose adverbials marked by á!kɛ́
+Apart from ni ̃́ and kóni,̃́ purpose nominalizations may also be marked by á!kɛ́. The use of a
+quotative marker grammaticalized from the verb ‘say’ as a purpose marker is found in
+neighbouring Akan and according to Schmidtke-Bode (2009), is also attested in other unrelated
+languages e.g. Kannada and Lezgian. Schmidtke-Bode (2009:192) calls such constructions
+verbalized self-suggestions because they probably arose from situations where an actor asserts
+ 598
+an action and verbalizes the intended result as direct speech. The action and result are linked by
+the verb ‘say’. Using (163) as an example, this will translate to: “And we will show it to God,
+saying “Bless these herbs”.
+(163) ni ̃̀ wɔ̀=kɛ̀-bàá-tsɔ̃ɔ̃́ ́ àtàá nãã̀ ́ ̀
+nyɔ̃ŋmɔ̃ ̀á!kɛ́
+ and1PL=take-FUT-show father mother God NMLZ
+ é=jɔ́ɔ ́ bàà nɛ̃!́ ɛ̃́ nɔ̃̀
+ 3SG.SBJV=bless leafthistop
+ “We will show it to God, so that he blesses these herbs.” [YM:78]
+Purpose adverbials marked by á!kɛ́, unlike those marked by ni,̃́ do not have to have irrealis
+marking on the purpose predicate. In (164), the purpose predicate is marked progressive. The
+semantics of á!kɛ́-purpose adverbials is nevertheless very similar to the ni-̃́ purpose adverbials.
+It denotes an event which is viewed as the desired result or the reason for the action in the main
+clause. For example, in (163), the purpose of showing ‘it’ to God is so that he blesses it and in
+(164), the subject turns around in order to go/leave.
+ ̀
+(164) òblá-nũ̀ṹ=ɛ̃̀fòè=hè á!kɛ́èè=yà
+ life-male=DEFcut 3SG=body NMLZ 3SG.PROG=go
+ “The young man turned around in order to go.”",0.0,,"[611, 612, 613]",0,49,0.8043523770077206,0
+" 311
+However, the following well-formed sentences have no object.
+(214) yè-í=ɛ̀ ŋ̀-lá
+ woman-PL=DEF PROG-sing
+ “The women are singing.”
+̀ =bé-ɔ̀
+(215) ãmɛ̃̀tsɔ̃́
+ 3PL=quarrel-HABtoo.much
+ “They quarrel too much”
+ The syntactic phenomena discussed above shows that Gã treats A and S arguments the
+same and O arguments differently. This is equivalent to what pertains in languages like English
+that have established subject and object grammatical relations. Therefore, one can posit that the
+arguments that occur in A and S function in Gã are subjects, while those that occur in P
+function are objects.
+3.3.2 Ditransitive clauses
+In the preceding sections, we have seen examples of clauses which have no object (intransitive
+clauses) and those which have one object (monotransitive clauses). Certain verbs are capable of
+occurring with two objects, resulting in ditransitive clauses/constructions. Examples of such
+verbs are hã́ ‘give’, kè ‘gift (v.)’, wò ‘wear, apply’, mã̀ ‘lend’, fà ‘borrow’, ŋmã̀ ‘write (a
+letter)’. Some example sentences are given below, with the two objects in bold:
+(216) òkókèmi ̃̀ kùɛ̀-ni!ĩ́ ̃́
+ Oko gift1SG.OBJ neck-thing
+ “Oko gifted me a necklace.”
+312
+(217) kɛ̀kɛ́=!ɛ́ á=wò nyɛ̃̀àtàlé fine
+then=TOP 3PL.IMPERS.PERF=wear 2PLdress
+“…then you will be dressed in fine clothes.”",0.0,,"[326, 327]",0,50,0.8043523770077206,0

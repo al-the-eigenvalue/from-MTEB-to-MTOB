@@ -1,0 +1,306 @@
+Paragraph,Annotation,Word order,Page number,Relevance Score,BM25 Rank,BM25 NDCG@K,Binary Relevance Score
+" The paper by M. Mithun
+deals with word order in Tuscarora.",2.2,,[98],3,1,0.6,0
+"The author investigates the use of the three simple sentence types
+with both subject and object in the Inuktitut language.
+No. 50CONTRIBUTIONS TO CANADIAN LINGUISTICS.",0.0,,[106],0,2,0.367888315659275,0
+"Vowels aresometimes insertedinto consonantclusters in order
+tomake them easiertopronounce.
+ ""ntomsk, nika'ntomsk sacred
+woomxk, waxwoomasksuffer
+gyelttks, gyilgyalksfeel
+7.",0.0,,[48],0,3,0.3107311381422535,0
+" Then the sentence pattern
+TEMP+t VB,+daERG+aABS
+becomes
+TEMPVB,ptMt+ABS+aERG,
+i.e.,the absolutive becomes a part of the verb as a compound
+word and the ergative functions syntactically as an absolutive.
+Someexamples of absolutiveincorporation:
+a) Bawilaadmhoonu (bawil TEMP;aat VB,,;-m-; hoon ABS; -u
+ERG;and then I was just seiningfor fish or I was
+just now fish-seining)
+b) Yagwa suwiliinsgmwudziis Dzon (Yagwa TEMP;suwiliinsk VB
+-m-;wudzii ABS; -s;Dzon ERG;John ishunting cari-
+bou or John is caribou-hunting)
+c) Yagwateemlaks nagwat(Yagwa TEMP;tee VB,;-m-;lakABS;
+-S; nagwat ERG;his father is haulingfirewood)
+5. An indirect object follows the absolutive in the sentence
+word order.",2.2,,[77],3,4,0.392085114852943,0
+" English:SUBJ TEMP VBnOBJSUBJ TEMPVBL
+ Tsimshian: TEMP VB ERGABSTEMPVBLABS
+ 59
+ 60
+TsimshianEnglish
+ERGATIVE = SUBJECT (withtransitiveverb)
+ABSOLUTIVE = SUBJECT (withintransitive verb)
+ABSOLUTIVE = DIRECT OBJECT
+2.",3.0,VSO,"[75, 76]",5,5,0.5312363212974341,1
+"The temporal designatorsare:
+nahcompletedorperfect
+ e.g., nahdzap""alreadymade""
+dm future and progressive
+ e.g., dm dzap""will make,""""is going to make,""""ismaking""
+ta close to the present
+ e.g., ta dzap""just beginningto make""
+ nahta dzap""just finished making""
+ tadm dzap ""just about to start making""
+wilsubsequent to another action or event
+ e.g., wil dzap ""and then made""
+ nah wil dzap ""and then already made""
+ na'al dzap(variant of nah wil dzap)
+ dm wil dzap ""and now will be making""
+ wil dm dzap (variant of dm wil dzap)
+ nahtawildzap ""and then justfinished making""
+ nahta'aldzap(variant of nah tawil dzap)
+ na'al ta dzap (variantof nah tawildzap)
+ dm tawil""and now just about to start making""
+ dm ta'al (variant of dm tawil)
+ tawil dm (variant of dm tawil)
+ ta'al dm (variant of dm tawil)
+yagwapresent (used only with action verbs)
+ e€.g.,yagwa dzap""be making right now,"" ""is now making""
+ BASIC SENTENCEWORD ORDER
+1. The basic word order of a Tsimshian sentenceis (a) temporal
+designator,transitive verb,ergative noun phrase,absolutive
+noun phrase (TEMP VB,, ERG ABS), or (b)temporaldesignator, in-
+transitive verb, absOlutivenounphrase(TEMP VB.",3.0,VSO,[75],5,6,0.6831968651624872,1
+"The subjects of intransitive sentences
+and the direct objects of transitivesentencesare in Tsimshian
+considered to be the same kind ofnounphrase, i.e., they are
+considered to have the same grammaticalfunction;they are both
+called absolutives.",0.0,,[75],0,7,0.6831968651624872,0
+" Verbs agree in number with their
+absolutive(transitive object or intransitivesubject).",0.0,,[29],0,8,0.6831968651624872,0
+" Somereduplication formsare compound.
+swantk, sumsikswantk blow
+GRAMMATICAL SUFFIXES
+1. There are ten suffixes which,when attached to words,change
+their grammatical relationships(actor, recipient of action,
+etc.)and sometimes their grammaticalfunction(noun, verb,
+etc.).
+2. The suffix -x (sometimes -k) derivesa word that refers to a
+thing,place,or activity that is touched by or affected by the
+original word,or that is in some way a consequence of the origi-
+nal word.",0.0,,"[48, 49]",0,9,0.6831968651624872,0
+" Subjects of intransitive sentences
+are not consideredto be like subjects of transitivesentences,
+as is the case in English.
+",0.0,,[75],0,10,0.6831968651624872,0
+"This volume contains five papers on linguistic subjects: three are
+on the Athapaskan languages of Dogrib (Howren 1968), Central Carrier
+ (Walker 1966), and Chilcotin(King 1968); one on Blackfoot (Lowery
+1964); and, oneonAlgonquin (Hamp 1974).
+No. 51CONTESINDIENS DE LABASSECOTE NORDDU SAINT
+ LAURENT.",0.0,,[106],0,11,0.6831968651624872,0
+"They are used to refer to languages
+of dialects.
+ gaalmx, geelmxNass-Gitksan language
+ gyaanmx Nass-gitksan language
+ gyitksanmxNass-Gitksan language
+ haydmxHaida language
+ tingiitxTlingit language
+ sgttimx Southern Tsimshian dialect
+CARDINAL NUMBERS
+1.",0.0,,"[53, 54]",0,12,0.6831968651624872,0
+"Whenusedas a noun,thefirst
+set (-on) refers to the specific number of fathoms.
+volumeorgeneral linear
+k'ttlda'onk'ttldmgaay one
+gupl'on two
+k'ul'on three
+txaalpxl'on four
+kwstunsal'onfive
+k'oolda'onsix
+t'apxoolda'on seven
+yukwia'al'oneight
+kstamoolsal'on nine
+kpal'on ten
+PROCLITICS
+1. Morphemes that occur before nouns and verbs are called pro-
+clitics becausethey sometimesare prefixed directly to the
+word and at other times act as separate word prepositions.",0.0,,"[56, 57]",0,13,0.6831968651624872,0
+" WOTd OFder... .. ee ccc cw eee eee wee ce cere te eee teens 59
+ 2.the temporal designators....... cc cece cccccvcs 59
+ XL. BASICSENTENCE WORD ORDER...ccc ceece ccc eee eeece eee 59
+ 1 aeFos sO rs59
+ 2.the absolutive enclitic..... cc. eee ee ee wee ee eenes60
+ 3.the ergative eEnclitic...... cece ccc cee eee ee ee eee60
+ 4.absolutive incorporation... ... cee cee ee ec ee eens61
+ 5.",2.1,,[12],2,14,0.7268742777071464,0
+"Subjects of transitive sentencesin Tsim-
+shian are called ergatives.",0.0,,[75],0,15,0.7268742777071464,0
+"88
+37 SOME GRAMMATICAL ASPECTS OF LABRADORINUTTUT(ESKIMO):
+ A Surveyofthe InflectionalParadigms of Nouns and Verbs.
+",0.0,,[104],0,16,0.7268742777071464,0
+"$4.50
+This volume contains 7 papers on ethnological subjects.",0.0,,[102],0,17,0.7268742777071464,0
+"Gwin- (locative, motion, notinternal, afferent)
+gwinse'ikpull (non-human object)
+gwinspiilpull (human object)
+10.",0.0,,[60],0,18,0.7268742777071464,0
+" 78
+ l. why/because SENteEnCEeS....cece cece cee eee ener eee eeees 78
+ 2.iff/then SentenceS..... cece cece cccccccceccccsccceccece 78
+ 3. whenever SENTENCES... cc cee cer ccnccecceccvssescescceces 78
+ 4.in-order-thatsSentenceS..... ccc ccc cee ew wee cee eee e eens 78
+ 5.unlessSeEntencCeS.... cece cnc c cence crn ccc ccc ccrercsces 78
+ 6.subjunctiveinterrogativesS...... cee sec ccne ese ncceee 78
+ 7.tentative eExpreSSiONS.... ccc ccc ccc nnvcccccncccccccces 79
+ 8.time and place ExpreSSiONS....ccc cece canner crc c cc cccee 79
+ xii
+PREFACE
+ The purpose of this reference grammar is to provide biling-
+ual teachers,teacher'saides and other interested persons with
+a nontechnicalintroduction to the Coast Tsimshian language.
+This grammar is designed to be used in conjunction with A Prac-
+ttealDtettonaryof the Coast Tsimshtan Language, compiledand
+edited by John Dunn, published by the National Museum of Man,
+Ottawa, Ontario.",0.0,,"[14, 15]",0,19,0.7268742777071464,0
+"There are several types of reduplication.
+2. The most common type of plural reduplication consists of
+copying the first consonant of the word and prefixing it to the
+word along with a vowel and a kay(k).",0.0,,[29],0,20,0.7268742777071464,0
+"ClassIirregularwordsin oo.
+mookskmookmooksk white
+ CLASS IIREDUPLICATION
+1. In a few words the plural reduplication consists of copying
+the first consonant of the word and prefixing it to the word
+with a vowel and an ach(x).",0.0,,[31],0,21,0.7268742777071464,0
+" Five suffixesare used to expressvarious typesofsimilarity
+to the original word.",0.0,,[50],0,22,0.7268742777071464,0
+"It contains sections on pronunciation, sound changes, word formation
+(morphology), syntax, basic sentence types and their grammatical
+relationships and provides an explanation of the practical orthog-
+raphy currently in use.
+",0.0,,[107],0,23,0.7268742777071464,0
+" 89
+No. 42 A PRACTICAL DICTIONARY OF THE COASTTSIMSHIAN
+ LANGUAGE.",0.0,,[105],0,24,0.7268742777071464,0
+"In a few other
+words the penultimatesyllable is stressed.
+2.",0.0,,[21],0,25,0.7268742777071464,0
+"The enclitic-a
+attaches to the verb,even if it is intransitive and no noun
+phrase at all follows it.
+5.",0.0,,[86],0,26,0.7268742777071464,0
+" 14
+ 2.class I irregular words in i........cee ee eee wee 15
+ 3.class I irregular words in to...eee ee ee ee eee 15
+ 4.class I irregular words in uU..........ceceeeeees15
+ 5.class I irregular words in @.........eeeee eeeeee15
+ 6.class I irregular words in OO.....cee wwe e cence15
+ IX. CLASSII REDUPLICATION...",0.0,,[7],0,27,0.7268742777071464,0
+"Numerals
+for humans, long objects,canoes, humans aboard a conveyance,
+and unit measures can stand alone as nouns.",0.0,,[72],0,28,0.7268742777071464,0
+" ClassIV irregular words ina as in'father.'
+ ha'yin haha'yinplaceupright
+7.",0.0,,[35],0,29,0.7268742777071464,0
+" Tsim-
+shian is very unlike Englishin that Tsimshian does not have
+subjectsand objects.",0.0,,[75],0,30,0.7268742777071464,0
+"$3.50
+This bibliography brings together the relevant materials in
+linguistics, anthropology, archaeology, folklore, and ethnomusicology
+for the Athapaskan Indian languages.",0.0,,[99],0,31,0.7268742777071464,0
+"The major part of the grammar is
+concerned with the structure and use of the verbs.
+",0.0,,[97],0,32,0.7268742777071464,0
+"Nancy Bonvillain.
+249 p. $2.50
+Presentation of the general characteristics of Mohawk; definition
+of the word and word formation, completed by a discussion of the
+phonemics and morphophonemics.",0.0,,[97],0,33,0.7268742777071464,0
+" Should that be the case,
+your indulgence is requested,bearing in mind the object of
+the Series.",0.0,,[4],0,34,0.7268742777071464,0
+"Verbs and
+adjectivesshow number agreementin the same way that nouns show
+number.",0.0,,[29],0,35,0.7268742777071464,0
+"This second set is
+said to be marked because an -'n- is placed between the verb and
+the pronominal.",0.0,,[79],0,36,0.7268742777071464,0
+2 SARCEE VERB PARADIGMS.,0.0,,[96],0,37,0.7268742777071464,0
+"They are attached to the end of the
+verb.
+",0.0,,[78],0,38,0.7268742777071464,0
+"Words are sometimes puttogethertoform anew wordwith a
+new meaning.",0.0,,[71],0,39,0.7268742777071464,0
+" An introduction to
+Labrador Inuttut word-formation is also provided.
+",0.0,,[105],0,40,0.7268742777071464,0
+" Reduplication is a morphological device in which part of
+a word is copied or repeated.",0.0,,[29],0,41,0.7268742777071464,0
+"It also containssect-
+ions dealing with pronunciation and sound changes,word forma-
+tion(morphology), and syntax.",0.0,,[5],0,42,0.7268742777071464,0
+"Gwit-(locative,motion,notinternal,efferent,proximate)
+gwitt'uuspush (human object)
+gwit'aax lip
+gwiiwohget out
+ll.",0.0,,[60],0,43,0.7268742777071464,0
+" Sometimesa
+yod offglide is added to unround k at the end of a word.",0.0,,[20],0,44,0.7268742777071464,0
+" The
+connective between the transitive verb and the ergativeis -a/
+null and there is no -t enclitic on the temporal designation.
+",0.0,,[77],0,45,0.7268742777071464,0
+"While not dealing in detail with all aspects of the Eskimo grammar,
+it concentrates on an analysis of noun and verb structures.",0.0,,[99],0,46,0.7268742777071464,0
+"And justnowthe wolf has seen
+you(pl).
+If an absolutive pronominaloccurs in a sentence with a proper
+noun ergative, the -it/-t enclitic must attach to theend of the
+word immediately preceding the proper noun ergative.
+ g)Bawilt niidzutDzon.",0.0,,[79],0,47,0.7268742777071464,0
+" The first volume includes papers presented at two of
+the eight sessions:""Myth and Culture"" and ""The Theory of
+Markedness in Social Relations and Language"".",0.0,,[101],0,48,0.7268742777071464,0
+"These suffixesare -t,-l, and -n.
+4. The suffix -tchanges a word to mean someone or something
+that uses (as aninstrument) the original word.
+gyemksun,moon
+ gyemgat astronomer
+gyiims~cedar bark
+ gyimstmatch(originally shredded
+cedar bark used to start
+a fire)
+gaks awaken
+ gakst rattle (noun)
+ 33
+ 34
+ originalwordderived wor ameaning
+ waay paddle, oar
+ waaytpectoralfin, ventral fin
+5. The suffixes -l and -n change a word to mean a person,thing,
+or action that has as it goal, intention, or purpose, theorigi-
+nal word or something similar to the original word.
+ buublow, sound (of a whale)
+ buul,buu'l warn
+ hasaax lack
+ hasaakldesire
+ +00drift,swim(of a fish)
+ tool,toowl push thru the water
+ p'uu scatter(intransitive)
+ p'uulscatter(transitive)
+ t'ia'k water spout
+ t'a'kyltwist
+ sakskclean(adjective)
+ saksgn clean(transitive)
+ sayp bone
+ saypnharden (transitive), make
+hard
+ teky bent, crooked,twisted
+ ta'gyinbend (transitive)
+ hookscome
+ hooksk be with
+ hooksn put with,be put with
+ daxs flounder
+ daxsnthrow flat onthe water,make
+ skip alongthe water
+6.",0.0,,"[49, 50]",0,49,0.7268742777071464,0
+" 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
+ 1. relationship toindependent words.............60- 51
+ 2. aAgGwil (ASide) ..",0.0,,[11],0,50,0.7268742777071464,0

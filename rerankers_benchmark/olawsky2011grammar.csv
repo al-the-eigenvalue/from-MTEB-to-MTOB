@@ -1,0 +1,2631 @@
+Paragraph,Annotation,Word order,Page number,Relevance Score,BM25 Rank,BM25 NDCG@K,Binary Relevance Score
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:34 PM
+ 18 Constituent order
+Urarina constituent order represents a typological rarity that is found in very
+few other languages. According to Tomlin (1986; cf. (934)), only five out of
+402 selected languages exhibit the constituent order ""OVS"". However, in some
+ languages, the order is split with respect to transitive vs. intransitive clauses.
+For instance, subject-final order may only apply under certain conditions. I will
+therefore adopt a terminology that describes Urarina as having OVA/VS order,
+where A is the subject of a transitive clause and S the subject of an intransitive
+clause.
+(934)Table based on 402 languages (Tomlin 1986)
+Order Languages %
+SOV180 44.8
+ svo 168 41.8
+ vso 37 9.2
+ vos123.0
+ OVS5 1.2
+ osv00
+ Total402100.00
+Even for some languages listed as ""OVS"", this order is not entirely consistent.
+Several Carib languages such as Bacairi (Wheatley 1973; DeAbreu 1895; von
+den Steinen 1892), Apalai (Koehn 1974), or Arekuna (Armellada 1943; Koch-
+Gruenberg 1924/1928; Edwards 1977) are subject to conflicting sources. Some
+authors describe them as ""OVS"", but others as ""SOV"", which is partly related to
+the Ergative system of these languages. Two other Carib languages that can be
+convincingly characterised as OVA/VS are Hixkaryana (Derbyshire 1985) and
+Trio (Carlin 2004). Interestingly, all of these languages belong to the Carib
+family. For Urarina, the constituent order is consistently OVA/VS, with specific
+deviations that are entirely predictable. This order applies to dependent and
+independent clauses. In the independent (or ""main"") clause, constituents can be
+focused. In this case they are shifted to the front and followed by a focus
+marker. This is discussed in greater detail in §19. Furthermore, the structure of
+all clauses is characterised by the following features:
+- Subject and object are frequently omitted and understood by the context.
+",3.0,OVS,"[671, 672]",5,1,1.0,1
+" Most other modifiers have variable order.
+- Adjectival or noun-like modifiers typically follow the head noun.
+- Other modifiers can occur in prenominal or postnominal position, especially
+ quantifiers.
+- The typical or preferred order may be described as [DEM] - [POSSR] -
+ [NUM] - [N] - [ADJ],
+- Urarina does not have relative clauses, but these are substituted by various
+ kinds of nominalisation that may occur with modifying function before or
+ after the nominal head. Thus, grammatical categories such as tense and
+ aspect are not expressed by these substitutes.
+The constituent order within the dependent clause is largely identical to the
+independent clause. Naturally, full NPs are even rarer in dependent clause, as
+the referent of subject and object is usually mentioned in the main clause (if it is
+mentioned at all). In the case of participle constructions and infinitives, the
+subject is only expressed on the main verb. In subordinate clauses, the subjects
+of dependent and independent clauses may be different (but they do not need to
+be overtly expressed).
+18.1 Transitive clause
+From a typological point of view, there are six logically possible orders of
+subject, verb, and object in a clause: AVO, AOV, VAO, VOA, OVA, and OAV.
+Cross-linguistically, the first four types are relatively well attested, whereas the
+last two types are hardly accounted for. Urarina represents one of these rare
+types, since the unmarked word order is OVA. It has to be noted that, in a
+language with extensive omission of overt NPs, the presence of arguments
+realised as core NPs is not very frequent. However, OVA is the formally and
+functionally unmarked constituent order, as is illustrated by the examples in
+(936). A formal marking would involve a frontshift of the subject to the front, in
+which case a focus enclitic must be attached to it. The examples are functionally
+unmarked as they do not exhibit any pragmatic peculiarities in the context they
+occur in. Note that in dependent clause, the presence of full NPs for both A an
+Ο is rarer than it is in main clauses, which could be due to the fact that
+dependent clauses mainly provide information that supplements information
+given in the main clause, i.e. the participants are usually mentioned in the main
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:34 PM
+ Transitive clause 655
+clause. However, (936b) is an example for the order O V A in a dependent clause
+(here in a title of a narrative).
+(936) Unmarked OVA order
+a) Independent clause:
+mtoanei hetau=tekatga lemu-e=lulomaj
+[like.that HRS=FOC] [man] [sink-3ps/E=REM] [PSN]
+ [ADV] [Ο][V][A]
+edarane-1ku-uru-a=nekuj/ia
+[water.peoplebe-PRTgo-PL-3ps/D=SUBso.that]
+[DEP]
+'Lomai sank the people like that so that they would become water people.'
+b) Dependent clause:
+uneebua basihjau-aalau=ne
+[kinkajou bag][steal-3ps/D] [spider.monkey=CND]
+[Ο][V] [A]
+'When the spider monkey stole kinkajou's bag'
+As was made clear through the table in (935), the omission of arguments is very
+c o m m o n . In fact, subject and object are only present in 19% of all examples (S
+in intransitive clauses; both A and Ο in transitive clauses), whereas in all other
+cases, at least one argument does not surface as an NP. T h e examples in (937)
+illustrate transitive clauses that lack an overt subject.
+(937) Constituent order OV
+a) Independent clause:
+hitarükaute-na ii kurikiu-a-re-ü=ni
+[allremain-NOM 2sg money][come-CAUl-IRR-lsg/E=ASS]
+ [O] [V]
+Ί will bring all of your money that remains.'
+b) Dependent clause:
+atekuhwu-uru-a häu ra-ahva-ure
+[fish] [fish.with.hook-PL-3ps/D] [because] [receive-DSTR-3pl/E]
+[Ο] [V][CNJ][Main]
+'As they fished with hooks, they eachcaught [some].'
+In the same way, the object of a transitive clause can be omitted. In this case, it
+is automatically understood as 3ps (singular or plural) and its referent would be
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:34 PM
+656 Constituent order
+known from the context. While it is not uncommon for S arguments to surface
+as an NP in an independent clause, examples for the structure VA in
+ independent clause (such as in (938b)) are rare. Pragmatically, this is a plausible
+consequence of the fact that the subject is usually expressed in the main clause
+or already known from the context. In (938c), strictly speaking, the verb of the
+ independent clause (naa 'say (so)') is intransitive in terms of its morphological
+features (cf. §9.5); however, it has a special status since it functions as a
+quotative verb that is always preceded by direct speech in narratives (cf.
+ §20.2.4.2).
+(938) VA order in transitive clause
+a) Independent clause:
+niriu hohvajtQa-kuruajjia ne-rela-t,itga-kuru-aleotga-uru
+[PLN inhabitant-PLwith ITR-teach-PRT] [do-PL-3ps/A] [other-PL]
+ [DEP][V] [A]
+'Learning with the people from the Marafion River, the others learnt it [too].'
+b) Dependent clause:
+su-a lejhii katQa=nehau,ßäe nalu-a alau
+[kill-3ps/D] [one man=SUB][because] [alreadyfall-3ps/A spider.monkey]
+[V][A] [CNJ] [Main]
+'As a certain man killed it, the spider monkey already fell.'
+c) Dependent clause, quotative verb:
+na-a ofiua häu=na niki u-ü=ra
+[say-3ps/D][father] [because=FOC:lsg] [ADVRScome-1 sg/E=EMF]
+ [V] [S/A] [CNJ][Main]
+'Because myfather said so, I have come.'
+In (939), the verb is represented by a copula with a copula complement. This
+construction is similar to a transitive clause in that the copula complement
+occurs in object position, i.e. in the same position as the Ο argument of a
+transitive clause.
+(939)Copula complement in Ο position
+a) Independent clause:
+kuraanaa rn-aruru
+[chief][be-3ps/A][howler.monkey]
+[CC][V] [CS]
+'The howler monkey is the chief.'
+",3.0,OVS,"[674, 675, 676]",5,2,1.0,1
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+Sentences:More than one tone 145
+(203) Possessive constructions as object NP
+a) Disyllabic nouns with light first syllable:
+POSS+ NounWith verb ('see'-3pl/A)
+ka.nu bi.hi ('hand')ka.nubi.ht hoa.ra.-ku.ru-. a
+ka.nu ti.hja ('foot')ka.nu ti.hjakiua.ra.-ku.ru-. a
+b) Disyllabic nouns with heavy first syllable:
+ka.nu ree.mae ('dog')->ka.nu ree.mae kiua.ra.-ku.ru-.a
+ka.nu laa.no ('cassava') ka.nu laa.nokiua.ra.-ku.ru-.a
+Examples such as discussed above demonstrate once more that the tonology of
+Urarina is subject to an intriguingly complex system of rules. Further studies are
+necessary in order to explore all the alternations also for contexts not
+investigated here.
+4.7.3Clauses with adverbs
+Most adverbs have a final Η tone, but there are a few that exhibit a different
+tone pattern.
+(204)Selection of adverbs
+ a) Final Η[e.nä]now
+[e.re.si] 'tomorrow'
+[ka.ra.ha.T]'long (time)'
+[he.raa.e ] 'slowly'
+[rau.to.hwe.T]'calm(ly)'
+ b) Other pattern[jio.ae.lu]'at an earlier time'
+[ta.bii.tea ] 'sometimes'
+The position of adverbs is variable. The combination of adverbs with verbs in
+simple constructions does not have any impact on the tonal structure of verbs or
+adverbs.
+(205)ena itQa-kuru-a'They did it now' ('do'-PL-3ps/A)
+ itQakuruä ena'They did it now'
+ itQakuruä eresi'They do it tomorrow'
+ itgakuruä heräae 'They did it slowly'
+ itQakuruä ßoäelu'They did it earlier'
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+146 Tone
+ The intensifier [ha.ta.Y] 'very', can precede or follow a verb. Syntactically and
+ morphologically it behaves like an adverb. In both preverbal and postverbal
+ position, it does not have any impact on the tonal structure of the verb, and it is
+ not modified itself.
+(206)Constructions with intensifier hataT
+hatai' kaiuatoa 'It is very nice.'
+kaioatoa hatai' 'It is very nice.'
+4.7.4Focus constructions
+The basic constituent order of Urarina is OVA/VS, as the examples discussed so
+far have illustrated. This order can be modified through the use of a focus
+marker (=te, =ne, or =na), depending on the person of the subject (cf. §19). The
+verb is obligatorily inflected with suffixes from the Ε-inflection type (discussed
+in §11). While a wide range of different words or phrases can be shifted to the
+front in this construction, I will discuss only noun fronting here. For this context
+(207a), the following tonal patterns were observed:
+- In examples with intransitive verbs, all nouns (here in clause-initial position,
+ and followed by the focus marker) are L-toned.
+- The focus marker (an enclitic attached to the end of the phrase that is in
+ focus) receives a Η tone.
+- The verb bears a final Η tone.
+Note that in examples (207a,b,d), a subject is fronted, whereas the example in
+(207c) exhibits an object followed by the focus marker. Thus, the tonal pattern
+observed in these examples is not limited to subject fronting, but occurs with
+any noun to which the focus marker is attached.
+(207)Focus construction with intransitive verb
+a) SV order with 3ps focus marker:
+ka.tQa.=tesi.ni
+man=FOCsleep:3ps/E
+'The man sleeps.'
+b) AV order with 1 sg focus marker:
+ka.nu.=ne kivi.tu.ku-u
+lsg=FOC:lsg know-lsg/E
+Ί know him.'
+",3.0,OVS,"[164, 165, 166]",5,3,1.0,1
+" Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:32 PM
+Sentences: More than one tone 143
+ (198)ahaaruto-akatgä
+be.warm-3ps/A man
+'The man is warm' [due to the heat]
+ In addition to the three most common types of tonal patterns on verbs, some
+affixes can have specific effects on the tonal structure of verbs. One example for
+this are the derivational suffix -hiohwa (and allomorphs, cf. §10.2.2), which
+ itself carries a Η tone on the syllable /hi/ (or variant [si]), as shown in (199a).
+Another is the intransitivising prefix ne-, which assigns a Η tone to the
+penultimate syllable of most verbs, such as illustrated in (199b). When a long
+vowel represents the final syllable, it is realised as a falling (HL) tone.
+(199) Tone patterns resulting from derivational affixes
+a) Medium degree suffix -hiohioa:
+so.ma.hi.o.hwaa 'be almost white'
+be.rau.e.si.o.hwaa'be green(ish)'
+b) Intransitiviser ne-:
+ne.hve.ra.ja'care for oneself
+ne.rau.tää'get healthy'
+ne.be.ta.kää'relax'
+An aspect that needs further investigation regards the tonal structure of Type D
+nouns when following a verb from Types 2 or 3. In this case, the pattern on the
+noun changes, as exemplified in (200), where the Η tone on the noun is on the
+penultimate syllable followed by a falling (HL) tone on the long final syllable.
+(200)Type D noun after ""long"" verb
+ka.wa.to.a enamänaä
+be.good-3ps/A young.man
+'The young man is nice.'
+4.7.2 VS and Ο VA constructions
+As already indicated in the previous section, the tonal distribution ""One Η per
+constituent"" is largely retained within a clause. This also applies to simple
+sentences with the regular subject-final constituent order (VS or OVA; cf. §18),
+where full nouns are present as arguments. In (201b), the object of the verb is a
+Type A noun; thus, the verb gets its Η tone on the first syllable. Otherwise, the
+Verb Phrase (VP) does not have other Η tones. Another Η tone is only found on
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:32 PM
+ 144 Tone
+the subject 'man', which constitutes a separate syntactic phrase. As a general
+principle, a subject NP always carries a Η tone on its own.
+(201)Tonal structure in simple VS and OVA constructions
+a) VS order:
+u-ri-jia=T bartolome
+[come-IRR-NEG:3ps/A=ASS] [PSN]
+[VP][NP]
+'Bartolome will not come.'
+b) OVA order:
+enejtguhoara-akatga
+[monkey see-3ps/A] [man]
+[VP][NP]
+'The man saw the monkey.'
+A different tonal structure applies when object and subject are syntactically
+more complex than the examples above. In (202), the object consists of a
+possessive construction with an adjective ('my small bag') and the subject is
+composed of a noun and an adjective. In this case, the object NP as well as the
+verb receive a Η tone. The subject NP bears a Η tone by rule, as predicted
+above.
+(202)Tonal structure in complex OVA constructions
+kanusturalaauhzuiri basihjau-ä katQa bäaso
+[lsgbagsmall][steaI-3ps/A] [manbad]
+[NP]0[V][NP]a
+'The bad man stole my little bag.'
+An interesting alternation is observed with possessive constructions that
+function as an object in a transitive clause: recall that disyllabic nouns that
+function as possessum receive a Η tone on their first syllable, as in kanu bihi
+'my hand' (cf. §4.6.1). When this type of NP is followed by a transitive verb,
+the Η tone shifts to the second syllable, while the verb remains toneless, as
+illustrated in (203a). However, the shift only applies to possessed nouns that
+have a light (V or CV) first syllable, whereas the possessive tone pattern
+remains stable on possessed nouns with a heavy (VV or CVV) first syllable (cf.
+(203b). For all other nouns in this position, no tonal changes from the
+possessive pattern apply.
+",3.0,OVS,"[162, 163, 164]",5,4,1.0,1
+"A summary of their functions was given in (214). In addition, there are a few
+subtypes of nouns that will be discussed in other sections of this chapter. These
+include nouns with adjectival properties, personal pronouns, and demonstratives
+(cf. §5.4 to §5.6).27 Note that interrogatives are not listed here as there is only
+one underived interrogative (cf. §5.9). As stated in §7, nearly all noun types can
+function as the head of a possessive NP (cf. (500)).
+5.2 Verbs
+Verbs can be subject to a large number of inflections. These include, person and
+number, polarity, tense, aspect, mood and various kinds of modality/Aktionsart.
+Valency-changing suffixes such as for passive and causative can be attached to
+some verbs. Generally, verbs have three different forms of inflection for
+person/number/polarity, depending on the clause type and/or the constituent
+order (cf. §11). Another set of suffixes is used to cross-reference objects and
+intransitive subjects under certain conditions. All grammatical categories are
+realised as suffixes on the verb; the only productive prefix is the intransitiviser
+ne- (cf. (240); §16.2).
+",2.2,,[186],3,5,0.9475179689950632,0
+" Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:33 PM
+ Reflex ivity 385
+9.3Reflexivity
+Urarina has no intrinsically reflexive verbs, but uses alternative strategies to
+express reflexivity. Most importantly, there is a form that functions as a general
+ intransitiviser. The prefix ne- is productively attached to transitive verbs in
+order to create an intransitive verb. For instance, the transitive verb for 'lose' is
+transformed into an intransitive verb 'get lost' by prefixation of ne-. The same
+prefix is also used to mark reflexivity. A detailed discussion follows in §16.2.1
+on valency changing mechanisms.
+9.4Ambitransitivity
+It is difficult to detect the existence of ambitransitive verbs in Urarina, as 3 rd
+person objects are unmarked, i.e. if a transitive verb occurs without an overt
+object, it automatically implies an (unmarked) 3 rd person object like 'it', 'him',
+or 'them', which is only understandable through the context. One clue in order
+to detect whether a verb is transitive or intransitive is the constituent order when
+overt arguments such as subject or object are present. For instance, the verb
+muhia 'burn' may occur with one or two overt arguments, as depicted in (569).
+For both examples, the translation is unambiguous, but this is partly due to
+pragmatic/semantic factors: it is obvious that the tree in (569b) does not play an
+active role in the burning process. Therefore, with this ambitransitive verb,
+there is an S/O relation in terms of argument structure.
+(569)Verb tnukua 'burn'
+a) Transitive use:
+enua muku-anu
+treeburn-lsg/A
+Ί burned the tree.'
+b) Intransitive use:
+muku-a enua
+burn-3ps/A tree
+'The tree burned.'
+Apart from the verb mukiia, no other ambitransitive verbs are known.
+",3.0,OVS,"[404, 405]",5,6,0.9531749627448146,1
+" Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:34 PM
+ 670 Constituent order
+ Given the special meaning and its rare occurrence in other texts, the 'turn into'
+ construction with the copula can be regarded as idiomatic. As stated before,
+variation of the basic constituent order such as illustrated in (956), which occurs
+without formal or contextual marking, is extremely rare. In fact, only very few
+examples of this type (including (956b)) are attested in the 799 clauses listed in
+(940). Another rare example is displayed in (975a) further below, which
+represents a syntactically rather complex sentence. It should also be noted that
+there are no instances of order variation for the object of a transitive verb: It
+always precedes the verb.
+",2.3,"No dominant order, OVS, SOV","[689, 690]",4,7,0.9391402387269552,1
+" Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:34 PM
+660 Constituent order
+(944)Unmarked order VS: Dependent clause
+a) With intransitive verb netooka:
+netoo-kabatiri=jiehau, ... kukiuara-kure
+ [hang.up-3ps/D] [priest=SUB] [because] [there see-3pl/E]
+[V][S] [CNJ][Main]
+ 'As the priest fixed his mosquito net,... they watched him there.'
+b) With copula:
+m-a akauru ufavana hanaaari=jie, ßadera-ure
+[be-3ps/D] [3pl fieldinside] [topa.tree=CND] [be.sad-3pl/E]
+[V][PP][CS][Main]
+'If there was a topa tree in their field, they were sad ... [because they could not remove
+it].'
+In summary, the order of core arguments in dependent clauses does not differ
+from that in independent clauses. However, there is a preference regarding the
+position of non-core arguments in dependent clauses, as will become evident in
+§18.4.
+18.3Deviating order types
+There are several conditions that can have an impact on the unmarked word
+order: focus or emphasis, negative marking, and the involvement of the 'must'
+construction. The most important factor is focus (also cf. §19): any constituent
+of a clause can be focused; in this case, it is followed by a focus marker and
+shifted to the front. Most commonly, non-core constituents such as adverbs or
+discourse-related expressions (e.g. mi hau (lit. 'that+'because') to mean
+'therefore') are marked for focus. A change in the basic constituent order only
+applies when the subject of a transitive or intransitive clause is focused. Typical
+contexts for focus involving deviating constituent order are content questions
+and the frontshifting of subjects. As illustrated in (945a), the latter results in the
+order AOV, since all other constituents remain unchanged. However, the scope
+of focus sometimes involves more than a single constituent: In (945b), the
+subject plus the adverbial expression nianatii 'even' are focused to mean 'even
+the people from the other side of the Maranon River'.
+",2.3,"No dominant order, OVS, OSV","[679, 680]",4,8,0.9280376075822688,1
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+Sentences: More than one tone 1 41
+Regarding the ""order"" of tone assignment in this context, the rules applying
+to noun-adjective constructions are neutralised in favour of the possessive
+construction.
+4.7Sentences: More than one tone
+In the previous sections it has been illustrated that on the basis of tonal classes
+for nouns, syntactic phrases which involve a noun have a largely predictable
+tonal structure. Most typically, there is one Η tone per constituent and its
+position depends on the tonal class of the noun which precedes a verb,
+adjective, or postposition. The verbs involved in verbal phrases analysed so far
+were transitive. In §4.7.1, I will discuss different tonal types for verbs.
+Comparable to the tonal structure of Type D nouns, there are some verbs that
+appear to be lexically prespecified for tone, i.e. they deviate from the final-H
+pattern. In §4.7.2, it will be shown that a clause with an overt noun subject
+contains more than one tone. I then analyse the tonal peculiarities in a few
+selected constructions such as clauses that involve adverbs (§4.7.3), focus
+constructions (§4.7.4) and serial verbs (§4.7.5). There is a range of further
+contexts that also exhibit special tone patterns, such as infinitive constructions,
+subordinate clauses, participles, nominalisations, and sentences with introducer.
+These involve a set of complex peculiarities, which will not be discussed here.
+It should also be noted that, while certain principles can be identified, the
+generalisations made here are tentative at the present stage.
+4.7.1 Tonal patterns on verbs
+Nearly all transitive verbs have a final Η tone when they are in isolation or
+when they are followed by a subject noun. Note that a 3ps object of a clause is
+usually not marked, i.e. a zero object is automatically understood as 3ps
+pronominal referent. The examples in (196) show two transitive verbs with zero
+objects; both are realised with a final Η tone, as is the subject. The tonal class of
+the noun that functions as a subject does not play a role, since the tone
+assignment rules apply from left to right, as observed in previous sections.
+(196) Transitive verbs without overt object
+a)
+kwituku-äkatQä
+know-3ps/Aman
+'The man knows him.'
+",2.2,,"[160, 161]",3,9,0.9048270571126622,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:34 PM
+668 Constituent order
+ Again, this order is not compulsory for the 'must' construction, as exemplified
+ in (955). Here, the subject is found in regular, final position despite the presence
+ of'must'.
+ (955)Unmarked constituent order with 'must' construction
+ a)
+ßäenehelaune-~tamiani-a nerajtene iglesia mi komunida
+ [already] [other.side be-PRT] [work-3ps/D must] [church that community]
+ [ADV] [ADV] [V] [S]
+ 'The community of this church must already work differently.'
+ b)
+ eskwela keku-uru-anerajtenekanaanaj-uru
+ [school VLI] [go-PL-3ps/D must] [child-PL]
+[Ε] [V] [S]
+ 'The children must go to school.'
+ Parallel to the examples given with the expression for 'also' and 'even', the
+ fronted position of the subject in 'must'-constructions implies focus or
+ emphasis, whereas the regular position does not imply this. Thus, nearly all
+ instances of constituent order that deviate from the basic OVA/VS pattern can
+ be explained by focus or emphasis, which is either formally marked or
+ associated with particular constructions. However, there are a few isolated
+ examples that exhibit subject-initial order without any formal marking and
+without involving any of the expressions or constructions discussed above. Two
+of these are given in (956). Example (956a) was later described as ""ugly but
+ understandable"" by other speakers; the example in (956b) resembles a
+construction that involves a copula complement, as is illustrated in (957).
+(956) Deviating constituent order without formal marking
+a)
+mihaunileeneku helaj neda-e
+ [that because] [that woman] [there] [separate][stay-3ps/E]
+[CNJ][S][ADV] [ADV][V]
+ 'Therefore, that woman stayed there by herself.'
+b)
+ßäe itulereakauru rukuele, itulere ruria, itulere ubißa,
+already [all.kinds 3pl things all.kinds masato.potall.kinds stirring.stick
+ [S]
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:34 PM
+Deviating order types 669
+ itulere-uru jiäeamu-ahe
+ all.kinds-PL] already[walk-CNT:3ps/E]
+ ([S]) [V]
+ 'Already several of their things, various pots, stirring sticks, all kinds of things kept
+going [i.e. they turned into water animals].'
+ In order to account for the irregular order in (956b), one could assume that the
+copula form ne-7, as found with the surrounding sentences in this context was
+omitted for some reason: there is a special copula construction having the
+meaning 'turn into'/'become', with intransitive function. As illustrated in (957),
+the copula complement, (which occurs in the same position as the Ο argument
+of a transitive verb), is followed by a participle form of the copula and a motion
+verb for ' g o ' or 'walk' that bear the inflection. Literally, this combination could
+be translated as 'it went being a (e.g. turtle)'. All examples occur in the same
+context, where the speaker lists all the household items that turned into animals
+during the flood. Interestingly, in four of the clauses (all listed in enumeration),
+the subject appears in initial position, followed by the object, but both preceding
+the verb. This is exceptional as similar structures are not found otherwise.
+Another exceptional aspect of this construction is that it occurs without any
+focus marker, which would normally appear when a subject is shifted to the
+front.
+(957)Irregular constituent order with idiomatic copula construction
+a) net + amua:
+akaurururia jiäenuri ne-1 amu-e
+[3plmasato.pot] [already] [turtle] [be-PRT walk-3ps/E]
+ [CS][ADV][CC][V]
+'Their masato pots already turned into turtles.'
+b) net + amua with CNT form:
+akauru rajd$ufivana kurarl ne-1 amu-ahe
+[3pl POSS flute][macane.fish] [be-PRTwalk-CNT:3ps/E]
+ [CS][CC][V]
+'Their flutes were already turning into macane fish.'
+c) rm + lata:
+kaururajeruari ahaijxne-1 ku-e
+[3pl POSS mosquito.net] [paiche.fish][be-PRTgo-3ps/E]
+[CS][CC] [V]
+'Their mosquito nets turned into paiche fish.'
+",3.0,OVS,"[687, 688, 689]",5,10,0.9108820347543684,1
+" Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:34 PM
+ Causative 615
+(886)Verb 'give' with causative (elicited)
+äahera ke=te kiritgate-rati-a akauru raj
+[angel VLI=FOC][book][give-CAU2-3ps/A][3pl for]
+ [Ε] [Ο][V][Adjunct]
+'He had the angels give the book to them.'
+Regarding the constituent order in sentences where many NPs surface, there
+appears to be only one preference: an Ε argument or a recipient typically is in
+the periphery, i.e. it does not commonly occur between verb and object or verb
+and subject (for exceptions see §18.4). There is no restriction as to whether a
+peripheral argument occurs before or after the verb. In (886), the Ε argument is
+found in initial position, as it is marked with a focus marker. The focus marker
+is not obligatory in order to have Ε in this position, as is shown by (882b) and
+(883a), among others. Alternatively, the ke-phrase can also occur in postverbal
+position (cf. (882a).
+",2.3,"No dominant order, OVS, SVO","[634, 635]",4,11,0.904468401421635,1
+"In defining the typical properties of adjectives, several tests are commonly
+used in order to distinguish an adjective class from other word classes. The
+main point of distinction then is whether they are ""verb-like"" or ""noun-like"".
+The following criteria help to identify them for one of the two groups. In order
+to compare a potential adjective with a noun, the following checkpoints (listed
+here as based on cross-linguistic tendencies) should be involved:
+ 1) Can the word function as a nominal head? - While this is obviously a typical
+ property of a noun, it is not one of adjectives.
+2) Can it function as a noun modifier? - This is a typical characteristic of an
+ adjective, and in some languages also a feature of nouns. In Urarina, only a
+ very limited group of nouns can function as such.
+3) Can it function as a copula complement? Even though this is a property also
+ associated with nouns, adjectives typically appear in this function.
+4) Can the word take a noun plural? - This is another property that applies to
+ nouns. In number agreement (which Urarina has only in part and as an
+ optional feature within the NP) one may expect an adjective to be marked for
+ number. In any case this would help to distinguish between noun-like and
+ verb-like adjectives.
+Properties that are typically assigned to verbs help to recognize whether a word
+is verb-like or is an actual verb:
+5) Can it take verbal suffixes?
+6) Can the word be modified by an intensifier? 30
+30
+ The intensifier hatal is typically used with verbs but, as seen in the previous section,
+it can also modify a noun in some cases. Therefore, this test is not ideal for the
+ distinction between nouns and verbs.
+",0.0,,[207],0,12,0.8564742272622321,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+ 162 Word classes
+b) Prenominal modifier:
+saatonom-a ne-naalureri
+be.last-3ps/E be-NOM house
+'the last house'
+The other nominalising suffix, -i, refers to the subject of an intransitive verb or
+to the object of a transitive verb (cf. (229)). Again, the position of the
+nominalised verb varies.
+(229) Nominalised verbs with -i as noun modifier
+a) Postnominal modifier:
+ka=raj anofioaahine-j ua-u
+ lsg=for knifebe.sharp-NOMSbj bring-IMP
+'Bring me a knife that is sharp!'
+b) Prenominal modifier (subject function):
+kau laulauelau-ikanaanaj
+here go.by.canoe-NOMSbj child
+'the child who was paddling here'
+c) Prenominal modifier (object function):
+kanu-atcahoaaune-jatane
+ lsg-onlycreate-NOM0bj land
+'the land that I created'
+In example (229c), -i refers to a verb object 'what (I) create(d)'. Note that
+another nominalising suffix, -era, refers to an A argument and the verb will take
+an object as in mi lenorie te-era ('that' 'food' 'give'-AG) 'the one who has given
+that food'. In (230), a verb nominalised with -era functions as a modifier. It can
+occur before or after the nominal head.
+(230) Nominalised verbs with -era as noun modifier
+katQa rela-era eene/ eenekat$arela-era
+man teach-AG woman / woman person teach-AG
+'a woman who teaches people'
+In addition to noun modification achieved through derivation, as discussed
+above, there are some nouns that can modify another noun, but their use is
+restricted and there are only a few (also see §6.5.4). In detail, only nouns that
+specify membership in a specific group can function as modifiers. In particular,
+this regards professions, or nouns whose semantic content coincides with
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:32 PM
+Nouns 163
+categories typically assigned to adjectives (but note that these concepts are not
+expressed by adjectives in Urarina, cf. §5.4). There are only few nouns that can
+function as a modifier of another noun and these cannot be freely combined
+with any noun, as the following examples show: the noun enamanaa 'young
+(man)' can modify the noun kat$a for 'man/person', but its use with ' w o m a n '
+or 'peccary' is not possible. Note that enamanaa typically occurs by itself. The
+order of such modifiers as enamanaa is not fixed, as it can occur in prenominal
+or postnominal position.
+(231)""Adjectival concepts"" as noun modifier
+a)
+enamanaakatga / katQa enamanaa
+young.man man
+'young man'
+b)
+*eene enamanaa *raana enamanaa
+woman young.manw.l.peccary young.man
+(232)Profession or mission as noun modifier
+eenemisjonera
+woman missionary
+'a woman who is a missionary'
+It should be noted that these constructions are elicited and not very productive.
+For instance, eene batiri 'a woman who is a priest' is not an acceptable
+combination (though this may be based on semantic restrictions). Similarly the
+modification of a noun through a noun that specifies tribal affiliation is
+restricted: it is not possible with the tribal name for 'Cocama' (a neighbouring
+group), while 'Urarina' is used as a modifier. Also the general term for 'Indio'
+can function as a modifier.
+(233)Tribal affiliation as noun modifier
+a)
+bakauakatga kiitga
+Indio man boy
+'son of an Indio'
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+ 164 Word classes
+b)
+uraripa nuse
+PLN town'
+'Urarina village'
+c)
+*kanaanaj kohoamo
+child TRN
+[to mean: 'Cocama child']
+A different type of noun that can modify another noun are nouns that specify
+the category of a proper noun, such as place names. The order in these cases is
+fixed for each modifier: with the modifier beetle, the proper noun occurs in first
+position (cf. (234a)), but in the examples (234b,c), the proper noun is preceded
+by the modifier.
+(234)Person name as noun modifier
+a)
+lomaj b-eene
+PSNASCM-woman
+'the woman Lomai'
+b)
+maria lanahose
+PSNhusband PSN
+'Jose, husband of Maria' [NT: Matthew 1:16]
+c)
+reyherodesi
+king PSN
+'Herod the king' [NT: Matthew 2:1 ]
+Another noun that can be used as a modifier is the word for ' c h i e f (which is
+also used for 'male'). In (235), it precedes the proper noun. According to
+information gathered in elicitation, the order could also be reversed, but the
+example would be ambiguous then: huliä kuraanaa could be understood as
+'chief Julian' or as a possessive construction 'Julian's c h i e f .
+",1.0,,"[181, 182, 183, 184]",1,13,0.8242781311017185,0
+"The suffix -uru is also found in nominalisations. In a verb that is derived
+with the agentive -era, the plural typically precedes the derivational suffix, as in
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:33 PM
+360Numbermarking
+(537a). However, as was discussed in §6.6.2), there is a variation in the ordering
+of suffixes, as the reverse order is also possible, such as in (537b).
+(537)Variation in suffix order
+a) Order PL + AG:
+kataikulaneate su-ur-era
+hook without fish kill-PL-AG
+'those who kill fish without a hook'
+b) Order AG + PL:
+eseneta-era-uru
+believe-AG-PL
+'those who believe it'
+With verbs that contain the habitual aspect marker -reheto (cf. §12.2.6), an
+optional double occurrence of -uru is attested with a number of examples,
+which is shown in (538). (Note that the 3pl/E form -kure is actually composed
+of -uru and the person suffix -e, but written jointly for convenience.)
+Alternatively, plural can be marked only once, in either position (before or after
+the habitual suffix): ne-rehete-kure=lu or ne-ure-rehete=lu (cf. §12.2.12)
+(538)Double plural marking with habitual suffix
+ht akauruajßakarahai ne-ure-rehete-kure=lu
+there3pl withlong.time be-PL-HABl-3pl/E=REM
+'They used to stay with them for a long time.'
+8.3Plural objects
+Urarina has a suffix that marks plurality for the object of a transitive verb.
+However, its use is restricted to certain conditions. A verb is obligatorily
+marked with the suffix -naha under the following circumstances:
+1. When the object is human and refers to 3pl, and
+2. When the object does not surface as a noun or pronoun in the clause.
+As shown in (539b), the plural suffixes for subject and object can occur in the
+same verb.
+",1.0,,"[379, 380]",1,14,0.7958020862324077,0
+"Thus, it can be concluded that Urarina has a basic constituent order
+OVA/VS, which can be subject to variation in nearly entirely predictable
+environments, related to focus and emphasis.
+18.4 Adjuncts
+18.4.1 Position ofpostpositional phrases (PPs)
+In §9.5 it was stated that there is no formal distinction between adjuncts and
+arguments in addition to A/S and O. As was argued there, ""additional
+arguments"" accompanied by ÄE, e.g. as a result of valency increase, may exhibit
+minor semantic differences to adjuncts (also cf. §16.5). A similar situation is
+implied for the postposition raj, which may indicate a recipient or beneficiary of
+verbs of saying or giving. What all postpositional phrases (PPs) have in
+common is that they are optional and entirely omittable, (which is the main
+argument for suggesting the absence of ditransitive verbs in Urarina, cf. §9.5).
+Another feature that is shared by all PPs is their position in a clause, which is
+most typically in the periphery of the core clause. The most typical position for
+any PP is before the main verb. In transitive clause with an overt Ο argument,
+the PP occurs before O. There are almost no attested natural examples for their
+occurrence between Ο and the verb. One is cited in (958), where the
+postposition raj 'for' is cliticised with a possessive proclitic; the demonstrative
+which functions as the object, in turn, is realised as a proclitic attached to itg,ej
+'for you'. Due to the clitic status of the elements involved, it is questionable
+whether this can be characterised as a PP-insertion between Ο and V. Since this
+example is marginal at any rate, one could conclude that generally, PPs do not
+occur in this position.
+",3.0,OVS,[690],5,15,0.8114334995954631,1
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:34 PM
+ Deviating order types 661
+(945) AOV order through focus
+a)
+raj kalaui=tefwei bajhja-1 ama-e
+[POSS son=FOC] [firewood] [carry.on.shoulder-PRT take-3ps/E]
+[Α] [Ο] [V]
+'Her son carries firewood on his shoulder and takes it along.'
+b) More than a constituent focused:
+nehelauninitQUkohvajtQa-kuru ma natn=te
+[other.side PLN inhabitant-PLeven=FOC]
+[A]
+mtoanei ukivanaha-ure.
+[like.that] [field][make-3pl/E]
+[ADV] [Ο][V]
+'Even the people from the other side of the Marafion River cultivate their fields like
+ that.'
+In the same way, the subject of an intransitive clause can be shifted to clause-
+initial position by the use of a focus marker. In (946a), the subject N P 'one
+man' is moved to the front, followed by the focus marker =te. (946b) shows
+focus of a subject pronoun. In dependent clauses, focus markers do not occur.
+(946) SV order through focus
+a)
+lejhiikatQa=te hatäi nesoonete
+[oneman=FOC] [very] [be.scared:3ps/E]
+[S] [ADV] [V]
+O n e man is very scared.' [from picture description]
+b)
+kaa=te hjabereonei makaak-e
+[this=FOC] [entirely][be.flat-3ps/E]
+ [S] [ADV] [V]
+'This one isentirely flat.' [about shapes]
+Focus is the most frequent cause for changes in the constituent order. As seen
+above, this is marked by a focus marker. However, there are a few more
+contexts that can coincide with a frontshift of the subject, even without formal
+marking. In particular, this applies to clauses that involve a negated verb: in
+combination with negation, focus markers are not used and subsequently, a
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:34 PM
+662Constituent order
+frontshift of the subject (if required to indicate focus) occurs without a focus
+marker. The examples in (947) slightly differ from each other: in (947a), the
+ verb is active intransitive, whereas (947b) involves a copula verb, here used
+ with existential (=intransitive-like) function.
+ (947) Constituent order in negated clause: subject-initial position (SV)
+ a)
+ hat a!jioaelu ne-nakaurunijienanihja kuane
+ [veryearlier be-those.who] [not.at.all] [canoe inside]
+ [S] [ADV][PP]
+ amu-uru-i=lu
+ [walk-PL-NEG:3ps/A=REM]
+[V]
+ 'Those who lived very much earlier did not at all go by canoe.'
+ b)
+jioaelu ena aj-a=ne tokuaneiitgafivani-ji-lu,
+ [earlier] [now AUX-3ps/D=SUB compared.to][rifle][be-NEG:3ps/A=REM]
+ [ADV] [DEP][CS1] [VI]
+ kartutgom-ji=lu
+ [ammunition] [be-NEG:3ps/A=REM]
+[CS2][V2]
+ 'Earlier there were no guns and no ammunition, like there are now.'
+ Accordingly, in a transitive clause, the constituent order can be AOV as a result
+of negation, which is illustrated in (948). Again, the copula construction can be
+compared to a transitive clause: in (948b), the copula occurs with a copula
+complement and the subject is shifted to the front.
+",2.3,"No dominant order, OSV, OVS","[680, 681, 682]",4,16,0.8175773146125578,1
+" In polar questions, the cross-referencing enclitics are not used. However, a
+special focus function can be implied by the use of the interrogative marker
+=na: While its regular position is after the verb, it can also occur on the first
+constituent. In this case, it marks focus or emphasis in the same way as a focus
+marker would do (also cf. §21). The difference is illustrated by the (elicited)
+examples in (997a,b), which contrast from each other by the position of the
+interrogative enclitic.
+(997) Focus function of interrogative =na in polar questions
+a) Regular position:
+kataikurete-i=pa
+fishing.hook buy-2ps=INT
+'Have you bought fishing hooks?' [General inquiry]
+b) Focus position:
+katai=jia kurete-i
+fishing.hook=INTbuy-2ps
+'Is it fishing hooks that you bought?' [Focus on object]
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:35 PM
+ Focus marking and clause types709
+19.2.3Focus and dependent clauses
+As mentioned in §18.3, focus in dependent clauses is not formally marked, but
+indicated by constituent order only, i.e. a constituent may be fronted without the
+attachment of a focus marker. Such behaviour, however, is extremely rare, as
+the figures in table (942) (§18.1) indicate: only in 12 out of 354 dependent
+clauses (equalling just over 3%), the subject was fronted - which is plausible
+for two reasons. Firstly, there is a strong tendency for focus to be marked only
+once per sentence. (Exceptions from this are discussed in §19.5.) Secondly, the
+information given in a dependent clause usually is peripheral as compared to the
+information given by the main clause. Prototypically, a dependent clause
+comments on the action or event described in the main clause. It is common to
+mark the entire dependent clause for focus, in order to convey the relevance of
+the information for the main event. However, since the dependent clause is
+treated like a single constituent in this case, it would be counterintuitive to
+emphasise single elements within the dependent clause. The examples in (998)
+illustrate the rare occurrence of SV constituent order in dependent clauses. For
+(998a), it must be noted that focus is also marked through the presence of
+-netomj 'also' - which is one of the exceptional expressions to predict order
+variation (cf. §18.3). Note that in this example, the focused subject refers to the
+main clause, as overt subjects with participle clauses are untypical. In (998b),
+there is no overt marking for focus in the dependent clause. The quotation 'let
+us see and do it' is embedded in the dependent clause for 'as one again said'.
+(998) Focus in dependent clause
+a) [Preceding: 'When they saw how others madetheir fields, they were surprised.']
+riete ßäeakauru-netomj nerela-1,jiäe enenenitoanei
+[but] [already] [3pl-also] [learn-PRT][already] [nowadays] [like.that]
+[CNJ] [ADV] [A2][VI][ADV2][ADV2][ADV2]
+n=ukwana ha-ure
+[3ps=field] [make-3pl/E]
+ [02][V2]
+'But nowadays already, they, too, make their fields like that, learning already.'
+b) [Preceding: 'One man said, ""What would happen if I slowly went with the paddle to
+get (the axe)?'""]
+rtiihauhetau=te leotgahoajtel,
+[that becauseHRS=FOC] [other][again]
+ [CNJ2] [SI] [ADV 1 ]
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:35 PM
+ 710 Focus
+ d^aha-ι, ajane itga-lhoara-u, na-a hau hetau,...
+ [come.on-PRT yes do-PRTsee-IMP] [say-3ps/D] [because HRS]
+ [QUOT] [VI] [CNJ1]
+heraekihja ke ku-ati-1 ra-a
+ [slowly][paddle INST] [go-DER-PRTreceive-3ps/A]
+ [ADV3] [PP3][V3]
+ 'Therefore, as one [man] said, ""come on, yes, let's see and do it', ... he slowly went
+with the paddle to get it.'
+ 19.2.4Negative clauses
+A further context in which focus markers do not occur is in negative clauses. As
+mentioned in §18.3, focus is achieved by shifting the relevant constituent to
+clause-initial position without using the focus marker. In (999), the subject is in
+front position, but no focus marker is present. However, note that the verb is
+obligatorily marked with the Ε-form, which otherwise co-occurs with the focus
+marker.
+(999) Frontshift without focus marking
+[Preceding: 'Therefore, there is no such thing any more.']
+enene ne-nakauruenamanaa-kuru katQa-uru huituku-ur-ene
+[nowadays be-those.who young.man-PL man-PL] [know-PL-NEG:3ps/E]
+ [A][V]
+'The young people from nowadays do not know it.' [About traditional naming]
+The pragmatic functions related to the front position of the subject in this case
+again are ambiguous, since both focus and topic functions are implied here. On
+the one hand, the enclitic could refer to topic, since 'the young people' have not
+been previously mentioned in this text and it is plausible that the speaker now
+turns to their situation. On the other hand, 'the young people' are in contrast to
+'the old people', whose customs were discussed in previous sentences.
+Therefore, contrastive focus is also implied.
+",2.3,"No dominant order, OSV, OVS","[728, 729, 730]",4,17,0.8232231039303485,1
+" All verb-like ""adjectives"" are derived; their behaviour is quite similar to that
+of Stative verbs. Again, the main difference lies in their function as a modifier.
+5.4.5 Sequences of noun modifiers
+It is possible to combine several modifiers in a phrase, but this seems to be quite
+rare in natural speech. All examples for such sequences are taken from the NT.
+In addition, no particular pattern can be recognised that would postulate a
+prescribed order of the different modifiers. The examples given below each
+contain two adjectives, which are distributed around the noun in prenominal and
+postnominal position, or both occur after the noun. It must also be noted that the
+attested examples all involve deverbal adjectives, without any involvement of
+adjectival nouns, which are not attested as sequences of modifiers. The first
+example in (301) shows a sequence of stative verbs nominalised with /-i/. The
+literal translation 'blackish red' is meant to describe a dark purple colour. The
+second example illustrates the prenominal use of the nominalised form of 'be
+white', followed by the noun, which in turn is followed by kanatga in
+modifying function.
+(301) Modifier sequence with deverbal modifiers through nominaliser -i
+a)
+nii kahjunelanaha-j hitQiia-hiohiua-j
+thatclothbe.red-NOMsbj be.black-DER-NOM S b j
+'that purple cloth' [NT: Mark 15:20]
+b)
+somaha-j kahjunekauatga hikiaki-i
+be.white clothgoodshine-NOM Sb j
+'a nice, white, shining cloth' [NT: Revelation 19:8]
+More frequent than a sequence of nominalised verbs is the chaining of verbs that
+carry a participle suffix, i.e. these function as adverbials. This is not surprising, as
+sequences of several participle constructions (representing clauses with different
+types of transitivity) are very common in Urarina (cf. §20.3). In a similar way,
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+ Adjectives 207
+nominalised modifiers co-occur with participle forms, as example (302b) illustrates.
+The order of nominalised verbs followed by a participle is not systematic, as other a
+different order than the one observed below can occur with other examples.
+(302)Modifier sequence with deverbal modifiers and participle -7
+a)
+eku m-a lejhiiatajbijiaaetasipohwa-~i lanaha-1
+there be-3ps/Aone animalbe.big-PRTbe. red-Ρ RT
+'There was one big, red dragon.' [NT: Revelation 17:3]33
+b)
+lejhiiatajbipaaedragon lanaha-jtaslpohwa-l
+one animaldragon be.red-NOMSbj be.big-PRT
+'a great red dragon,...' [NT: Revelation 12:3]
+Since sequences of modifiers do not seem to be common in the language, one
+would not expect specific strategies for their ordering to be employed in the
+translation of given sentences.
+5.4.6 Comparison
+As mentioned in the beginning of §5.4, Urarina does not have a morphological
+comparative. However, there are a number of alternative strategies that allow a
+comparison of qualities. Comparisons that imply superiority or inferiority
+scarcely occur in the text database; thus, the majority of the examples given for
+these is elicited. Comparisons that refer to equality are much more frequent,
+which might imply that this concept is more significant than other types of
+comparison, in terms of cultural values. Any kind of comparison is made
+through derived forms of verbs such as 'exceed', 'be less', or 'be like'. The
+table in (303) given an overview of the various comparative strategies. This
+includes the reference to the type of parameter, i.e. the quality or content with
+respect to which a comparison is drawn. While it is common from a cross-
+linguistic perspective that the parameter is expressed by words referring to
+quality (e.g. adjectives), this is not the case in Urarina. In most cases, the
+parameter of comparison is expressed by a clause.
+33
+The words eku and atajbipaae are Chambira dialect variants of the Espejo
+forms ku and tajbipaee.
+",1.0,,"[226, 227]",1,18,0.8063216928592262,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:34 PM
+ Position of dependent clauses 691
+heri-a kana+hoaaun-era=ne rihihelne=lu
+[want-3ps/Dour.creator=SUBlike][be-3ps/E=REM]
+ [DEP2] [V]
+'Only one (man) Noah ... [out of all people that God had created] lived well, and was
+ like God wanted him.'
+Complement clauses generally precede the main clause, apart from very few
+exceptions (cf. §23.3). Apart from that, constituent order is largely unaffected
+by other clause types. The main difference is that content questions involve a
+focused interrogative pronoun. Otherwise, questions have the same syntactic
+structure as declaratives (cf. §21). Similarly, imperatives do not exhibit
+syntactic peculiarities (cf. §15). Focus is discussed in greater detail in §19
+In summary, Urarina has a constituent order that can be characterised as
+pervasively OVA/VS, which is manifested both qualitatively and statistically as
+the unmarked order in transitive and intransitive clauses, both as independent
+and dependent, with affirmative as well as with negated verbs. The few cases in
+which an alternative (AOV/SV) order is possible are confined to pragmatically
+dependent contexts that involve focus or emphasis with subsequent fronting of
+the subject. Adjuncts such as PPs and adverbs predominantly occur before the
+verb, mostly in the periphery of the clause.
+",3.0,OVS,"[710, 711]",5,19,0.8188173783908417,1
+" Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:34 PM
+Passive 597
+The examples in (860) have illustrated the use of the passive form in
+combination with the auxiliary, through which the complex of verbal stem,
+passive marker and cliticised auxiliary with inflectional suffixes seems to
+function like any other verb. Note that many suffixes that potentially occur on
+most verbs are not attested with the auxiliary attached to a passive form. It is
+unclear whether this is the result of systematic exclusion or simply due to the
+fact that this form is relatively rare. In fact, the most common use is with
+person, negation, and tense markers, or with the participle marked on the
+auxiliary. The latter is shown in (861), where the entire combination of
+passivised verb and auxiliary represents a participle clause (cf. §20.3). In this
+case, person and other grammatical features are expressed on the verb of the
+main clause. (861a) illustrates third person marking (Ε-form) on the free copula
+ne 'it is', while the passive form on 'buy' is followed by the copular auxiliary
+marked with the participle suffix, literally meaning 'being bought'. A similar
+example is given in (861b), where an inflected form o f ' r u n ' represents the main
+verb, while 'being called' functions as a participle.
+(861) Passivised verb with copular auxiliary in the participle form
+a)
+aj, ßäekurete-noi=jie-i=te ne niiii-tga
+yes [already][buy-PASS=be-PRT=FOCbe:3ps/E] [that 2sg-only
+ [ADV] [V][S]
+baha-ur-i
+ask-PL-NOMobj]
+'Yes, what you had requested already has been bought.' [Lit. 'it is being bought']
+b)
+mi=tekat^a kutia-mhzui-jie-lajßa amunei ... suru-e
+[that=FOC] [man call-PASS=be-PRT with as.if][run-3ps/E]
+ [S] [DEP][V]
+'That [girl], as if called by some man, ran (away).' [Lit. 'as if with [the state of] being
+ called']
+16.1.3 Argument structure
+Another important question regards the role of the arguments within a passive
+construction. Normally, a formal passive involves the decrease of verb valency
+as its object (O) takes the function of the subject while the subject (A) is shifted
+into the periphery of the clause (if surfacing at all). In Urarina, it is very
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:34 PM
+ 598 Valency changing mechanisms
+common for A not to be mentioned at all in a passivised clause. The subject of a
+clause is marked on the verb, which is realised through person marking, while
+NPs do not receive any formal marking, e.g. for case. Thus, the syntactic
+functions of the involved arguments are expressed by constituent order (but note
+that this order can be modified through the use of a focus marker).
+",2.3,"SVO, SOV, VOS, VSO, OSV, OVS","[616, 617, 618]",4,20,0.8237030088144609,1
+"In a transitive clause, the tones on subject and focus marker behave in the
+same way as in an intransitive clause. However, the object noun, which directly
+precedes the verb, triggers the usual pattern on the verb, according to the tone
+class of the noun.
+(208) Focus construction with transitive verb and noun object (AOV order)
+a) With Type A noun as object:
+katg>a=teenejtQusw-e
+man=FOC monkey kill-3ps/E
+'The man killed a monkey.'
+b) With Type Β noun as object:
+ka.tQa.=te o.ba.na hoa.ra-e
+man=FOC peccarysee-3ps/E
+'The man saw a peccary.'
+c) With Type C noun as object:
+ka.nu.=ne ree.mae kiva.ra.-u
+lsg=FOC:lsg dogsee-lsg/E
+Ί saw a dog.'
+d) With Type D noun as object:
+ka.nu.=ne e.na.ma.naa hva.ra.-ü
+lsg=FOC:lsg young.man see-lsg/E
+Ί saw a young man.'
+",3.0,OVS,[167],5,21,0.8347322710822873,1
+"This preference becomes even clearer in dependent clauses. In fact, 91 % of
+all dependent clauses that have an overt argument follow this rule, whereas only
+9% (12 out of 128) exhibit deviating orders. Again, it is observed that ""V"" is the
+most frequent clause type.
+(942)Constituent order in dependent clause
+Text no.:T7 T12 T13 T16 T23A T34 T35A TotalTotal %
+Speaker: JN HN JN ι MA HN HN
+V237 33532483 3226 63.8
+vs6 1 3 5 110 0 267.3
+sv305 1 00092.5
+ov14 4 21101 30 4 84 23.7
+VA001 0 00010.3
+AV200 0 0 1 030.8
+OVA 200 1 02051.4
+AOV 000 0 00000.0
+Total5012637026 126 7354100.0
+18.2Intransitive clause
+As mentioned above, the unmarked constituent order in intransitive clauses is
+VS. This is illustrated in (943), where this structure is shown in independent
+clause and in (944) for dependent clauses. Similar to corresponding
+constructions with transitive verbs, the absence of a subject noun is very
+common in dependent clauses. The examples in (943) illustrate various types of
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:34 PM
+Intransitive clause 659
+ intransitive verbs, such as active intransitive verbs (943a), stative verbs (943b),
+and the use of an intransitive verb as the inflected verb in a serial v e r b
+construction (cf. 943c)). T h e sentence in (943d) contains a copula, which, with
+existential function, behaves like an intransitive verb (cf. §9.6.4).
+(943)Unmarked order VS: Independent clause
+a) With intransitive verb 'get angry':
+niihau hetau=teubaa-he mi unee
+ [that because HRS=FOC] [get.angry-3ps/E][thatkinkajou]
+[CNJ] [V] [S]
+ 'Therefore, the kinkajou got angry.'
+b) With stative verb:
+tasißohwa-akaa lureri
+ [be.big-3ps/A][this house]
+ [V] [S]
+ 'This house is big.'
+c) With serial verb:
+ßäe n=akatia launeto-au-e niihanolari
+ [already] [3ps=next.to] [sit.down-NTRcome-3ps/E][that jaguar]
+ [ADV][LOC][V] [S]
+ 'That jaguar came to sit down next to him.'
+d) With copula:
+niibaja ßäeni-aitulere rukuele
+ [that after] [already] [be-3ps/A] [all.kinds things]
+ [CNJ][ADV] [V][CS]
+ 'After that, there already were all kinds of things ... [in order to hunt].'
+T h e s a m e constituent order applies to intransitive dependent clauses. In (944a),
+the v e r b netooka is involved, which literally refers to ' h a n g up (a mosquito net)',
+ 7fi
+but is used intransitively to mean 'prepare to s l e e p ' / ' g o to sleep'. T h e other
+sentence (944b) exemplifies V S order with a copula in dependent clause, again
+with existential function.
+78
+The verb probably contains the intransitiviser ne-. However, a transitive base form,
+which would be *tooka, is not attested.
+",1.0,,"[678, 679]",1,22,0.8201893298718885,0
+"Another word-related phenomenon observed in Urarina regards the
+distribution of tones: every word (in isolation) tends to have exactly one Η tone.
+When words are combined to syntactic constructions, different rules apply, but
+this will be discussed in detail in the following section.
+2.11Clitics
+Clitics are relevant for the discussion of the phonology of a language as they
+typically exhibit phonological peculiarities. At the same time their status is also
+important for the grammatical structure of a word. More accurately, clitics
+represent a special kind of unit for the distinction between ""word"" and ""affix"".
+It is widely agreed that clitics are phonologically deficient from a typological
+point of view. Typically, this means that a clitic does not bear prosodic features
+such as stress or tone. The situation in Urarina, however, is not quite as simple
+as that, since the numerous clitics found in the language can be distinguished
+from each other by a range of features. The grammatical properties and
+functions of clitics, and their relative order when attached to a verb, are
+discussed in §12. Here I will analyse the status of the clitics listed in (97) as
+elements that share properties otherwise assigned to words and affixes.
+However, as will become clear, it is not possible to divide clitics into clear-cut
+classes, as the features they share with each other or with affixes and words
+overlap.
+",1.0,,[100],1,23,0.8113913729733102,0
+"It should be noted that negation does not normally incur subject-initial order;
+this only applies when focus or emphasis of the subject are implied. Examples
+for the regular constituent order in combination with negation are given in
+(949).
+(949) Constituent order in negated clause: subject-final position (VS, OVA)
+a) Transitive independent clause:
+rüjejn=eretomra-na here-kur-ene=lukatQa-uru
+[not.at.all] [3ps=word] [obey-INF want-PL-NEG:3ps/E=REM] [man-PL]
+[ADV][Ο] [V][A]
+'The people did not at all want to obey his words.'
+",3.0,OVS,[683],5,24,0.8263835251849461,1
+" 1990The pragmatics of word order: Typological dimensions of verb initial
+ languages. Empirical approaches to language typology 7. Berlin,
+ New York: Mouton de Gruyter.
+Prince, Alan, and Paul Smolensky
+ 1993Optimality Theory: Constraint Interaction in Generative Grammar.
+",2.1,,[958],2,25,0.8283651099198882,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:33 PM
+ 326Noun Phrasestructure
+ c) With -naa:
+ nautakahe u-naa kat$a=teturu-e ikito-o
+ PLN from come-NOM man=FOC arrive-3ps/EPLN-LOC
+ 'The man who came from Nauta has arrived in Iquitos.'
+ d) With -era:
+katga ki-ur-erabakaua-kuru
+man eat-PL-AG Indio-PL
+ 'the indios who ate people'
+e) With-nakauru:
+saata marta kahe turu-nakauru katga-uru=te asejte baha-e
+PLN from arrive-those.who man-PL=FOC oilask-3ps/E
+ 'The people who came from Santa Marta asked for oil.'
+While the position o f the relativised clause as illustrated above is typical,
+examples with a different structure are attested as well. The N P s in ( 4 9 4 )
+involve a relative clause that f o l l o w s the head noun. N o t e that examples for as a
+relativiser -i with object reference is not attested in this position.
+(494)Relativised clause following the head noun
+a) With -iand subject reference:
+äaka ka=kanaanajlaulauelau-i
+'where.isthis=child go.by.canoe-NOM Sbj
+'Where is that child who was going by canoe?'
+b) With -naa:
+miranuna nitahe-naa kuraa=te marjane
+that girlget.lost-NOM name=FOC PSNbe:3ps/E
+'The name of the girl who got lost is Maria.'
+c) With -era:
+lejhn katQabarue ku-erane-ιne-naa
+one manmasato drink-AG be-PRT be-NOM
+'one man who drinks ayahuasca'
+d) With-nakauru:
+letguijka-j kat$a-uru lomajatane heamu-nakauru
+ten-NOMsbjman-PLPSNlandVLI walk-those.who
+'the ten men who went to the land of Lomai'
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:33 PM
+Involvement of other word classes as modifiers327
+ The following table summarises the order of the different types of relative
+ clauses with respect to the head of an Ν P. It becomes evident that the position
+ of the relative clause before the head is more typical, while the occurrence of
+ relative clauses in post-head position is comparatively rare or unattested for.
+ Again, it is unknown whether the variation in position of a relative clause has
+ any impact on the interpretation.
+(495) Position of relative clauses within the NP
+ Before head Ν After head Ν
+ NOM sbj with -z; object reference yesno
+ NOM0bj with -z; subject reference yes rare
+ AG with -erayes rare
+ NOM with -naa yes rare
+ NOM plural with -nakauruyes rare
+6.7Involvement of other word classes as modifiers
+Adverbs can occur as modifiers within the NP, or, more precisely: they modify
+a verb, which is then nominalised. In this context, adverbs precede the
+relativised clause; demonstratives typically occur before the adverb. Note that
+this is in contrast to their occurrence in clauses, where the position of most
+adverbs is relatively free (cf. §18.4.2).
+(496) Adverb ßoaelu in NP with relativised clause
+a)
+ßoaelu ne-nakauru katQa-uru
+earlierbe-those.who man-PL
+'those who lived earlier'
+b)
+nii ßoaeluurarißa-uru
+that earlierUrarina-PL
+'those ancient Urarinas'
+The following examples show the presence of several adverbs in a relative
+clause embedded in an NP. However, the order between a demonstrative and a
+relative clause is fixed, as the demonstrative always occurs before the relative
+clause, including any adverbs that modify the nominalised verb. In (497a,b), the
+demonstrative precedes the locational adverb kau and the temporal adverb ena,
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:33 PM
+328Noun Phrase structure
+respectively. In (497c), there are two adverbs: kau occurs in initial position,
+while the demonstrative kaa modifies the temporal adverb ena, which follows,
+to mean ""this now"".
+(497)Demonstratives and adverbs in the NP
+a) [DEM + [ADV + REL]]:
+kaa kaune-nakauru
+[this [herebe-those.who]]
+'these who are here'
+b) [DEM + [ADV + [REL+ Ν]]]
+kaaena ne-naahanonaa
+[this[now [be-NOM day]]]
+'the day, which is now'
+c) [ADV + [DEM + [ADV + [REL + N]]]]:
+kaukaaenane-nakaurutabauru=te u-uru-ne-re=l
+[here [this[now [be-those.who some=FOC]]]] die-PL-NEG-IRR:3ps/E=ASS
+'Some of those who are here now will not die.' [NT: Matthew 16:28]
+6.8 Summary
+For several reasons it is not possible to represent the order of Urarina noun
+modifiers in a hierarchical manner:
+1. Some classes of modifiers are not homogeneous in that they contain some
+members, which occur in one position, while others occur in a different
+position.
+2. Some classes of modifiers contain members that are variable and occur in
+various positions.
+The attested combinations of different kinds of elements within the N P are
+summarised in (498), where for each modifier type, it is indicated whether it
+occurs in prenominal or postnominal position and which other modifiers it can
+precede or follow, respectively. Note that the relative order between modifying
+nouns and relative clauses is unclear due to lack of examples.
+",1.0,,"[345, 346, 347, 348]",1,26,0.8247015415088018,0
+" Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:33 PM
+394Verb classes
+ 9.6.2Attribution
+In §5.4 it was stated that Urarina has no homogeneous class of adjectives, but a
+number of adjective-like words, with a range of properties that may differ from
+word to word. One of the features mentioned was the possibility for a word to
+occur as a copula complement (which does not apply to all adjective-like
+words). However, some are indeed found as copula complements and again,
+their position can be clause-initial (object position) or following a fronted
+copula subject (cf. (583b)). Note that examples with the adjectival noun plus
+focus marker are not attested, which could be due to the fact these mainly
+function as modifiers.
+(583)Adjectival noun as copula complement
+a) Regular constituent order:
+laauhwiri ni-akaaate
+[small] [be-3ps/A] [this fish]
+[CC] [V][CS]
+'This fish is s m a l l . '
+b) With focus:
+itQasuitea-naa=te baaso
+[brother do-NOM=FOC] [bad][be:3ps/E]
+[CS][CC] [V]
+'What my brother does is bad.'
+9.6.3Locative
+The copula complement can also function as a locative, with or without
+postposition. It is realised as a noun that refers to a location or as a locational
+demonstrative (cf. §5.6.2). Since there is no specific marking for this function,
+the difference between identity/equation and locative function only becomes
+clear through context. For instance, the reading of (584a) as 'The snail is an
+entrance' is ruled out by the context, or by general knowledge of logical
+relations.
+",3.0,OVS,"[413, 414]",5,27,0.8429870591769583,1
+" Function
+ 1 Causative-1 (intr. verbs)
+2Causative-2
+3Possibility, with negation
+4Aspect: continuous (order may vary)
+5Impersonal passive; with negation
+6Aspect: habitual (order may vary)
+7Distributive (order may vary);
+ Plural object (order may vary)
+8Velocity (order may vary)
+9Diminutive/Counterexpectation (order may vary)
+10 Aspect: completive
+ 11In-law talk
+12 Plural-1 (order may vary)
+13 Probability
+14 Irrealis
+15 Negation
+16 Person
+17 Plural-2
+56
+ One may also say that there are only five enclitic slots, since the last two contain
+ clause clitics. However, as their most typical occurrence is on a verb, they will be
+ discussed in this chapter.
+",1.0,,[476],1,28,0.8438304556756934,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:35 PM
+Language endangerment and Hispanicisation 899
+ (1231) Innovative forms of 'but'
+ a) Pero\
+ aaüke nijejheriane tabauruu-i, peroriete
+ though not.at.allmaybe some come-NEG:3ps/Abut but
+ kana+hoaaun-erakanakuruatahani-a nerajjie
+ Our.creator lpl/in help-3ps/D must
+ 'Even though some [people] maybe have not come at all, (""but"") God must help us.'
+ b) Sino:
+ alasjete ke ma natiiere-i=ßehoatia kauatQa-i,sino
+ seven.o'clock VLI evenspeak-2ps=CND notgood-NEG:3ps/Abut
+ alasjeteimedia ke ere-i=ße=terautohwe-ιere-ri-tQaaka=m
+ half.past.seven VLI speak-2ps=CND=FOC be.calm-PRT speak-IRR-lpl/du=ASS
+ 'If you talk [over theradio] at seven o'clock, it is not good, but if you talk at half past
+seven, we can talk intranquillity.'
+ One might expect that the peculiar constituent order of Urarina would also be
+ subject to pressure from Spanish (a notorious A V O / S V language), but
+ significant changes to constituent order in Urarina are not observed. As
+mentioned in §18.3, there are a few isolated examples of an S or A argument
+occurring in preverbal position that cannot be accounted for in terms of the
+predicted features (focus, emphasis, negation). Beside that, in one of the dialects
+ investigated further above (Copal), two examples with an Ο argument in
+postverbal position were observed. While such examples are extremely rare,
+one could of course attribute these to the influence of Spanish.
+",3.0,OVS,"[918, 919]",5,29,0.8658159174999216,1
+"A further suffix to appear on verbs is the infinitive marker -na, which is used
+to mark same subject complementation (cf. §20.2.1). Similar to other suffixes, it
+can be preceded by other suffixes (cf.(762)). Examples for this include the
+causatives -a and -erate (slots 1, 2), the plural object suffix and the distributive
+(zone 7), and the velocity suffix (slot 8). However, most commonly, -na is
+found as attached directly to the root.
+(762)Infinitive marker preceded by other suffixes
+a) After causative:
+muku-erate-na here-kuru-a=nesajhjel
+catch-CAU2-INF want-PL-3ps/D=SUB although
+'even though they wanted to have him caught...' [NT: Matthew 21:46]
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:33 PM
+ Other morphemes in postverbal position521
+b) After distributive:
+itQa-hahoa-nanajni-a
+make-DSTR-INF be.able-3ps/A
+'She was able to make one by one.'
+In the following, the positions of the markers discussed in this section are
+summarised. The table in (763) is an attempt to represent the available data in a
+systematic way. However, one must be aware that some gaps still have to be
+filled since not every possible combination is attested. T h e order of the
+morphemes f r o m top to bottom may be understood as a tentative approach
+towards a linear order.
+(763) Summary of additional markers
+MarkerCan be preceded by Can be followed by
+(slot)
+Infinitive suffix -na CAUl: -a( 1) (none)
+CAU2: -erate (2)
+CNT -ahe (4)
+PLO: -mha (7)
+DSTR -ahva (7)
+RAP -uri (8)
+Passive suffix -nol CAUl - a ( l ) (none)
+CAU2 -erate (2)
+Neutral suffix -a CAUl -a{ 1)(none)
+CAU2 -erate (2)
+CNT: •ahe (4)
+PLO: -mha (7)
+Emphatic suffix -atga 'only'CAUl: -a( 1) Person markers (17)
+PLO: -mha (7)(rest unclear)
+Suffix -lai 'while' NTR -a (none)
+Hortative suffix -e CAUl -a (1)PL -tge{ 17)
+DST -niClitics: classes 19, 24
+Jussive suffix -ipe CAUl -a (1)PL -tge (17)
+PL -uru (12) Clitics: classes 19, 24
+Jussive suffix -mil CAUl - a ( l ) PL -tge( 17)
+PL -uru (12) Clitics: classes 19, 24
+Distal suffix -ni CAUl -a (1)PL -tge{ 17)
+IMP -« Clitics: classes 19, 24
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:33 PM
+ 522 Verbal morphology
+Marker Can be preceded by Can be followed by
+ (slot)
+Imperative suffix -u CAUl - a ( l ) PL -tge (17)
+ EMPH 'only' -at$aClitics: classes 19, 24
+ RAP -uri (8)
+ DST -m
+Privative suffix -elanaala CAU2: -erate (2) (none)
+ IMPOS -naka (3)
+ PASS -noi
+ PLO -mha (7)
+ CPL -si (8)
+Participle suffix -1 CAUl -a (1)(none)
+ CAU2: -erate (2)
+ CNT: -he (4)
+ PLO -naha (7)
+ DSTR -ahoa (7)
+ RAP -uri (8)
+ 12.5 Discussion
+Even though person is the only obligatory marking on verbs, the large number
+of suffixes that can be combined (with a few theoretical exclusions) makes
+Urarina a highly polysynthetic language. To give an overview, the order of
+suffixes that were presented in §12.2 is summarised in (764). The table does not
+include those suffixes that exclude person marking, as was discussed in §12.4. 61
+It also indicates whether the order of the respective slots may vary or not.
+61
+ Recall that -afpa 'only' can occur with person markers, but at this stage, not enough
+ information is available as to determine its exact position.
+",1.0,,"[540, 541, 542]",1,30,0.8665152875514056,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:34 PM
+ 19 Focus
+ In §18.3, it was highlighted that any variation to the regular constituent order is
+ related to a frontshift of the subject or other constituents to mark focus. To
+ clarify what is meant by ""focus"" in this grammar, some of the terms related to
+this will be defined first.
+As there is a lack of uniformity in terminology within the linguistic community,
+there is considerable degree of disagreement among linguists regarding the
+definition of ""focus"" and other categories of information structure such as
+""topic"", ""theme"", ""rheme"", and ""new vs. given information"". Most authors
+agree that the notion of focus and topic are related to the concept of old (or
+given) information vs. new information. Old information may be characterised
+as knowledge which is available to the listener at the time of utterance through
+general knowledge or because it has been introduced before in the discourse. In
+many languages, old information can be expressed through definiteness. New
+information, in contrast, involves material that is added to the discourse for the
+first time. In an oversimplified manner, topic is often characterised as ""what the
+sentence is about"" whereas focus tend to be described as ""an element of a
+sentence with particular prominence"". These definitions are brutal
+generalisations of a concept that is too complex to be discussed in detail here.
+Gundel & Fretheim (2005) distinguish between relational and referential topics
+- the former referring to the theme of an utterance (which is complemented by
+relational or information focus as representing the new information about the
+topic), the latter as referring to topic as the current centre of attention. In a
+similar way, Gundel & Fretheim distinguish between two major types of focus -
+the type just mentioned (information focus) and contrastive focus, understood as
+""material which the speaker calls to the addressee's attention, thereby often
+evoking a contrast with other entities that might fill the same position."" Both
+types of focus ""may be syntactically coded by placing the relevant constituent
+in a syntactically prominent position"" (cf. Gundel & Fretheim 2005:6). Other
+languages may express such prominence prosodically, e.g. by intonation. In
+fact, both topic and focus are typically represented by some formal marking,
+which may be of syntactic, morphological, or phonological nature.
+",2.3,"OVS, OSV, VOS, VSO","[711, 712]",4,31,0.8826143199095391,1
+" Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:32 PM
+Conjunctions 253
+kujßa'in order to'
+This conjunction has purposive function best translated as 'so that' or 'in order
+to'. While the syntactic difference to other forms related to purpose
+(haanu,-naha\cf. §20.2.4.1), is evident in that only kujßa introduces a
+subordinate clause, it is not clear-cut what could be the semantic differences.
+Note that the translation 'in order to' is not meant to imply a same subject
+construction (as in English), but that the subjects of dependent and main clause
+can be different.
+(374) Use of kujßa
+a)
+mihäu=tetururi molo-ore ruku-uru-a=nekujßa
+that because=FOC llanchama.Xree cut-3pl/E pull.out-PL-3ps/D=SUBso.that
+'Therefore, they cut the llanchama tree in order to pull her out.'
+b)
+satonohei=te ikito-oama-urehoitQa-kuru-a doktoro-kuru=ne kujßa
+in.the.end=FOC PLN-LOC take-3pl/E heal-PL-3ps/D doctor-PL=SUB so.that
+'In the end, they brought him to Iquitos so that the doctors (would) cure him.
+huataa'so that not', 'lest'
+hoataa (and its variant kauatia\ occurring only in the traditional language) is
+the negative equivalent of kujßa. Accordingly, the subordinate clause can have
+a different subject than the main clause. Generally, the fact that the subordinate
+marker already implies negation leaves the dependent verb in the affirmative
+mood. When the subordinate clause is in initial position, it can be emphasised
+by the introducer nabana, as shown in (375c).
+(375) Use of hoataa
+a)
+itga-u eno-aakau=nehuataa
+do-IMP enter-3ps/Dwater=SUB so.that.not
+'Do it so that the water (would) not enter!'
+b)
+anofwa dada-a kanu beree=ne hoataaajto-o
+knifetouch-3ps/Dlsg child=SUB so.that.not say-lsg/E
+Ί said it so that my child would not touch the knife.'
+",1.0,,"[272, 273]",1,32,0.883209080609566,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:34 PM
+ Deviating order types 663
+(948) Constituent order in negated clause: subject-initial position (AOV)
+a) With full verb:
+ena tie-nakauru katQa-urußäertijihasisi
+[now be-those.who man-PL] [already] [not.at.all] [mixture]
+ [A][ADV][ADV][Ο]
+huituku-uru-i
+[know-PL-NEG:3ps/A]
+ [V]
+'Those who live now do not at all know the mixture [for making blowgun poison].'
+b) With copula:
+kivatiakann i=tgene letono ni-a-u=ta
+not[lsg][2sg=place envoy] [be-NEG-1 sg/E=FRS]
+[INTR] [CS][CC] [V]
+Ί am not the envoy for your place!'
+The function of this order variation clearly relates to focus and emphasis,
+(which may coincide in Urarina, depending on the context). This becomes
+especially clear in example (948b), where Adam, who is the only human left in
+the world, warmly welcomes one of two women who suddenly appear. In
+protest, she makes it very clear that he is embracing the wrong one: the pronoun
+for lsg, which is in initial position, is in focus to mean 'it is not me (but the
+other one)'. As negative clauses do not occur with focus markers, the move is
+made without formal marking.
+",2.3,"No dominant order, VOS, VSO, OVS, OSV","[682, 683]",4,33,0.8987890361757562,1
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:36 PM
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:36 PM
+Index
+Adjectives, 134, 139, 187, 203, 308, Consecutive, 583, 704
+ 309 Construction with 'must', 241, 667,
+Adjuncts, 670, 715773
+Adverbs, 145, 169, 498, 505, 555, 644, Content questions, 438, 698, 814
+ 680, 798, 860 Continuous aspect, 96, 173,276, 277,
+Adversative, 645, 862 462,464, 570, 631,755,790
+Affect verbs, 384,410Contrastive emphasiser, 287
+Affricatisation, 71Coordination, 256, 802, 898
+A-form, 258, 441, 488, 565, 807, 814,Copula, 89,391,656, 659
+ 842 Copular auxiliary, 73, 277, 397, 516,
+Agentive, 112, 162, 322, 359, 429, 891596
+Airico dialect, 38, 115, 867, 882Corrientes dialect, 2, 841, 867
+Ambitransitivity, 166, 385 Demonstratives, 216, 299,401,430,
+Apprehensive, 265 850
+Assertive, 482,494, 586, 734 Denasalisation, 117
+Assimilation, 33, 63, 66, 101, 107, 115, Dependent clause, 434, 536, 643, 658,
+183,883 682, 689, 709, 730
+Associative ku-, 37, 347, 426, 890 Derivation, 143, 343, 380,405,412,
+Associative modifier, 345 457
+Associative modifier b-, 165, 887Desperate interrogative, 491
+Attitude, 508, 888 D-form, 247, 434,453, 774, 786
+Auxiliary, 399, 560, 565, 792Diminutive, 237, 412,474, 543, 571
+Beneficiary, 239, 333, 386, 674, 675,Diphthongisation, 113, 118, 874
+ 818 Diphthongs, 60, 93, 99, 107, 112
+Causative, 112, 459,460, 609 Distal form, 102, 132, 149,264, 574,
+Certainty, 284, 724 637,704
+Chambira dialect, 21, 32, 38,47, 69, Distributive, 198, 362,409, 418, 468,
+ 165, 223,461,867 486
+Citation form, 79, 152, 291, 348, 441Ditransitivity, 168, 386
+Classifying nouns, 890 Double causative, 619
+Clause chaining, 747, 847Dual, 213, 364, 409,489, 574, 864
+Clause introducers, 259, 558, 574, 805 E-form, 258, 435, 481, 693, 786, 807,
+Clitics, 63, 69, 74, 80, 84, 107, 182,814,842
+ 284, 350, 493, 596, 734 Ellipsis, 403, 736, 808, 844
+Colour terms, 188, 204, 309, 609, 792Emphasiser 'just1, 286
+Comitative, 625, 674 Emphatic Respect marker, 858
+Comparison, 207, 750 Enumerative verb, 293, 760, 809
+Complement clause, 209, 434, 635,Epistemics, 179,480
+ 758, 780,812, 831,893,899 Fear marker, 81, 513, 735
+Completive aspect, 477 Final emphasis, 441, 508
+Compounds, 81, 292, 347, 425 First person forms, 99, 130, 490
+Conditional, 73, 256, 266, 585, 735, Focus, 146, 436, 438, 645, 661, 692,
+ 737, 832 815
+Conjunction phrase, 436, 715 Frustrative, 81, 266, 509, 539, 735,
+Conjunctions, 245, 562, 721, 743, 855 866,884
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:36 PM
+942Index
+ Future tense, 481, 585 Monophthongisation, 71, 875
+ Gap fillers, 172, 653, 679, 860Naming, 14, 393
+Gemination, 841, 876Narratives, 439, 840, 864
+Glottal stop, 50, 59, 72,485, 840 Nasal spreading, 74, 82,476
+Grammatical word, 81,647Nasalisation, 21, 63
+Grammatical Word, 77Negation, 263,484, 505, 552, 662,
+Greater plural, 409663,710
+Habitual aspect, 105, 248, 360,465, Negative questions, 266, 565, 834
+467, 736Neutral form, 79, 148, 262, 432, 441,
+Hearsay evidential, 504, 862 518, 520, 629,723,779, 802
+Hortative, 264, 573, 704, 728 New Testament, 17, 536, 579
+Iconic repetition, 845Nominaliser-i, 162, 185, 190,321,637
+Ideophones, 283, 841Nominaliser -naa, 161, 323, 626, 759
+Idioms, 24, 227,297, 399, 429, 562, Non-finite verb plus conjunction, 754
+599, 669, 728, 884, 894 Non-singular, 355
+Imperative, 102, 131, 513, 516, 569,Nouns, 79, 92, 121, 123, 152, 193, 246,
+583, 637, 703, 727, 757298
+Impersonal passive, 465 Number agreement, 365, 370
+Impossibility, 461Numerals, 275, 300, 367, 850
+Inalienability, 350 Omission of arguments, 376, 613,656
+Indefinite emphasiser, 830Order variation, 645, 660, 668, 899
+Indefinite pronouns, 827Palatalisation, 72, 89, 107, 114, 115,
+Indirect questions, 836183,596
+Infinitive, 141,520, 654, 758 Pangayacu dialect, 881, 882
+In-law talk, 478, 540, 636Paradigms, 433,483,484,485, 489,
+Innovative language, 30, 34,44, 337, 495,496
+353, 365, 509, 753,785, 826, 831, Participle, 291, 373,440, 520, 555,
+885637, 648, 722, 788, 848
+Instrumental, 625, 627Particles, 186, 284, 491, 645, 705, 715,
+Intensity, 379, 416724,840
+Interjections, 282, 559 Passive, 516, 592, 633
+Interrogative, 73, 87, 258, 336, 401, Paucal, 409
+ 430, 505, 730, 888 Person inflection types, 431, 487
+Interrogative pronouns, 556 Phonological simplification, 70, 71,
+Intransitive verbs, 142, 167 117, 118
+Intransitiviser, 114, 116, 601Phonological word, 42, 88, 148
+Irrealis, 482, 738Phonological Word, 77, 89, 139
+Irrealis nominaliser, 776 Phonotactics, 50
+Jussive, 576, 637, 888Pity marker, 290,491
+Juxtaposition, 333, 809 Plural, 91, 97, 103, 113, 152, 294, 295,
+Kinship, 353, 530355, 378, 379, 479, 492, 572, 878
+Loans, 275, 633, 890, 894 Plural object, 360, 468, 632, 793
+Location, 154, 176, 219, 225, 394, 624, Polar questions, 442, 831
+ 673, 675, 681Politeness, 357,472,493, 530, 534,
+Medium degree, 143, 189,414571,888
+Modifiers, 161, 206,277,298, 315, Possession, 137, 145, 215, 301, 331,
+ 327, 369, 595 397, 887
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:36 PM
+ Index943
+Postpositions, 136,224,244, 294, 670, Suffix 'while', 518, 802
+ 818Suffix order variation, 523
+Postvocalic aspiration, 41, 868 Suffix position classes, 456
+Prefixes, 459 Suggestive, 267, 587
+Privative, 112, 519, 564, 757, 802Superlative, 210
+Probability, 480, 636 Syllable structure, 60, 75, 94, 110, 120,
+Proclitics, 83, 114, 115, 116, 139, 153, 123, 125, 128, 139
+ 214,337,351,886Third person forms, 98
+Prohibitive, 260, 262, 579Tigrillo dialect, 3, 157, 180, 560, 867
+Pronouns, 213, 589Tone, 21, 87, 120
+PSC verbs, 379,407, 553, 791Tone classes, 124, 149
+Purposive, 253,404, 558, 639, 716,Topic, 692, 697
+ 752,779,820Traditional language, 43, 107, 115,
+Quantifiers, 267,275, 300, 303, 368153, 174,214, 253, 264,290, 337,
+Questions, 705, 786, 814 341,481,493, 503, 560, 820, 885
+Quotations, 729, 779, 784, 808, 857 Transitional glides, 64, 877
+Reassurance, 503Transitivity, 141, 166, 167,376, 604,
+Reciprocal, 211, 607 654
+Reduplication, 418, 632, 842Valency increase, 377, 614, 622, 671
+Reference tracking, 849 Velocity, 415,471, 546, 571,632
+Reflexivity, 168, 385,603,606 Verbalisation, 291, 343,406, 554, 625
+Relativisation, 320, 371Verbless clauses, 401, 833
+Remoteness, 174, 465,481, 498, 596, Verbs, 79, 95, 127, 166, 188, 341,375,
+ 734, 742,752553
+Reportative evidential, 498 Vowel copying, 36,44, 61, 67, 463,
+Resultative, 640 873
+Rhetorical questions, 508, 514, 835 Vowel length, 41, 55, 93, 98, 121, 123,
+Second person forms, 104 128, 137, 143, 345,463,476,611,
+Sentence length, 687, 846789
+Serial verbs, 148, 555,629,659, 723 Vowel lengthening, 109, 842, 873
+Special verbs, 259, 403, 792, 837 Vowel merging, 110, 113
+Stative verbs, 142, 167, 191, 192, 362, Vowel raising, 70
+ 378,659, 791 Vowel sequences, 58, 98, 106
+Stem extension, 106 Warning marker, 85, 512, 735
+Subordinate clause, 141,246,434,482,Witness evidential, 496, 586, 735
+ 497, 690, 729, 733,734, 831, 847 Word classes, 151,291,296
+Suffix 'also', 182, 664 Word length, 77, 91, 94, 125, 138, 152,
+Suffix 'only', 184,517 473,644
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:36 PM
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:36 PM
+",2.1,,"[959, 960, 961, 962, 963, 964]",2,34,0.9042218617762716,0
+"RELPrecedesyes nono noyes no ? n/a
+ Followssome yesyesyesyes yes9 n/a
+It is observed that the variability with regard to the position to each other
+mainly concerns word types with a high lexical load, i.e. adjectives, modifying
+nouns, and nominalised verbs. These types, which happen to relate to noun-like
+categories, typically occur adjacent to the head noun, but have a comparatively
+free order amongst each other. In contrast, demonstratives, which have a more
+functional use, have a relatively fixed position in the NP and need not occur in
+adjacency to the noun. Numerals, which also are less noun-like than other
+modifiers, are fixed in their position in that they precede the head noun;
+however, their position with regard to other modifiers is comparatively free.
+Quantifiers, (which are not a separate underived word class, cf. §5.11), exhibit
+the most diverse order pattern as they do not constitute a homogeneous group.
+",1.0,,[349],1,35,0.9046883852324952,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:35 PM
+ 832 Questions
+(1158) Interrogative =na after verb
+a)
+hanone mesaheauna-i=pa
+morning message hear-2ps=INT
+'Did you hear the message in the morning?'
+b)
+mi kujßa kana ra-a kana+huaaun-era=ne hau koituku-akat<?e=na
+that so.that lpl/in receive-3ps/D our.creator=SUB because know-lpl/in=INT
+'Do we [all] know that God has accepted us for that [purpose]?'
+A verb to which =na is cliticised does not necessarily occur in clause-final
+position. The order verb - interrogative clitic is also preserved when a subject
+noun follows the verb, such as in (1159a), where the intransitive verb 'come',
+followed by =na, occurs before the S argument 'rain'. In (1159b), the verb is
+followed by the adverb 'tomorrow'.
+(1159) =na after verb with VS order
+a)
+u-ri-tQa=i=β a elo
+come-IRR-3ps/A=ASS=INT rain
+'Will it rain?'
+b)
+turu-ri-tQa=i=β aeresi
+arrive-IRR-3ps/A=ASS=INT tomorrow
+'Will he arrive tomorrow?'
+When a constituent is in focus (in terms of the general emphatic function of
+focus as discussed in §19), it is marked with the interrogative enclitic; focus
+markers cannot occur in polar questions. Thus, example (1159b) could also be
+realised as eresi=ßa tururit$äi, in order to put emphasis on the adverb ('Is it
+tomorrow that he will arrive?'). Further examples are given in (1160). In
+(1160a), the adverb 'really' is marked with =na; in (1160b), the enclitic follows
+a conditional subordinate clause. Example (1160c) is elicited, as it is uncommon
+to mark an Ο argument for emphasis in a polar question. Thus, the sentence
+implies contrastive focus on 'monkey', such as to inquire whether the addressee
+has this particular preference, as opposed to other food mentioned before in
+discourse.
+",1.0,,"[851, 852]",1,36,0.9051468972507845,0
+"35
+2.1.6/kw/ 36
+2.1.7Is/37
+2.1.8///38
+2.1.9/tg/, [d3] 39
+2.1.10 /h/40
+2.1.11 /fw/, [hw] 42
+2.1.12 /hj/ 44
+2.1.13 /l/45
+2.1.14 /n/46
+2.1.15 /m/46
+2.1.16 /jV47
+2.1.17 The status of [j] and [w]48
+2.2Phonotactics 49
+2.3Vowels 51
+2.4Vowel length 55
+2.5Vowel sequences58
+2.6Diphthongs 60
+2.7Nasalised vowels 63
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+vi Contents
+ 2.8Automatic phonological alternations63
+ 2.8.1 Insertion of transitional glides64
+ 2.8.2 Assimilation of /«/ 66
+ 2.8.3 Vowel copying 67
+ 2.8.4 Vowel raising 70
+ 2.8.5 Simplification of /aW 70
+ 2.8.6 Affricatisation /ri/ ~ [rj] ~ [CI3] 71
+ 2.8.7 /aj/~[ej] 71
+ 2.8.8 Insertion of glottal stop [?] 72
+ 2.8.9 Palatalisation o f / n / after /i/72
+ 2.8.10Nasal spreading 74
+ 2.9Syllable structure 75
+ 2.10 The notion of ""Phonological Word""77
+ 2.10.1Word length 77
+ 2.10.2Other properties of words 80
+ 2.11 Clitics80
+3Morpho-phonology91
+ 3.1Alternations involving /k/ versus no onset on suffixes 91
+ 3.1.1 Plural marker - a r u on nouns91
+ 3.1.2 Plural marker -«ru in verbs 95
+ 3.1.3 Verbal alternation with [k], in the 3ps form98
+ 3.1.4 Verbal alternation with [k], [tp] in lps forms99
+ 3.1.5 Verbal alternation with [k], [tc] in the imperative form 102
+ 3.1.6 Verbal alternation with [k] in 2ps forms 104
+ 3.1.7 Stem extension with /he/ 106
+ 3.2Palatalisation of/r/ after Ν107
+ 3.3Vowel lengthening 109
+ 3.4Merging between final root vowels and vowel-initial suffixes110
+ 3.5Alternations with pre-root elements 114
+ 3.5.1 Palatalisation o f / k / to [te] 114
+ 3.5.2 HI[dj] 115
+ 3.5.3 Vowel elision with object proclitics and reflexive prefix116
+ 3.6Various rules of shortening or simplification 116
+ 3.6.1 Simplification of /el/ 117
+ 3.6.2 Denasalisation of final -1 117
+ 3.6.3 /e/~[ej] 118
+ 3.6.4 Omission or shortening of unaccented syllables 118
+4Tone 120
+ 4.1 Tonal structure of nouns 123
+ 4.2Verb Phrase: effects of nouns on the tonal structure of the verb127
+ 4.3Suffixes that cause deviations from the predicted tone patterns 130
+ 4.3.1 lsg suffix / - a n « / 130
+ 4.3.2 Imperative form131
+ 4.4 Noun Phrase: NounBrought + Adjective
+to you by | Max-Planck-Gesellschaft - WIB6417 134
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+Contentsvii
+4.5Postpositional Phrase: Noun + Postposition136
+4.6Overriding patterns 136
+4.6.1 Possessive construction137
+4.6.2 Possessive construction with adjective 139
+4.7Sentences: More than one tone 141
+4.7.1 Tonal patterns on verbs141
+4.7.2 VS and OVA constructions 143
+4.7.3 Clauses with adverbs 145
+4.7.4 Focus constructions146
+4.7.5 Serial Verb Constructions148
+4.8Summary of tonal types149
+5 Word classes 151
+5.1Nouns 152
+5.1.1 Proclitics and nouns 153
+5.1.2Nouns and the expression of location154
+5.1.3Nouns as modifiers161
+5.2Verbs 166
+5.3Adverbs 169
+5.3.1 Adverbs related to time170
+5.3.2Adverbs related to place176
+5.3.3 Adverbs related to manner176
+5.3.4Adverbs related to degree 178
+5.3.5 Epistemic adverbs179
+5.3.6 Other morphemes with adverbial function182
+5.4Adjectives187
+5.4.1Adjectival verbs188
+5.4.2Adjectival nouns193
+5.4.3 Multifunctional word ""kauatga"" 201
+5.4.4 Summary of word class assignment for adjective-like words203
+5.4.5 Sequences of noun modifiers206
+5.4.6Comparison207
+5.5Pronouns213
+5.6Demonstratives216
+5.6.1 Function of demonstratives 217
+5.6.2 Locational demonstratives219
+5.7Postpositions 224
+5.7.1Locational postpositions225
+5.7.2Postpositions with locational and temporal function 234
+5.7.3Postpositions with temporal function236
+5.7.4Postpositions with other functions238
+5.8Conjunctions245
+5.8.1Temporal conjunctions 247
+5.8.2Other conjunctions252
+5.8.3Coordinating conjunctions 256
+5.9Interrogatives258
+5.10 Clause introducers259
+5.10.1 ""Strong"" prohibitives ""nihjauria"", ""hjauijte"" 'don't' 260
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+viii Contents
+ 5.10.2""Weak"" prohibitive ""kwa"" 'don't' 262
+ 5.10.3 Negative ""kwatia"" 'not' 263
+ 5.10.4Hortative ""kwane"" 'let's'264
+ 5.10.5Apprehensive ""nabana"" 'so that not'265
+ 5.10.6Conditional ""baana"" ' i f266
+ 5.10.7 Negative question introducer ""ta"" 266
+ 5.10.8Suggestive ""djatera"" 267
+5.11Quantifiers 267
+ 5.11.1Quantifier ""itulere"" 'various (kinds of)'268
+ 5.11.2Quantifier ""laurilatiri"" 'various' 269
+ 5.11.3 Quantifier "" t a b a w a "" 'some' 270
+ 5.11.4 Quantifier ""tabal"" 'much', 'enough' 270
+ 5.11.5 Quantifier "" k u r u a t a h e i "" 'little', 'few'271
+ 5.11.6 Quantifier ""lejhijiehei"" 'not even one' 271
+ 5.11.7 Quantifier ""arahfl"" 'various', 'several', 'many'271
+ 5.11.8 Quantifiers ""hitarfi"", ""satfi"" 'all'272
+5.12Numerals275
+5.13Interjections 282
+5.14Ideophones283
+5.15Particles 284
+ 5.15.1 Certainty emphasiser ""tpa""284
+ 5.15.2Emphasiser ""hjä"" 'just'286
+ 5.15.3 Contrastive emphasiser ""läe""287
+ 5.15.4 Particle ""tQHisi"" 290
+ 5.15.5Pity marker ""noane""290
+5.16Word classes and inflection 291
+5.17Summary 296
+6Noun Phrase structure298
+ 6.1Demonstratives299
+ 6.2 Numerals 300
+ 6.3Possessives 301
+ 6.4Quantifiers 303
+ 6.5 Nominal and noun-like modifiers within the NP308
+ 6.5.1Adjectives in the NP309
+ 6.5.2Adjectival nouns that can function as nominal head310
+ 6.5.3Deverbal adjectives 313
+ 6.5.4Other modifying nouns 315
+ 6.5.5More than one adjectival modifier 319
+ 6.6Relativisation320
+ 6.6.1Nominalisation with ""-i""321
+ 6.6.2Nominalisation with ""-era""322
+ 6.6.3Nominalisation with ""-naa""323
+ 6.6.4Constructions with ""-nakatira""324
+ 6.6.5Relative clauses within the NP325
+ 6.7Involvement of other word classes as modifiers327
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+ Contents ix
+6.8 Summary 328
+7 Possession331
+7.1 Possession in the NP331
+7.1.1Possessive construction without marker 333
+7.1.2Possessive marking with ""raj""333
+7.1.3Possessive marking with proclitics 337
+7.1.4Multiple possessive marking339
+7.1.5Summary340
+7.2 Possession with verbs 341
+7.2.1 Copula strategy 341
+7.2.2 Possession with 'have'342
+7.3 Possessive derivation 343
+7.3.1 Verb suffix ""-oka""343
+7.3.2 Prefix b- 345
+7.3.3 Associative prefix ""ku-""347
+7.4 Inalienable possession350
+8 Number marking355
+8.1 Verb plural for 2ps 356
+8.2 Plural marker for 3pl 357
+8.3 Plural objects360
+8.4 Plural ""-ana"" on stative verbs362
+8.5 Distributive plural 362
+8.6 Dual and lpl forms364
+8.7 Number agreement365
+8.8 Plural agreement in the NP367
+8.8.1 Numerals and quantifiers367
+8.8.2 Other noun modifiers369
+8.8.3 Plural agreement with relative constructions in modifier function . 371
+8.9 Plural marking on other categories373
+9 Verb classes375
+9.1 Transitive verbs376
+9.2 Intransitive verbs377
+9.2.1 Active intransitive verbs 377
+9.2.2 Stative intransitive verbs378
+9.2.3 Verbs of posture, shape, and colour 379
+9.3 Reflexivity 385
+9.4 Ambitransitivity385
+9.5 Ditransitivity386
+9.6 Copula391
+9.6.1 Identity or equation392
+9.6.2 Attribution 394
+9.6.3 Locative394
+9.6.4 Existence or temporary presence 396
+9.6.5 Possession397
+9.6.6 Auxiliary 397
+9.7 Auxiliary ""aja"" 399
+9.8 Verbless clauses401
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:32 PM
+χ Contents
+ 9.9""Special"" verbs403
+10Word formation 404
+ 10.1 Word-class changing derivation 404
+ 10.1.1Nominalisation404
+ 10.1.2Verbalisation 406
+ 10.2 Other types of verbal derivation 407
+ 10.2.1Size and number derivations 407
+ 10.2.2Derivations of degree 412
+ 10.2.3Derivations of manner 415
+ 10.3 Reduplication418
+ 10.4 Compounding425
+11Person inflection classes431
+ 11.1 D-form 434
+ 11.2 E-form 435
+ 11.3 A-form 441
+ 11.4 Discussion 445
+ 11.5 Conclusion 453
+12Verbal morphology456
+ 12.1 Prefixal positions 459
+ 12.2 Suffixal positions 459
+ 12.2.1Suffixal slot 1: Causative-1459
+ 12.2.2Suffixal slot 2: Causative-2460
+ 12.2.3Suffixal slot 3: Impossibility461
+ 12.2.4Suffixal slot 4: Aspect-1: Continuous 462
+ 12.2.5Suffixal slot 5: Impersonal passive 465
+ 12.2.6Suffixal slot 6: Aspect-2: Habitual 465
+ 12.2.7Suffixal ""zone"" 7: Distributive, Plural object468
+ 12.2.8 Suffixal slot 8: Velocity471
+ 12.2.9 Suffixal slot 9: Diminutive/Counterexpectation 474
+ 12.2.10Suffixal slot 10: Completive aspect477
+ 12.2.11Suffixal slot 11: In-law talk478
+ 12.2.12Suffixal slot 12: Plural-1 479
+ 12.2.13Suffixal slot 13: Epistemic modality: Probability480
+ 12.2.14Suffixal slot 14: Mood/Future tense481
+ 12.2.15Suffixal slot 15: Negation 484
+ 12.2.16Suffixal slot 16: Person 487
+ 12.3 Enclitic positions 493
+ 12.3.1 Slot 18: Politeness493
+ 12.3.2 Slot 19: Assertive 494
+ 12.3.3 Slot 20: Witness evidential496
+ 12.3.4 ""Zone"" 21: Reportative evidential; remoteness498
+ 12.3.5 Slot 22: Reassurance 503
+ 12.3.6 Slot 23: Negative, Interrogative 505
+ 12.3.7 ""Zone"" 24: Attitude/Emotion, Rhetorical question 508
+ 12.4Other morphemes in postverbal position516
+ 12.5 Discussion 522
+13Politeness 530
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:32 PM
+Contents xi
+ 13.1 Kinship terms 530
+ 13.2 Politeness with honorific enclitic 534
+ 13.3 Politeness with in-law marker ""-ana""540
+ 13.4 Alternative morphological politeness strategies543
+ 13.4.1Polite function of diminutive suffix ""-hee"" 543
+ 13.4.2Polite function of velocity suffix ""-uri"" 546
+ 13.5 Alternative lexical politeness strategies547
+ 13.5.1Polite function of ""karaj"" 'for me' 547
+ 13.5.2Polite function of ""atfl"" 'nevertheless'548
+ 13.6 Summary550
+14Negation 552
+ 14.1 Clause negation552
+ 14.1.1 Negation and verb classes553
+ 14.1.2 Scope of negation555
+ 14.2 Adverbial function of negative copula555
+ 14.3 Interrogative pronouns and negation556
+ 14.4 Negation and the lexicon 558
+14.4.1Negative introducers 558
+14.4.2Negative interjections 559
+14.4.3Negative conjunction 562
+14.4.4Negation and idiomatic expressions 562
+14.4.5'Not yet' and 'Not any more' 563
+14.4.6'Without'564
+ 14.5Negative questions565
+ 14.6 Multiple marking of negation 567
+15Imperative 569
+ 15.1 Positive imperative569
+15.1.12ps imperative 569
+15.1.2Hortative ( l p s imperative)573
+15.1.3Jussive (3ps imperative) 576
+15.1.4Lexical imperative with ""d3ahaa"" 578
+ 15.2 Prohibitive579
+15.2.1Prohibitives with "" n i h j a u r i a "" and "" h j a u i j r e ""580
+15.2.2Prohibitive with ""kwa"" 581
+ 15.3Consecutive function of imperative583
+ 15.4Imperative and future reference 585
+ 15.5Suggestive form 587
+ 15.6Other aspects regarding imperatives 588
+ 15.7Differences between imperative and declarative mood 589
+16 Valency changing mechanisms 592
+ 16.1Passive 592
+16.1.1Modifier function of ""-noi""595
+16.1.2The role of the copular auxiliary596
+16.1.3Argument structure 597
+16.1.4Further observations 600
+ 16.2Intransitiviser ""ne-"" 601
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+xiiContents
+ 16.2.1Reflexive function of ""ne-""603
+ 16.2.2Functions of ""raaheniane"" 'self606
+16.3Reciprocal form with ""ita""607
+16.4Causative 609
+ 16.4.1 Causative with ""-erate"" 609
+ 16.4.2 Causative with ""-a"" 616
+ 16.4.3Differences between the two causative forms and their combination
+618
+ 16.4.4 Additional strategies to express causativity621
+16.5Valency increase with ""ke""622
+17Serial verb constructions 629
+17.1Properties of VI630
+17.2Properties of V2633
+17.3Semantic structure of SVCs638
+17.4Further properties of SVCs643
+ 17.4.1 Embedding in larger constructions 643
+ 17.4.2 Contiguity644
+ 17.4.3 Order variation 645
+ 17.4.4 Number of verbs involved in SVCs646
+ 17.4.5 Wordhood647
+ 17.4.6 Difference to other multi-verb constructions648
+17.5Discussion and summary650
+18Constituent order 652
+18.1Transitive clause 654
+18.2Intransitive clause 658
+18.3Deviating order types 660
+18.4Adjuncts670
+ 18.4.1 Position of postpositional phrases (PPs)670
+ 18.4.2 Position of adverbs 677
+ 18.4.3 Position of locational adjuncts 681
+ 18.4.4 Summary 681
+18.5Position of dependent clauses 682
+19Focus 692
+19.1Functions of focus markers697
+19.2Focus marking and clause types703
+ 19.2.1 Imperative clauses703
+ 19.2.2 Questions 705
+ 19.2.3 Focus and dependent clauses 709
+ 19.2.4 Negative clauses710
+19.3Scope of focus712
+ 19.3.1 Focus-marking of core arguments 712
+ 19.3.2 Focus-marking of adjuncts 715
+ 19.3.3 Focus marking in other environments 721
+19.4More than one constituent preceding the focus marker724
+19.5More than one focus marker in a sentence727
+19.6Summary 732
+20Multi-clause constructions733
+Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+ Contentsxiii
+ 20.1Subordination734
+20.1.1Subordination without conjunction 735
+20.1.2Subordination with conjunction743
+20.1.3Non-finite verb plus conjunction754
+20.1.4Alternative strategies of subordination 756
+ 20.2Complement clauses 758
+20.2.1Same subject complement clauses 758
+20.2.2Different subject complement clauses767
+20.2.3Special control verbs 776
+20.2.4Complementation strategies779
+20.2.5Summary of complementation types786
+ 20.3Participle clauses 788
+20.3.1Morphological features789
+20.3.2Compatibility 791
+20.3.3Scope 792
+20.3.4Semantic functions795
+20.3.5Syntactic properties800
+ 20.4Other non-finite verbal suffixes 802
+ 20.5Clause coordination802
+20.5.1 ""t£äe"" 'also'803
+20.5.2""nete"" 'but'806
+ 20.6Other strategies of coordination 808
+ 20.7Multi-clause constructions in comparison 811
+21 Questions814
+ 21.1Content questions814
+21.1.1 ""d3a""'what','who'815
+21.1.2 ""d3a"" with other postpositions 818
+21.1.3 ""d3arihi""'which' 819
+21.1.4 ""d3anö'""why' 820
+21.1.5 ""d3atoanei"" 'how'821
+21.1.6 ""d3asfi'""how'822
+21.1.7 ""d3abana""'when'823
+21.1.8 ""d3«""'where' 823
+21.1.9 ""d3aelöo"" 'what way' 824
+21.1.10'How much','how many'825
+21.1.11Indefinite function827
+21.1.12Indefinite emphasiser830
+ 21.2Polar questions831
+ 21.3 Negative questions834
+ 21.4Rhetorical questions 835
+ 21.5Indirect questions 836
+ 21.6Interrogative verbs837
+ 21.7Summary839
+22 Discourse strategies and expressive elements 840
+ 22.1 Phonological peculiarities840
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:32 PM
+ xivContents
+ 22.2Morphological features 842
+ 22.3Syntactic structures and discourse 844
+22.3.1 Ellipsis 844
+22.3.2 Iconic repetition845
+22.3.3 Long sentences 846
+22.3.4 Clause chaining847
+ 22.4Reference tracking 849
+22.4.1 Overt NPs850
+22.4.2 Demonstrative ""nii""850
+22.4.3 Verbal marking 851
+22.4.4 No marking 852
+22.4.5 Conjunctions ""hana"" and "" h a a ""855
+22.4.6 Introduction of quotations 857
+ 22.5Other features 860
+ 22.6Observations on non-narrative genres 864
+ 23Variation866
+ 23.1Dialectal differences866
+23.1.1 Postvocalic aspiration 868
+23.1.2 Vowel copying873
+23.1.3 Very long vowels 873
+23.1.4 Diphthongisation 874
+23.1.5 Monophthongisation and vowel elision 875
+23.1.6 Lowering of [eeä] to [aaä] 876
+23.1.7 Variations between /r/, /d/, and l\l 876
+23.1.8 Consonant gemination 876
+23.1.9 Plural ""-kara"" instead of ""-tpara"" 878
+23.1.10 Pronunciation o f ' a little' 878
+23.1.11 Summary of common dialectal features879
+23.1.12 Some dialect-specific features881
+ 23.2Traditional and innovative language885
+23.2.1 Changes in phonology 886
+23.2.2 Changes in morphology886
+23.2.3 Changes in the lexicon 888
+23.2.4 Changes in syntax892
+ 23.3Language endangerment and Hispanicisation893
+Appendix A: Texts901
+Appendix B: List of scientific names 929
+Appendix C: Plates 933
+References 935
+Index94 \
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:32 PM
+Abbreviations
+Abbreviations in text and tables
+DS Different subject (complement clause)
+EL Elicitation
+EL Elicited example
+intr.",2.1,,"[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]",2,37,0.9103504035599836,0
+" However, they would not occur within constituents (cf. §18.4.2).
+In order to give an overview of typical clause structure in Urarina, a (simplified)
+table showing the statistical occurrence of order types in seven selected texts of
+different genres and given by different speakers (a total of 799 clauses) is given
+in (935).
+(935) Summary of constituent order in selected texts in percent (dependent and
+independent clauses) [Regular order types are shaded]
+TypeFrequency
+V58%
+VS10%
+sv 2%
+ov 21%
+VA 1%
+AV 1%
+OVA3%
+AOV 4%
+While details will be discussed further below, the following factors become
+evident at first sight:
+1. Clauses without any overt argument are extremely common. These make up
+much over half of all examples.
+2. Where arguments are present, most clauses follow the basic constituent order
+OVA/VS. Their frequency is five times higher than the deviating order types
+(35% vs. 7%).
+3. There is a minority of clauses that exhibit a different order.
+",3.0,OVS,[673],5,38,0.9295588172582132,1
+"One construction is with the expression for 'also', -netonaj, a form that was
+already discussed in §5.3.6. There are several examples where -netormj follows
+a subject in initial position. Apparently, it can take the function of a focus
+marker, as is illustrated in (950): In all examples, the use of 'also' puts the noun
+to which it is attached in focus, as to point at the involvement of that particular
+participant in addition to others. While examples (950a,b) involve intransitive
+clauses, (950c) exemplifies the use of -netonaj with the transitive verb 'catch'
+(here without an overt object).
+(950) -netonaj with focus function: SV order
+a) Dependent clause:
+nete ßäeakauru-netonajne-rela-ißäeenene
+but [already] [3pl-also][ITR-teach-PRT] [already nowadays
+[CNJ] [ADV] [S] [V] ([Main])
+nitoanei n=uhoana ha-ure
+like.that3ps=fieldmake-3pl/E]
+[Main]
+'But they learnt it as well and nowadays cultivate their fields like that.'
+",1.0,,[684],1,39,0.929885871646926,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:33 PM
+330 Noun Phrase structure
+3. Demonstratives tend to occur at the left edge of an NP; their position is
+ relatively fixed. Only quantifiers can precede demonstratives.
+4. While numerals occur before the head noun, they follow demonstratives and
+ possessives. Thus, for those types of modifiers that obligatorily precede the
+ noun, there is a preferred order: DEM + POSSR + NUM + N.
+5. Adjectives, nominalisations (with relative clause function), and other noun-
+ like modifiers typically occur close to the head of the NP. At least some
+ members of these three modifier types can occur in prenominal or
+ postnominal position, but most adjectives occur after the noun, while most
+ relative clauses occur before the noun.
+6. Adjectives precede other noun-like modifiers and relative clauses. However,
+ a preferred order between the three noun-like modifiers is difficult to draw,
+ as these groups are heterogeneous.
+",1.0,,"[349, 350]",1,40,0.9302077583942536,0
+"One remark is in order regarding the frequency of the different noun types,
+as illustrated in (170). 22 While Type A clearly is the most frequent one, there are
+21
+A transitive verb without an overt object refers to a 3ps object, which is typically
+unmarked (cf. §18.1).
+22
+The total of 649 is based on 700 underived canonical nouns, including a few long-
+established loans (also cf. table (1) in §5.1). However, for 51 nouns the tonal type
+was not identified.
+",0.0,,[144],0,41,0.9259840685658376,0
+"Urarina has two predominant plural suffixes. One is -t$e, which occurs with
+verbs only; the other is -uru. The latter functions as a noun plural marker, but it
+is found in a number of other contexts as well. For instance, it also functions as
+a pluraliser in verbal marking for 3ps. Other suffixes referring to number are the
+plural object marker -naha for transitive verbs, the distributive suffix -ahua,
+and the plural marker -ana for stative verbs.
+(531)Overview of plural markers
+-toe 2ps subject (all verbs)
+-uru 3ps subject (transitive and active intransitive verbs)
+-ana 3ps subject (stative intransitive verbs)
+-naha3ps object (transitive verbs)
+-ahoa3ps subject distributive (intransitive verbs)
+ 3ps object distributive (transitive verbs)
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:33 PM
+356 Number marking
+This chapter will analyse the use of these suffixes in detail. One thing that all
+plural markers have in common is the tendency to be optional. While plural
+marking on nouns or as an instance of morphological agreement on verbs may
+be the more frequent option, it is not uncommon to use the singular form if
+plurality is implied by the context. In relation to this, the correlation between
+number and humanness will be examined (cf. §8.7).
+",0.0,,"[375, 376]",0,42,0.9218246288227824,0
+" Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:34 PM
+ 654 Constituent order
+The word order within the Noun Phrase is discussed in §6. As suggested, not all
+kinds of modifiers have a fixed position in the NP, but certain tendencies and
+preferences can be summarised as follows:
+- Demonstratives, numerals, and possessors always precede the nominal head.
+",1.0,,"[673, 674]",1,43,0.9221721011135752,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+214 Word classes
+(316) Use of 1 pl/in pronoun kana in dual context
+d$asn=te katoanei kanaanaj hanoa-he-ikanaraj=ta
+how.possibly=FOC like.this childgive.birth-CNT-2ps 1 pl/in for=FRS
+ 'How is it possible that you are giving birth to a child for us?'
+The pronoun for lsg has a variant kiitQa that occurs in nominaliser
+constructions with the suffix -i (cf. §6.6.1). In this construction, where the noun
+derived from a transitive verb represents the relativised object of the clause, the
+subject typically is marked with the suffix -at$a 'only', which results in
+kanu-atga when it occurs with the lsg pronoun. Alternatively, the two
+components can fuse and are realised as kiitQa, with no apparent semantic
+difference. All other pronouns are regularly joined with -at$a in this context
+without any alternation.
+(317)1 sg pronoun alternant kiitga
+iiraj kiitQate-janofxua presta-u
+2sg for lsg.EMPH give-NOM 0bj knife lend-IMP
+'Lend me the knife that I gave to you!'
+In addition to the free pronouns, Urarina has proclitics for the singular, which
+are derived from the full forms (except for 3sg). These can be attached to nouns
+and verbs. With verbs, they function as object proclitics; with nouns, they refer
+to possessive pronouns (cf. §7.1.3). However, procliticisation mainly functions
+as a feature of the traditional language; younger people prefer the use of free
+pronouns rather than procliticisation. This applies to both personal and
+possessive pronouns.
+(318) Proclitics
+lsgka=
+ 2sg i=
+ 3sg n=, (ne=, ni=)
+In particular, the use of the 3sg proclitic has been reduced even among older
+speakers. While ka= and i= (or allomorph d$= for 2sg before vowel-initial
+roots) are still common practice, the proclitic 11= is only observed with vowel-
+initial roots. Before consonant-initial roots (319b), the use of the 3sg allomorphs
+m = or m= is very rare: the two examples with these 3ps forms listed below
+were rejected as ungrammatical even by an older speaker, even though these
+forms occurred in a text by another speaker of the traditional variety of Urarina.
+It is also obvious that the use of possessive proclitics is related to the matter of
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:32 PM
+ Pronouns 215
+inalienable possession; this is discussed in §7.4. S o m e examples for the use of
+proclitics in possessive function are illustrated below:
+(319) Use of proclitics in possessive function
+a) lsg and 2sg forms:
+ka=hitQana'my blowgun'
+ka=ripaha 'my grandfather'
+i=hitg,ana'your blowgun'
+i=tQuerehe-uru'your children'
+b) 3sg forms:
+n=asi 'his nose'
+n=uhoana'his field'
+?m=hitQana'his blowgun'
+?ne=batohwi 'their arrows'
+For proclitics that occur with object function, only the f o r m s for l s g and 2sg are
+attested, while the 3sg form is not observed. T h e reason for its absence as an
+object proclitic could be that 3 rd person object pronouns do not surface in
+general, but are implied through omission. While it is not ungrammatical to use
+them as arguments of a transitive verb, they almost never occur in this context.
+T h e m e a n i n g of ' h i m ' or ' t h e m ' is mutually understood f r o m the context of an
+utterance. However, all three proclitics occur in combination with postpositions,
+as shown in (320c-e).
+(320) Object proclitics
+a) lsg object proclitic with verb:
+ka=kuruatahani-a kana+hoaaun-era=neeseneta-anu
+lsg=help-3ps/D our.creator=SUBbelieve=lsg/A
+Ί believe that God helps me.'
+b) 2sg object proclitic with verb:
+i=tQuara-ri-a-u=ni=ta
+2sg=see-IRR-NEG-1 sg/E=ASS=FRS
+Ί will not watch you.'
+c) lsg object proclitic with postposition ke:
+ka-ke taka-i
+lsg=INSTencounter-PRT
+'meeting with me'
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:32 PM
+216Word classes
+d) 2sg object proclitic with postposition raj (assimilated to [t<?] here):
+i=tcej
+2sg=for
+'for you'
+e) 3ps object proclitic with postpositions tgoae, asae:
+m=tQoaen=asae
+3sg=on 3sg=in/under
+'on top of it' 'under it'
+The prefix found on intransitivised verbs, ne- (and variants), which may also
+have reflexive function to some degree, possibly is a remnant of the 3sg object
+proclitic, as the reflexive subject in this construction is identical to the object
+argument. However, this prefix exhibits an allomorphy different from the one
+found with proclitics (cf. §16.2).
+5.6Demonstratives
+The Urarina deictic system distinguishes three degrees of spatial reference, each
+of them involving the position of the participants:
+kaa 'this' (close to the speaker)
+mi'that' (close to the listener)
+taa 'that over there' (distant from both participants)
+Regarding this type of distinction, one could also relate the three demonstratives
+with first, second, and third person, respectively, kaa even has some degree of
+phonological similarity, if compared with kanu ( T ) . The similarity between nii
+and ii ( ' y o u ' ) is more subtle (different onset), taa and aka ('he/she/it') have
+even less in common. However, the use of the demonstratives suggests that kaa
+refers to something with regard to first person, nii to second person and so on.
+Evidence for this is not only provided by the phonological similarities, but also
+through the deictic function of the demonstratives. The correlation between first
+person and demonstrative kaa is manifested by the fact that kaa relates to an
+item in the space close to the speaker; similarly nii refers to something close to
+the listener, implying a relation to second person. Correspondingly, taa refers to
+something not close to either the speaker or the listener - thus, implying a third
+person.
+",0.0,,"[233, 234, 235, 236]",0,44,0.9181153720505634,0
+" Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:34 PM
+646 Serial verb constructions
+ subordinate clause with the purposive/consecutive conjunction kujßa; although
+this version may reflect minor (unspecified) semantic differences to a SVC, it
+was recommended as ""almost identical"" by the consultant. (929b) represents a
+ SVC of the regular type, as is described in this chapter. In example (929c),
+however, the order of the verbs is inverted, which also includes the object of
+"" V I "" (which now has become V2). Note that the morphological marking on
+relaa 'teach' is identical to the one in a regular SVC - the neutral form.
+(929) Order variation with imperative
+a) With conjunction:
+u-u kat^a-ururela-i=jie kujßa
+come-IMP man-PL teach-2ps=SUBso.that
+'Come to teach the people!'
+b) Regular SVC:
+katga-ururela-au-u
+man-PL teach-NTR come-IMP
+'Come to teach the people!'
+c) Order variation:
+u-ukatQa-uru rela-a
+come-IMP man-PL teach-NTR
+'Come to teach the people!'
+While the exact conditions for this kind of inversion are not entirely clear, it
+seems that the purposive aspect of it plays a central role. The variation is also
+possible in declarative sentences such as Ί went to fish' or 'he went to build his
+house', but it is not acceptable with other semantic types, e.g. such examples
+with a mainly resultative or aspectual meaning.
+17.4.4Number of verbs involved in SVCs
+Usually, each SVC consists of not more than two verbs, with one exception:
+when the verb nuhija 'do in vain' is involved, three verbs can occur in
+sequence. In this case, the first two verbs are each marked with the neutral
+suffix, while mikuja receives all inflectional markers. Examples are given in
+(930); however, it must be noted that these constructions are comparatively rare
+and thus do not allow an in-depth study.
+",1.0,,"[665, 666]",1,45,0.9224892202498066,0
+" Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:33 PM
+11 Person inflection classes
+Each Urarina verb can occur with up to three different verb forms in the
+grammatical categories of person and polarity marking (and, partly, irrealis). I
+distinguish these forms in the following way:
+- D-form: occurring in finite dependent clauses only
+- Α-form: 3sg is -a
+- Ε-form: 3sg is -e
+While one may feel tempted to describe these types as ""conjugation"", this term
+could be easily misinterpreted. The phenomenon that is known from other
+languages, such as the Romance languages, is fundamentally different from
+Urarina in that in a language such as Italian, the class of verbs is divided into
+subclasses that each take a specific set of inflectional markers. In Urarina, the
+distinction is not inherent to the verb, but depends on the grammatical context
+in which a verb occurs. That is, every verb can be inflected for any of the three
+types if it occurs in the respective context. Similar phenomena are known from
+a few other languages only. For example, some Arawak languages such as Bare,
+Warekena, and Baniwa mark a focussed subject by a special cross-referencing
+prefix in addition to other inflectional categories (cf. Aikhenvald 1995: 152). In
+the Chadic languages Hdi, Lele and Mina, there is a morphological distinction
+between ""pragmatically independent clauses"" and ""pragmatically dependent
+clauses (cf. Frajzyngier 2004). Different paradigms for person marking are also
+reported for Menya (Trans New Guinea Phylum; cf. Whitehead 1987: 41) and a
+few other Highlands languages of that area. Menya has two sets of subject
+cross-reference markers the choice of which depends on the division into final
+and medial verbs. However, a threefold distinction into different paradigms, as
+found in Urarina may be considered unique.
+",0.0,,"[450, 451]",0,46,0.9224892202498066,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+6 Noun Phrase structure
+The order of elements within the Urarina Noun Phrase (NP) is variable to a
+certain degree. Speaking in a simplified manner, all kinds of modifiers can
+occur in prenominal position, with some peculiarities, which are discussed in
+this chapter. In principle, a division into two groups can be made: modifiers that
+can also follow the noun and those that cannot, or, expressed in a different way:
+modifiers with a fixed position within the N P and modifiers that exhibit a
+certain degree of variation regarding their position. The ""restricted"" group of
+words, which obligatorily occur in prenominal position, consists of
+demonstratives, possessives, and numerals. 38 Adjectives, nominalised verbs,
+quantifiers, and special modifying nouns can occur before or after the noun, the
+details of which will be investigated in §6.1 to §6.5. In §6.6,1 will also discuss
+the position and structure of relative constructions, which are realised as
+nominalisations and are therefore part of the NP.
+",1.0,,"[317, 318]",1,47,0.9268149827794188,0
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:34 PM
+Transitive clause657
+b) Dependent clause:
+kauatQa-i kuraanaa ni-a=ne=ta
+[good-NEG: 3 ps/A] [chief] [be-3ps/D=CND=FRS]
+ [Main][[CC][V]]DEP
+'It is not good that he is chief.'
+While the figures represented in (935) represent a summary of order types, these
+are shown in detail in (940). Note that copula complements are integrated into
+these figures as Ο arguments, as they have syntactically identical properties.
+Accordingly, copula subjects are represented as S arguments here. The table in
+(940) shows the occurrence of order types in the main clause (445 examples),
+(942) lists the distribution of order types in dependent clauses (354 cases).
+(940) Constituent order in main clause (selected texts)
+Text no.: T7T12T13 T16 T23AT34T35A Total Total
+Speaker:JNHN JNMAHN HN %
+V11 49339161 8235 52.8
+vs5 49 10 2147 51 11.5
+sv3 041 2 14 153.4
+ov 401563 53 4 85 19.1
+VA 00 1 1 05 071.6
+AV 0021 151102.2
+OVA005 512 3 163.6
+AOV 2 06 403 10255.6
+OAV 1 00 000 010.2
+Total26 8 5161 1824437445 100.0
+In Text 7, there is an exceptional occurrence of OAV, - which is based on a
+speaker error corrected later to OVA. This order, as displayed in (941), is
+otherwise absent from the grammar and cannot be regarded as a possible
+variation.
+(941) Ungrammatical OAV example
+*mi=te ena itulerene-ιkomonida iglesia ena huaauku-e
+[that=FOC] [now] [all.kinds be-PRT] [community church] [now] [think-3ps/E]
+ [O] [ADV] [ADV] [Α][ADV] [V]
+'The community and church remember that in various ways.'
+As mentioned, the texts are of different genre and by different speakers. Texts 7
+and 13 are told by an older speaker, however, with a sophisticated knowledge of
+ Brought to you by | Max-Planck-Gesellschaft - WIB6417
+Authenticated | 194.94.96.194
+Download Date | 9/19/13 5:34 PM
+658 Constituent order
+ Spanish. The speaker is not used to telling stories. Text 7 is a hunting story
+(personal experience) and text 13 an account of the village history. Text 16 is a
+traditional narrative told by an older speaker, a trained storyteller. Texts 12 and
+23A are both presented by a younger speaker with little experience in story
+telling. They are narratives that describe dangerous situations experienced by
+others (not the speaker himself). Text 35A is by the same speaker and is a
+picture description as a given task. It is evident from the statistics that this type
+of genre differs significantly from the others: the frequency of clauses with
+deviational order types in this text equals the number of examples with regular
+order. However, this can easily be accounted for by the fact that the speaker
+shifts the subject into focus in many examples as he describes the given images.
+Text 34 is a natural conversation between two speakers via a shortwave radio.
+Overall, not taking into account clauses without an overt argument (""V""), 76%
+(159 out of 210) of order in the main clause correspond to the regular OVA/VS
+scheme, whereas 24% deviate from that.
+",3.0,OVS,"[676, 677, 678]",5,48,0.9483292036257818,1
+"Brought to you by | Max-Planck-Gesellschaft - WIB6417
+ Authenticated | 194.94.96.194
+ Download Date | 9/19/13 5:32 PM
+ 194Word classes
+(284) Words for 'big' in Urarina31
+ tabaj tasißohivaj seeohiua
+ Humans: 'man' 'man' 'man' (preferred)
+ 'man' 'woman' 'woman' (= fat and tall)
+Animals or parts:'animal''animal''bull'
+ 'jaguar''egg' 'chicken'
+ 'peccary' 'peccary' 'peccary'
+ (less big than tabaj)
+Nature/plants: 'world' — 'world'
+ 'wind'— 'wind'
+ 'rain'— 'rain'
+ 'tree'— 'tree'
+ 'lawn /grass field' — 'branch'
+Artefacts: 'canoe' ('house') 'boat', 'canoe'
+Abstract nouns:'suffering' — (unattested)
+ 'darkness'(unattested)(unattested)
+Regarding the actual size of the modified object, consultation with different
+speakers lead to inconclusive characterisations between the three words. While
+with most speakers, tabaj appears to refer to a larger size than the other two
+words, the size distinction of tasißohwaj and seohwa is not drawn consistently.
+A more obvious distinction is of a syntactic nature. While tasijiohwaj can occur
+as a noun modifier, it is less common in this function. The main and preferred
+use of tasiflohwaa is as a verb. When it is used as a modifier, it evidently tends
+to refer to a process 'having become big' with some nouns, e.g. with humans
+and animals. A further restriction to tasißohwaa is that is does not occur with
+abstract nouns. In contrast, the verb tabaa tends not to be used with some
+human terms, such as 'woman', while its use as a modifier for 'woman' is
+possible. In summary, the semantic distinction between the different words for
+'big' remains challenging.
+",0.0,,"[213, 214]",0,49,0.9483292036257818,0
+"While the high degree of order variation makes it almost impossible to state
+the ""unmarked"" order of modifiers within the NP, it can be said that most
+typically, all modifiers except adjectives precede the head noun, with
+demonstratives and quantifiers preferably occurring before other modifiers. The
+variable order of constituents within the NP is only partly predictable, such as
+with some adjectival modifiers (cf. §6.5); otherwise, it is unclear whether order
+variation has any semantic or pragmatic effects. It must be noted that
+syntactically complex NPs (involving two or more modifiers) do not very
+commonly occur in the database. Since the N T translation contains a much
+wider range of examples for complex NPs, many of the cases illustrated in this
+chapter are adopted from there. However, the lack of natural examples results
+into a number of questions that cannot be answered, i.e. it is impossible to
+predict all possible and impossible combinations for each and all nominal
+modifier. Another issue is the ambiguity of some examples with regard to the
+scope of some modifiers. As a general tendency, the rightmost modifier has
+scope over the head of N P and any further modifiers that precede it have scope
+over that constituent (right-branched bracketing). However, in some cases,
+which all involve quantifiers, the scope of the quantifier can differ from that.
+With some lengthy examples from the NT, the scope may be ambiguous. The
+following sections discuss the details of the common occurrence of different
+38
+ Numerals may be regarded a subtype of quantifiers, but since they exhibit a different
+ syntactic behaviour than other quantifiers, they are discussed separately. Also see the
+ structural differences between quantifiers and numerals as discussed in §5.
+",1.0,,[318],1,50,0.9525882674403636,0

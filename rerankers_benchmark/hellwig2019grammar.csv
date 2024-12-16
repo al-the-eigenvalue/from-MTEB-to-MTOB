@@ -1,0 +1,2011 @@
+Paragraph,Annotation,Word order,Page number,Relevance Score,BM25 Rank,BM25 NDCG@K,Binary Relevance Score
+"220 | Verbs and the structure of the predicate
+(1) a. kanes
+ ka=nes
+ 3SG.M.SBJ=shout.NCONT
+ ‘he shouted’ (N11AAGSIRINILOBSTER1-0050)
+b. demiika qataqamunget
+ de=miika ka=taqa=mu-nget
+ CONJ=more3SG.M.SBJ=properly.CONT=put.NCONT.PST-3N
+ ‘and he continues to put them properly’ (N11AAGSIRINILOBSTER2-0030)
+c. kataqatekmet nanget
+ ka=taqa=tekmet ne-nget
+ 3SG.M.SBJ=properly.CONT=do.CONT:IN from/with-3N
+ ‘he puts them properly’ (N11AAGSIRINILOBSTER2-0029)
+Qaqet verbs are either intransitive or transitive; there are no ditransitive verbs (in the
+sense that no verb can occur with three unmarked arguments, see section 5.2 for a
+discussion). The subject argument (covering the subject of both intransitive and tran-
+sitive verbs) precedes the predicate, and is obligatorily indexed. The object argument
+follows: if the object is pronominal, it is suffixed to the verb stem or particle; if it is
+nominal, it constitutes an independent word. Qaqet thus has a fixed constituent order
+of AVO/SV, whereby both subject and object arguments can be omitted. In addition,
+there is an agentless construction that suppresses the A argument altogether (includ-
+ing its subject index), resulting in the structure VO. The alternation between a transi-
+tive AVO and an agentless VO structure is illustrated in (2a) and (2b). This phenome-
+non could alternatively be analyzed as a case of split intransitivity, with some
+intransitive verbs exhibiting SV order and others, VS order (see section 5.2.2 for de-
+tails).
+(2) a. dianeberltiq amadaqa
+ de=iane=berltik [ama=da-ka]OBJ
+ CONJ=3DU.SBJ.NPST=loosen:SIDE ART=taro-SG.M
+ ‘and they pick (lit. loosen) a taro’ (N12BAMCAT-090)
+b. de berltiq iagel
+ de berltik [ia-igel]OBJ
+ CONJ loosen:SIDE other-SG.EXC
+ ‘and another one got loosened’ (LONGYJL20150805_1-039)
+While subject and object arguments are formally unmarked, Qaqet additionally
+makes use of prepositions to introduce participants entailed by the verb semantics.
+For example, the verb quarl ~ kuarl ‘present someone with something’ co-occurs with
+the preposition te ‘PURP’ to convey the meaning of ‘give’ (as in 3a), and with the prep-
+osition ne ‘from/with’ to convery the meaning of ‘show’ (as in 3b).
+",3.0,SVO,[238],5,1,1.0,1
+"228 | Verbs and the structure of the predicate
+This section focuses on transitivity as defined above. It first describes the mor-
+phosyntactic properties of subject and object (section 5.2.1), then discusses the
+agentless construction (section 5.2.2) and the expression of reflexive and reciprocal
+concepts (section 5.2.3), and finally outlines the distribution of intransitive and tran-
+sitive verbs in the Qaqet lexicon (section 5.2.4). Following this discussion of transitiv-
+ity, the next section then focuses on prepositions and their role in introducing argu-
+ments.
+5.2.1 Grammatical relations: Subject and object
+Qaqet verbs allow for at most two unmarked arguments. The subject argument pre-
+cedes the verb, covering both the subject of intransitive verbs (as in 13a) and the sub-
+ject of transitive verbs (as in 13b); and the object argument follows it (as in 13b). There
+are no ditransitive verbs that occur with two unmarked object noun phrases.
+(13) a. luqa qamit
+[lu-ka-a]SBJ ka=mit
+DEM-SG.M-DIST 3SG.M.SBJ=go.NCONT.PST
+‘[that one]SBJ went’ (N12ABKSIRINI-118)
+ b. luqa qatal luqairaavuk
+[lu-ka-a]SBJ ka=tal [lu-ka-iara]OBJ=a-vuk
+DEM-SG.M-DIST 3SG.M.SBJ=carry.CONT DEM-SG.M-PROX=DIR-up
+‘[that one]SBJ was carrying [this one]OBJ up there’ (C12ARBZJIFROG-431)
+Both arguments are unmarked, i.e., they do not receive any case or prepositional
+marking (but see section 5.3 for a discussion of prepositions). They are distinguished
+on the basis of the fixed constituent order of AVO/SV (but see section 5.2.2 for a dis-
+cussion of the agentless construction), and the subject argument is obligatorily in-
+dexed on the verb. Note that both arguments can be freely omitted if they are recov-
+erable from context. The following paragraphs discuss (i) the subject argument and
+(ii) the object argument.
+(i) Subject argument
+The subject argument precedes the verb, and it is obligatorily indexed on it (as illus-
+trated in 14a). The subject slot can be filled by all types of noun phrases, including
+noun phrases headed by free pronouns (as in 14b). This section focusses on the mark-
+ing of subjects through constituent order and subject indexes. For details on the dis-
+tribution of noun phrases, see chapter 3.2.3; and for the forms and categories of the
+subject indexes, see chapter 3.2.3 (for the person categories) and section 5.4.1 (for the
+tense categories).
+",3.0,SVO,[246],5,2,1.0,1
+" The order of elements in a clause is fixed. Verbal clauses have a constituent order
+of AVO ~ SV: this order is unexpected from a Papuan perspective, but it is commonly
+found in Oceanic and non-Oceanic languages of New Britain and New Ireland. The
+non-verbal locative construction also shares the order of the subject preceding the
+predicate. In addition, Qaqet has two constructions that exhibit the reversed order of
+the predicate being followed by the subject: the non-verbal equative and attributive
+constructions.
+",3.0,SVO,[470],5,3,1.0,1
+" Structure of the grammar | 19
+ Another shared areal pattern is clausal constituent order (Dunn, Reesink, and
+Terrill 2002: 32–33, 36–37; Dunn et al. 2008: 743): Qaqet has AVO ~ SV constituent
+order, i.e., it differs from the verb-final order otherwise widespread in (East) Papuan
+languages. This order is found in all clause types (affirmative and negative state-
+ments, questions and commands), and it is also found in one non-verbal construction
+(the locative construction). In addition, there are two non-verbal constructions (the
+equative and attributive constructions) that exhibit the reversed order of the predi-
+cate being followed by the subject.
+",3.0,SVO,[37],5,4,1.0,1
+" Example (1a) illustrates the intransitive SV order, while (1b) illustrates the one
+potential exception to this order: the agentless construction. This construction could
+be analyzed as exhibiting VS constituent order. However, as discussed in chapter
+Simple clauses | 411
+5.2.2, there are reasons to not adopt this analysis and to instead assume a VO constit-
+uent order. With respect to non-verbal clauses, there is more variation, including two
+constructions whose subject follows the predicate (e.g., the attributive construction
+exemplified in 1c) (see section 8.2).
+(1) a. asiitka qerarles
+ a=siit-kake=rarles
+ NM=story-SG.M 3SG.M.SBJ.NPST=start.NCONT
+ ‘the story starts’ (N11AJNGENAINGMETSIQI-0001)
+b. buv aarlaunini
+ bup aa=rlaun-ini
+ fill 3SG.M.POSS=netbag-SG.DIM
+ ‘his netbag gets filled’ (N11AAGSIRINILOBSTER1-0011)
+c. samabarl lungera
+ sa=ama=barl lu-nget-a
+ already=ART=big DEM-N-DIST
+ ‘that one is already big’ (LONGYJL20150805_1-265)
+In transitive clauses, a direct object follows immediately after the verb (as in 2a). Re-
+call that Qaqet makes widespread use of prepositions to introduce semantic argu-
+ments of a verb (see chapter 5.3): such arguments also follow the verb (as in 2b). Qaqet
+does not have any ditransitive verbs, but there are trivalent verbs that introduce ar-
+guments through prepositions. In such cases, the unmarked direct object precedes
+the prepositional phrase (as in 2c). If a prepositional phrase introduces a participant
+that is not entailed by the verb semantics, it follows to the right (as in 2d).
+(2) a. kua nyi.. nyadrlem amaququanngi?
+ kua nyi.. nya=drlem[ama=ququan-ki]OBJ?
+",3.0,SVO,"[428, 429]",5,5,1.0,1
+" Qaqet has an elaborate system of noun classification: noun classes are overtly
+marked on nouns and pronouns, on agreeing elements within the noun phrase and
+on a number of argument indexes. This chapter frequently makes reference to this
+noun class system, but a more detailed discussion of its forms, meanings and distri-
+butions is postponed until chapter 4. Note that this grammar distinguishes termino-
+logically between “noun class” (used in reference to the full system of classification)
+and “gender” (used in reference to a reduced form of the system) (see chapter 4 for
+details).
+3.1 Introductory remarks on word classes and phrases
+This section introduces the word class of nouns (section 3.1.1) and the structure of the
+noun phrase (section 3.1.2). Both sections also include a more general discussion on
+the issue of word classes and phrasehood in Qaqet. Overall, there is considerable mor-
+phosyntactic evidence for the existence of word classes and phrase structure, but
+there are two qualifications to be added. First, many Qaqet roots occur underived in
+different morphosyntactic environments. As discussed below, I do not consider such
+roots to be acategorial, but analyze them as cases of conversion. Second, although
+the constituent order within phrases tends to be rigid and contiguous, there are ex-
+amples whose constituents appear in different orders, including some non-contigu-
+ous orders. It is likely that information structural considerations and/or subtle func-
+tional differences will eventually be able to account for the attested variation. For
+now, the number of counter-examples is too small to allow for any generalizations.
+Mali Baining shares the phenomenon of conversion (Stebbins 2011: 58–59, 95–97),
+but there is no information available on variable orders within phrases.
+",1.0,,[83],1,6,0.9137686763803912,0
+"Index
+abstract nouns 75, 84, 146, 149–50, 153, 155,collective nouns (see mass nouns and collective
+203, 277nouns)
+adjectives collective plural (see plural)
+– as modifiers 138–43, 143–44, 151–54command (see directives and hortatives)
+– as predicates 143, 432–34comparative and superlative (see adjectives)
+– comparative and superlative 145–46 complementation, discussion of 276, 446–48,
+– description of 66–68, 84–85, 89, 143–48 450
+adverbs 89, 95, 114–16, 116–18, 246, 255, 258, conditional 300–301, 304–5, 369, 374, 386–
+270, 280, 285, 316, 326–34, 341, 344, 87, 436, 451–52
+352–53, 357, 359, 384, 392, 400, 424, 435conjunctions 28, 48, 94, 168, 172–73, 231–32,
+afterthought (see intonation units) 273, 278–80, 335, 369, 373–74, 375–76,
+agentless construction 220, 237–43, 248, 252, 418, 434–52
+271–72, 292, 295–96, 364, 395–97, 402, consonant clusters 26–29, 40, 47–48, 167,
+403, 410–11, 420–21, 423, 429 192–93, 307–10, 313
+agreement (see noun class and gender)consonants 20–37
+alienable possession (see possession)constituent and word order
+apposition 72, 112, 112–13, 120–21, 136, 147,– and discontinuity 65, 72–73
+333, 435, 447–48 – in clauses 169–71, 220, 228, 233, 237–39,
+arguments, omission of 220, 228, 229, 236–37, 254, 328–29, 335–36, 359, 361, 362–63,
+251–52, 422, 424410–12, 420–21, 436
+aspectual verb stem 28, 30, 86–88, 144, 219, – in phrases 70–71, 71, 106, 110–12, 112, 138–
+226, 298, 300, 304–5, 305–12, 313–14, 315 43, 148–49, 154, 156, 166, 254–56, 325
+aspiration 21–23, 49–50continuation (see intonation units)
+associative construction 167–73, 211–12, 270,conversion (see word classes and conversion)
+274–75, 426coordination (see associative construction,
+associative plural (see plural) conjunctions)
+attributive construction (see non-verbal cross-referencing (see noun class and gender)
+clauses)
+ declarative (see intonation units)
+borrowing (see Tok Pisin loans)definiteness (see determination)
+Baining languages 16–19, 25, 64, 65, 74, 90, demonstratives 107, 109–18, 189–93, 231, 234
+93–94, 101, 105, 120, 124, 128, 131, 137,determination
+139, 146, 161–62, 164, 167, 175, 179, 182, – definite articles 130–37
+190, 193, 200, 203, 214, 218, 221, 236,– description of 72, 105–38
+242–43, 253–54, 261, 262, 268, 295, 296, – indefinite articles and pronouns 89, 104, 107,
+312, 316, 319–20, 337–38, 347, 357, 359,118–24, 137–38, 160, 193–95
+360–61, 420, 435–36– noun marker 124–30
+ dialectal variation 2–3, 31
+causal conjunction 369, 373–74, 446diphthongs (see vowels)
+causation 239–40, 252, 272–73, 291 directionals
+child-directed speech 31, 105, 160–61, 205,– as modifiers 112–13, 138–43, 154–56
+240–41, 354– description of 255, 284, 334–57, 424–25
+cliticization 48, 96, 98, 108, 157–58, 167, 192– – lexicalization 223
+93, 195, 211–12, 231–32, 233–35, 258, 266, directives and hortatives 117, 240–42, 301,
+314 304, 368–69, 372–73, 376–79, 388, 401,
+482 | Index
+403, 406, 414, 419 (see also intonation lenition
+units)– description of 24–29, 36–37, 40, 162, 183,
+discontinuity (see constituent and word order)230, 366
+discourse structure 115–16, 392–401, 405–7, – in word formation 82, 167, 177, 180–82, 187–
+436 (see also left dislocation) 88, 191–92, 296, 357
+– phonemicization of 30–31, 36
+equative construction (see non-verbal clauses)liquids 35–37, 162
+existential construction (see non-verballists (see intonation units)
+clauses)loans (see Tok Pisin loans)
+locative construction (see non-verbal clauses)
+fast vs. slow speech 26, 28, 40, 45, 47, 55, 108, long vowels (see vowels)
+156, 188, 195, 230, 231, 266, 296, 297loss of final vowel 28, 99, 182–85, 235, 243,
+focus (see discourse structure) 259–60, 260–63, 402
+fricatives 30–32
+mass nouns and collectives 75, 203
+grammatical relations 228–43modality (see tense, aspect, modality)
+modification 72, 135–37, 138–56
+hortative (see directives and hortatives) multi-verb structures (see verbs)
+imperative (see directives and hortatives)nasals 34–35
+inalienable possession (see possession) negation 241–42, 401–4, 413–14, 423 (see also
+indefiniteness (see determination)intonation units)
+indexing (see noun class and gender)nominalization 87–88, 209
+interjections 53, 147, 163, 388, 403, 415–16, non-verbal clauses
+419 – attributive construction 67–68, 143, 432–34
+interrogative 100–105, 107, 316, 370, 376–79, – description of 410, 420–34
+404–5, 415–20, 425, 429, 433, 449 (see– equative construction 67–68, 141–42, 154–
+also intonation units)55, 402, 429–32
+intonation units– existential construction 242, 402–3, 422–23,
+– afterthought 72, 103, 169–70439
+– and syntactic units 72, 111, 112, 136, 147–48,– locative construction 148–49, 154–55, 423–
+169, 279, 333, 435, 438–39, 439 29
+– continuation 57, 129–30, 157, 438 noun class and gender
+– declaratives 52–56– agreement and indexing 71, 74–75, 80–81,
+– description of 52–63110, 119, 139, 143, 149–50, 152–54, 156–57,
+– directives 62–63165–66, 167–69, 217, 219, 228, 237, 296–
+– interrogatives 60–62, 414, 41597, 314, 321–24, 335, 424–25
+– left dislocation 54–55, 98, 328 – description of forms and categories 74, 79–
+– lists 58–59 80, 95, 175–218
+– negation 63 – frozen morphology 76–77
+– speech reports 57 noun marker (see determination)
+noun phrase 70–73, 111–12, 139, 167–73, 439
+juxtaposition (see apposition)nouns
+– as modifiers 67, 138–43, 148–54
+labialization 21, 45–46, 46 – as predicates 422–23, 429–32
+left dislocation 95, 229, 361, 412, 417, 423, 440 – description of 66–68, 73–84, 150–51
+(see also intonation units) numerals and quantifiers 76, 88–95, 171, 399,
+416, 431–32, 452
+Index | 483
+object (see grammatical relations)relational nouns 160, 206, 224, 255, 278, 284,
+object marker 236, 277–78 295, 319–26, 331
+Oceanic languages 16–19, 64, 106, 156, 410relativization, discussion of 141–42, 149, 445
+orthography 20, 24, 29, 31, 34, 37, 42reported speech (see speech report)
+palatalization 21, 23–24, 42, 43, 45–46, 46,schwa (see vowels)
+ 187, 195 secondary articulation (see labialization,
+Papuan and East Papuan languages 16–19, 48, palatalization, prenasalization)
+ 64, 106, 156, 175, 218, 226, 410, 435serial verb construction (see verbs)
+particles 89, 117, 146, 281, 316, 328, 327–29,slow speech (see fast vs. slow speech)
+ 359–409, 413–20 (see also tense, aspect, speech report 276, 435, 446
+ modality)split intransitivity (see agentless construction)
+personal pronouns 95–100, 107, 177, 219, 229, subject (see grammatical relations)
+ 233, 234–36, 296–97, 316, 441subordination, discussion of 436
+plosives 21–29, 32–34 suppletion 159, 188–89
+plural 71, 74, 76, 143, 147, 201–5, 206–12 (see syllable 46–48
+ also noun class and gender)
+possessiontail-head linkage (see discourse structure)
+– and relational nouns 319–26 tense, aspect, modality
+– description of 106, 156–67, 215–16, 217 – in adverbs 114–15, 328, 331–32
+– inalienable vs. alienable 75, 158–62– in particles 301–2, 304, 328, 368–92, 379–
+– predicative possession 241, 420, 423, 425–86, 386–92, 392
+ 26, 428– in the predicate 219, 228, 295–314, 314–15
+prenasalization 21, 33–34, 180–81, 260, 309 Tok Pisin loans 2, 23, 29, 34, 37, 41, 83, 93, 94,
+prepositional phrases 146, 147–48, 158, 161, 184, 196, 210, 310
+– as complements 149–50, 429–30 topic (see discourse structure)
+– as modifiers 138–43, 154–56, 270, 329, 333transitivity and valency 220–21, 225–26, 227–
+– as predicates 423–2995 (see also verbs)
+– description of 254–68, 329, 354–57, 417, 424
+prepositionsuncountable nouns 75–77, 84, 89, 203–5
+– description of 99, 220, 243, 249–51, 252–95
+– lexicalization 76–77, 85, 88, 219, 221–26,valency (see transitivity and valency)
+ 248–49, 263–68, 286–93, 330verbs
+prohibitive (see directives and hortatives) – conversions and nominalizations 85–88,
+proper nouns 77–84, 105, 112–13, 125, 130,144–45, 208
+ 132–34, 135, 166, 205, 209, 217– description of forms and categories 99, 219–
+prosody 27, 235, 246, 247–52, 298–99, 410–13
+– lengthening 48–52, 187– modification of 219, 306, 313, 314–17
+– pitch 52–63 – multi-verb structures 86–87, 314–17, 364–
+purpose conjunction 375–76, 447, 449–52 68, 435
+vocative 30, 53, 81, 105, 205
+quantification 72, 201–5, 332–33, 408, 429vowels
+quantifiers (see numerals and quantifiers)– description of 37–46
+question (see interrogative)– long vowels and diphthongs 41–46, 46, 129,
+156–57, 187
+reciprocal (see reflexive)– schwa 34, 38–41, 44, 46, 47, 50, 129, 185,
+reduplication 31, 146, 310, 313–14, 315, 330, 187–88, 188, 193, 258
+ 356, 391, 396, 409
+reflexive and reciprocal 85, 219, 243–47, 251
+484 | Index
+word classes and conversion 67, 68–70, 84– word order (see constituent and word order)
+87, 144, 153, 276, 306, 311, 428
+",2.1,,"[499, 500, 501, 502]",2,7,0.8666943931371676,0
+"8 Clauses
+This chapter introduces the different clause types: the structure of simple (verbal)
+clauses (section 8.1), non-verbal clauses (section 8.2) and clause linking (section 8.3).
+Section 8.4 then summarizes this chapter.
+8.1 Simple clauses
+Different aspects of the structure of simple clauses have been discussed in more detail
+elsewhere in this grammar, and this section serves to bring together the available in-
+formation on clause structure (section 8.1.1) and speech acts (section 8.1.2). The focus
+of the presentation is on verbal clauses, but non-verbal clauses allow for the same
+peripheral constituents, and they are negated and questioned in the same way.
+8.1.1 Verbal clauses
+The different constituents of a verbal clause combine in the fixed order summarized
+in Table 75.
+Tab. 75: Clause structure
+1 Conjunction(s) see section 8.3
+2 Particle(s)see chapter 7
+3 Subjectsee chapter 5.2.1
+4 Verb see chapter 5
+5 Direct objectsee chapter 5.2.1
+6 Prepositional object(s) (entailed by verb semantics) see chapter 5.3
+7 Prepositional phrase(s), Relational noun(s), Adverb(s) see chapters 5.3, 6.1, 6.2
+8 Directional(s) see chapter 6.3
+In all verbal clauses, the constituent order is AVO ~ SV. This verb-medial order is a
+common areal pattern in New Britain and New Ireland, and Qaqet does not exhibit
+any evidence for a verb-final order, which is otherwise widespread among Papuan
+languages, including East Papuan languages (Dunn, Reesink, and Terrill 2002: 32–
+33, 36–37; Dunn et al. 2008: 743).
+",3.0,SVO,[428],5,8,0.8773314525245743,1
+" The verb lexicon contains transitive and intransitive verbs, but no ditransitive
+verbs and only very few ambitransitive verbs (section 5.2.4). Both subject and object
+noun phrases are formally unmarked, the constituent order is SV/AVO, and the sub-
+ject argument is obligatorily indexed, usually as a proclitic on the verb (section 5.2.1).
+In addition, some types of bivalent verbs occur in the agentless construction to con-
+vey a non-controlled situation: the subject argument and its index are omitted, and
+the patient continues to be expressed in the same way as before. This pattern resem-
+bles a split-intransitive system (that distinguishes between two classes of intransitive
+verbs, SA verbs and SO verbs), but there are reasons to analyze this pattern not as a
+lexical split, but as an argument structure alternation (section 5.2.2). Qaqet further-
+more has reflexive and reciprocal pronouns that take the place of direct and preposi-
+tional objects (section 5.2.3).
+",3.0,SVO,[335],5,9,0.8987290098728798,1
+" In possessive noun phrases, Qaqet displays the typical Papuan order of the pos-
+sessor preceding the possessed – despite not (or no longer) having the concomitant
+Papuan verb-final constituent order. Qaqet also does not have any possessive classi-
+fiers, which are typical of Oceanic languages (although they are largely absent in
+neighboring Oceanic languages, too). There is evidence for Qaqet having the category
+of inalienable possession (which is typical of Oceanic languages), but it only concerns
+a handful of items (a few kinship nouns, relational nouns and irregular proforms).
+",2.3,"No dominant order, SVO, OVS, VSO, VOS",[35],4,10,0.9040208167394326,1
+" The general characteristic of all attested non-verbal clauses is the absence of a
+copula or other (defective) verbal element. Instead, Qaqet relies on syntax: the exis-
+tential consists of a single noun phrase, and the other constructions juxtapose subject
+and predicate, whereby the order of constituents differs across the different construc-
+tions. Subjects are usually noun phrases, but the equative construction marks its sub-
+ject by means of a preposition. And subjects are never cross-referenced on the predi-
+cate. The constructions furthermore differ in the types of predicates they admit. Table
+77 summarizes the properties of each construction.
+",1.0,,[438],1,11,0.8726254244883092,0
+" The above discussion has shown that, despite their diachronic relationship, there
+are considerable synchronic differences between relational nouns and possessed
+nouns: relational nouns have to occur within prepositional phrases, the form and dis-
+tribution of their possessor indexes show differences, they cannot be marked for noun
+class and they do not function as heads of possessive noun phrases. Given these dif-
+ferences, I consider them a separate word class. There would be some justification in
+analyzing them synchronically as postpositions. I have nevertheless opted for an
+analysis in terms of relational nouns in order to emphasize their diachronic origins as
+possessed nouns and their continued morphosyntactic similarity to possessive struc-
+tures.
+6.2 Adverbs
+All attested adverbs are listed in Table 69. They are defined as a word class on the
+basis of their syntactic behavior, although some adverbs (in particular, spatial ad-
+verbs) exhibit additional syntactic properties and are considered distinct formal sub-
+classes. Morphologically, all adverbs are unmarked, and there is no productive
+means for deriving adverbs from other word classes (even though some adverbs prob-
+ably have a multimorphemic origin). Semantically, most adverbs convey information
+on space, time, and quantity (including frequency and collectivity). Interestingly,
+there are hardly any manner adverbs.
+",0.0,,[344],0,12,0.8338468433839638,0
+"To summarize the discussion, the locative construction expresses a locative rela-
+tionship, and it can also be used to convey possession, equation and attribution. In
+the case of possession, there is no dedicated possessive construction. Speakers in-
+stead resort to the locative construction, thereby conceptualizing possession as a spa-
+tial relation (when using spatial prepositions) or an accompaniment (when using the
+||
+38 The alternative possibility would be to analyze these cases as consisting of a non-verbal predicate
+(a noun, adjective or quantifier), and a subject that is introduced by a preposition. This is a possible
+analysis, too: such a constituent order is attested in both the equative and the attributive construc-
+tion; and prepositions introduce subjects in the equative constructions. However, as discussed in the
+text, I consider the overall evidence to be in favor of the locative analysis. This decision has the addi-
+tional advantage that the morphosyntax provides unambiguous criteria for identifying the constitu-
+ents – whereas the alternative possibility introduces the danger of relying on subjective assessments
+as to whether a specific case is locative or equative/attributive in meaning.
+",1.0,,[446],1,13,0.8096739244576181,0
+" The forms and patterns discussed in this chapter are very similar to those of Mali
+Baining (as described in Stebbins 2011). But despite an overall similarity, there are
+considerable differences in detail, with evidence pointing both to innovations and to
+the re-organization of shared forms and inherited structures. Similarities and differ-
+ences were noted throughout this chapter. From an East Papuan perspective, the
+structure of possession is of main interest: Qaqet shares the typical Papuan word or-
+der of the possessor noun preceding the possessed noun (without having retained a
+verb-final constituent order or postpositions), and does not exhibit any typical Oce-
+anic features (i.e., it has no possessive classifiers, no suffix-marked possessives, and
+the distinction between alienable and inalienable possession is at best marginal)
+(Dunn, Reesink, and Terrill 2002: 33–34; Dunn et al. 2008: 743). Finally, from an areal
+perspective, the existence of articles is noteworthy, as they are most likely borrowings
+from Oceanic (Stebbins 2009a; see also Dunn, Reesink, and Terrill 2002: 34–36; Dunn
+et al. 2008: 743).
+",2.3,"No dominant order, SVO, OVS, VSO, VOS",[192],4,14,0.8170553784763662,1
+" As a consequence of its predominant verb-medial order, Qaqet does not have any
+clause chaining and/or switch reference, which is common in verb-final Papuan lan-
+guages. Qaqet also does not employ multi-verb constructions synchronically, and,
+interestingly, there is also no clear evidence for subordination. Qaqet essentially com-
+bines main clauses with each other, indicating the different semantic relationships
+through a large number of conjunctions and particles.
+1.4 Structure of the grammar
+Following this introduction, Chapter 2 focuses on the phonology, presenting infor-
+mation on segmental phonology, syllable structure and prosody. Chapter 3 is orga-
+nized around the noun phrase: it starts with a general discussion of word classes and
+phrase structure in Qaqet, and then discusses the possible heads of noun phrases
+(i.e., nouns, numerals and quantifiers, and pronouns), their determination (by means
+of demonstratives and articles) and their modification (by means of adjectives, nom-
+inal modifiers and adverbials), and finally describes possessive noun phrases and
+conjoined noun phrases. Chapter 4 continues the discussion of the nominal domain,
+focusing on the morphology and semantics of the noun class and gender systems.
+Chapter 5 is organized around the structure of the predicate. It outlines the predomi-
+nant lexicalization patterns in the verbal lexicon, and then focuses on syntactic tran-
+sitivity and semantic valency, discussing especially the role of prepositions in this
+domain. This chapter also introduces those tense/aspect and modifier categories that
+are marked within the predicate. Chapter 6 is a description of adverbials, covering
+relational nouns, adverbs and directionals. Note that prepositions and prepositional
+phrases are discussed in Chapter 5, and not taken up again in Chapter 6. Chapter 7
+introduces the word class of particles, which plays an important role in structuring
+discourse. And chapter 8 focuses on clause structure, describing verbal and non-ver-
+bal clauses, clause linking as well as the structures of negative statements, questions
+and commands.
+",2.3,"No dominant order, SVO, OVS",[37],4,15,0.8237324681377226,1
+" The noun classes surface in a large number of grammatical environments. The
+free pronouns distinguish noun class, and they gave rise to object suffixes on verbs
+and prepositions. The classes are also overtly marked by suffixes on the noun (except-
+ing the special case of masculine and feminine plurals) and on noun phrase elements
+agreeing with the noun: adjectives, the numerals ‘one’ and ‘two’, demonstratives, in-
+definite pronouns, and some interrogative pronouns. The genders surface in the form
+of possessor indexes on possessed nouns, of subject indexes on verbs, and as associ-
+ative pronouns. Chapters 3 and 5 give more information on these word classes and
+their characteristic membership and properties.
+",0.0,,[236],0,16,0.8092799827612622,0
+"ART=story-SG.M=PROX CONJ to/with=on/under=ART
+a=qaqera=ama=depguas ne-ta]NP
+NM=person=ART=threefrom/with-3PL.H
+‘there is a story here, it goes to [th.. three people]NP’ (R12ABDFROG-
+001FF)
+Different from Mali, the Qaqet modifiers thus cannot be analyzed as clauses. And I
+suspect that the metalinguistic comments above reflect the word order of English ra-
+ther than the underlying Qaqet structure. The comments were made by speakers who
+are fluent in English, and it cannot be ruled out that they equated the Qaqet post-head
+and pre-head adjectives with, respectively, the English post-head relative clause and
+pre-head adjective translation.
+",1.0,,[160],1,17,0.8109060168356038,0
+"Possession | 163
+meaning is that of ‘my friend(s)’ (as in 128a). The plural form is also used as an inter-
+jection to convey empathy (as in 128b). It is not possible to replace gua ‘1SG.POSS’ with
+any of the other possessor indexes to convey a different possessive relation (e.g., one
+could not use gia ‘2SG.POSS’ in order to convey the meaning of ‘your friend(s)’).
+(128) a.guaka, dap nyisana?
+gua-ka,dap nyi=sana?
+",0.0,,[181],0,18,0.8041757008019625,0
+" PLACE=NM=differencebut=INTRG
+ ‘normally no-one.. walks differently (i.e., wrongly), but maybe..’
+ (I12ABLAJLATASOCIO3-040)
+3.4.3 Prepositional phrases and directionals
+Prepositional phrases (as in 119a) and directionals (as in 119b) can function as modi-
+fiers to a head noun. Like the other modifiers, they almost always occur post-head.
+Different from the others, they are not introduced by the article ama; and different
+from the modifier construction, there is no agreement. Instead, they retain the inter-
+nal structure of prepositional phrases or directionals (see chapter 5.3 on prepositional
+phrases and chapter 6.3 on directionals), often resulting in syntactically ambiguous
+structures. In (119a), the context suggests that the prepositional phrase forms part of
+the noun phrase. Out of context, however, this example could alternatively instanti-
+ate either the locative construction (with the interpretation of ‘canoes are (made) from
+taro’) or the equative construction (with the interpretation of ‘the taro is a canoe’). In
+(119b), the morphosyntax only allows for the noun phrase interpretation – otherwise
+Modification | 155
+there would have to be an overt conjunction i (for the interpretation of ‘the child
+comes back from down there and says’).
+(119)a.ianiurlet nianamalauski sep maqerlap, amalauski namadaqa
+ ian=iurlet ne=iana=malaus-ki se=pe
+ 3DU.SBJ=pull.NCONT from/with=3DU.POSS=canoe-SG.F to/with=PLACE
+ ma=qerlap,[a=malaus-ki ne=ama=da-ka]NP
+ ART.ID=waterNM=canoe-SG.Ffrom/with=ART=taro-SG.M
+ ‘they pulled their canoe into water (to travel across the sea), [the ca-
+ noe (made) from taro]NP’ (N12BAMCAT-131FF)
+ b.taquarliva, dinyinarli amarluimga naimek kasil..
+ taquarl=ip=a, de=nyi=narli [ama=rluim-ka
+ thus=PURP=DIST CONJ=2SG.SBJ.NPST=hear ART=child-SG.M
+ ne=i-mek]NP ka=sil..
+ from/with=AWAY-down 3SG.M.SBJ=say.NCONT
+ ‘it’s like this now, and you hear that [a child coming back from down
+ there]NP says..’ (I12ABLAJLATASOCIO3-062)
+Despite their formal differences to other types of modifiers, there is overlap with the
+nominal modifier construction. This overlap is restricted to abstract nouns that can
+function both as head nouns and as nominal modifiers. Example (120a) illustrates a
+noun phrase containing a prepositional phrase: the head noun is nauisaqa ‘blue-
+ness:SG.M’, and the prepositional phrase specifies the location of this color. And ex-
+ample (120b) illustrates the nominal modifier construction: here, the head noun is
+daqa ‘taro:SG.M’, and the modifier consists of the noun grlan ‘yellowness’ and a prep-
+ositional phrase (with the pronominal prepositional object being co-referential to the
+head noun daqa ‘taro:SG.M’). The two structures are similar in that both contain a
+nominal property concept and a prepositional phrase (specifying the location of the
+property), but they differ in the syntactic status of the property noun (as head noun
+in 120a and as modifier in 120b).
+(120)a.ngumnyim sagel amanauisaqa pramadam
+ ngu=mnyim se=gel [ama=nauisa-ka
+ 1SG.SBJ.NPST=look.CONT to/with=near ART=blueness-SG.M
+ [pet=ama=dam]PP]NP
+ on/under=ART=stone
+ ‘I am looking at [the blue mountains]NP (lit. the blueness on the moun-
+ tains)’ (ABL&AAN-09/05/2015)
+156 | Nouns and the noun phrase
+b. mani nguain amadaqa amagrlan pemga
+ mani ngua=in [ama=da-ka [ama=grlan
+ recently 1SG.SBJ=cook.NCONT ART=taro-SG.M ART=yellowness
+ [pe-ka]PP]MODIFIER]NP
+ PLACE-SG.M
+ ‘yesterday I cooked [the yellow taro]NP (lit. taro of yellowness on it)’
+ (ABL&AAN-11/05/2015)
+3.5 Possession
+In possessive noun phrases, the possessor noun precedes the possessed noun,
+and the possessor is indexed in the form of a clitic on the possessed noun.
+Qaqet thus shares the typical word order of East Papuan languages – despite
+not sharing the concomitant verb-final constituent order and postpositions.
+Conversely, Qaqet does not display any of the typical Oceanic features: there
+are no possessive classifiers and no suffix-marked possessives, and a distinc-
+tion between alienable and inalienable possession is marginal (see the discus-
+sion on possession in Dunn, Reesink, and Terrill (2002: 33–34), and the sum-
+marizing tables in Dunn et al. (2008: 743)).
+",2.3,"No dominant order, SVO, OVS, VSO, VOS","[172, 173, 174]",4,19,0.8300351305961814,1
+" The particles share formal and semantic similarities with the class of adverbs (see
+chapter 6.2 for a comparison). Formally, the members of both classes are synchroni-
+cally non-inflecting and morphologically simple, although a diachronic origin of par-
+ticles in verbs is visible in some optional and rudimentary inflectional possibilities.
+And semantically, both classes convey (amongst others) temporal and aspectual in-
+formation. They differ in their syntactic distribution, though: adverbs occur in the
+right periphery of the clause, unless they are formally marked; while particles always
+occur in the left periphery, co-occurring in a fixed order.
+",1.0,,[377],1,20,0.8313776942707806,0
+" In the nominal domain, Qaqet exhibits a number of characteristic East Papuan
+features (Dunn, Reesink, and Terrill 2002: 33–36; Dunn et al. 2008: 743; Stebbins
+2009a; Terrill 2002). Most notably, nouns are marked for noun class (distinguishing
+two sex-based and six shape-based classes) and number (distinguishing singular,
+dual and plural), and the classes overtly appear in a large number of grammatical
+environments: as free pronouns and as arguments that developed from the free pro-
+nouns (object suffixes on verbs and prepositions); and on noun phrase elements
+agreeing with the noun (adjectives, the numerals ‘one’ and ‘two’, demonstratives,
+some indefinite pronouns, and the interrogative pronouns ‘which’ and ‘who’). Fur-
+thermore, the noun classes are mapped onto a smaller system (labeled ‘gender’
+throughout this grammar), which surfaces in the form of possessor indexes on pos-
+sessed nouns, of subject indexes on verbs, and as associative pronouns. Both nominal
+classification and the dual/plural distinction are widespread among the East Papuan
+languages, and are largely absent from Oceanic. But although East Papuan languages
+tend to have some form of nominal classification, the formal and semantic properties
+of these systems are very different. The Qaqet system shares similarities with those of
+other Baining languages, but it remains to be seen whether similarities are also found
+with the other East Papuan languages of the Bismarcks.
+",0.0,,[35],0,21,0.8249593576609183,0
+"The structure of the predicate is summarized in Table 60. The subject argument
+is obligatorily indexed, with the index expressing information on person and tense.
+The index is optionally followed by the modifier raqa ~ taqa ‘properly’, but is more
+commonly followed directly by the verb stem. Qaqet verbs have up to three different
+aspectual stems that express information about tense/aspect. The verb stem is then
+optionally followed by two types of elements: verb particles and object pronouns. The
+term ‘verb particle’ is used as a cover term for a large number of (diachronic) prepo-
+sitions, relational nouns, adverbs and directionals, which became incorporated into
+the verb, first as particles and later as suffixes. They originally served to introduce
+arguments in different semantic roles, or to specify the direction or manner of a verb
+action. Synchronically, they are often no longer fully analyzable and they constitute
+integral parts of complex verbs with conventionalized meanings. The final slot is
+filled by a suffixed pronominal form: a direct object, a reflexive or a reciprocal. This
+suffix is optional: it is absent with monovalent verbs, and it is mutually exclusive with
+an object noun phrase.
+Tab. 60: Structure of the predicate
+subject indexraqa ~ taqaverb stemverb particleobject pronoun
+ ‘properly’
+proclitic= (proclitic=) stem (particle ~ -suffix) (-suffix)
+categories coded:
+person manner tense/aspect semantic roleperson
+tensedirectionreflexive
+ manner reciprocal
+Examples (1a) to (1c) illustrate some of the slots of the predicate: the simplest form of
+the predicate consisting of a subject index and a verb stem (in 1a), and more complex
+structures including in both examples a subject index, the modifier taqa ‘properly’
+and a verb stem, plus the object pronoun nget ‘3N’ in (1b) and the verb particle met
+‘in’ in (1c).
+",0.0,,[237],0,22,0.8187282840551443,0
+" The transitivity of a verb has to be distinguished from its semantic valency. Very
+frequently, transitivity and valency do not match, because Qaqet makes widespread
+use of prepositions to introduce arguments entailed by the verb semantics. There is
+an on-going lexicalization process whereby prepositions that originally introduced
+adjuncts become integrated into the verb: they start to interact with the argument
+structure of individual verbs, and end up as unanalyzable verb particles or suffixes.
+In the intermediate stages of this development, this lexicalization process has conse-
+quences for the analysis of transitivity and grammatical relations: the question arises
+as to whether arguments marked by prepositions should or should not be considered
+(direct) objects of transitive verbs. This question cannot be easily decided. To my
+knowledge, there are no behavioral or coding properties that would distinguish an
+object from an adjunct: they both appear in post-verbal position, neither one is in-
+dexed on the verb, and there are no morphosyntactic operations such as passivization
+or relativization that would target only the object. The only formal difference seems
+to be the presence or absence of a preposition. For this reason, I take this formal dif-
+ference as the determining factor: object (and subject) are defined as unmarked argu-
+ments, and the transitivity of a verb is defined in terms of the number of unmarked
+arguments it can co-occur with. As a result of this definition, the transitivity of a verb
+does not necessarily correspond to its valency.
+",2.3,"No dominant order, SVO, VOS",[245],4,23,0.8422598846008442,1
+" CONJ
+ ‘if you.. you say that one (i.e., word) differently, and..’ (I12AANACLAD-
+ NSOCIO2-062)
+ e.kataqen amangerlnanngia
+ ka=taqen[ama=ngerlnan-ki]OBJ=a
+ 3SG.M.SBJ=say.CONT ART=woman-SG.F=DIST
+ ‘he tells the mother now’ (N11AJNGENAINGMETSIQI-0023)
+In the case of trivalent verbs, at most one argument is linked to direct object function
+(and the other, or sometimes both, are expressed via prepositions). The relevant ar-
+gument is usually the recipient (as in 49a and 49b), although a few verbs select a
+theme (as in 49c).
+(49) a.nyiquarl giaqalatki ramakontainaqia
+ nyi=quarl [gia=qalat-ki]OBJ
+ 2SG.SBJ.NPST=present.NCONT 2SG.POSS=younger.sibling-SG.F
+ te=ama=kontaina-ki=a
+ PURP=ART=container-SG.F=DIST
+ ‘give your little sister the container now’ (LONGYDS20150517_1-507)
+ b.de dip ngusu nguimini rama.. amaqaqeras
+ dedip ngu=su[gu-uim-ini]OBJ
+ CONJFUT 1SG.SBJ.NPST=teach 1SG.POSS-child-SG.DIM
+ te=ama..ama=qaqera-es
+ PURP=ARTART=person-SG.FLAT
+ ‘and I will teach my child the.. the Qaqet language’ (I12AANACLAD-
+ NSOCIO3-045)
+Transitivity | 251
+ c.iqimnem aruimga sep mahausik
+ i=ki=mnem[are-uim-ka]OBJ
+ SIM=3SG.F.SBJ.NPST=send/sell.CONT3SG.F.POSS-child-SG.M
+ se=pema=hausik
+ to/with=PLACE ART.ID=hospital
+ ‘and she is sending her child to the hospital’ (ARS-12/06/2015)
+Ambitransitive verbs are infrequent. In most cases, such verbs have distinct (albeit
+related) senses, and I therefore analyze them as distinct lexemes – even though their
+formal properties suggest that they are diachronically related. For example, quarl ~
+kuarl has a meaning of ‘present (give, show)’ when occurring transitively (as in 50a),
+but ‘shine a light (in order to catch fish)’ when occurring intransitively (as in 50b).
+(50) a.dap kequarl aarluaqa remirang
+ dap ke=quarl [aa=rlua-ka]OBJ
+ but 3SG.M.SBJ.NPST=present.NCONT 3SG.M.POSS=friend-SG.M
+ te-irang
+ PURP-PL.DIM
+ ‘he gives his friend the little things’ (N11AAGBROTHERS-0015)
+ b.unekuarl meramakainaqi
+ une=kuarlmet=ama=kaina-ki
+ 1DU.SBJ.NPST=shine.CONTin=ART=water-SG.F
+ ‘we shine into the water (to catch fish)’ (N11AAGBROTHERS-0019)
+Transitive verbs often omit their direct object, and thus look indistinguishable from
+intransitive verbs. Whenever the object is recoverable from the context, I consider
+such verbs to be transitive (see section 5.2.1). This analysis holds for the majority of
+cases, but there remains a small number of unclear cases. Some emotion verbs such
+as ning ~ ngning ‘fear’ are possibly ambitransitive, occurring either with a stimulus
+object (as in 51a) or without (as in 51b). An animate object (as in 51b) would normally
+not be omitted, but be expressed pronominally: its absence in (51b) could point to the
+verb being used intransitively. In addition, there are a few verbs such as rerles ~ terles
+‘hide’ that receive a reflexive interpretation when used intransitively (see example 31
+above). Mostly, though, reflexivity is overtly expressed through nas ‘self’.
+(51) a.iqaki qengning amabariqi
+ i=kaki ke=ngning [ama=bari-ki]OBJ
+ SIM=instead 3SG.M.SBJ.NPST=fear.CONT ART=bee-SG.F
+ ‘because he is afraid of the bees’ (R12ABDFROG-059)
+252 | Verbs and the structure of the predicate
+ b.kidatdemga, dap keqiuaik, ke.. iqengning
+ ki=datdem-ka,dap ke=qiuaik,
+ 3SG.F.SBJ.NPST=follow.CONT-3SG.M but 3SG.M.SBJ.NPST=run.CONT
+ ke.. i=ke=ngning
+ 3SG.M.SBJ.NPST SIM=3SG.M.SBJ.NPST=fear.CONT
+ ‘it (a deer) is following him, and he is running, he.. because he is
+ afraid’ (R12ATAFROG-164)
+Finally, ambitransitive verbs alternating between inchoative and causative uses are
+almost absent. All attested cases involve lexicalizations (as in example 32 above); oth-
+erwise, speakers resort to the agentless construction (see section 5.2.2).
+5.3 Prepositions: Introducing participants
+Qaqet makes extensive use of prepositions to introduce participants in different se-
+mantic roles to an event (summarized in Table 61).
+Tab. 61: Prepositions and verb particles
+FormGlossCore semanticsOther roles
+nefrom/withsource, instrumentmaterial, partitive, addressee,
+ theme, causee
+seto/withgoal, comitativepurpose, recipient, addressee,
+ instrument, theme, manner
+ complement
+dalengabovelocative (superposition: above) n/a
+deLOC.PART locative (at part of a whole) ground, theme/patient
+gel near locative (proximity: near)n/a
+kut alonglocative (along)n/a
+men at locative (coincidence: at)ground, theme/patient
+met in locative (containment: in)ground, theme/patient
+pePLACElocative (in a unique place)ground, theme/patient
+pet on/under locative (superposition: on, un-ground, addressee, content,
+ der; in place or time)theme/patient
+set behind locative (behind) n/a
+barek BENbeneficiary recipient, addressee
+tePURP purpose ground, theme/patient
+ Prepositions: Introducing participants | 253
+Depending on the verb semantics, the syntactic status of the participant varies: as
+adjunct, as argument introduced by a preposition, or as unmarked argument. This
+variation is the result of a lexicalization process, whereby prepositions are first re-
+cruited to introduce arguments entailed by the verb semantics and eventually become
+lexicalized as verb particles and suffixes.
+",0.0,,"[268, 269, 270, 271]",0,24,0.8361533661779474,0
+" Most nouns are conventionally assigned to a single noun class only (although
+speakers can shift to other classes in order to highlight specific properties of a refer-
+ent). The main exception are nouns with human reference, which do not belong to a
+conventionalized class, but are assigned to a class depending on the sex of their real-
+world referent. For example, the noun qaqera ‘person’ appears with feminine singu-
+lar marking in (8a), but masculine singular marking in (8b), referring to a woman and
+a man respectively. It would even be possible to shift to other classes to highlight non-
+sex-based properties of a human referent, e.g., to the diminutive class in example (9)
+below.
+(8) a. dap.. amaqaqraqi amavuqi, deratiski masinap
+ dap.. [ama=qaqera-ki ama=vu-ki]NP,
+ but ART=person-SG.F ART=bad-SG.F
+ de=ta=tis-ki ma=sinap
+ CONJ=3PL.SBJ=call.CONT-3SG.F ART.ID=NAME
+ ‘and.. there is a bad person, they call her Sinap’ (D12ADKSPIRITS-031FF)
+b. de saqika iaqamqaqraqa
+ desaqi-ka [ia-ka=ama=qaqera-ka]NP
+ CONJagain-3SG.M other-SG.M=ART=person-SG.M
+ ‘and he is also a (kind of) person’ (D12ADKSPIRITS-053)
+In all cases, the class of the noun determines the form of the pronominal reference,
+the person indexes and the agreement. For example, the adjective vu ‘bad’ in (8a) and
+the indefinite determiner ia ‘other’ in (8b) agree with their head; and the object pro-
+noun in (8a) is co-referential with the feminine singular noun. In (8a) and (8b), the
+noun class and the sex of the referent happen to coincide. But in (9) below, they hap-
+pen to differ: a diminutive noun class, with presumably a male or female real-world
+referent – and it is the diminutive class that triggers the use of the neuter subject in-
+dex; the masculine or feminine indexes could not be used. This is only possible in
+ Heads of noun phrases | 75
+some restricted environments, where the sex of a real-world referent can override the
+grammatical class: this phenomenon is observed for some possessor indexes (see
+chapter 4.3) and for some nominal modifiers originating in the non-verbal equative
+construction (see chapter 8.2.3).
+(9) kerlip ngui.. nguimini ngamraqen.. nana?
+kerl=ipgu.. gu-uim-ini nga=mraqen.. nana?
+",0.0,,"[92, 93]",0,25,0.8302066931444217,0
+" Qaqet thus seems to have inherited many semantic patterns, but the formal
+means of expressing them differ somewhat. Qaqet mainly uses prepositions to con-
+strain the general meaning of verbs – not serial verb constructions (but see the dis-
+cussion in section 5.5). And it uses syntactic means to distinguish between controlled
+and non-controlled events (in particular, the agentless construction for presenting
+events as non-controlled) – not verb stem alternations or inflectional morphology. It
+does show formal similarities to other Papuan languages, in that it employs stem al-
+ternation to convey aspectual distinctions.
+5.2 Transitivity
+This section discusses the issue of transitivity in Qaqet. Verbs in Qaqet can be either
+intransitive (allowing for at most one unmarked argument, occurring in subject func-
+tion) or transitive (allowing for at most two unmarked arguments, occurring in sub-
+ject and object function); there are no ditransitive verbs. All arguments can be omit-
+ted if they are recoverable from the context.
+",0.0,,[245],0,26,0.8244106719620724,0
+" PURP can1SG.SBJ 1SG.SBJ=go.CONT to/with=on/under=ART
+ ama=sleng=ipngu..ngu=tmatna
+ ART=garden=PURP 1SG.SBJ.NPST 1SG.SBJ.NPST= work.CONT:RECP
+ set-nas
+ behind-self
+ ‘so I.. I can go to the.. the garden, and I.. I do the work by myself’
+ (N12ABKSIRINI-052)
+ b.ngua.. tiak naivuk
+ ngua.. tu=ia-ka ne=i-vuk
+ 1SG.SBJ put.CONT=other-SG.M from/with=AWAY-up
+ ‘I.. put another one down’ (D12ADKSPIRITS-038)
+Transitivity | 233
+(ii) Object argument
+The object argument always follows the verb, either as a noun phrase (as in 22a) or as
+a pronominal suffix (as in 22b). These two are mutually exclusive, i.e., different from
+the subject argument, the object argument does not receive a separate index. The ob-
+ject suffixes originated in free pronouns, and thus distinguish all noun classes. The
+subject indexes, by contrast, have collapsed some of the noun class distinctions (see
+chapter 3.2.3). This mismatch is illustrated in example (22c): it contains two referents
+from the same shape-based noun class (ini ‘SG.DIM’), once as a free pronoun in subject
+function and once as an object suffix. The subject index, by contrast, collapses all
+shape-based noun classes into a single neuter gender (nga ‘3N.SBJ’).
+(22)a. biqiavleng aravlemga
+ be=kia=vleng [ara=vlam-ka]OBJ
+ CONJ=3SG.F.SBJ=kill.NCONT3SG.F.POSS=pig-SG.M
+ ‘and she killed her pig’ (N11AESSIRINI-0021)
+b. atrik, bravlengga
+ a=trik, be=ta=vleng-[ka]OBJ
+ NM=trickCONJ=3PL.SBJ=kill.NCONT-3SG.M
+ ‘(it was) a trick, and they killed him’ (N11AAGSIRINILOBSTER1-0081)
+c. ivini ngatisini
+ ip=[ini]SBJ nga=tis-[ini]OBJ
+ PURP=SG.DIM 3N.SBJ=call.CONT-SG.DIM
+ ‘so that the little one (child) says the little thing (word)’
+ (I12AANACLADNSOCIO2-039)
+The object noun phrase can form a clitic group with the preceding verb. This is espe-
+cially common in the case of vowel-final verbs preceding vowel-initial noun phrases.
+Example (23a) illustrates a typical context: the verb lu ~ tlu ‘see’ preceding the article
+ama ‘ART’. In other environments, no such cliticization is observed. The difference
+between the two environments is illustrated with the two adjacent utterances in (23b):
+the first object noun phrase is consonant-initial and does not cliticize to tlu ‘see’, but
+the second is vowel-initial and does cliticize.
+(23)a. dinyitlamaruqava
+ de=nyi=tlu=[ama=ruqap]OBJ=a
+ CONJ=2SG.SBJ.NPST=see.CONT=ART=wild.sugarcane=DIST
+ ‘and you see the wild sugarcane now’ (D12ADNGARDEN-035)
+234 | Verbs and the structure of the predicate
+ b.de nyitlu luqaira, de nyitlamaiskaira
+ denyi=tlu [lu-ka-iara]OBJ,
+ CONJ2SG.SBJ.NPST=see.CONT DEM-SG.M-PROX
+ denyi=tlu=[ama=is-ka]OBJ=iara
+ CONJ2SG.SBJ.NPST=see.CONT=ART=path-SG.M=PROX
+ ‘you see this one, you see the path here’ (C12ARBZJIFROG-268)
+In the case of the verb lu ~ tlu ‘see’, further phonological reduction can occur if it is
+followed by a demonstrative (which always starts with the syllable lu). This demon-
+strative can either occur as a separate word (as in 23b above), or it can cliticize to the
+verb – and in this case, its initial syllable is lost (as in 24 below). A similar loss of
+identical syllables was observed in the case of the subject indexes (see point i above).
+It is not an automatic rule, though: it is optional, and it is only attested in cases where
+there is a diachronic relationship between the syllables (see chapter 3.3.2 for the ori-
+gins of the demonstratives).
+(24) utluqaira, brahnanbetka ilira qanauirl ingulu..
+ ut=lu=lu-ka-iara, be=a=ra-snanbet-ka
+ 1PL.SBJ=see.NCONT=DEM-SG.M-PROX CONJ=NM=NMLZ-ask:ON/UNDER-SG.M
+ i=liraka=nauirli=ngu=lu..
+",2.3,"No dominant order, SVO, VOS","[250, 251, 252]",4,27,0.8520315693451809,1
+" Clauses can be juxtaposed without any conjunctions, but such cases are uncom-
+mon and are usually accompanied by some other indication of their relationship. Ex-
+ample (41a) illustrates a typical case: the two clauses (one containing a verb of think-
+ing, and the other, the content of the thought) are juxtaposed, and the intervening
+demonstrative adverb taquarl ‘thus’ signals the relationship between the two. An-
+other demonstrative adverb, ma ‘thus’, is especially common in this context, often
+following verbs of speaking, perception or cognition (as in 41b). It belongs formally
+to the class of adverbs (see chapter 6.2), but it is arguably developing into a conjunc-
+tion that introduces speech and thought. It is marked through a unique prosody: a
+level tone plus glottalization (see chapter 2.3.2 for details).
+(41)a. kiatraqavep, taqurlani, qiraqanbin senas
+ kia=tu=ara=qavep, taquarl=ani,
+ 3SG.F.SBJ=put.CONT=3SG.F.POSS=heart thus=DIST
+ ki=raqa=nbinse-nas
+ 3SG.F.SBJ.NPST=properly.NCONT=C.step.on to/with-self
+ ‘she thought, like this, (that) she balanced herself properly’
+ (N11AAGSIRINIROPE-0136)
+b. luqaamuk masirini qasil ma, ngenahrlikaimanep
+ lu-ka-a=a-mukma=sirinika=sil
+ DEM-SG.M-DIST=DIR-across ART.ID=NAME 3SG.M.SBJ=say.NCONT
+ ma, ngena=sirlik-ka=i-manep
+ thus 2PL.POSS=meat-SG.M=AWAY-down
+ ‘that Sirini over there said like this, your prey is on its way down’
+ (N11AAGSIRINILOBSTER1-0070)
+The overall patterns of clause linking are similar to those found in Mali Baining
+(Stebbins 2011: 15–16, 91–93, 248–280), but they are unusual from a Papuan perspec-
+tive. Many Papuan languages are known to employ multi-verb constructions, clause-
+chaining, switch reference, and/or subordination (Dunn, Reesink, and Terrill 2002:
+36; Foley 1986: 167–205). As for (mono- or biclausal) multi-verb constructions, it is
+possible that Qaqet had such constructions in the past, but they have given rise to
+synchronic modifiers (see chapter 5.5) and particles (see chapter 7.1). And there is no
+evidence for the existence of either clause-chaining or switch reference. Since both
+436 | Clauses
+are usually associated with an AOV constituent order, it is probably not surprising
+that they are absent in Qaqet. More surprising is the absence of any clear cases of
+subordination. Qaqet does have tail-head linkage, which is common in Papuan and
+neighboring languages (Dunn, Reesink, and Terrill 2002: 36–37), but again, tail-head
+linkage is achieved through the linking of two main clauses (see chapters 3.3.2 and
+7.5).
+",2.3,"No dominant order, SVO, OVS, VSO, VOS, OSV","[453, 454]",4,28,0.8793646233689641,1
+"236 | Verbs and the structure of the predicate
+There is a small group of verbs that mark nominal and pronominal objects differently.
+If the object is a lexical noun phrase, it remains unmarked (as in 27a). But if it is a
+pronoun, it is introduced by the form ma (as in 27b). It is not entirely clear how to
+analyze this form. On the one hand, its behavior is similar to that of a preposition (see
+section 5.3). On the other hand, Qaqet does not have a preposition ma. On the basis
+of comparative evidence, it might be possible to relate it to one of the existing prepo-
+sitions, either to met ‘in’ or to ne ‘from/with’. In Mali, the preposition mēt ‘inside’
+(cognate to Qaqet met ‘in’) has an allomorph ma (Stebbins 2011: 125), and the prepo-
+sition na ‘from’ (cognate to Qaqet ne ‘from/with’) has an allomorph mo preceding
+some of the directionals (Stebbins 2011: 196–197). That is, it is possible that ma in
+(27b) has its origin in one of these prepositions. But regardless of its origin, the syn-
+chronic alternation is between an unmarked lexical noun phrase and a marked pro-
+noun. It is true that some prepositions have different forms when preceding a noun
+or a pronoun, but there are no prepositions that alternate with zero. I therefore tenta-
+tively analyze ma as an overt object marker: it probably developed diachronically
+from a preposition, but it introduces synchronically the pronominal direct object of
+some verbs.
+(27)a.kaning amaququanngi
+ka=ning ama=ququan-ki
+3SG.M.SBJ=fear.NCONTART=owl-SG.F
+‘he is afraid of the owl’ (R12ATAFROG-148)
+b.kaning maini
+ka=ning ma-ini
+3SG.M.SBJ=fear.NCONTOBJ-SG.DIM
+‘he is afraid of the little one’ (R12ATAFROG-126)
+The object argument is not necessarily overtly realized. For example, the transitive
+verb tes ‘eat’ appears with a direct object in (28a), but without one in (28b). The omis-
+sion of a direct object is partly conditioned by discourse structure: an object can only
+be omitted if it is recoverable from the context, e.g., because it is mentioned previ-
+ously (as the malay apples in 28b). And it is partly conditioned by animacy: a known
+animate participant is not omitted, but realized as a pronoun (as in 28c). These are
+the most common patterns emerging from the data, but it is likely that a future in-
+depth study will reveal further conditioning factors.
+(28)a.kats amadaqa
+ka=tes[ama=da-ka]OBJ
+3SG.M.SBJ=eat.CONT ART=taro-SG.M
+‘he eats (up) the taro’ (N12BAMCAT-205)
+Transitivity | 237
+ b.katramaguleng, deqats
+ ka=tat=ama=guleng,de=ka=tes
+ 3SG.M.SBJ=take.CONT=ART=malay.apple CONJ=3SG.M.SBJ=eat.CONT
+ ‘he was picking the malay apples, and was eating (them)’
+ (N11AAGSIRINILOBSTER1-0034)
+ c.nani ratska
+ nani ta=tes-[ka]OBJ
+ can 3PL.SBJ=eat.CONT-3SG.M
+ ‘they can be eating him’ (N11AAGSIRINILOBSTER2-0082)
+5.2.2 Agentless construction
+It is possible to suppress the agent argument of a transitive verb (including all its ex-
+ponents, i.e. both the subject noun phrase and the subject index), leaving only the
+patient argument. The same pattern is available for intransitive bivalent verbs (i.e.,
+verbs that introduce their patient argument through a preposition), but not for intran-
+sitive monovalent verbs (a few exceptions are discussed below).
+",0.0,,"[254, 255]",0,29,0.8793646233689641,0
+" YRA:nema?
+nema
+who
+AHL: nyi!
+nyi
+2SG
+YRA:ngua?
+ngua
+1SG
+YRA: ‘who?’ AHL: ‘you!’ YRA: ‘I?’ (LONGYDS20150902_2-529FF)
+(34) a. ngua de sakmetngua navraqa
+ngua de sakmet-ngua ne=pet-ka
+1SG CONJ surprise:IN-1SGfrom/with=on/under-3SG.M
+‘as for me, I was surprised at him’ (I12AANACLADNSOCIO3-430)
+ b. daka, deqamira, besamuk
+dap=ka, de=ka=mit=a,
+but=3SG.M CONJ=3SG.M.SBJ=go.NCONT.PST=DIST
+be=se=a-muk
+CONJ=to/with=DIR-across
+‘but as for him, he went across’ (N11AAGSIRINIROPE-0087)
+ c. diaramaquata, de miikra brasem amarlaunnga
+de=ia-ta=ama=quat-ta, demiika=ta
+CONJ=other-PL.H=ART=man-PL.H CONJ more=3PL.H
+be=ta=sem ama=rlaun-ka
+CONJ=3PL.SBJ=weave.NCONTART=netbag-SG.M
+‘as for other men, as for them, too, they (can) weave netbags’ (P12ARS-
+BILUM2-045)
+ Heads of noun phrases | 97
+Tab. 33: Pronouns
+ Free pronoun Pronominal Possessor indexSubject index
+argument
+Neutral Non-past
+ 1SG ngua -nguaguanguangu
+ 2SG nyi-nyi gianya nyi
+ 3SG.M ka -kaaa kake
+ 3SG.F ki -kiarakia ki
+ 1DU un -ununaunune
+ 2DU uin-uin uana uan uane
+ 3DU.M iam-iam iana ian iane
+ 3DU.F im -im
+ 1PL ut -uturauture
+ 2PL ngen -ngenngenangenngene
+ 3PL.H ta -taaraa tate
+ 3Nnget -ngetngeranga ngere ~ nger
+ SG.DIMini-ini
+ DU.DIMiram -iram
+ PL.DIMirang-irang
+ SG.RCDem -em
+ DU.RCDam -am
+ PL.RCDap -ap
+ SG.FLAT es -es
+ DU.FLAT ivim -ivim
+ PL.FLAT iving-iving
+ SG.LONG it -it
+ DU.LONG isim -isim
+ PL.LONG ising-ising
+ SG.EXTit -it
+ DU.EXTitnem-itnem
+ PL.EXTitnek-itnek
+ SG.EXCigel -igel
+ DU.EXCigrlim -igrlim
+ PL.EXCigrling-igrling
+98 | Nouns and the noun phrase
+In non-verbal clauses (see chapter 8.2), free pronouns can occur as subjects (as in
+35a). In verbal clauses, the free pronoun can co-occur with the obligatory subject in-
+dex on the verb. There are two patterns. First, the free pronoun occurs in the same
+prosodic unit as the verb and its subject index. In such cases, the pronouns behave
+like noun phrases headed by nouns, and they can be analyzed as the subject of the
+clause. This pattern is only attested with pronouns from one of the shape-based clas-
+ses (as in 35b). Second, the pronoun is set apart prosodically and syntactically in its
+own unit. In such cases, the pronoun arguably does not function as the subject. This
+pattern is possible for all pronouns, and it is the only attested pattern for pronouns
+that do not belong to any of the shape-based classes (as in 35c). Presumably, the dif-
+ference in distribution follows from the fact that the pronouns from shape-based clas-
+ses – just like common nouns – convey additional semantic information about the
+referent. The other pronouns, by contrast, do not add information that is not already
+coded in the subject index. As a result, speakers tend to use them for information
+structural reasons, and hence mark them in special ways. It is possible that the 3DU.M
+and 3DU.F pronouns distribute like the shape-based pronouns (as they add infor-
+mation on the sex of the referent), but there are no relevant examples in the corpus.
+(35) a. kanavet ma.. ramgi
+ka=ne=petma.. ramgi
+3SG.M=from/with=on/under ART.ID NAME
+‘he came across.. Ramgi’ (N11AAGSiriniLobster2-0044)
+ b. arluimirang, deirang ngerebrlany
+a=rluim-irang,de=irang ngere=brlany
+NM=child-PL.DIM CONJ=PL.DIM 3N.SBJ.NPST=sleep
+‘the children, they sleep’ (I12AANACLADNSOCIO3-326)
+ c. atika ut, de utli uralengiqa imurl nevuralavurlvis
+ka=tika ut, de ut=tlu=i
+3SG.M.SBJ=EMPH 1PL CONJ 1PL.SBJ=see.CONT=SIM
+ura=lengi-kai=murl
+1PL.POSS=word-SG.M SIM=distantly
+ne=pe=ura=lavu=ngere-uvis
+from/with=PLACE=1PL.POSS=adult=3N.POSS-top
+‘as for us, we see that it is our language that came down in the past
+from our parents’ (I12AANACLADNSOCIO3-156)
+The free pronouns presumably gave rise to the pronominal arguments: they share the
+same forms and categories, and they only differ in their wordhood. The free pronouns
+are independent words (that may or may not cliticize to surrounding elements), while
+the pronominal arguments are suffixes. They are analyzed as suffixes (and not as en-
+clitics) for two reasons. First, they invariably form a phonological word with the pre-
+ceding preposition or verb. Qaqet clitics, by contrast, are more variable: the same
+Heads of noun phrases | 99
+form can usually be realized as either a proclitic or an enclitic, depending on the en-
+vironment. And second, the pronominal arguments trigger phonological changes in
+preceding elements that are otherwise only attested in suffixes, not in enclitics. Two
+typical changes are illustrated in the examples below. In (36a), the basic preposition
+is men ‘at’, but it appears in the form mena when followed by a pronominal object.
+Similarly in (36b), the basic verb is raneng ‘hold.NCONT’, but it appears as ranenga
+when followed by a pronominal object. I assume that the suffixed forms preserve the
+original roots, in particular, I assume that they preserve final segments (very fre-
+quently, a final vowel a, as in both examples below) that were lost in the non-suffixed
+forms. The clearest evidence for such a diachronic scenario comes from nouns, and
+this development is discussed in detail in chapter 4.1.1.
+(36) a.bqurut menaqa
+ be=ke=urutmen-ka
+ CONJ=3SG.M.SBJ.NPST=grab.NCONT at-3SG.M
+ ‘and he grabbed at him’ (N11AAGBROTHERS-0056)
+ b.padip, kiranengaqa
+ padip,ki=raneng-ka
+ hopefully.FUT 3SG.F.SBJ.NPST=hold.NCONT-3SG.M
+ ‘she wants to hold him’ (N11AAGSIRINIROPE-0066)
+The pronominal arguments occur in three morphosyntactic contexts: as object argu-
+ments of prepositions (as in 36a above and 37a below) (see chapter 5.3.1), as object
+arguments of transitive verbs (as in 36b above and 37b below) (see chapter 5.2.1), and
+as the single argument in the agentless construction (as in 37c below) (see chapter
+5.2.2).
+(37) a.bruamet naqa
+ be=te=uametne-ka
+ CONJ=3PL.SBJ.NPST=beat:IN from/with-3SG.M
+ ‘and they beat him (lit. beat with)’ (N11AAGSIRINILOBSTER2-0078)
+ b.atrik, bravlengga
+ a=trik, be=ta=vleng-ka
+ NM=trick CONJ=3PL.SBJ=kill.NCONT-3SG.M
+ ‘(it was) a trick, and they killed him’ (N11AAGSIRINILOBSTER1-0081)
+ c.ide qurliqa meseng
+ ide kurli-kameseng
+ IPFVleave-3SG.M at.base
+ ‘he usually stays at the bottom (of the tree)’ (D12ADKSPIRITS-072)
+The pronouns and pronominal arguments code information about noun class and
+number, and they are thus powerful tracking devices, which are commonly used to
+100 | Nouns and the noun phrase
+refer back to already established entities in discourse. For example, the pronoun irang
+‘PL.DIM’ in (38a) occurs in subject function and refers back to the earlier introduced
+noun uim-irang ‘child-PL.DIM’. Similarly in (38b), where the pronominal argument ini
+‘SG.DIM’ functions as the argument of an agentless construction, referring back to
+rlaun-ini ‘netbag-SG.DIM’.
+(38)a.usu uruimirang ivirang ngadrlem
+ut=suure-uim-irang ip=irangnga=drlem
+1PL.SBJ=teach 1PL.POSS-child-PL.DIM PURP=PL.DIM 3N.SBJ=know
+‘we teach our little children so that the little ones know’
+(I12AANACLADNSOCIO3-159)
+b.kesnesnget mraarlaunini beip.. buvini
+ke=snes-ngetmet=aa=rlaun-ini
+3SG.M.SBJ.NPST=put.in.CONT-3N in=3SG.M.POSS=netbag-SG.DIM
+be=ip..bup-ini
+CONJ=PURP fill-SG.DIM
+‘he put them into his little netbag until.. the little one got filled’
+(N11AAGSIRINILOBSTER2-0020)
+In fact, it is not uncommon for long stretches of discourse to rely on pronouns only
+for referent identification (as in (39), where the pronoun ap ‘PL.RCD’ tracks the referent
+hlangap ‘bee:PL.RCD’).
+(39)amah.. amahlangap nadaarlan, de nyitlaviara, amaburlemgi naap, beap
+ngatit
+ama.. ama=slanga-ap ne=de=aa=rlan,
+ART ART=bee-PL.RCDfrom/with=LOC.PART=3SG.M.POSS=inside
+denyi=tlu-ap=iara, ama=burlem-ki
+CONJ 2SG.SBJ.NPST=see.CONT-PL.RCD=PROX ART=many-SG.F
+ne-ap, be=apnga=tit
+from/with-PL.RCD CONJ=PL.RCD 3N.SBJ=go.CONT
+‘the.. the bees(PL.RCD) from its inside, you see them(PL.RCD) here,
+they(PL.RCD) are many, and they(PL.RCD) are moving around’ (R12ATAFROG-
+136FF)
+3.2.4 Interrogative pronouns
+Qaqet has two interrogative pronouns that function as heads of noun phrases: nem(a)
+‘who’ (as in 40a) and gi ‘what’ (as in 40b). Both are overtly marked for noun class, but
+speakers can also resort to an unmarked form if they do not intend to presuppose
+anything about the identity (and hence the noun class) of the referent (as in 40c). In
+Heads of noun phrases | 101
+addition, there is a third interrogative pronoun, kesna ‘how much, how many’ that
+occurs in restricted nominal contexts only (see chapter 8.1.2).
+(40) a.ariaik nemgi?
+ are-ia-ki nema-ki?
+",0.0,,"[114, 115, 116, 117, 118, 119]",0,30,0.8793646233689641,0
+" Introductory remarks on word classes and phrases | 71
+In either case, indefinite pronouns occurring as adnominal determiners, demonstra-
+tives, and adjectives agree with the head in noun class and number. Other depend-
+ents do not agree and have an invariable form instead. Example (6a) illustrates agree-
+ment: the head noun is qaqera ‘person’, which is marked for masculine singular
+(reflecting the properties of its real-world male referent Sirini) – and both the preced-
+ing indefinite determiner ia ‘other’ and the following adjective tlu ‘good’ agree with
+it. In almost all cases, the noun class suffix on the noun is identical in form to the
+suffix on the agreeing elements, e.g., the suffix -ka ‘SG.M’ occurs both with the head
+noun and the agreeing elements in (6a). The only difference is found in plural nouns
+of the masculine and feminine classes: these nouns are unmarked (e.g., avet ‘house’
+in 6b has plural reference), but the agreeing elements take an overt suffix, e.g., the
+neuter suffix -nget ‘N’ on the adjective tlu ‘good’ in (6b) (see chapter 4 for details).
+Tab. 27: Structure of the noun phrase
+1. determiners, including: possessor index section 3.5.1
+ article section 3.3.4
+ indefinite pronounsection 3.3.3
+ demonstrative pronoun section 3.3.2
+2. (modifiers)
+3. headsection 3.2
+4. (demonstrative)
+5. modifiers, including: adjective section 3.4.1
+ noun (e.g., numeral or quantifier)section 3.4.2
+ prepositional phrase, directional section 3.4.3
+(6)a.masirini, de iaqamaqaqeraqa amatluqa
+ ma=sirini, de [ia-ka=ama=qaqera-ka
+ ART.ID=NAME CONJother-SG.M=ART=person-SG.M
+ ama=tlu-ka]NP
+ ART=good-SG.M
+ ‘Sirini, he is [a good person]NP’ (D12ADKSPIRITS-011)
+ b.duqurluun bemaavramatlunget
+ de=kurli-unpe=[ma=avet=ama=tlu-nget]NP
+ CONJ=leave-1DU PLACE=ART.ID=house=ART=good-N
+ ‘we stay in the good houses’ (N12BAMCAT-032)
+The Qaqet noun phrase is thus characterized both through agreement and a fairly
+rigid structure: a fixed order of constituents, and a division between pre-head deter-
+72 | Nouns and the noun phrase
+mination and post-head modification (including quantification). This characteriza-
+tion holds for the majority of cases, as most attested noun phrases exhibit this struc-
+ture. There is, however, some variation.
+",1.0,,"[89, 90]",1,31,0.8860037962182808,0
+" PLACE=ART.ID=fallow.garden CONJ=PURP=DIST CONJ=ART
+ ama=vilanngi
+ ART=NAME:SG.F
+ ‘in an abandoned garden, and then, there was a.. a Vilan (spirit)’
+ (I12AANACLADNSOCIO3-476)
+The conjunction is furthermore used in a second context: to introduce conditional
+clauses. It is possible that this second use can be analyzed as a contextual interpreta-
+tion of its basic purposive meaning. Most examples continue to allow for a purpose
+reading (as in 66a). Nevertheless, there are cases where a purpose reading is no longer
+obvious. For example, the person in (66b) does not intend to move the objects: she
+intends to pick up the objects carefully, and the whole purpose is to not accidentally
+touch and move any of the other objects. Such examples suggest that the conjunction
+is developing a second, conditional, sense. There are very few such cases, though,
+and there is always additional material that could trigger the conditional readings. In
+(66b), it is probably the presence of ivit ‘upon (doing X)’ in the first clause. In fact, it
+is very common for speakers to resort to the fixed expression ivit nani ip in conditional
+contexts, as in (66c), which has a more literal translation of ‘upon spearing himself’
+(see chapter 6.3 for a discussion of ivit). Another common collocation in this context
+is ariq ip, as in (66d) (see also chapter 7.2).
+(66)a. ip.. ip nyarekmet pramarlaunnga, dinyatit sep maqavel
+ ip..ip nya=rekmetpet=ama=rlaun-ka,
+ PURP PURP 2SG.SBJ=do.CONT:IN on/under=ART=netbag-SG.M
+ de=nya=titse=pema=qavel
+ CONJ=2SG.SBJ=go.CONT to/with=PLACE ART.ID=bush
+ ‘in order to.. to make a netbag, you go into the bush’
+ ~ ‘if.. if you (want to) make a netbag …’ (P12ARSBILUM3L-007FF)
+452 | Clauses
+b. ivit kitat, beip nyilang, de ngenenes praqi
+ i-pitki=tat, be=ipnyi=ilang,
+ AWAY-up 3SG.F.SBJ.NPST=take.CONT CONJ=PURP 2SG.SBJ.NPST=shake
+ de ngene=nes pet-ki
+ CONJ 2PL.SBJ.NPST=shout.NCONT on/under-3SG.F
+ ‘when she picks (it) (lit. upon her picking it), and if she moves (it),
+ then you shout at her’ (C12VARPLAY-601)
+c. ivit naniip kaman pramaqip, de nyaramagalepki metka
+ i-pitnani=ipka=man
+ AWAY-up can=PURP 3SG.M.SBJ=go.inside.NCONT.PST
+ pet=ama=qip,de nya=ru=ama=galep-ki
+ on/under=ART=spear CONJ 2SG.SBJ=put.NCONT.FUT=ART=club-SG.F
+ met-ka
+ in-3SG.M
+ ‘and so when he spears (himself) on the spears, then you hit the
+ fighting stick on him’ (N11AAGSIRINIROPE-0127FF)
+d. dakatika ariqiv ur amarluis naut, de uretluiv uredlek
+ dap=ka=tika arik=iput ama=rluis ne-ut,
+ but=3SG.M.SBJ=EMPH supposing=PURP 1PL ART=child from/with-1PL
+ de ure=tlu=ipure=dlek
+ CONJ 1PL.SBJ.NPST=see.CONT=PURP 1PL.SBJ.NPST=strength/strong
+ ‘but supposing that (we want to consider) us young people, we must
+ see to it that we stand up strong (and learn the different patterns)’
+ (P12ARSBILUM2-029FF)
+Finally, the conjunction ip is used to introduce ordinal numbers (see chapter 3.2.2).
+8.4 Summary
+This chapter has presented a brief introduction to Qaqet clause structure, covering
+both verbal and non-verbal clauses. Non-verbal clauses are used extensively to con-
+vey existence, location and direction, possession, equation and attribution. Note that
+Qaqet does not make use of any copula in its non-verbal constructions. Instead, it
+relies on syntax alone, juxtaposing the constituents.
+",0.0,,"[469, 470]",0,32,0.8860037962182808,0
+" Both pronouns usually occur in non-verbal expressions (as in 40a and 40b above)
+or one-word questions (as in 40c above), but they can also occur in the other syntactic
+functions available to nouns, e.g., as subjects (in 41a below), objects (in 41b) or prep-
+ositional objects (as in 41c).
+(41) a.nema ngalengeh nanget?
+ nema nga=lenges ne-nget?
+ who 3N.SBJ=destroy from/with-3N
+ ‘who damaged it?’ (LONGYDS20150516_1-098)
+ b.amaqasup.. aqasupka qats amagi?
+ ama=qasup.. a=qasup-ka ka=tesama=gi?
+",0.0,,[119],0,33,0.8860037962182808,0
+" It is possible that the different orders allow speakers to adopt different perspec-
+tives on a situation. This point is illustrated below with the help of property concepts.
+Qaqet lexicalizes such concepts in both adjectives and nouns (see also section 3.4.1):
+different properties allow for one or the other or both. In (103a) and (103b), the prop-
+erties are expressed in the post-head adjective sesek ‘light’ (in the modifier construc-
+tion) and in the post-head noun qesep-ka ‘heaviness-SG.M’ (in the nominal modifier
+construction). In (103c), by contrast, the property is expressed in the abstract head
+noun merlen-ka ‘heaviness-SG.M’, which precedes a prepositional phrase (expressing
+the location of this concept). Discussions with speakers suggest that example (103c)
+focuses on the property, i.e., on the heaviness. In the other two examples, by contrast,
+the focus is on the referent (with the property characterizing this referent). It is possi-
+ble that pre-head modifiers (as in the examples above) allow for a similar shift in per-
+spective, i.e., an emphasis on the property, not on the referent. But this hypothesis
+would need further investigation.
+(103)a. tatal amaquvang amaseseknget
+ta=tal [ama=quvangama=sesek-nget]NP
+3PL.SBJ=carry.CONT ART=cargoART=light-N
+‘they were carrying [a light cargo]NP’ (ABL&AAN-11/05/2015)
+ b. tatal amamengga amaqesepka vemga
+ta=tal [ama=meng-kaama=qesep-ka
+3PL.SBJ=carry.CONT ART=wood-SG.M ART=heaviness-SG.M
+pe-ka]NP
+PLACE-3SG.M
+‘they were carrying [a heavy tree]NP’ (ABL&AAN-11/05/2015)
+ Modification | 143
+ c.tatal amamerlennga vamaquvang
+ ta=tal[ama=merlen-kape=ama=quvang]NP
+ 3PL.SBJ=carry.CONT ART=heaviness-SG.M PLACE=ART=cargo
+ ‘they were carrying [a heavy cargo]NP (lit. the heaviness in the cargo)’
+ (ABL&AAN-11/05/2015)
+3.4.1 Adjectives and the modifier construction
+Adjectives constitute a distinct word class in Qaqet: although they share morphosyn-
+tactic similarities with nouns and they can freely convert to nouns, there are formal
+differences that justify setting up a distinct class (see section 3.1.1 for a discussion of
+similarities and differences).
+",1.0,,"[160, 161]",1,34,0.8924756294427137,0
+" 1SG.POSS-SG.M but=quoting recently=1DU.SBJ=come.CONT
+ ‘my friend, wouldn’t you say that we came only recently?’ (N12BAM-
+ CAT-174)
+b. katika qui murl amalavu naut, de urarletkia
+ ka=tika kuimurlama=lavu ne-ut,
+ 3SG.M.SBJ=EMPH quoting distantly ART=adult from/with-1PL
+ de ura=rlet-ki=a
+ CONJ 1PL.POSS=duty-SG.F=DIST
+ ‘it is said that we are the parents, it is our duty (to teach the children)’
+ (I12AANACLADNSOCIO3-193)
+362 | Particles
+ c.davip de mani, deremsem nama melang ama..
+ dap=ip de mani, de=ure=msem
+ but=PURP CONJ recently CONJ=1PL.SBJ.NPST=weave.CONT
+ ne=ama melang ama..
+ from/with=ART vineART
+ ‘but as for recently, we were weaving with the vines of..’ (P12ARS-
+ BILUM2-020)
+ d.be nyitliara, iamaiameses, ias mania
+ benyi=tlu=iara,i=ama=iames-es,
+ CONJ2SG.SBJ.NPST=see.CONT=PROX SIM=ART=new-SG.FLAT
+ i=asmani=a
+ SIM=still recently=DIST
+ ‘and you see now, that it is a new flat one (garden), that it is still of re-
+ cent times’ (D12ADNGARDEN-024FF)
+Given that particles can form a proposition, they can be questioned or negated. For
+example, in the elicited dialogue in (2), the particle arik ‘supposing’ is questioned by
+speaker B and replaced by the particle nani ‘can’, indicating his greater certainty that
+the event will, indeed, happen.
+(2)A:nyitlu iarik nyarang
+ nyi=tlui=arik nya=rang
+ 2SG.SBJ.NPST=see.CONT SIM=supposing 1SG.SBJ=burn.NCONT.FUT
+ ‘watch out, otherwise you may get burned’
+ B:kuasiqi arik, dap katika nani
+ kuasiq=i arik, dap ka=tika nani
+ NEG=SIM supposing but 3SG.M.SBJ=EMPH can
+ ‘not (just) may, but (it is) sure to happen’ (AJL-18/08/2014)
+Particles frequently combine with each other, always in a fixed order and sometimes
+forming formulaic sequences. Table 74 gives an overview of these orders, based on
+the attested co-occurrences in the corpus of natural and elicited data. Altogether 13
+particle slots have to be posited. The particles within each slot do not co-occur. Note
+that this does not necessarily mean that these particles cannot co-occur: some com-
+binations are likely to be impossible on semantic grounds, but other combinations
+could be possible and just happen to not occur in the available data. It is likely that
+additional data will lead to modifications of Table 74. Particles across the two groups
+can combine freely in the given order, unless there are semantic restrictions.
+",1.0,,"[379, 380]",1,35,0.8988965860788974,0
+"The distribution of nouns (as heads of noun phrases) and adjectives (as modifiers
+within noun phrases) is fairly straightforward. They share morphological similarities
+in that both nouns and adjectives are marked for noun class and are preceded by ar-
+ticles. And they differ in that only nouns can have an inherent noun class, while ad-
+jectives always agree with the class of their head noun; there are also slight differ-
+ences in the noun class paradigms of nouns and adjectives. And although the article
+ Introductory remarks on word classes and phrases | 67
+ama, which introduces modifiers, is segmentally identical (and presumably dia-
+chronically related) to one of the articles introducing head nouns, it synchronically
+belongs to a different paradigm.
+(1) a. bradrlem luqa amasiitka
+ be=ta=drlem [lu-ka-a ama=siit-ka]NP
+ CONJ=3PL.SBJ=know DEM-SG.M-DIST ART=story-SG.M
+ ‘and so they know [that story]NP’ (I12AANACLADNSOCIO3-339)
+b. deqalama.. akaasika amahlurlka
+ de=ka=lu=[ama.. a=kaasik-kaama=slurl-ka]NP
+ CONJ=3SG.M.SBJ=see.NCONT=ARTNM=vine-SG.M ART=big-SG.M
+ ‘and he sees [a.. a big vine]NP’ (N11AAGSIRINIROPE-0013)
+This seemingly clear picture is complicated by two observations. First, adjectives
+freely convert to nouns, in which case they occur as heads of noun phrases. For ex-
+ample, the head noun in (2a) is gil-ki ‘small-SG.F’ (converted from the adjective gil
+‘small’), co-occurring with a pre-head demonstrative. Such converted nouns do not
+have an inherent noun class, but reflect the class of their referent (i.e., a girl in (2a),
+thus triggering the use of the feminine noun class). Second, modification within the
+noun phrase is not restricted to adjectives. For example, the noun gam-ki ‘seed-SG.F’
+occurs in the modifier slot in (2b), restricting the reference of iling ‘pumpkin’ (which
+denotes various edible parts of the pumpkin, e.g., pumpkin leaves, but also pumpkin
+fruits). There are subtle formal differences between adjectival and nominal modifiers
+(see section 3.4.2), but both can be used to modify a head noun.
+(2) a. dap, lek luqia ama.. agilki
+ dap, lek [lu-ki-a ama.. a=gil-ki]NP
+ buttake.off DEM-SG.F-DIST ARTNM=small-SG.F
+ ‘and [that.. little one]NP took off’ (N11AAGSIRINIROPE-0080D)
+b. ailinggi amagamgi
+ [a=iling-ki ama=gam-ki]NP
+ NM=pumpkin-SG.F ART=seed-SG.F
+ ‘[a pumpkin fruit]NP’ (AJS-05/05/15)
+Finally, both nouns and adjectives occur as non-verbal predicates: nouns as equative
+predicates (as in 3a), and adjectives, as attributive predicates (as in 3b). The two con-
+structions share formal similarities: both have the same constituent order, and both
+mark their predicate by an article (which, in the case of nominal predicates, can be
+replaced by another pre-head determiner). But, again, there are morphosyntactic dif-
+ferences (e.g., the subject is introduced by a preposition in the equative construction,
+but not in the attributive construction), which show that these are two separate con-
+structions (discussed in chapter 8.2 in more detail).
+",1.0,,"[84, 85]",1,36,0.9052688216891832,0
+" CONJ=PURP
+ ‘he puts them and puts them and then..’ (N11AAGSIRINILOBSTER1-0010)
+Transitivity | 235
+Although examples like (25a) above are very rare, they do exist. This variation could
+suggest that the pronominal objects are clitics, rather than suffixes. Despite the exist-
+ence of such examples, I tentatively analyze them as suffixes because they trigger a
+phonological change that is otherwise only attested in the case of suffixes.23
+There is evidence that many Qaqet roots diachronically contain a final vowel a,
+which is synchronically only preserved in those environments where the root is fol-
+lowed by a suffix (but not by an enclitic). The clearest evidence comes from nouns
+and adjectives (see chapter 4.1.1), but a similar alternation between the presence and
+the absence of a final vowel a is also observed in prepositions (see section 5.3.1) and
+verbs. In most contexts, a verb such as mat ~ rat ~ tat ~ tmat ‘take’ (and its lenited
+form mar ~ rar ~ tar ~ tmar) would appear without a final vowel: in the final position
+of an intonation unit (as in 26a), when preceding another phonological word (as in
+26b), or when preceding an enclitic (as in 26c). But when it precedes a pronominal
+object, a final vowel a is invariably present (as in 26d): if it were not present, we would
+expect the form to be *matki (instead of the actually attested form meraqi ~ mraqi). In
+nouns and adjectives, this vowel is only attested in the case of suffixes, and I therefore
+also analyze the pronominal objects as suffixes.
+(26)a. nyitaqatmat
+ nyi=taqa=tmat
+ 2SG.SBJ.NPST=properly.CONT=C.take
+ ‘pick properly’ (C12VARPLAY-078)
+b. dinyatat giamengirang sagelna
+ de=nya=tatgia=meng-irangse=gelna
+ CONJ=2SG.SBJ=take.CONT2SG.POSS=wood-PL.DIM to/with=nearby
+ ‘and you move your little sticks of firewood closer’ (P12ADNFIRE-017)
+c. nyitaqatmarip kuasik nyilangilang
+ nyi=taqa=tmat=ip kuasik
+ 2SG.SBJ.NPST=properly.CONT=C.take=PURP NEG
+ nyi=ilangilang
+ 2SG.SBJ.NPST=step/shake:REDUP
+ ‘pick properly, so that you don’t disturb them’ (C12VARPLAY-067)
+d. ianmeraqi
+ ian=mat-ki
+ 3DU.SBJ=take.NCONT.PST-3SG.F
+ ‘they picked it up’ (R12ADNFROG-377)
+||
+23 The object suffix thus shows a closer phonological integration (as an affix) than the subject index
+(as a clitic). Mali Baining exhibits a comparable asymmetry (although person-marking overall is pho-
+nologically more independent than in Qaqet): Mali object pronouns can be encliticized, while subject
+indexes are phonologically independent words (Stebbins 2011: 42–44).
+",0.0,,"[252, 253]",0,37,0.9052688216891832,0
+" This section presents the consonant phonemes in the following order: (i) voice-
+less plosives, (ii) fricatives, (iii) voiced plosives, (iv) nasals, and (v) liquids.
+(i) Voiceless plosives: /p/, /t/, /k/
+Qaqet has three voiceless plosives that contrast with each other in all environments.
+Table 5 gives (near-) minimal pairs for voiceless onsets and codas in the environment
+of different vowels.
+Tab. 5: (Near) minimal pairs: Voiceless plosives
+Onset consonant:
+ p__t__ k__
+ipit up tit go.CONT ki3SG.F
+upusup up.above tuput.CONTkuɽileave
+əpəPLACEtəPURPkəɽat bamboo
+apanuup ta3PL.H ka3SG.M
+Coda consonant:
+ __p__t __k
+iⁿdipFUTⁿditstick/fillⁿdikcut
+uⁿgurupratrut belly karuk chicken
+əɣəsəp heavyβəɽsətfinish.NCONTsəsək light
+aɣanap necksnat taros nak cry.NCONT
+Phonetically, the voiceless plosives can be realized in different ways: released or un-
+released, and aspirated or non-aspirated. Figure 1 exemplifies the most common re-
+alizations by means of the following example:
+(1)kʰəpɲip̚
+ kə=pɲip
+ 3SG.M.SBJ.NPST=die.CONT
+ ‘he is dying’ (AJL-15/06/2011)
+22 | Phonology
+Fig. 1: Typical realization of voiceless plosives (male speaker: AJL)
+In syllable onset position (as exemplified with word-initial /k/ [kʰ] in Figure 1), voice-
+less plosives are usually uttered released and aspirated – with a weak release burst
+and a short period of aspiration. In word-internal coda position (as exemplified with
+word-medial /p/ [p]), we still perceive a weak release burst, but usually no aspiration.
+And in word-final coda position (as exemplified with word-final /p/ [p̚ ]), the plosives
+Phonemes, allophones and the orthography | 23
+often remain unreleased, and the place of articulation only leaves its traces in the
+formants of the preceding vowels. For example, we observe a lowering of formants 1,
+2 and 3 in Figure 1, which is taken to be indicative of vowels preceding a labial plosive
+(following Ladefoged 2001: 48–52).
+",0.0,,"[39, 40, 41]",0,38,0.9052688216891832,0
+"368 | Particles
+(7) a. ianverlseraqi, beip perlset
+ ian=verlset-ki, be=ip perlset
+ 3DU.SBJ=finish.NCONT-3SG.F CONJ=PURP finish
+ ‘they finished it, and it is finished’ (N12BAMCAT-114)
+b. nguaring aagarliqa, de verlset
+ ngua=ring aa=garli-ka, deperlset
+ 1SG.SBJ=weave.NCONT.FUT 3SG.M.POSS=side-SG.M CONJ finish
+ ‘I will weave its side, and it is finished’ (P12ADNROPE2-010)
+Given the above discussion, it is likely that the Qaqet particles – or at least a good
+number of them – originated in verbs. Their verbal origin is visible in their retention
+of some rudimentary verbal properties. The majority of synchronic particles, how-
+ever, remain uninflected, and there is no evidence for (or against) a verbal origin.
+Synchronically, particles thus have to be considered a distinct non-inflecting word
+class that is syntactically defined by their fixed position in the left periphery of the
+clause.
+7.2 Modality
+Many of the particles express epistemic, evidential and deontic meanings: (i) ani
+‘maybe’, (ii) arik ‘supposing’, (iii) kias ‘actually’, (iv) kui ‘quoting’, (v) kut ‘inferring’,
+(vi) nani ‘can’, (vii) kerl ‘DEONT’, and (viii) padi ‘hopefully.PST’ and padip ‘hope-
+fully.FUT’.
+(i) ani ‘maybe’
+The particle ani ‘maybe’ is only infrequently attested in the corpus. It conveys a con-
+siderable degree of uncertainty about the truth of a proposition (as in 8a). It is fur-
+thermore attested in directives and hortatives, often combining with the particle kerl
+‘DEONT’ in order to tone down a suggestion (as in 8b).
+(8) a. nyitlamamenggaira, de an.. ani lamaademga mara
+ nyi=tlu=ama=meng-ka=iara,
+ 2SG.SBJ.NPST=see.CONT=ART=wood-SG.M=PROX
+ dean.. ani lu=ama=adem-ka mara
+ CONJmaybe maybe DEM=ART=hole-SG.M here
+ ‘see the tree here, may.. maybe there’s a hole here (from where the
+ sound came)’ (R12ATAFROG-254)
+Modality | 369
+ b.kerl ani nani deng naura, deqerl..
+ kerl ani nani deng ne-ut=a, de=kerl..
+",0.0,,"[386, 387]",0,39,0.9052688216891832,0
+" The morphological complexity of a verb does not determine its transitivity and
+argument structure. Both types of verbs can be intransitive (as the simple verb in 8a
+and the complex verb in 8b); and both can be transitive (as in 9a and 9b). Both types
+of verbs can introduce arguments through prepositions (as in 10a and 10b). And both
+can occur in constructions with reduced transitivity, such as the agentless construc-
+tion that presents an event as non-controlled (as in 11a and 11b). Issues of transitivity
+are discussed in section 5.2.
+(8)a.biqianyip
+ be=kia=nyip
+ CONJ=3SG.F.SBJ=die.NCONT
+ ‘and it died’ (N11AESSIRINI-0015)
+ b.biqiamuvem
+ be=kia=muvem
+ CONJ=3SG.F.SBJ=get.ready.NCONT.PST:PLACE
+ ‘she got ready’ (I12AANACLADNSOCIO3-521)
+(9)a.kamraqi
+ ka=mat-ki
+ 3SG.M.SBJ=take.NCONT.PST-3SG.F
+ ‘he picked it up’ (R12ACMFROG-118)
+ b.de nguguirltiqina
+ dengu=guirltik-ini=a
+ CONJ1SG.SBJ.NPST=turn:SIDE-SG.DIM=DIST
+ ‘and I pay back a small one (i.e., a small insult)’ (N11AAGBROTHERS-
+ 0101)
+(10) a.lua, itatu ramamengga
+ lu=a, ip=ta=tute=ama=meng-ka
+ DEM=DIST PURP=3PL.SBJ=put.CONT PURP=ART=wood-SG.M
+ ‘there, in order that they start the fire (lit. put something for the pur-
+ pose of a fire)’ (P12ADNFIRE-002)
+ b.bune.. untekmet tunagalip, navraarlim
+ be=une.. un=tekmet te=una=galip,
+ CONJ=1DU.SBJ.NPST 1DU.SBJ=do.CONT:IN PURP=1DU.POSS=galip
+ ne=pet=aa=rlim
+ from/with=on/under=3SG.M.POSS=bottom
+ ‘and we.. we harvested our galipnuts, from under it’ (N11AJNGENA-
+ INGMETBROTHERS-0012)
+226 | Verbs and the structure of the predicate
+(11)a. de biny menaqi
+ debinymen-ki
+ CONJbreak at-3SG.F
+ ‘and it got broken’ (R12BCSFROG-058)
+b. de naqaki binymet dais
+ denaka=kakibinymetde=a-is
+ CONJbit=insteadbreak:IN LOC.PART=3SG.M.POSS-end
+ ‘instead its bottom will get broken apart’ (P12ARSBILUM1-037)
+Finally, verbs show stem alternations that convey aspectual distinctions. Most verbs
+distinguish a non-continuous stem (as in 12a and 12b) and a continuous stem (as in
+12c), but there are also conjugation classes that have only one (unchangeable) stem
+or three different stems (e.g., mes ~ es ~ tes ‘eat’ in the second clause of 12a); plus
+possibly additional stems occurring in other contexts. These alternations, and their
+relationship to the tense categories coded in the subject indexes, are discussed in sec-
+tion 5.4.
+(12)a. nani nguvlengnyi, denguasnyi
+ nani ngu=vleng-nyi, de=ngua=es-nyi
+ can 1SG.SBJ.NPST=kill.NCONT-2SG CONJ=1SG.SBJ=eat.NCONT.FUT-2SG
+ ‘I can kill you, and eat you’ (N11AESSIRINI-0010)
+b. de ianeski, meramaqulka
+ deian=nes-ki, met=ama=qul-ka
+ CONJ3DU.SBJ=put.in.NCONT-3SG.F in=ART=bottle-SG.M
+ ‘and they put it (the frog) into the bottle’ (R12ABDFROG-010)
+c. deqa plengngera, daqasnesnget mraarlaunini
+ de=kapleng-nget=a,de=ka=snes-nget
+ CONJ=3SG.M.SBJ kill.CONT-3N=DIST CONJ=3SG.M.SBJ=put.in.CONT-3N
+ met=aa=rlaun-ini
+ in=3SG.M.POSS=netbag-SG.DIM
+ ‘and he kept killing them, and he kept putting them in his little net-
+ bag’ (N11AAGSIRINILOBSTER1-0089)
+The patterns reported above for Qaqet are reminiscent of pervasive lexicalization pat-
+terns discussed in the literature on Papuan languages (as summarized, e.g., in Foley
+1986: 111–166; see especially Pawley’s 1993 classic article). Complex events are often
+broken into more fine-grained components that are then combined in complex ex-
+pressions, often in the form of serial verb constructions (where a semantically general
+verb combines with a more specific verb), but also in the form of a semantically more
+general verb combining with a more specific preposition or nominal. The rules for
+forming complex expressions are usually analyzable and productive, but there is a
+considerable amount of idiomaticity involved, determining which of the possible
+ Transitivity | 227
+combinations are well-formed and meaningful. Furthermore, Papuan languages of-
+ten have a multiplicity of verb stems distinguishing controlled from uncontrolled
+events as well as continuative from completed events. There is only one Papuan pat-
+tern that is not attested in Qaqet (Dunn, Reesink, and Terrill 2002: 38–57): stem alter-
+nations depending on person and number of arguments.
+",0.0,,"[243, 244, 245]",0,40,0.9052688216891832,0
+"In all cases, the patient is marked in exactly the same way as in the corresponding
+agentive utterance. For example, the verb bup ‘fill’ can occur transitively, with the
+patient being linked to direct object function, i.e., it is unmarked and it follows the
+verb (as in 29a). This verb can also appear in the agentless construction. In this case,
+the agent is omitted, and the patient continues to be expressed in the same way as
+before: either as an unmarked noun phrase following the verb (as in 29b), or as a pro-
+nominal suffix (as in 29c). A corresponding pattern is observed in the case of verbs
+that introduce their patient arguments by means of prepositions. For example, sirlek
+‘throw’ introduces its patient argument by means of the preposition ne ‘from/with’,
+both when an agent is present (as in 30a) and when it is absent (as in 30b).
+(29) a.nyibuv amaglaska namasuga
+ nyi=bup[ama=glas-ka]PATIENT ne=ama=suga
+ 2SG.SBJ.NPST=fill ART=glass-SG.M from/with=ART=sugar
+ ‘you fill the glass with sugar’ (BMS-01/06/015)
+ b.buv aarlaunini
+ bup [aa=rlaun-ini]PATIENT
+ fill3SG.M.POSS=netbag-SG.DIM
+ ‘his netbag gets filled’ (N11AAGSIRINILOBSTER1-0011)
+238 | Verbs and the structure of the predicate
+c.kesnesnget mraarlaunini beip.. buvini
+ke=snes-nget met=aa=rlaun-ini
+3SG.M.SBJ.NPST=put.in.CONT-3N in=3SG.M.POSS=netbag-SG.DIM
+be=ipbup-[ini]PATIENT
+CONJ=PURPfill-SG.DIM
+‘he puts them into his little netbag until.. the little one gets filled’
+(N11AAGSIRINILOBSTER2-0020)
+(30)a.nyisirlek namaquvangirang
+nyi=sirlek[ne=ama=quvang-irang]PATIENT
+2SG.SBJ.NPST=throwfrom/with=ART=cargo-PL.DIM
+‘you throw away all the things’ (AMI-22/05/2015)
+b.sa sirlek naqa menari navelerles nama.. a.. a.. araalemiam
+sa sirlek [ne-ka]PATIENTmenari
+already throw from/with-3SG.M from.there
+ne=pelerles ne=ama..a.. a..
+from/with=in.between from/with=ART ?? ??
+ara=alem-iam
+3SG.F.POSS=horn-DU.M
+‘and he got thrown down from there from between the.. the.. the.. its
+two horns’ (R12ATAFROG-222)
+Qaqet verbs thus mark their only argument in two different ways. As discussed in sec-
+tion 5.2.1, some verbs mark it like the subject of a transitive verb (i.e., in preverbal
+position and with a subject index on the verb). And as discussed above, other verbs
+appear in the agentless construction and mark it like the object of a transitive verb or
+like the prepositional object of an intransitive verb (i.e., in postverbal position, and
+without an index on the verb). This distribution is lexically determined, and it is pos-
+sible to analyze Qaqet as having a split-intransitive system that distinguishes be-
+tween a class of SA verbs (marking their argument like a subject) and a class of SO
+verbs (marking it like an object or prepositional object).
+",3.0,SVO,"[255, 256]",5,41,0.9360495247189736,1
+" NM=how.much/manyfrom/with=ART=minute
+ ‘how many minutes (lit. the minutes are how many)?’
+ (LONGYDS20150516_1-338)
+Given their nominal character, both the predicate and the subject are marked for
+noun class. Since the two nouns designate different entities in the world, their noun
+classes do not necessarily match, and each noun retains its inherent noun class. For
+example, the predicate in (32a) is the feminine noun smeski ‘food:SG.F’, while the sub-
+ject is a masculine pronoun (referring back to the singular masculine noun lengiqa
+‘word:SG.M’). Or the predicate in (32b) is the singular noun lainnga ‘line:SG.M’ (having
+a collective reference to the family line), while the subject is a plural pronoun.
+(32)a. uralengiqa iuras.. urasmeski naqa, amatok-pisin
+ ura=lengi-kai=ura=s.. ura=smes-ki
+ 1PL.POSS=word-SG.M SIM=1PL.POSS=?? 1PL.POSS=food-SG.F
+ ne-ka,ama=tok-pisin
+ from/with-3SG.M ART=NAME
+ ‘our language, (the one) which is our.. it is our food, Tok Pisin’
+ (I12AANACLADNSOCIO3-105)
+ b.iqaks amalainnga nara
+ i=ka=kias ama=lain-ka ne-ta
+ SIM=3SG.M.SBJ=actually ART=line-SG.M from/with-3PL.H
+ ‘and they are actually the troops (lit. line-up)’ (N11AAGSIRINILOBSTER2-
+ 0051)
+Aside from coincidental matches (where the inherent noun classes of subject and
+predicate happen to match), matches are found only in those cases, where the predi-
+cate has no inherent noun class, but takes on the noun class of its referent. Mostly
+(but not exclusively, see below), these are nouns converted from adjectives. For ex-
+ample, the adjective gil ‘small’ converts into the noun gil ‘small one’, which can be
+marked for any noun class, e.g., gilka ‘a small (singular masculine) one’ or gilki ‘a
+small (singular feminine) one’. When such nouns occur in the equative construction,
+the noun class of subject and predicate usually match (as in 33a and 33b). If the sub-
+ject is a speech act participant, the predicate noun would still change depending on
+the noun class of the referent. For example, the pronoun nyi ‘2SG’ does not distinguish
+gender, but this information is coded in the predicate noun (in 33c and 33d).
+",0.0,,[448],0,42,0.9360495247189736,0
+" Similarly, the pronominal categories are characteristic of East Papuan (Dunn,
+Reesink, and Terrill 2002: 40–41, 45–48; Stebbins 2009a): Qaqet has dedicated dual
+pronouns, and it shows no evidence for a distinction between inclusive and exclusive
+first person. Like in many other East Papuan languages, participants are indexed on
+the verb, but they are indexed by means of subject proclitics and object suffixes (and
+not by means of subject suffixes, as is otherwise the preference in East Papuan)
+(Dunn, Reesink, and Terrill 2002: 52–57; Dunn et al. 2008: 743).
+",0.0,,[36],0,43,0.9360495247189736,0
+" Morphosyntactic properties | 365
+ The double-marking structure exemplified in (3d) above is not attested else-
+where. It probably results from the diachronic process, with ka ‘3SG.M’ no longer being
+interpreted as subject morphemes. Such a re-interpretation is further suggested by
+phonetic erosion: it is not uncommon for the proclitic ka ‘3SG.M.SBJ’ to be realized as
+a (as in 4a and 4b). A comparable erosion is never found in subject morphemes cliti-
+cizing to verbs.
+(4)a. aks amalamsaqa, de qamit saivit
+ka=kias ama=lamesa-ka, de ka=mit
+3SG.M.SBJ=actually ART=coconut-SG.M CONJ 3SG.M.SBJ=go.NCONT.PST
+se=i-pit
+to/with=AWAY-up
+‘the coconut tree actually went up high’ (N11AJNGENAINGMETSIQI-0046)
+ b. akiaska ama.. aqaqerasa
+ka=kias-kaama.. a=qaqera-es=a
+3SG.M.SBJ=actually-3SG.M ARTNM=person-SG.FLAT=DIST
+‘it is actually the.. the Qaqet language’ (I12ABLAJLATASOCIO2-033)
+If a particle inflects for subject, this morpheme is always invariable. In most cases,
+this morpheme is ka ‘3SG.M’ (as in 5a and 5b), and once, it is ini ‘SG.DIM’ (as in 5c). This
+morpheme is always used, even if it does not match the subject of the main verb: e.g.,
+the subjects of the main verbs are ure ‘1PL.SBJ.NPST’ and ta ‘3PL.SBJ’ in the two clauses
+in (5a), ki ‘3SG.F.SBJ.NPST’ in (5b), and ut ‘1PL.SBJ’ in (5c). Recall that both the 3SG.M cat-
+egory and the DIM category are attested as default noun classes, i.e., they are used in
+cases where the class of the referent is irrelevant or unknown (see chapters 4.2.1 and
+4.2.4). It is very likely that they receive a non-referential subject interpretation here,
+with a more literal translation of ‘it is emphasized that’ (in 5a), ‘it is intended that’ (in
+5b) and ‘it is assumed that’ (in 5c).
+(5)a. katika uretaqen prara iuralengiqa, katika itadrlem
+ka=tika ure=taqen pet-ta
+3SG.M.SBJ=EMPH 1PL.SBJ.NPST=say.CONT on/under-3PL.H
+i=ura=lengi-ka, ka=tika ip=ta=drlem
+SIM=1PL.POSS=word-SG.M 3SG.M.SBJ=EMPH PURP=3PL.SBJ=know
+‘we say to them that (this is) our language, so that they know it’
+(I12AANACLADNSOCIO3-202)
+366 | Particles
+b. deqerlka ngenamadanggi, deqiqiuaik
+ de=kerl-ka ngere-ne=ama=dang-ki,
+ CONJ=DEONT-3SG.M 3N.ASSOC-from/with=ART=dog-SG.F
+ de=ki=qiuaik
+ CONJ=3SG.F.SBJ.NPST=run.CONT
+ ‘and it is together with the dog that she should be running’
+ (R12ATAFROG-215)
+c. iqurini iutnarlip tetaqadrlem uralengiqa
+ i=kut-ini i=ut=narlip
+ SIM=inferring-SG.DIM SIM=1PL.SBJ=like:PURP
+ te=taqa=drlemura=lengi-ka
+ 3PL.SBJ.NPST=properly.CONT=know 1PL.POSS=word-SG.M
+ ‘(it is done) because I assume that we want them to know our lan-
+ guage really well’ (I12AANACLADNSOCIO2-084)
+There is considerable variation in the expression of the subject category: some parti-
+cles can occur either with or without it; those that can occur with it are all attested
+with both full and reduced forms (i.e., ka ~ a ‘3SG.M.SBJ’); and some (like kias ‘actually’
+in 3b to 3d) can express the subject either as a proclitic, as a suffix or both. It was not
+possible to determine any difference in meaning or use, and the variants are thus ten-
+tatively considered to be in free variation. It is likely that this variation is triggered by
+the grammaticalization process from full verbs to invariant particles.
+",0.0,,"[383, 384]",0,44,0.9360495247189736,0
+"Speakers can choose to assign a noun to the opposite class, in which case they
+highlight an unusual or untypical referent. For example, surl-ka ‘fence-SG.M’ can ap-
+pear as feminine surl-ki ‘fence-SG.F’ in order to highlight an incomplete fence that has
+just been started around a new garden. Or dul-ka ‘stone-SG.M’ can appear as feminine
+dul-ki ‘stone-SG.F’ to express frustration with a particular stone. In everyday speech,
+such shifts are not very common, and they do not straightforwardly shed light on the
+semantic organization of the system. Instead, what seems to be of pragmatic im-
+portance is the fact of the shift itself. Interestingly, Dickhardt (2009: 156) observes
+that such shifts are a characteristic property of verbal exchanges that take place dur-
+ing public meetings aimed at conflict resolution. Unfortunately, our corpus does not
+contain recordings of such events, and it is thus not possible to investigate the pat-
+terns of shift further.
+",0.0,,[218],0,45,0.9360495247189736,0
+"4 Nominal classification
+Qaqet has an elaborate system of nominal classification that surfaces on nouns and
+pronouns, in agreement morphology and as argument indexes. The classes are thus
+identified through their agreement patterns, i.e., they constitute a gender system (fol-
+lowing Corbett 1991). Qaqet has two distinct (albeit related) gender systems, and this
+grammar adopts the terminological distinction established by Stebbins (2011) for the
+Baining languages: it uses “noun class” in reference to the full system (which sur-
+faces on nouns and independent pronouns, as object suffixes on verbs and preposi-
+tions, and on elements within the noun phrase) and “gender” in reference to a re-
+duced system (which surfaces in the form of possessor indexes on possessed nouns,
+of subject indexes on verbs, and as associative pronouns).
+",0.0,,[193],0,46,0.9360495247189736,0
+" CONJ DEM-DU.M-DIST=ART=word-DU.M=SIM
+ de maget=ip ngu=su-ini te-iam
+ CONJ then=PURP 1SG.SBJ.NPST=teach-SG.DIM PURP-3DU.M
+ ‘and.. those two languages that.. I then teach the little one both’
+ (I12AANACLADNSOCIO3-053)
+c. tika savet liama amalengiam
+ tika se=pet lu-iam-a ama=lengi-iam
+ EMPH to/with=on/under DEM-DU.M-DIST ART=word-DU.M
+ ‘it was about those two questions’ (I12AANACLADNSOCIO3-093)
+The determiners are considered clitics, not affixes, because they can occur as free
+morphemes. With the exception of the demonstratives (as in 48c above), this is rare,
+but possible (e.g., in 49a below). In careful speech, it is also not uncommon for a de-
+terminer to form a clitic group with a preceding preposition, and not with a following
+Determination | 109
+noun (as in 49b). Although, again, it is more common for the preposition to form a
+clitic group together with the entire noun phrase (see also chapter 5.3.1).
+(49)a.pet luqiarama.. ama ageski
+pet lu-ki-iara=ama.. ama ages-ki
+on/under DEM-SG.F-PROX=ART ARTyear-SG.F
+‘during this.. this year’ (D12ABDACPGARDEN-070)
+b.miika bup guasakngaiam nama guvang
+miika bup gua=saqang-iam ne=ama guvang
+more fill 1SG.POSS=eye-DU.M with/from=ART dirt
+‘my eyes got filled with dirt’ (BMS-01/06/2015)
+3.3.2 Demonstratives
+The Qaqet demonstratives are morphologically complex, consisting of a demonstra-
+tive base lu, a noun class suffix, and a deictic root. The deictic roots are -iara ‘PROX’, -a
+‘DIST’, and mara ‘here’ (usually realized as an enclitic). Chapter 4.1.2 discusses the
+resulting forms in more detail, including the evidence for the status of the deictic
+roots as suffixes or clitics. The present chapter, by contrast, focuses on the distribu-
+tion of (i) the demonstrative words (occurring pronominally and adnominally), (ii)
+the deictic roots (occurring adverbially), and (iii) the demonstrative base lu (occurring
+adverbially).
+(i) Demonstrative word
+The demonstrative word occurs both pronominally and adnominally. As a pronoun,
+it occurs in almost all syntactic functions available to common nouns, e.g., as left-
+dislocated constituent (in 50a), subject (in 50b), direct object (in 50c) or prepositional
+object (in 50d). It can also function as the possessor within a possessive noun phrase,
+but not as the possessed entity (see section 3.5.2). Furthermore, the demonstrative
+pronoun cannot co-occur with other noun phrase elements.
+(50)a.dluqa, de naqaki qamit
+de=lu-ka-a, denaka=kaki ka=mit
+CONJ=DEM-SG.M-DIST CONJ bit=instead 3SG.M.SBJ=go.NCONT.PST
+‘and as for that one, he alone went instead (of the other)’
+(N11AAGSIRINILOBSTER1-0083)
+b.luqia qiatrenas
+lu-ki-a kia=trenas
+DEM-SG.F-DIST 3SG.F.SBJ=jump.CONT:SELF
+‘that one jumps’ (R12ADNFROG-030)
+110 | Nouns and the noun phrase
+ c.tral luqa sevaaluqup dap..
+ te=rallu-ka-a
+ 3PL.SBJ.NPST=carry.NCONT DEM-SG.M-DIST
+ se=pe=aa=luqup dap..
+ to/with=PLACE=3SG.M.POSS=place but
+ ‘they are carrying that one to his place and..’ (N11AAGSIRINILOBSTER1-
+ 0084)
+ d.kurluun pet luqiaavit
+ kurli-unpet lu-ki-a=a-pit
+ leave-1DU on/under DEM-SG.F-DIST=DIR-up
+ ‘we wait for that one on top’ (D12ABDACPGARDEN-046)
+As an adnominal demonstrative, it agrees in noun class and number with its head
+noun. Its position relative to the head noun is not fixed, as shown by the two contras-
+tive examples below: it most frequently occurs at the left edge of the noun phrase (as
+in 51a), but there are a good number of examples where it immediately follows its
+head (as in 51b). In possessive structures, it obligatorily occurs in post-head position.
+But other than that, the factors that determine its position are not clear: the two ex-
+amples below are parallel, they occur in comparable contexts, and they were uttered
+by the same speaker – and yet they differ in the position of the demonstrative.
+(51) a.dap luqia amakainaqi, dequas magrip nyitarlik, taqurlani nyingiarluis
+ dap [lu-ki-a ama=kaina-ki]NP, de=kuasik
+ but DEM-SG.F-DIST ART=water-SG.F CONJ=NEG
+ maget=ip nyi=tarlik,taquarl=ani
+ then=PURP 2SG.SBJ.NPST=cross.CONT thus=DIST
+ nyi-ne=gia=rluis
+ 2SG.ASSOC-from/with=2SG.POSS=child
+ ‘but [that water]NP, you cannot cross it, like this, you and your chil-
+ dren’ (N11AAGSIRINIROPE-0008FF)
+ b.dap makainaqi luqia, de idequas tamrarlik
+ dap [ma=kaina-kilu-ki-a]NP,deide=kuasik
+ but ART.ID=water-SG.F DEM-SG.F-DIST CONJ IPFV=NEG
+ ta=mrarlik
+ 3PL.SBJ=cross.NCONT.PST
+ ‘but [that water]NP, they cannot cross it’ (N11AAGSIRINIROPE-0004)
+Regardless of the position of the demonstrative, the head noun is always marked by
+either the article ama or the article ma. Examples (52a) below and (51a) above illus-
+trate this kind of marking for pre-head demonstratives, and (52b) below and (51b)
+above, for post-head demonstratives.
+",1.0,,"[126, 127, 128]",1,47,0.941993318297229,0
+"2SG.SBJ=sit.NCONT.FUT CONJ CONJ CONJ CONJ CONJ=ART
+uh de=ma=bridget, ki=mnyimse=gel-ngen
+INTJ CONJ=ART.ID=NAME 3SG.F.SBJ.NPST=look.CONT to/with=near-2PL
+‘sit down, and.. and.. and.. and.. and the.. uh and Bridget, she will be
+looking at you’ (C12VARPLAY-437)
+The conjunction de not only introduces verbal clauses (as in the examples above), but
+any kind of proposition. Example (44-4) illustrates a typical case. Such examples of-
+ten look superficially like noun phrase coordination (e.g., ‘days and nights’ in this
+case). However, in each case, there are indications that the linking continues to oper-
+ate on a clausal level. For example, the content of the utterance in (44-4) is essentially
+a condensed paraphrase of the content expressed in the three preceding clauses (in
+44-1, 44-2 and 44-3). Syntactically, the propositions are often marked by particles or
+adverbs, which do not operate on a phrasal level (e.g., the particle tika ‘EMPH’ in 44-
+4). And prosodically, there is a boundary between the two units. Given all indications
+together, utterances such as (44-4) are analyzed as a linking of two existential clauses
+(which are not overtly marked in Qaqet; see section 8.2.1). On a functional level, there
+is nevertheless some overlap with noun phrase coordination (see chapter 3.6 for de-
+tails).
+(44) 1. amanirl ngatit savriam, pramakaska
+ama=nirla nga=tit se=pet-iam,
+ART=sun3N.SBJ=go.CONT to/with=on/under-3DU.M
+pet=ama=kas-ka
+on/under=ART=saltwater-SG.M
+‘the days (lit. suns) were going down on them, at sea’ (N12BAMCAT-
+146FF)
+440 | Clauses
+ 2.damaaren ngatit savriam, pramakaska
+ de=ama=aren nga=titse=pet-iam,
+ CONJ=ART=night 3N.SBJ=go.CONT to/with=on/under-3DU.M
+ pet=ama=kas-ka
+ on/under=ART=saltwater-SG.M
+ ‘and the nights were going down on them, at sea’ (N12BAMCAT-148)
+ 3.iandit
+ ian=tit
+ 3DU.SBJ=go.CONT
+ ‘they (the cat and the rat) were going’ (N12BAMCAT-149)
+ 4.tika amanirl, damaaren, dav iandit
+ tika ama=nirla, de=ama=aren, dap ian=tit
+ EMPH ART=sunCONJ=ART=night but 3DU.SBJ=go.CONT
+ ‘it was really days, and it was nights, but they were (still) going’
+ (N12BAMCAT-150)
+The conjunction de is furthermore used in a second context: as marking the boundary
+between a left-dislocated element and the clause. Such left-dislocations are very fre-
+quent in Qaqet discourse. Often, the left-dislocated element is a noun phrase that is
+co-referential with the subject (as in 45a) or with any other argument of the verb (as
+the prepositional object in 45b). It is even possible for more than one participant of
+the event to be left-dislocated (as in 45c).
+(45) a.aqasupka, de qebrlany
+ a=qasup-ka, deke=brlany
+ NM=rat-SG.M CONJ3SG.M.SBJ.NPST=sleep
+ ‘(as for) the rat, it is sleeping’ (N12BAMCAT-197)
+ b.amalengiqa, de as uraneng praqa
+ ama=lengi-ka, deas ure=raneng
+ ART=word-SG.M CONJ still 1PL.SBJ.NPST=hold.NCONT
+ pet-ka
+ on/under-3SG.M
+ ‘(as for) the language, we will still hold on to it’ (I12ABLAJLATASOCIO2-
+ 128)
+ c.luqaira, de aaqulditki, de qatalki
+ lu-ka-iara, deaa=quldit-ki,
+ DEM-SG.M-PROX CONJ3SG.M.POSS=frog-SG.F
+ deka=tal-ki
+ CONJ3SG.M.SBJ=carry.CONT-3SG.F
+ ‘(as for) this one [the boy], and (as for) his frog, he carries it’ (C12AR-
+ BZJIFROG-579)
+ Clause linking | 441
+The left-dislocated elements do not function as arguments in the clause, as evidenced
+by the distribution of argument indexing. In the case of direct objects, the index and
+the direct object noun phrase are in complementary distribution (see chapter 5.2.1).
+But a left-dislocated noun phrase can co-occur with an object index on the verb, e.g.,
+the index ki ‘3SG.F’ and the dislocated noun phrase pick out the same referent in (46a).
+In the case of subjects, the situation is slightly different, as subject noun phrases and
+subject indexes co-occur. However, there are restrictions on subject noun phrases
+consisting of independent pronouns (see chapter 3.2.2). In the case of dislocated noun
+phrases, by contrast, no such restrictions apply, and any independent pronoun can
+appear in this slot (as the pronoun ki ‘3SG.F’ in 46b).
+(46)a. dav aadanggi, de nyitluqi maraamuk
+ dap aa=dang-ki,de nyi=tlu-ki
+ but3SG.M.POSS=dog-SG.F CONJ 2SG.SBJ.NPST=see.CONT-3SG.F
+ mara=a-muk
+ here=DIR-across
+ ‘and (as for) his dog, you see it over there’ (R12ATAFROG-190)
+b. dap ki, de qiamrenas
+ dap ki, dekia=mrenas
+ but3SG.F CONJ 3SG.F.SBJ=jump.NCONT.PST:SELF
+ ‘but (as for) her, she jumped out’ (R12ATAFROG-056)
+Left-dislocation is not restricted to participants in an event, but is also found for all
+other kinds of elements, including adverbs (as in 47a), prepositional phrases (as in
+47b), and particles (as in 47c).
+(47)a. nanima sunun, diandit iv ianebrlany, biana.. ianaavetki
+ nanimasunun, de=ian=titip
+ late.evening evening CONJ=3DU.SBJ=go.CONT PURP
+ iane=brlany,be=iana..iana=avet-ki
+ 3DU.SBJ.NPST=sleep CONJ=3DU.POSS 3DU.POSS=house-SG.F
+ ‘late evening time, they are going to sleep, and (it is in) their.. their
+ house’ (N11AAGBROTHERS-0008)
+b. priang amanirl, duqurli amaqalmin
+ pet=ia-nget ama=nirla, de=kurliama=qalmin
+ on/under=other-N ART=sunCONJ=leave ART=frog
+ ‘on one day, a frog was (there)’ (I12AANACLADNSOCIO3-420)
+c. ip nani qukun, de barek liina
+ ip nani qukun, debarek lu-ini-a
+ PURP canlaterCONJ BENDEM-SG.DIM-DIST
+ ‘so (it) can (be) later, (that I teach it) for that little one’ (I12AANACLAD-
+ NSOCIO3-078)
+442 | Clauses
+The second additive conjunction is be: it also serves to introduce subsequent events,
+but it does not mark left-dislocated elements. This pattern is illustrated in (48). The
+utterance in (48-2) starts a new episode, and the speaker uses be as part of the fixed
+expression beip maget ‘and then’. The entire expression is left-dislocated, and the fol-
+lowing clause is marked by the conjunction de – it is not possible for be to occur in
+this second context.
+(48)1.kataqen amangerlnanngia
+ka=taqenama=ngerlnan-ki=a
+3SG.M.SBJ=say.CONT ART=woman-SG.F=DIST
+‘he tells the mother now’ (N11AJNGENAINGMETSIQI-0023)
+2.beip maget, diqitaqen amalengiima ma
+be=ip maget, de=ki=taqen
+CONJ=PURP thenCONJ=3SG.F.SBJ.NPST=say.CONT
+ama=lengi-em=a ma
+ART=word-SG.RCD=DIST thus
+‘and then, she says a short incantation now like this’ (N11AJNGENA-
+INGMETSIQI-0024FF)
+While there is overlap between be and de in the sequencing of discourse, they have
+subtly different meanings: be entails a close conceptual relationship between the se-
+quences, while the semantics of de are more general, and do not give information
+about the closeness of the relationship. By itself, de does not indicate a remote rela-
+tionship – but as it pragmatically contrasts with be, it often receives such an interpre-
+tation.
+",0.0,,"[457, 458, 459, 460]",0,48,0.941993318297229,0
+" This section introduces the prefixes in the following order: (i) the prefixes a- ‘DIR’
+and i- ‘AWAY’, (ii) the prefix combinations with na- ‘BACK’, and (iii) the prefixes ma(q)a-
+‘HERE’ and miasi- ‘THERE’.
+Tab. 72: The directional prefixes
+Qaqet Mali (Stebbins 2011: GlossMeaning
+194–197)
+a-– DIR neutral
+i-i-AWAYaway from deictic center
+na- na- BACKreversal of direction on a return trajectory
+– tə- – in the general vicinity
+ma(q)a- – HEREproximal to deictic center
+miasi – THERE distal from deictic center
+(i) Prefixes a- ‘DIR’ and i- ‘AWAY’
+The prefixes a- ‘DIR’ and i- ‘AWAY’ are the most common directional prefixes: they are
+by far the most frequent prefixes, and they can occur with any of the directionals. The
+prefix a- ‘DIR’ is neutral, while i- ‘AWAY’ entails a direction away from the deictic cen-
+ter.
+",0.0,,[365],0,49,0.941993318297229,0
+"360 | Particles
+7.1 Morphosyntactic properties
+All attested particles are listed in alphabetical order in Table 73, including infor-
+mation on their inflectional possibilities and on possibly cognate forms in Mali.
+Tab. 73: Particles
+Form Gloss Subject markingcf. Mali forms
+animaybe ––
+arik supposing ––
+as still –as ‘still, yet’
+deng stop––
+dipFUT ––
+ideIPFV––
+kaki instead ––
+kerl DEONT kerl (=ka) –
+kias actually(ka=) kias (-ka) –
+kiqerl now (ka=) kiqerl (-ka) –
+kuaINTRG –kue ‘where’
+kuasik NEG ––
+kuiquoting ––
+kurlileave –kule ‘negative imperative’
+kutinferring kut (-ini) –
+la this.day––
+lira (just) now––
+magetthen; right ––
+mani recently–mali ‘earlier’ (?)
+manima before.yesterday––
+masnaquickly ––
+medu past–mēndu ‘before’
+miaqas occasionally––
+miikamore––
+miikiinstead ––
+murl distantly; suddenly –mir ‘long ago’
+naka bit ––
+nani can ––
+padi hopefully.PST –vandi ‘desiderative’
+padiphopefully.FUT –vandi ‘desiderative’
+perlsetfinish–sot ‘finish, perfective’
+ Morphosyntactic properties | 361
+FormGlossSubject markingcf. Mali forms
+pet continuously –pe ‘imperfective’ (?)
+petpetfrequently ––
+qukun (bit) later––
+saalready(ka=)1 sasa ‘new event frame’
+sakaimmediately(ka=)1 saka–
+saqap enough ––
+saqiagainsaqi (-ka) sai ‘again’
+tikaemph (ka=) tika –
+1
+attested, but very rare
+The particles are not obligatory, e.g., even if an event is situated in the past, a speaker
+is not obliged to use a past tense particle.
+",0.0,,"[378, 379]",0,50,0.941993318297229,0

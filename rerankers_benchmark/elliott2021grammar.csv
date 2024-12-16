@@ -1,0 +1,1237 @@
+Paragraph,Annotation,Word order,Page number,Relevance Score,BM25 Rank,BM25 NDCG@K,Binary Relevance Score
+"As discussed in §5.1, Grubb (1911) presents a basic fact which must be the basis for a
+description of grammatical relations in Enxet Sur — that truly disambiguating the seman-
+tic roles of multiple NPs requires multiple verbs. This conforms to observations about
+other EE languages made in Kalisch (2009). However, Powys (1929)[p. 3; 97–98] presents
+a diﬀerent view of basic word order: “A normal type of Lengua sentence is therefore: 1. Verb
+with subject denoted by preﬁx or understood, 2. Tense particle, 3. Direct Object, 4. Indirect
+object”. As for those instances where there are two overt NP arguments of a verb, Powys
+further states that the typical order is VOA when the direct object is “not referring to a
+person”, but VAO if “the object is a person, proper name, with the possibility of confusion
+arising.”
+",3.0,No dominant order,[316],5,1,1.0,1
+"Pragmatically based word order (cf. Mithun 1992), is a cover term for languages like
+Enxet Sur in which 1) the relative order of s-argument NPs to one another and to the
+verb is not determined by or indicative of their semantic role, and 2) the relative order of
+elements in a sentence is instead determined by pragmatic factors which include expect-
+edness, information structure, and newsworthiness. Generally speaking, most languages
+which are claimed to have a “free word order” are likely to have a pragmatically based
+word order instead, and word order is governed exclusively by information structure
+as opposed to being governed primarily by clausal syntax. Again, as a predicate-initial
+or verb-initial language, Enxet Sur does not have an entirely pragmatically based word
+order. Instead, it is the order of nominal expressions after a verbal predicate which is
+“pragmatically based”.
+",3.0,No dominant order,[319],5,2,1.0,1
+"In some rare examples, speakers will mark this verb with a diﬀerent pronominal preﬁx
+in agreement with the argument of the existential verb. Such instances may in fact be the
+289
+5.2. Indicative Clauses
+more lexically speciﬁc ‘to lie down’ version of this root, but the examples are somewhat
+ambiguous, like (5.52).
+(5.52) apyetneyk kelyaqhawe hakte átehe’
+ ap-yetn-eyk kelyaqhawe hakte átehe’
+ m-lie-decl peccarybecause f.hot
+‘There are peccaries because it’s hot’
+EDP enx009 21:34
+5.2.2 Word Order in verbal declaratives
+A basic typological question for any language is constituent order in the basic indicative
+clause, primarily the order of the verb (V) in relation to a single intransitive argument
+(S) or to the agent (A) and patient (O) of a transitive clause. Enxet Sur is unarguably a
+predicate-initial or verb-initial language, but as described in §5.1, the nature of the rela-
+tionship between verbs and NPs which refer to their s-arguments is complex. Although
+we can, in elicitation, come up with a disambiguating VAO word order (see below), there
+are a number of confounding facts which mean that this VAO “basic word order” is not of
+much descriptive value. Word order does not indicate grammatical labels, and the order
+of s-argument NPs is pragmatically determined, similar to what has been described for
+closely-related Enlhet Norte (Kalisch 2019).
+",3.0,No dominant order,"[314, 315]",5,3,1.0,1
+"Furthermore, word order has to be considered within a perspective where some if
+not all of the s-argument NPs that occur near verbs are not really clausal constituents.
+Therefore, we must deﬁne in strict terms what we mean by “basic word order”. If it
+refers only to the order of constituent arguments in a syntactically cohesive clause, the
+clause structure of Enxet Sur is limited to the predicate, its complement, and additional
+clausal elements like tame, adverbs, and demonstratives, as described in §5.1. To discuss
+the order of V, A, and O elements within Enxet Sur syntax, we are inherently involving
+multiple clauses. This is still a useful descriptive exercise, but it is not exactly answering
+the question about clausal structure generally intended in a description of basic word
+order. Henceforth, then, note that any description of the order of multiple s-argument
+nominal expressions inherently involves multiple clauses.
+",2.2,,[315],3,4,0.932748985491553,0
+"413
+ 7.5. Demonstratives followed by nouns
+EDP enx038
+Similarly, an NP might be followed by a demonstrative enclitic with which it is not
+at all co-referential (similar to what is described in §7.3 above), and the demonstrative
+in these cases is licensed by something above the adjacent noun. In both (7.57a) and
+(7.57b), the demonstrative =xa refers to the subject of the predicate and not the noun
+which precedes it, which is in an argument/object position in both cases — in (7.57a), the
+noun is the object of a topological predicate ketok ‘it is near’, and in (7.57b), the noun is
+the NP complement of the predicate.
+(7.57)a. ketok ámay xa
+ ketok amay =xa
+ near road =dmstr
+‘It’s near the road’
+EDP enx025 34:42
+ b. megkawakxók eyke apyókxoho énxet xa
+ m-egka-w-akx-ok =eyke ap-yokxoho enxet =xa
+ neg-f.irr-arrive-dup-ints.scnd =tc:asr m.part-all man =dmstr
+‘But that won’t be enough for all the people’
+ John 6 9
+Dem-NP strings, then, are the only ones which might be viewed as containing adnom-
+inal demonstratives, and are the core focus here. Note that this “ﬁxed” order means that
+one argument often made for a lack of true adnominal demonstratives — that demonstra-
+tives and co-referent NPs have no set relative word order — does not apply to Enxet Sur.
+However, as I argue here, this appearance of a “ﬁxed” Dem-NP order is accounted for by
+the ﬁxed position of the demonstrative as a clause-ﬁnal boundary marker which is then
+followed by co-referent NPs. In other words, the order of these two elements is not free
+because the position of the demonstrative enclitic is ﬁxed, but this is not the product of a
+ﬁxed speciﬁer position for the demonstrative within a noun phrase.
+",1.0,,"[438, 439]",1,5,0.836608598053044,0
+"Several morphosyntactic facts of Enxet Sur could be accounted for by this single prin-
+ciple of a direct syntax, many relating to the lack of grammatical distinctions between
+subject and object or other grammatical labels which might correspond to semantic roles
+of agent and patient, which can largely be extended to non-distinction between core and
+non-core s-arguments. These include:
+• As has already been stated, nominal and pronominal expressions lack any kind of
+case marking, either morphologically or expressed through word order (§5.2.2).
+",3.0,No dominant order,[276],5,6,0.854220419125481,1
+"The latter of Powys’ statements is a good point of departure for describing basic word
+order, as he suggests that a VAO order is used to disambiguate semantic roles of argument
+NPs. In direct elicitation work with consultants, there seems to be some truth to this. In
+(5.54), where A and O are both humans (equal animacy) of the same grammatical gender
+(therefore no disambiguation of agent on the pronominal inﬂection of the verb), there is
+a clear VAO order, and the reordering of the two NPs has a distinct change on the reading
+of the grammatical relations.
+(5.54)a. aptekpogkek Juan Carlos
+ 291
+5.2. Indicative Clauses
+ ap-tekpog-kek Juan Carlos
+ m-hit-decl Juan Carlos
+ ‘Juan hit Carlos’
+EDP enx042 31:12
+b. aptekpogkek Carlos Juan
+ ap-tekpog-kek Carlos Juan
+ m-hit-decl Carlos Juan
+ ‘Carlos hit Juan’
+EDP enx042 31:28
+ This strict VAO ordering may be used in these de-contextualized instances of equal-
+animacy s-arguments, and therefore could be considered the “basic word order”, since
+it is the word order which apparently disambiguates semantic roles where such disam-
+biguation is necessary. However, there is little descriptive value — I’d argue none — in
+calling Enxet Sur a “VAO/VSO language”.
+",3.0,No dominant order,"[316, 317]",5,7,0.8675775379936709,1
+"This ﬁrst implication of a lack of clear argument role assignment holds up to scrutiny
+in the modern language. Nouns have no morphological markers of dependency on verbs
+or other predicate types — no case morphology, no determiners. Furthermore, aside
+from the predicate-initial nature of the language, the word order of verbal arguments
+is pragmatically based, meaning that the order of NPs relative to a verb is not based
+on their semantic role relative to the verb, but instead based on information structure
+factors. A fuller description of word order is given in §5.2.2. Kalisch (2009) has made
+similar claims about a lack of morphosyntactic means of disambiguating argument roles
+in closely related Enlhet Norte.
+",3.0,No dominant order,[260],5,8,0.8781441272447692,1
+" However, given the absence of formal cohesion mechanisms, they do not oﬀer
+ discrete criteria to deﬁne syntactic categories in morpho-syntactic terms and
+ in the present work, these formal characteristics have not been discussed in
+ depth. They are related to parameters such as intonation, pause of speech, the
+ existence or not of clisis between words, the use of particles and conjunctions,
+ the use of demonstratives, the distinction of lexical categories, verbal valence,
+ subordination mechanisms, verb tense, word order and syntactic parenthesis,
+ general constituent order.
+",2.2,,[264],3,9,0.8584638279314646,0
+" Although coordinating structures with the order [A B co] are not particularly com-
+mon among the world’s languages, it is generally accepted that in most monosyndetic
+languages which have an [A co B] order, there is some asymmetry between coordinated
+phrases in terms of the coordinator being constituent with one rather than the other
+(Haspelmath, 2004, p. 6-7). The implication, then, is that the more obvious asymme-
+try of an [A B co] order is not necessarily so diﬀerent from an [A co B] order. Nonetheless,
+any [A B co] order more seriously raises the question of whether or not the two clauses are
+really coordinated, and the answer to such a question largely depends on the theoretical
+leaning of a given analysis.
+",1.0,,[768],1,10,0.8165718401979657,0
+"In terms of both the topic-comment structure and the given-new structure, Enxet Sur,
+somewhat unsurprisingly, shows comment-topic and new-given as unmarked, typical or-
+ders. Several verb-initial or predicate initial languages, some rather well-studied, have
+been described as having a comment-topic order as the unmarked information structure
+of the sentence (Van Valin, van Valin Jr, van Valin Jr, LaPolla, and LaPolla, 1997), includ-
+ing Tagalog (LaPolla, 2019, Nagaya, 2007, Naylor, 1975, p. 48), Uto-Aztecan languages
+269
+5.2. Indicative Clauses
+including Tohono O’odham (Payne, 1987, p. 798) and Ute (Givón, 1983, p. 33, 145), and
+Biblical Hebrew (Givón, 1983, Kaajan, 2019, p. 28). Numerous languages previously de-
+scribed as “free word order” languages also show a tendency for an order of new-given in
+opposition to given-new (Mithun, 1992, Tomlin and Rhodes, 1992).
+",2.3,"No dominant order, VSO, VOS","[294, 295]",4,11,0.8156132926125624,1
+" When a dyadic verb is followed by two s-arguments NPs of inequal animacy, like a
+human and an animal, VAO and VOA orders are equally grammatical to consultants in
+de-contextualized grammaticality judgements, and the relative order of argument NPs
+does not aﬀect the reading of the phrase. In (5.55a) and (5.55b), the diﬀerent orders of
+the argument NPs have no bearing on the meaning of the clause. In this instance, semheg
+‘dog’ is feminine, and the masculine nominative marking on the verb clearly indicates that
+‘Juan’ and not ‘dog’ is the agent. However, when semheg is replaced with a masculine noun
+yátnáxeg ‘horse’, where the verbal pronominal marking does not clearly indicate which
+NP is the agent, there are still no constraints on the relative ordering of the argument
+NPs. Therefore, in such examples, relative word order does not indicate thematic role, nor
+is there a syntactic animacy hierarchy15 , since such a hierarchy would place the higher
+animacy argument in a privileged syntactic position and their would either be a strong
+preference for one of the two orders or ungrammaticality of one of them.
+(5.55) a. aptekpogkek Juan semheg
+ ap-tekpog-kek Juan semheg
+ m-hit-decl Juan dog
+ ‘Juan hit the dog’
+EDP enx042 28:07
+b. aptekpogkek semheg Juan
+ ap-tekpog-kek semheg Juan
+ m-hit-decl dogJuan
+ ‘Juan hit the dog’
+15 There is a kind of syntactic animacy hierarchy which involves pronouns, see §5.2.3.
+",3.0,No dominant order,[317],5,12,0.8253974793604045,1
+"Enxet Sur is a predicate-initial language with an otherwise pragmatically determined
+word order. Nominal predicates play an important role in the basic grammar of the lan-
+guage, as nominal expressions which reference the semantic arguments of verbs are of-
+ten realized syntactically as the nominal predicates of independent clauses, instead of
+as nominal dependents of the verb. Furthemore, a highly productive process of gram-
+matical deverbal nominalization is used for most complex sentence types. Thus, Enxet
+Sur presents some interesting deviations from cross-linguistic tendencies regarding the
+syntactic and functional behaviors of noun and verb word classes.
+",3.0,No dominant order,[5],5,13,0.8339606785096301,1
+"This diﬀers substantially from traditional information structure analyses, because the
+only component of the topic that is grammatically part of the same clause as the comment
+is the topical demonstrative, which does not contain any lexical content. In Enxet Sur,
+to have a nominal or other lexical expression establishing or referring to topics, they are
+paratactic nominal predicates which constitute a distinct grammatical clause. In light of
+the fact that any lexical comment-topic pairing in Enxet Sur inherently involves multiple
+clauses, and given that there often is no overt lexical topic at all (only a topical demon-
+strative), we might also view Enxet Sur as a language with a predominantly unipartite
+information structure (cf. Izre’el 2018).
+5.2 Indicative Clauses
+An indicative clause is canonically one which asserts a proposition12 . Quite often in
+syntactic description, the central object of focus in the description of simple indicative
+clauses is the transitive or dyadic verbal clause, as it is in such a syntactic environment
+that a language shows its morphosyntactic mechanisms for establishing grammatical re-
+lations or the assignment of roles to its arguments. Other types of indicative clauses,
+not just intransitives but also nonverbal predicates, are often presented as somehow sec-
+ondary. This description, in contrast, begins with a description of nonverbal predicates
+and the use of nonverbal predicates in discourse in §5.2.1, since nonverbal predicates
+have a broader range of functional use than clauses headed by declarative verbs. §5.2.2
+describes the pragmatically based word order of the language, with a focus on clauses
+headed by declarative verbs. §5.2.3 relates the Enxet Sur data to conventional alignment
+typology. Finally, §5.2.4 describes the structure and function of the dependent-focus con-
+struction.
+5.2.1Nonverbal predicates
+Cross-linguistically, nonverbal predicates, or clauses in which the primary propositional
+value is not a semantically contentful verb, have a range of functions. Overall, Vallejos,
+ 12 In the linguistic literature of other languages, the term ‘declarative’ may also be used, but ‘indicative’ is
+used here since the term ‘declarative’ is already being employed as a label for the inﬂectional suﬃx which
+is used to assert non-future propositions.
+",3.0,No dominant order,[295],5,14,0.8415344552179148,1
+"This principle of pragmatically based word order is broadly applicable beyond the
+core arguments of dyadic verbs. With triadic verbs, those that have three core s-arguments,
+there does not appear to be any tendency regarding word order except that the inanimate
+patient appears more likely to be ﬁrst after the verb, although in all observed examples
+this is always a result of newness versus givenness in the discourse. For example in (5.61a)
+and (5.61b), the order of the nominal expressions referencing the animate ‘giver’ and ‘re-
+ceiver’ are the reverse of each other.
+(5.61) a. apchágkek axta, sekxok pan, énxet’ák concilio
+apch-ág-kek=axta // sekxo-k pan // énxet-’ák concilio
+m-distribute-decl =tc:pst // ﬁrst-decl bread // man-pl council
+ ‘The Council gave out bread to the people’
+EDP enx047 13:28
+b. apchágkek axta anhan, vino, Keynnaqte Appeywa keso énxet’ák
+297
+5.2. Indicative Clauses
+ ap-chág-kek=axta =anhan // vino // Keynnaqte Appeywa keso
+ m-distribute-decl =tc:pst =and // wine // Keynnaqte Appeywa this
+ énxet’-ák
+ man-pl
+ ‘Keynnaqte Appeywa gave wine to those people’
+EDP enx047 11:42
+This ordering principle even extends to nominal expressions which are not even refer-
+encing core s-arguments of a verb. As described in chapter 9 on adverbial modiﬁcation,
+most of the semantic space covered by adverbs and adverbial phrases in languages like
+English is realized in Enxet Sur through nominal expressions. These nominal expres-
+sions that might denote temporal or spatial qualities of a propositoin are syntactically
+related to verbal predicates in the same way that s-argument nominal expressions are —
+either as roleless nominal complements or paratactic predicates. Therefore, in (5.62), we
+see aptetchek awhak yámet, xápen apwa’ ‘they tied the rhea feathers to the roots of trees’,
+where a semantically oblique element awhak yámet ‘the roots of trees’ comes before the
+nominal expression of a core s-argument xápen apwa’ ‘rhea feathers’. Again, ‘rhea feath-
+ers’ is topicalized in the discourse, and ‘the roots of trees’ is new information.
+(5.62) yetneyk nahan waley kelwesse’e apchaxñassek chá’a naxma, natámen ma’a ap-
+ kelyanmagkasamap, aptetchek awhak yámet, xápen apwa’, ñat entemék ma’a,
+ apyanmagkassek nahan waley keso xatnapwa’
+ yetneyk =nahan waleykel-wesse-’e // apch-axñ-as-sek chá’a naxma //
+ exist=and Paraguayan dist-leader-pl // m-clear-val-decl always woods //
+ natámen =ma’a apk-el-yanmag-kas-amap // ap-tet-chek a-whak yámet
+ f.after =dmstr m-dist-pay-val-mid.m.nm:pv // m-tie-decl f.poss-root tree
+ // xápen ap-wa’// ñat en-tem-ék =ma’a // ap-yanmag-kas-sek
+ // rhea m.poss-feather // tc:rpst f-be.ti-decl =dmstr // m-pay-val-decl
+ =nahan waleykeso xatnapwa’
+ =and Paraguayan this rhea.feather
+ ‘There were also Paraguayan ranchers, they would clear cut the forest, and they
+ would pay for them, they would tie them to the roots of trees, the rhea feathers, that’s
+ how they did, they would buy those rhea feathers.’
+EDP enx047 25:32—26:00
+As was mentioned above, however, Enxet Sur does not have a fully pragmatically
+based word order. As shown in table 5.1, not all logically possible orders of V, A, and O
+are grammatical from a base construction like (5.63), since it is not possible to put two s-
+argument nominal expressions before the verb, and any non-verb-initial clause is marked
+with a second-position declarative verb (§5.2.4).
+(5.63) aptakxeyk neptána Carlos
+ ap-takx-eyk neptána Carlos
+ m-bite-decl jaguar Carlos
+ 298
+5.2. Indicative Clauses
+ ‘A jaguar bit Carlos’
+Order Grammatical? ‘The jaguar bit Carlos’
+VAO Yesaptakxeyk neptána Carlos
+VOA Yesaptakxeyk Carlos neptána
+AVO Yesneptána aptakxak Carlos
+AOV No *neptána Carlos aptakxak
+OVA YesCarlos aptakxak neptána
+OAV No *Carlos neptána aptakxak
+Table 5.1: Grammaticality (and semantic ﬁdelity) of logically possible constituent orders
+for ‘The jaguar bit Carlos’; ‘Carlos’ ranks higher on the animacy hierarchy than ‘jaguar’
+ The only way that two s-argument nouns can occur ahead of a verb is if they are in
+clear topic clauses, as in (5.64). Here, both s-arguments of the verb kotwok ‘eat’ come be-
+fore the verb, but both are marked with nak as structurally independent predicates. This
+particular example is the ﬁrst line of a piece of text, and therefore the two initial nomi-
+nal predicates serve to posit discourse referents which are then activated and referenced
+anaphorically by the verb.
+(5.64) Kelyaqháwe aqátek nak kelan’a lóso nak menkólhok kotwok
+[kelyaqhawe a-qatek=nak] [kelan’a ø-loso =nak]
+[peccary f.poss-head =tc:vis] [woman f-pregnant =tc:vis]
+me-nkol-h-okko-tw-ok
+neg-impr.irr-permit-ints.neg.nm:po f.irr-eat-nm:po
+ ‘Pregnant women are not permitted to eat the heads of the peccary’
+ Schoolbook Grade 4
+5.2.3Verbal alignment
+Alignment refers to the morphosyntactic indication of grammatical relations, or how se-
+mantic roles are instantiated as morphosyntactic categories. Traditional alignment typol-
+ogy primarily concerns the relative arrangement and identity of core arguments, specif-
+ically the agents of transitive verbs (A), the single arguments of intransitive verbs (S),
+and the objects or patients of transitive verbs (P). The typology may be extended to in-
+clude arguments in ditransitives, in which case an additional goal argument (R) can be
+discussed17 .
+",3.0,No dominant order,"[322, 323, 324]",5,15,0.848293375897756,1
+"Following an initial verb, there are a series of dependent elements whose order is gen-
+erally quite ﬁxed. The verbal predicate (as with non-verbal predicates) is followed im-
+mediately by tame clitics, which have their own relative ordering template which applies
+whenever multiple are used on a single predicate (§6.1). After tame clitics, three other
+clausal constituents can occur: independent pronouns (§4.5.1), lexical adverbs (§9.3), and
+the “coordinating” han clitic (§16.2). Pronouns are ordered based on a person hierarchy
+(§5.2.3), but the relative order of these three components is not rigid, and is possibly
+manipulable for semantic eﬀect, although more study is needed on the order of these ele-
+ments. After these post-predicate items, the nominal complement is the second possible
+position for lexical content in the clause, followed by a demonstrative. As described in
+Ch. 7, the demonstrative functions as a clausal boundary clitic, marking the right edge of
+the clause.
+",1.0,,[316],1,16,0.8223180460933681,0
+"First, (13.37) provides some examples of the [R D Pro] order. If we consider the D
+noun and the Pro to be a consituent unit, this [R D Pro] order appears to conform more
+to the unmarked order in inalienably possessed NPs [R D]. In isolated, elicited possessive
+NPs, as in (13.37a-13.37c), [R D Pro] is always the order of constituents, although I think
+we should be cautious about assuming that this means it is the default, unmarked order.
+This order also occurs with dependent NPs, as in (13.37d-13.37e).
+(13.37)NPs with a R D Pro order
+a. táta silla apagkok
+ tata silla apagkok
+ my.father chair m.poss
+ 597
+ 13.4. The Possessed NP
+ ‘My father’s chair’
+Skype 1.27.2020
+ b. semheg pelota agkok
+ semheg pelota agkok
+ dogball poss.f
+ ‘The dog’s ball’
+Skype 1.27.2020
+c. Takha’ póte apagkok
+ takha’ póte apagkok
+ thunder axe m.poss
+ ’metorite/falling star/lightning’ (literally ‘the thunder’s axe’)
+Rojas and Curtis (2017)
+ d. yetneyk hápog ámay apagkok
+ yetneyk hapog amay apagkok
+ existant road poss.m
+ ‘There is an ant path’ or ‘The ant has a path’
+ EDP enx001 49:14
+e. kaxwo’ negmaha negko’o waley anzuelo apagkok
+ kaxwo’ neg-m-aha negko’o waleyanzuelo apagkok
+ now 1pl-have-amb.scnd 1pl Paraguayan ﬁshhook poss.m
+ ‘Now we use Paraguayan ﬁshhooks’
+ EDP enx007 01:51
+The other order, [D Pro R], appears just as often and is equally common in discourse. It
+is observed in isolated/appositive conditions as in (13.38a), with stative intransitive pred-
+icates as in (13.38b-13.38d), and as the argument of a participial verb (13.38e-13.38f). I
+have not, however, come across this order in dependent NPs which denote the patient of
+a dyadic verb, as with the observed [R D Pro] order in (13.37e) above. This is probably
+coincidental — NPs with all three elements are rare in general — and I know of no other
+language where constituent order in NPs is dependent upon semantic or even grammati-
+cal role.
+(13.38)NPs with a D Pro R order
+a. keso lugar mopmenye’ hakte yetneyk planta medicinal, panakte apagkok enxet
+ keso lugar mop-menye’ hakte yetneyk planta medicinal // panaqte
+ this place neg.stat.m-want because existplant medicinal // medicine
+ apagkok enxet
+ poss.m Enxet
+598
+ 13.4. The Possessed NP
+ ‘This place we don’t like [to burn], because there are medicinal plants, the
+ Enxet’s medicine’
+ EDP enx005 06:49
+b. yetneyk tiempo apagkok pomap
+ yetneyk tiempo apagkok pomap
+ existtime poss.m boar
+ ‘There is the boar’s time [that it comes out]’
+ EDP enx009
+c. xámok agko’ historia apagkok énxet
+ ø-xamok =agko’ historia apagkok enxet
+ f-many =deg.f history poss.m Enxet
+ ‘There is a lot of Enxet history”
+ EDP enx009
+d. yetneyk takhaxpop apagkok Makxawe dos ingles akketsapma
+ yetneyk takhaxpop apagkok Makxawe dos ingles
+ existgraveyard poss.m Makxawaya two Englishmen
+ apk-etsap-m-a
+ m.part-die-ti-nm:pv
+ ‘In the Makxawaya graveyard there are two Englishmen who died’
+ EDP enx037
+e. Xama ekhem hekñat apwa’a Sáp’ag yókxexma apagkok énxet
+ xama ekhem =hek =nat ap-wa’-a Sap’agyokxexma
+ one day=tc:rep =tc:rpst m.part-arrive-nm:ip Sanapaná country
+ apagkok enxet
+ poss.m Enxet
+ ‘One day the Sanapaná arrived in the Enxet’s territory’
+ (López Ramírez, 1988)
+f. kaxwo ageyxhok sa ektémakxa cuento apágkok énxet apkelwesey énxet sur
+ kaxwo ag-eyx-hok=sa ek-tem-akxa cuento apagkok enxet
+ now 1pl-hear-ints.nm:po =tc:fut f.part-be.ti-nm:ob story poss.m Enxet
+ apk-el-weseyenxet sur
+ m.part-dist-name Enxet Sur
+ ‘Now we will hear about a story of the Enxet, those called Enxet Sur’
+ EDP enx006 00:06
+ 599
+ 13.4. The Possessed NP
+In the absence of a clear numerical tendency for one order over the other, and lacking
+any grammatical reasoning to view one order as more basic than the other, it is reasonable
+to assume that the variation in order has to do with whether the R or the D noun is more
+salient or newsworthy in the context of the discourse, in much the same way that the
+order of s-argument nouns of a predicate are ordered based on discourse factors. In the
+natural speech examples above with a [R D Pro] order, (13.37d-13.37e), the R noun is new
+information in the discourse, whereas in the natural speech examples with a [D Pro R]
+order, the R noun is already an activated referent within the discourse.
+",1.0,,"[622, 623, 624, 625]",1,17,0.7988002285179727,0
+"803
+ Bibliography
+McGregor, William. 1989. Phrase fracturing in Gooniyandi. In Conﬁgurationality: the
+ typology of asymmetries, ed. László Marácz and Pieter Muysken, 207–222. Providence:
+ Foris Publications.
+Mereles, María Fátima, and Oscar Rodas. 2014. Assessment of rates of deforestation
+ classes in the Paraguayan Chaco (Great South American Chaco) with comments on the
+ vulnerability of forests fragments to climate change. Climatic change 127:55–71.
+Metraux, Alfred. 1946. Ethnography of the Chaco: Handbook of South American Indians.
+ Bulletin, Bureau of American Ethnology 1:197–370.
+Miestamo, Matti. 2008. Standard negation: The negation of declarative verbal main clauses
+ in a typological perspective. Berlin: Mouton de Gruyter.
+Miller, Elmer S. 1999. Peoples of the Gran Chaco. Bergin & Gravy.
+Mithun, Marianne. 1987. The grammatical nature and discourse power of demonstratives.
+ In Proceedings of the Thirteenth Annual meeting of the Berkeley Linguistics Society, 184–
+ 194.
+Mithun, Marianne. 1991. Active/agentive case marking and its motivations. Language
+ 67:510–546.
+Mithun, Marianne. 1992. Is basic word order universal? In Pragmatics of word order
+ ﬂexibility, ed. Doris L. Payne, 15–61. Amsterdam: John Benjamins Publishing Co.
+Mithun, Marianne. 2017a. Argument Marking in the Polysynthetic Verb and Its Implica-
+ tions. In The Oxford Handbook of Polysynthesis, ed. Michael Fortescue, Marianne Mithun,
+ and Nicholas Evans, 30–58. Oxford: Oxford University Press.
+Mithun, Marianne. 2017b. Polysynthesis in North America. In The Oxford Handbook of
+ Polysynthesis, ed. Michael Fortescue, Marianne Mithun, and Nicholas Evans, 235–259.
+ Oxford: Oxford University Press.
+Montgomery-Anderson, Brad. 2015. Cherokee reference grammar. Norman: University of
+ Oklahoma Press.
+Næss, Åshild. 2007. Prototypical transitivity. Amsterdam: John Benjamins Publishing Co.
+Nagaya, Naonori. 2007. Information structure and constituent order in Tagalog. Language
+ and Linguistics 8:343–372.
+Naylor, Paz Buenaventura. 1975. Topic, focus, and emphasis in the Tagalog verbal clause.
+ Oceanic Linguistics 14:12–79.
+Newman, Paul. 2012. Pluractional verbs: An overview. In Verbal plurality and distribu-
+ tivity, ed. Patricia Cabredo Hofherr and Brenda Laca, volume 546, 185–210. Berlin: De
+ Gruyter.
+",2.1,,"[828, 829]",2,18,0.7845352245238758,0
+" Any of these explanations about observed [D R] orders require further investigation,
+but for now we can say that [R D] orders are typical, and [D R] orders only arise in certain
+pragmatic contexts, and in cases where the syntactic constituency of the D and R nouns
+is questionable.
+13.4.2 Possessive pronouns in the NP
+The primary possession strategy for non-related nouns is the use of the possessive pro-
+nouns, which have a base form of -agkok along with a pronominal preﬁx9 which generally
+corresponds to the possessive pronominal preﬁxes of related nouns (§4.4). The form of
+these possessive pronouns is described more fully in §4.5.2. This section describes their
+use within the noun phrase.
+",1.0,,[620],1,19,0.7699122377781858,0
+" 244
+ 5.1. Overview of Clause Structure
+overt nominal or pronominal arguments within the clause. This lack of pronouns or NPs
+to refer to verbal arguments is sometimes referred to as zero anaphora, which, along
+with “free word order”, is a deﬁning characteristic of languages which have been referred
+to as “non-conﬁgurational” (cf. Hale 1983). In some theoretical frameworks, especially
+Government and Binding theory, zero anaphora is largely synonymous with “pro-drop”,
+which is a term that more or less exclusively refers to languages which can drop or express
+as null their subject pronouns, and languages like Spanish and Italian are viewed as hav-
+ing abundant pro-drop because of their rich verbal subject agreement. Zero anaphora
+in non-conﬁgurational languages can occur with nominal expressions regardless of their
+semantic role or grammatical label, and regardless of whether or not an overt verbal mor-
+pheme indicates the referent of the zero-marked nominal expression.
+",3.0,No dominant order,"[269, 270]",5,20,0.7824965192834645,1
+" This pragmatically based word order eﬀect applies equally to nominalized verbs which
+have a parallel function to subordinate clauses (§15.1). For example, in (5.60a), the utter-
+ance mopmenyek indigena eyaqtenek mémog ‘the Indigenous don’t like cutting down Palo
+Santo’ has a VAO order, with the nominalized verb phrase eyaqtenek mémog ‘cutting down
+Palo Santo’ as the O. The speaker has already talked extensively up to this point about cut-
+ting down Palo Santo, but is actively contrasting the behaviors of the indigena ‘Indigenous
+people’ with those of the non-Indigenous. Thus, indígena is newer and foregrounded and
+eyaqtenek mémog is more given and backgrounded, yielding the VAO order. In (5.60b), a
+comparable utterance mopmenyek eyaqtenek énxet ‘The Enxet don’t like cutting it down’
+has a VOA order. In this case, eyaqtenek ‘cutting it down’ is entirely new in the discourse
+and has not been brought up, leading to the opposite order of (5.60a).
+(5.60) a. Context: Speaker is looking at a page of a children’s book describing palo santo.
+",3.0,No dominant order,[321],5,21,0.7942627279677205,1
+"First, as thousands of examples in this dissertation can attest, Enxet Sur is predicate-
+initial and therefore verb-initial language. When a declarative (non-nominalized) verb
+serves as the predicate of the simple clause, it always appears in the initial position, as
+in (5.53), unless an element has been fronted for the sake of focus, as described in §5.2.4.
+This focus position requires the use of the second position declarative verb form (§3.4.1),
+serving as an indication that any non-verb-initial word order is marked. Therefore, while
+the ordering of s-argument noun phrases which occur after the verb is pragmatically
+based, it is not at all accurate to represent Enxet Sur as a ‘free word order’ language.
+(5.53)negmaha negko’o pánaqte
+ 290
+ 5.2. Indicative Clauses
+neg-m-ahanegko’o panaqte
+1pl-have-amb.decl 1plmedicine
+‘We use the medicine’
+ EDP enx041 05:42
+The marked nature of non-initial declarative verbs is rather limited, however. As de-
+scribed in §3.4.1, verb bases ending in the glottal stop and a number of stem-forming
+morphemes have phonological properties which result in homophony between the initial
+and second position declaratives. Furthermore, any non-declarative verb form is gram-
+matically and semantically a nominalization, and these nominalized verb forms are gen-
+erally more common in discourse than declarative forms. Declarative verbs, however, are
+used with more foregrounded, salient events in discourse.
+",3.0,No dominant order,"[315, 316]",5,22,0.8102003028679742,1
+"In what little previous description exists on Enxet Sur and related EE languages, two
+facts have always been clear regarding the basic syntax of such verbal clauses: 1) Enxet
+Sur and EE languages are unambiguously verb-initial, and 2) Enxet Sur and EE languages
+have an especially strong preference (beyond cross-linguistic trends) for no more than one
+non-pronimal argument NP, going so far as to prefer rendering two NPs as arguments
+of diﬀerent verbs rather than have two overt NPs as arguments of a single verb. Both
+these traits are apparent in the description by Grubb (1911, p. 319–21)1 , the ﬁrst non-
+indigenous person to learn to speak Enxet [presumably to a high degree of competency]
+and make any description of its syntax:
+Sentences are very simple. The verb precedes the noun, whether subject or
+object. With neuter verbs the subject is expressed, with active verbs the object;
+and sometimes the subject is expressed when there is a necessity.
+",2.3,"No dominant order, VSO, VOS",[259],4,23,0.8194622763540024,1
+" Finally, probably most importantly, he states that “Lengua” is a verb initial language
+in which transitive verbs are usually followed by their object and intransitive verbs by
+their subject, and that it is rare to have sentences with expressed subject and object. Fur-
+thermore, where two participants with diﬀerent thematic roles are explicitly referenced,
+this is typically accomplished using two verbs rather than onee. A sentence like ’the tiger
+killed the man’, he says, is typically given as ""apmatneyi enlhit, niptana apkyakhe"" (Grubb’s
+spellling), literally ’the man died, the tiger’s killing’ (pg. 319). This is probably the most
+morphology with relatively little space aﬀorded to syntax, but this is generally reﬂective of the relative
+importance of the two levels of form in the actual languages.
+",2.3,"No dominant order, VSO, VOS",[64],4,24,0.8282905659959784,1
+". . . . . . . . . . . . . . 288
+5.2.2 Word Order in verbal declaratives . . . . .",2.1,,[12],2,25,0.8255930826006442,0
+"We can also investigate constituent order in contexts with no overt D noun — in other
+words, constructions where the possessive pronoun acts as a true possessive pronoun
+(e.g. ‘mine’, ‘yours’, etc.) with an overt possessor. The possessor occurring before the
+possessive pronoun [R Pro] appears to only occur when the possessive NP is the predicate
+of the sentence, as in (13.39a-13.39b), or when it is the subject of a negative identity
+predicate háwe, as in (13.39c) . Otherwise, the order appears to typically be [Pro R], as in
+(13.40). Note, however, that these examples are mostly from the Bible translation — it is
+not so clear that this kind of construction is particularly common in the spoken language
+(it may be, it just does not show up in the corpus used for this dissertation).
+(13.39)a. Juan apagkok ya xa
+ Juan apagkok =ya =xa
+ Juan m.poss =tc:q =dmstr
+ ‘Is that Juan’s?’
+Notes 2015
+ b. xép apagkok ma’a ekhem
+ xep apagkok=ma’a ekhem
+ 2sg.m m.poss=dmstr sun/day
+ ‘yours is the day’
+TA Psalm 74:16
+ c. Háwe ko’o ahagkok, háwe han xeyáxa agkok
+ háwe ko’o ahagkok // háwe=han xeyá=xa agkok
+ neg 1.sg 1sg.poss // neg=and 2.fem=and f.poss
+ ‘It won’t be mine and it won’t be yours either’
+TA 1 Kings 3:26
+(13.40)háweya apagkok xép ma’a selyaqye?
+hawe =ya apagkok xep =ma’a selyaqye
+neg =tc:q poss.m 2sg.m =dmstr money
+‘Is that money not yours?’
+TA Acts 5:4
+ 600
+ 13.4. The Possessed NP
+13.4.3 Possessive classiﬁers?
+Some sources have described Enxet Sur or related languages as having nominal posses-
+sive classiﬁers (see Campbell and Grondona (2012, p. 647), though the same data has
+been cited elsewhere). Such claims are based on a reading of very simple data in Grubb
+(1911) or Sušnik (1977) which some have taken to be evidence of possessive classiﬁers, an
+analysis which is promoted as much by the fact that possessive classiﬁers occur in neigh-
+boring Guaycuruan and Matacoan languages as it is by actual EE data. I think this is
+likely overstated — the forms identiﬁed as possessive classiﬁers are pretty transparently
+just perfective form nominalizations (§3.4.3, §15.4), although they do have somewhat
+distinct syntactic properties that suggest they could be analyzed as something like a pos-
+sessive classiﬁer, or maybe that they have been lexicalized and modeled after possessive
+classiﬁers in neighboring languages with which Enxet speakers have contact.
+",1.0,,"[625, 626]",1,26,0.8220507890430218,0
+"Constituent order becomes more marked from there on out. In inalienable possession,
+the unmarked basic order is [R D]. However, when both outer and inner relations are
+inalienable, the order for the outer relation appears to always be [D R], and in some cases
+the order of the inner constituency is also [D R]. Although the constituent order ﬂips,
+word order still maintains adjacency of the inner constituency.
+(13.48) a. ahóxekcha’ák áwa’ Juan aptáwa’
+ a-hóxek-cha’ák [a-awa’ [Juan ap-táwa’]]
+ f.stat-long-pl [f.poss-hair [Juan m.poss-spouse]]
+ ‘Juan’s wife’s hair is long’
+ Skype 3.14.2020
+ b. kelyaqwatawok apaktegak étche’ Wilma
+ kel-yaqwat-awok[ap-akteg-ak [e-etche’ Wilma]]
+ dist-short-ints.decl [m.poss-arm-pl [f.poss-child Wilma]]
+ ‘Wilma’s son’s arms are short’
+ Skype 3.14.2020
+ c. ketsék [átog [apxagkok Juan]]
+606
+13.4. The Possessed NP
+k-etsék [a-atog [ap-xagkok Juan]]
+f-small [f.poss-mouth [m.poss-house Juan]]
+‘The door of Juan’s house is small’
+Skype 3.14.2020
+ While this reversal of the outer relation reﬂects a common trend in the NP — complex
+ constituents get moved to the right — the reversal occurs even in embedded possession
+without an (overtly) complex inner possessive NP. For example, in (13.49), the possessor
+ of apwáxok ‘his insides’ is also a possessed noun étche ‘your child’, but there is no overt
+ possessor, and still the order of the outer relation is [D R].
+ (13.49)mékóya elleykha apwáxok étche?
+meko =ya el-l-eykha [ap-waxok[e-etche]]
+neg.exist =1 f.part.dist-roam-amb-nm:pv [m.poss-inside [f.poss-child]]
+ ‘Your child has no parasites?’ (literally ‘There are no parasites in your child’s in-
+sides?’)
+ Rojas and Curtis (2017)
+ At least in elicitation, these complex multiply embedded possessive NPs can function
+ like a single unit, appearing together in the pre-verbal focus position as in (13.50). This
+ example has an AN outer relation and an inner relation with the “possessive classiﬁer”
+-tosso.
+ (13.50)Juan aptósso qames pelota agkok ekwetakxak
+Juan ap-tóssoqames pelota agkok ek-wet-akx-ak
+Juan m.part-domestic.animal cat ball f.poss 1sg-see-dup-scnd
+ ‘I found Juan’s cat’s ball’
+ Skype 3.14.2020
+ However, in some cases, multiply embedded NPs do not actually appear to have a
+ coherent internal structure. In (13.51), the inner relation is an AN possession Juan semheg
+ apagkok ‘John’s dog’ and the outer is an IN possession semheg épakyek ‘dog’s tail’, but the
+ actual construction, from a bracketing perspective, places the semantic outer relation
+ inside of the inner relation. If ‘John’s dog’ is the possessor of ‘tail’, we would expect
+ either **Juan semheg apagkok épakyek [R D] or **épakyek semheg apagkok Juan [D R], but
+ instead we get the order in (13.51) which does not appear to order the elements in a way
+which reﬂects the relative semantic scope of the elements.
+ (13.51)ahóxek Juan semheg épakyek apagkok
+a-hóxek[Juan [semheg é-pakyek] apagkok]
+f.stat-long [Juan [dogf.poss-tail] m.poss]
+607
+13.4. The Possessed NP
+‘Juan’s dog’s tail is long’
+Skype 3.14.2020
+ Multiply embedded possession, especially with overt possessors, is rare in the dis-
+course of any language, and based on the syntactic proﬁle of the language presented in
+this description and in the Enlhet Norte description of Kalisch (2009), I am suspicious
+that these structures would actually get used in real speech. Nonetheless, the available
+data presents some interesting patterns and problems. Further study should conﬁrm the
+grammaticality and felicitousness of such constructions with a broader range of speakers
+and attempt to ﬁnd them in naturally occurring (i.e. non-elicited) speech.
+13.4.6Possession by simple adjacency
+Some apparent possessive constructions involve simple juxtaposition of possessor and
+possessee with no overt morphological indicators of possession. These juxtapositions can
+occur in either order (R–D or D–R), and are most often used for a possession of general
+association rather than ownership or discrete relationship. For example, in (13.52), there
+is a semantic possessor waley ‘Paraguayan’ and possessee anmen ‘alcohol’, but there is no
+use of the possessive pronoun. This does not refer to alcohol belonging to a particular
+Paraguayan, but instead the type of alcohol made by Paraguayans.
+(13.52)Háwe waley anmen, wánxa apagkok apagko’ énxet
+háwe waley anmen // wánxa apagkok =apagko’ énxet
+neg Paraguayan alcohol // only m.poss =tc:deg.m Enxet
+‘It wasn’t Paraguayan alcohol, it was only the Enxet’s’
+(López Ramírez, 1988)
+ A similar phenomenon involves the establishment of association by paratactic predi-
+cates. For example, in (13.53), xapop ‘land’ is the subject of the ﬁrst predicate awanhek
+‘it is big’, and then a secondary nominal predicate énxet asserts some kind of relationship
+between énxet and xapop, even though it is not really established by any overt morphosyn-
+tactic mechanism. Even if one chooses to analyse énxet nano’ as some kind of dependent
+instead of an independent clause, this would still be an example of association or posses-
+sion established by adjacency instead of any formal possession mechanism.
+(13.53)awanhek xapop énxet nano’
+[a-wanhek xapop] [énxet nano’]
+f.stat-large earth Enxet old
+‘The Enxet’s territory was large back then’, literally ‘The land was big, it was back
+then the Enxet’
+EDP enx037 10:43
+608
+13.5. Noun compounding
+13.5 Noun compounding
+The primary kind of noun compounding in Enxet Sur is noun-noun compounding, where
+two non-related nouns are put together to form a single noun. For example, in (13.54),
+two non-related nouns — tetet ‘ibis’ and yámet ‘tree, plant’ — are put together to form
+the name of an herb tetet yámet, known in Spanish as yerba de lucero.
+(13.54) Tetet yámet ekteme xáma panaqte negmawána agmáha
+tetet yámet ek-tem-e xáma panaqte neg-m-a-wán-a
+ibis tree f.part-be.ti-nm:pv one medicine 1pl.part-ti-vblz-able-nm:pv
+ag-máha
+1pl.irr-have-amb.nm:po
+‘The Ibis Tree (Spanish yerba de lucero is a medicine we can use’
+ Schoolbook Grade 4
+This is largely a lexical process, meaning that noun compounding is most prevalent
+as a means of creating names for plants and animals, and that probably, like much of
+the nominal morphology, it is not a conventionally productive process so much as it is a
+means by which new terms are coined. However, I include it in this chapter because it
+is a process by which lexical nouns can act as modiﬁers of other lexical nouns, and the
+degree to which this kind of compounding is “productive” is very much an open question
+worthy of further investigation.
+",1.0,,"[631, 632, 633, 634]",1,27,0.8186221684585412,0
+"292
+ 5.2. Indicative Clauses
+ EDP enx042 28:19
+(5.56)a. aptekpogkek Juan yátnáxeg
+ ap-tekpog-kek Juan yátnáxeg
+ m-hit-decl Juan horse
+‘Juan hit the horse’
+ EDP enx042 29:14
+b. aptekpogkek yátnáxeg Juan
+ ap-tekpog-kek yátnáxeg Juan
+ m-hit-decl horseJuan
+‘Juan hit the horse’
+ EDP enx042 29:29
+Even in constructions with equal animacy arguments of the same grammatical gender,
+relative order is not ﬁxed. For example, (5.57a) has a VOA order despite having two
+masculine-gendered human arguments. There is, however, a diﬀerence between enxet as
+a set noun and Tamayásek as a single deﬁnite referent. In (5.57b), however, both NPs are
+deﬁnite entities.
+(5.57) VOA orders with equal animacy/gender NPs
+ a. Apchanchesakxeyk axta énxet Tamayásek
+ ap-chanches-akx-eyk =axta enxet Tamayasek
+ m-guard-dup-decl =tc:pst Enxet Tamayásek
+‘Tamayasek guarded the Enxet’
+(López Ramírez, 1988)
+b. apcheynakmek xeyk apketche Juan, hakte apkenegke’
+ apch-eyn-akm-ek =xeyk apk-etche Juan // hakte
+ m-carry.underarm-term-decl =tc:hod m.poss-child Juan // because
+ apk-en-eg-ke’
+ m-stand-compl-decl
+‘Juan carried his son back in his arms, because he was tired’
+ Rojas and Curtis (2017)
+Kalisch (2019:144) even provides the data in (5.58) which shows that in closely re-
+lated Enlhet Norte, NP order has no disambiguating function for equal-animacy/gender
+contexts.
+(5.58) Enlhet Norte [adapted from Kalisch (2019:144)]
+ 293
+5.2. Indicative Clauses
+ a. ang-ya’pa-s-kas-kek lhaak meeme sa’kok
+f-bathe-val-val-decl tc:hod my.mother child
+‘My mother bathed the child’/‘The child bathed my mother’
+ b. ang-ya’pa-s-kas-kek lhaak sa’kok meeme
+f-bathe-val-val-decl tc:hod child my.mother
+‘My mother bathed the child’/‘The child bathed my mother’
+So why, then, is there a strong VAO eﬀect in this de-contextualized equal-animacy en-
+vironment? I would argue that, rather than being the result of a syntactic reﬂection of
+assigned grammatical labels, the VAO order of (5.54) is an emergent eﬀect of the prag-
+matically based word order of the language, coupled with the syntactic constituency of
+the nominal complement being distinguished from the appositive nature of subsequent
+nominal expressions.
+",3.0,No dominant order,"[317, 318, 319]",5,28,0.8405327121067476,1
+" Aside from a lack of case markers, determiners, or word order constraints which expli-
+cate grammatical roles of NPs, Enxet Sur lacks subordinating conjunctions, complemen-
+tizers, or relative pronouns (§15.1), true adpositions have very limited operability and
+most are recent innovations (§9.2), and there is essentially no evidence other than seman-
+tics to posit a grammatical oblique position which might distinguish core from non-core
+NP arguments. There are, then, in the whole language, extremely few explicit, overt in-
+dications of constituency or dependency. Thus, it is clear when the nouns denoting the
+semantic arguments of verbs are not part of the clause headed by the verb, but not so
+clear when they are.
+",3.0,No dominant order,[262],5,29,0.8619998270660645,1
+"The precise nature of these features of Enxet Sur clausal structure may be in some
+ways unique to Enxet Sur or the Enlhet-Enenlhet language family, but they are similar
+in a number of ways to syntactic descriptions and analyses of various so-called “polysyn-
+thetic” or “non-conﬁgurational” languages. Because these topics related to clausal struc-
+ture are both complex and relevant to essentially every component of the syntactic de-
+scription of the language, this chapter begins with an extended overview which describes
+the features of the Enxet Sur clause and the grammatical relationship between verbs and
+nouns, and places them within a broader typological and theoretical context. §5.2 de-
+scribes a number of features of indicative clauses, including non-verbal predicates, word
+order, alignment, and constituent focus constructions. §5.3 then describes the structure
+of interrogative clauses, which at least in the case of content questions, are structurally
+very diﬀerent from comparable indicative clauses.
+",2.2,,[258],3,30,0.8728731558614095,0
+"Syntactically, they have a ﬁxed position in the clause, immediately after the ﬁrst lex-
+ical word or complex phrase, which is typically the predicate but can be the nominal
+complement in the case of the constituent focus construction (§5.2.4), which places the
+declarative verb after instead of before the tame clitics, as in (6.2). In this way they behave
+like Wackernagel or Second Position clitics.
+ (6.2) Yelpa’ exchek éltexnassásegkok ahaqta’ák
+ yelpa’ =exchek e:l-texn-as-sás-eg-kok ah-aqta-’ák
+ mud =tc:hod 1sg.pat.dist-cover-val-val-compl-scnd 1sg.poss-eye-pl
+ ‘He put mud on my eyes’
+ Rojas and Curtis (2017)
+Another deﬁning syntactic feature of tame clitics is the templatic structure which gov-
+erns their relative ordering. The term “template” is sometimes controversial, but here it is
+employed simply as a shorthand to refer to the fact that when multiple tame clitics apply
+to a single host, the order in which they occur is pre-determined and — for most clitics in
+the set — invariable. The order of clitics cannot be changed for semantic eﬀects, meaning
+there is no manipulation of semantic scope which can be achieved through variations in
+the order of these clitics. However, the existence of obligatory ordering restrictions or
+a “template”, does not indicate that slots in the “template” are always extant and that
+null markers can ﬁll a slot for particular semantic eﬀect. For example, although there
+are three mutually exclusive evidential particles forming an evidential “slot” in the tame
+clitic template, marking visual, reportative, and conjectural evidentiality, respectively, ev-
+identiality marking is non-obligatory and the absence of one of the three markers does
+not indicate a fourth null-marked evidentiality value which contrasts with the other three.
+The tame clitic template is presented in ﬁgure 6.1.
+",1.0,,[353],1,31,0.8735105561780893,0
+"Nonetheless, such constructions clearly demonstrate the existence of a non-predicate
+position available to nominal expressions which I simply call the nominal complement
+(also always written in small caps to refer to the language-speciﬁc structural position).
+The nominal complement can be post-verbal, which is its unmarked position in situations
+of neutral focus or sentential focus, but it can be fronted ahead of a declarative verb for
+constituent focus, either when the declarative verb is given information (see below) or
+when the noun in the nominal complement position is more newsworthy than the verb.
+Items like tame clitics, true adverbs, and personal pronouns always occur in the space
+between these two elements, regardless of their order relative to one another.
+",1.0,,[287],1,32,0.874136070544558,0
+" Three of his publications25 with linguistic analysis are highly salient to the present
+work. Unruh and Kalisch (2003) is the designation of the languages of the family and
+some comparison between them, and is the source of the “Enlhet-Enenlhet” family name.
+(Hannes Kalisch, 2019) describes the pragmatically-based word order of Enlhet Norte —
+Kalisch’s ﬁndings are very similar to those presented for Enxet Sur in this dissertation in
+§5.2.2.
+",3.0,No dominant order,[69],5,33,0.8942678138240355,1
+"Furthermore, I attempt to only really provide “explanations” for forms and patterns
+to the degree that I believe that such explanations will make it easier for the reader to
+understand the relevant patterns from a descriptive perspective. For example, in §3.4.3,
+instead of simply describing the allomorphy of the perfective and imperfective suﬃxes,
+which display a great degree of homophony across various forms, I provide what I think
+to be a fairly uncontroversial and well-evidenced diachronic explanation for the observed
+forms so that they seem less arbitrary and the morphological analyses will be more credi-
+ble.
+1.4 A Grammatical Overview
+This section attempts to provide a brief outline of the basics of word class, morphology,
+and clausal syntax in Enxet Sur, so that readers here for information on a particular fea-
+ture can get a general idea of the language’s structure.
+1.4.1 Word Classes
+Word classes in Enxet Sur are deﬁned in this dissertation primarily on the basis of mor-
+phological selection and inﬂection (which formatives a lexical root can and must take in
+order to form a grammatical word), and secondarily by the syntactic distributions they
+occur in. This yields two major open word classes, verbs and nouns, and a number of
+small, arguably closed word classes with relatively few members, the most important be-
+ing adjectives, adverbs, and semiverbs. As in probably any natural language, there are
+some lexical items which do not ﬁt cleanly into any single word class.
+Verbs
+Verbs, in many ways, play double duty in Enxet Sur, acting not only in their relational
+capacity as ﬁnite predicates, but also in making up a large portion of the referential nouns
+in the language through deverbal nominalization. The verb has three major structural
+components: 1) a pronominal preﬁx, 2) the typically multi-morphemic verb stem, and
+3) a grammatical suﬃx which identiﬁes the grammatical category of the verb, either as a
+ﬁnite declarative, an imperative, or one of several types of grammatical nominalization.
+This basic three-part structure can be seen in the verb agyetmok ‘we pour it’ in (1.4).
+ (1.4) agyetmok negko’o yegmen
+ ag-yetm-ok negko’o yegmen
+ 1pl.irr-ﬁll.liquid-nm:po 1plwater
+‘We pour in the water’
+ EDP enx001 08:33
+ 55
+1.4. A Grammatical Overview
+ Pronominal Preﬁxes: Since the arguments of verbs are often not indicated by overt
+nominal expressions, the pronominal preﬁx is often the primary or sole indicator of the se-
+mantic argument structure of a clause. Five pronominal categories are represented: ﬁrst
+person singular and plural, non-ﬁrst person masculine and feminine, and a ﬁfth category
+which alternately marks either the second person plural or a kind of impersonal/passive
+structure. The masculine and feminine categories do not distinguish between second
+and third person. The pronominal preﬁx indicates the nominative argument (subject of
+monadic29 verbs/agent of dyadic verbs), unless one of the arguments is the ﬁrst person,
+in which case the pronominal preﬁx is ﬁrst person regardless of the thematic/semantic
+role of the ﬁrst person argument. A paradigm of patient ﬁrst person preﬁxes is used if
+the ﬁrst person argument is not the agent of a polyadic verb. Pronominal preﬁxes also ex-
+ist in three diﬀerent paradigms which additionally indicate the grammatical category of
+the verb — realis preﬁxes for declarative verbs, irrealis for potential/imperative/negated
+verbs, and participial for most deverbal nominalizations.
+",0.0,,"[80, 81]",0,34,0.8899607439183401,0
+"This ordering template is maintained even when other structural elements of the
+clause change their order, as in constituent focus (§5.2.4) and negation focus (§14.2.4)
+constructions. Based on the available data, the only region of the tame template which
+ 328
+6.2. Semantics of TAME clitics
+ =deg=q =evidential =deontic=tense =epistemic
+ =agko’ [deg]=ya [q] =nak [vis] =anna [cfd] =axta [pst]=eyke [asr]
+=hek [rep]=hana [plz] =xeyk [hod]=agkok [cond]
+=enxoho [conj]=sa’ [fut] =eykhe [frust]
+=ñat [rpst]=kexaha [dub]
+ =la’a [dub]
+ Figure 6.1: The tame clitic ordering template and possible clitics for each region
+has variable ordering is the handful of epistemic mood markers. These are always to the
+right of the other categories of clitics, but they are not mutually exclusive of one another
+like the evidential or tense clitics, and so multiple can occur on a given host. The order-
+ing of epistemic clitics appears somewhat predictable, since any combination of multiple
+epistemic clitics always occurs in the same order, but this ordering cannot be expressed
+as a single linear order of all of the epistemic clitics.
+",1.0,,"[353, 354]",1,35,0.8904840599933811,0
+" An ordering template dictates the relative order of stem-forming morphology, and
+although in some cases lexicalization of stems has led to analyzable stem-forming mor-
+phemes “jumping the template” or occurring out of order, the order of morphemes is not
+manipulable for semantic eﬀect — one cannot, for example, change the relative orders of
+morphemes indicating the causative and associated motion to alternate between ‘make
+him do X when I get there’ and ‘do X when I make him go there’. In morphophonologi-
+cal terms, there is a substantial degree of fusion between stem-forming morphology and
+between stem morphology and the grammatical suﬃxes. As such, many suﬃx combina-
+tions lack discernable phonological boundaries, and it is easier, at least for the sake of
+glossing, to refer to single suﬃxes with multiple exponence.
+",1.0,,[81],1,36,0.8909985073773536,0
+" In (13.33d), the NP is actually part of a complex predicate máxa eyáxeg ko’o ‘is like my
+brother’, and possessive NPs in predicate positions often present some complicated prob-
+lems (see §13.4.4 below). In this particular case, it may be clearer for the pronoun ko’o to
+be in a typical post-predicate position (§5.2.2) than inside the NP ‘my brother’, since the
+pronoun position does not indicate any particular grammatical function of the pronoun,
+only that the utterance concerns a Speech Act Participant, and the other order máxa ko’o
+eyáxeg might be interpretable as ‘my brother is like me’. Here again, this amounts to say-
+ing that the D and R nouns are not actually part of a constituent NP, and this is why they
+are not in the unmarked, typical order.
+",1.0,,[620],1,37,0.8915044252007872,0
+"For example, in (15.39a), ko’o ‘I’ is the agent of the nominalized clause wáxñeksek
+exagkok ‘the cleaning of my house’, which serves as the subject of the grammaticalized
+verb peyk ‘start, is about to start’ (see §3.3.4). However, ko’o occurs to the immediate
+right of the predicate peyk, despite the fact that it is an s-argument of the dependent
+verb wáxñeksek. If wáxñeksek was the predicate of a dependent clause that had the same
+internal structure as an independent clause, the pronoun would be to its right. Other
+examples of this kind of pronominal raising are given in (15.39)
+(15.39) Pronominal raising with dependent deverbal nominalizations
+ a. peyk ko’o wáxñeksek exagkok
+peyk ko’o w-áxñ-eks-eke-xagkok
+start 1sg 1sg.irr-clear-val-nm:po 1sg.poss-house
+‘I’m going to clean my house’
+ Rojas and Curtis (2017)
+ b. xámok ñat ko’o sekxegà Náwatsam
+xámok =ñat ko’o sek-xeg-àNáwatsam
+many.decl =tc:rpst 1sg 1sg.part-go-nm:pv Concepción
+‘I went to Concepción often’
+EDP enx047 26:40
+ c. Peyk xép yaqhek ma’a apepma Esaú
+Peykxép y-aqh-ek=ma’a ap-epmaEsaú
+start.decl 2sg.m m.irr-kill-nm:po =dmstr m.poss-brother Esau
+‘Your brother Esau is about to kill you’
+ TA Genesis 27:42
+One interpretation of this phenomenon might be that these “raised” pronouns are
+possessors of the nominalization — a [possessor possessed] order is the typical order for
+noun phrases with an related noun and an overt possessor (13.4.1). There is also the cross-
+linguistic tendency for participants or arguments of nominalized verbs to be rendered as
+possessors of the verb.
+",1.0,,[698],1,38,0.8920021307773931,0
+" 595
+ 13.4. The Possessed NP
+have overt possessor nouns, and the [D Pro] order is clear. Given that possessive pronouns
+can be the heads of NPs on their own, this order likely indicates that the possessive pro-
+noun acts a dependent modiﬁer of the D noun to its left, since this is the typical position
+for all other dependent modiﬁers except numerals/quantiﬁers.
+(13.34) a. Context: Speaker is talking about trade goods and possessions that modern Enxet
+ have that they did not previously
+ apwet’ak han almacen apagkok
+ ap-wet’-ak =han almacen apagkok
+ m-see-decl =and storem.poss
+ ‘He also sees (has) his store’
+EDP enx047 10:31
+ b. yetneyk aptáwa familia apagkok
+ yetneyk ap-táwafamilia apagkok
+ exist m.poss-spouse family m.poss
+ ‘He’ll have his spouse, his family’
+EDP enx041
+ c. wokma’ak apketkok apkelyenyeyasak moto ahagkok
+ wokma’ak apk-etkok apk-el-yenyey-as-ak moto ahagkok
+ boy m-young m-dist-wash-val-scnd motorcycle 1sg.poss
+ ‘It was the two boys who washed my motorcycle’
+Notes 8-20-18
+ d. tásek kaxwo’ sektete táma ahagkok
+ ø-tasek kaxwo sek-tet-etama ahagkok
+ f-good now 1sg.part-tie-nm:pv trap 1sg.poss
+ ‘I’ve tied my trap well just now’
+ Rojas and Curtis (2017)
+ e. sawhegkok pa’at yókxexma ahagkok weyke
+ ø-sawh-egk-okpa’at yokxexma ahagkok weyke
+ f-exhaust-compl-decl grass country 1sg.poss cow
+ ‘The cows have eaten all the grass on my land’
+ Rojas and Curtis (2017)
+f. kasponak sa’ computadora ahagkok
+ ka-spon-ak =sa’ computadora ahagkok
+ f.irr-extinguish-nm:po =tc:fut computer1sg.poss
+ ‘My computer is about to die’
+ 596
+13.4. The Possessed NP
+Skype 11.20.19
+Some nominal constructions may create the illusion that a [Pro D] order is possible.
+For example in (13.35) there is a Pro before a coreferent D, but the structure here is a
+predicate ko’o ahagkok ‘is mine’ with a subject noun xapop ‘land’. The two are not, then,
+part of a single constituent NP.
+(13.35)ko’o ahagkok xapop, yaqwatakxoho kélheykha eyke aqsa kéxegke kañe’ nak
+ ko’o ahagkok xapop // ø-yaqwat-akx-oho kel-h-eykha=eyke
+ 1sg 1sg.poss earth // f-short-dup-ints.decl 2pl.part-sit-amb-nm:pv =tc:asr
+ =aqsa kexegke kane =nak
+ =just 2plinside =tc:vis
+ ‘The land is mine, and you all are here for a short time’
+Leviticus 25 23
+It is considerably less clear what the unmarked order is when all three components
+are used and an overt possessor is included. There are almost no documented examples
+of the possessor coming between the possessee and the pronoun [D R Pro], except for the
+title of a story seen in (13.36).
+(13.36)aptemakxa amyep yohoxma apagkok
+ ap-tem-akxaamyep yohoxma apagkok
+ m.part-be.ti-nm:ob garden shaman poss.m
+ ‘Customs of the yohoxma’s garden’
+LC Aptemakxa
+Why this order occurs in this one instance is unclear, but in general, the possessed
+noun and possessive pronoun, [D Pro], constitutes a solid unit that cannot be broken up,
+and variations in order concern whether the R noun comes before or after the [D Pro]
+unit. There is fairly equal occurrence of [R D Pro] and [D Pro R].
+",1.0,,"[620, 621, 622]",1,39,0.8924919215754381,0
+"In general, the more common pattern is that the ﬁrst noun is a descriptor of second,
+as in the examples in (13.55). For example, yaqtépa yámet ‘squash tree/plant’ is a kind of
+yámet ‘tree’ and not a kind of yaqtépa ‘squash’.
+(13.55)a. wa’ yetneyk han yaqtépa yámet, atse’
+ wa’ yetneyk =han yaqtépa yámet // ats-e’
+ so exist =and squash tree // sweet-decl
+‘There’s a Squash Tree, it’s tasty’
+ EDP enx007 13:31
+ b. ko’o sekteme Makxawé énxet ahagko’
+ ko’o sek-tem-e Makxawé énxet =ahagko’
+ 1sg 1sg.part-be.ti-nm:pv Makxawaya Enxet =tc:1sg.deg
+‘I’m a true Makxawaya Enxet’
+EDP enx028 06:42
+However, a minority of such noun-noun compounds display the opposite order, as in
+(13.56), where the latter noun is a descriptor of the ﬁrst. For example, náta semheg is
+a kind of náta bird and not a kind of semheg ‘dog’. These examples present plant and
+animal names, but their order is that used in more productive uses of nouns as modiﬁers
+of other nouns, described in §15.1.1
+(13.56)a. Náta semheg
+609
+13.6. Directions for further research
+ náta semheg
+ bird dog
+ ‘Black necked stilt (bird, Himantopus mexicanus)’
+ b. mokwa naxma’
+ mokwa naxma’
+ peanut woods
+ ‘manduvirã plant (Ruellia sp.)
+Finally, it should be noted that possessive NPs with related nouns are commonly lexi-
+calized, as seen in the names of many plants and animals.
+(13.57) echaha askok
+echahaaskok
+black.algarrobo bug
+‘type of ant with a ﬂat head’
+(13.58) peyópaskok
+peyem ap-askok
+lizard his.bug
+13.6 Directions for further research
+Issues of noun phrase constituency and their relationship to appositional modiﬁers and
+discontinuous noun phrases is a topic deserving of further study, which can draw from
+work on other languages in other regions that show similar features. In such languages,
+the reasons why it can be diﬃcult to decide whether elements form one nominal ex-
+pression “include word order ﬂexibility, the absence of a clear-cut noun-adjective dis-
+tinction, as well as the ubiquitous use of nominal forms in a wide range of grammatical
+roles” (Reinöhl, 2020, p. 77), all of which are prominent issues in Enxet Sur and pre-
+sumably other EE languages as well. Many treatments of noun phrase discontinuity in
+other languages involve prosodic investigations, and therefore a better understanding of
+the prosodic inventory of the language would be useful for understanding constituency
+issues related to the noun phrase.
+",1.0,,"[634, 635]",1,40,0.892974076962794,0
+"First, to establish some terminology, take the example in (13.47).
+(13.47)Carlos apyáp silla apagkok
+[[Carlos ap-yap] silla apagkok]
+[[Carlos m.poss-father chair m.poss]
+‘Carlos’ father’s chair’
+ Skype 1.27.2020
+Here, there are two possessive relations — an inner one ‘Carlos’ father’ and an outer
+one ‘father’s chair’, so named because in a phrase structure analysis, the inner relation is
+below the level of or within the outer relation [[Carlos’ father]’s chair]. We can identify the
+inner relation as an example of inalienable possession (IA) (bound possessive preﬁx) and
+the outer relation as an example of non-related possession (AN) (possessive pronoun).
+In this instance with an inalienable inner relation and an alienable outer relation, the
+constituent order intuitively ﬁts the pattern of AN NPs — the IA NP Carlos apyap ‘Carlos’
+father’ ﬁts as a unit into the typical unmarked position for the possessor of the AN NP.
+This type of embedding appears treats the inner NP as any ordinary NP, and word order
+proceeds as normal.
+",1.0,,[631],1,41,0.8934488597568159,0
+". . . . . . . . 351
+6.5Phonologically irregular or fusional tame clitic combinations . . . . . . . . 369
+7.1 Demonstrative enclitics in Enxet Sur . . . . . . . . . . . . . . . . . . . . . . 372
+7.2 Logically possible vs. grammatically possible orders for verb, TAME clitic,
+ and demonstrative clitic (from elicitation session: Notes 9-17-18) . . . . . . 388
+8.1 Semiverbs, adjectives, and irregular intermediary items . . . . . . . . . . .",1.0,,[20],1,42,0.8939165176052469,0
+" 252
+5.1. Overview of Clause Structure
+5.1.3 The syntactic and pragmatic function of NPs
+In the previous section, the Enxet Sur verb is argued to be grammatically whole on its
+own, and co-occurring nominal expressions that identify verbal s-arguments are argued
+to be 1) often clearly separated and in an appositive relationship with verbs and 2) there-
+fore not ordered or assigned a particular grammatical role by the verb. A number of
+diﬀerent approaches have attempted to account for this lack of syntactic cohesiveness of
+semantically constituent verbs and nouns in many diﬀerent languages, most proposing
+in one way or another that the verb in and of itself fulﬁlls grammatical requirements of
+argument structure and grammatical labeling — either by doing so through pronominal
+aﬃxes or because such structural labeling is not part of the grammar in the ﬁrst place.
+These approaches and explanations are verb-centric, but we can ask the question from
+the other side as well: if nouns that refer to verbal s-arguments are not g-arguments of
+those verbs, then, grammatically, what are they?
+",3.0,No dominant order,"[277, 278]",5,43,0.9117510206259182,1
+"Consider the data in (5.59). All of these examples include the semiverb -menye- ‘to
+want, to like’. Its identity as a semiverb is more a morphological issues than a syntactic
+one (§8.1), but -menye- is, semantically, one of the most reliably dyadic predicates in the
+language, and I refer to it here simply as an instance of V. Most of the time, it occurs fol-
+lowed by only a single s-argument NP, since the other s-argument is already a topicalized
+referent in the discourse. Therefore, if its agent is topicalized, there is a VO expression
+as in (5.59a), and if its patient is topicalized, there is a VA expression as in (5.59b). Of-
+tentimes, one of the s-arguments is introduced via a bare paratactic nominal expression,
+as in (5.59c), which can give an AVO or OVA order. In such cases, the “left dislocated”
+294
+ 5.2. Indicative Clauses
+nominal expression does not have any syntactic cohesion with the verb except for in the
+constituent focus construction (§5.2.4).
+(5.59)Diﬀerent word orders with -menye’- ‘to like, want’
+a. yámenles apketkok se’e, apmenyeyk énxet nempeywa
+ yámenles apk-etkok =se’e // ap-meny-eyk énxet nem-peywa
+ American m-young =prox // m.stat-want-decl Enxet 1pl.part-words
+ ‘This is a young American, he’s interested in our language’
+EDP enx001 46:09
+b. waqhe’ ápak, ápak avispa, pero aksok peligrosa, katyepok sat negmasse negko’o,
+ chahe hakte, mopmenyeyk yokxoho indigena
+ waqhe’ a-apak// a-apak avispa // pero aqsok peligrosa //
+ k.o.wasp f.poss-corpse // f.poss-corpse wasp // but thing dangerous //
+ ka-tyep-ok=sat negmasse negko’o // chahe hakte //
+ f.irr-emerge-nm:po =tc:fut disease 1pl// that because //
+ m-op-meny-eykyokxoho indígena
+ neg-m.stat-want-decl all Indigenous
+ ‘That’s a dead waqhe’, a dead wasp, it’s a dangerous thing, it will make us sick,
+ for that reason, all Indigenous people dislike it’
+EDP enx005 32:04
+c. negwet’ak kyá yetáwa nahan mók aksok, yantápak, egmenyeyk negko’o naxma,
+ egmenyek negko’o yantápak
+ neg-wet’-ak kyáyetáwa nahan mók aksok // yantápak //
+ 1pl-see-decl always k.o.tree and f.other thing // ﬁrewood //
+ eg-menyey-k negko’o naxma // eg-menyey-knegko’o yantápak
+ 1pl.stat-want-decl 1pl woods // 1pl.stat-want-decl 1pl ﬁrewood
+ ‘We always ﬁnd yetáwa trees or other things, we want ﬁrewood from the woods,
+ we want ﬁrewood’
+EDP enx004 13:50
+d. yagyásek, kexa nelteme negko’o palo azul, máxa yásek, amenyek waley, amenyeyk
+ waley palo azul
+ yagyásek // kexa nel-tem-e negko’o palo azul // máxa
+ palo.azul // tc:dub 1pl.part.dist-be.ti-nm:pv 1plpalo azul // like
+ yásek // a-menyey-kwaley// a-menyey-k waley
+ k.o.shrub // f.stat-want-decl Paraguayan // f.stat-want-decl Paraguayan
+ palo azul
+ palo azul
+ ‘Yagyásek, I think that’s what we call palo azul, it’s like the yásek plant, the
+ Paraguayans like it, the Paraguayans like palo azul”
+EDP enx041 08:30
+e. chaxa aptémakxa énxet, yaqwayam enxol’a elléssek, natámen apmenyek agkok
+ pomap énxet, mejor exog ruta
+ 295
+5.2. Indicative Clauses
+chaxa ap-tém-akxa énxet // yaqwayam =enxo =l’a
+that m.part-be/say.ti-nm:ob Enxet // for=tc:conj =tc:dub
+el-l-és-sek // natámen ap-menyey-k=agkok
+m.irr.dist-nm:pvease-val-decl // f.after m.stat-want-decl =tc:cond
+pomap énxet // mejor e-xogruta
+boar man // better m.irr-go.nm:po road
+ ‘That’s how the Enxet get them [the boars] to come out [of the wood], so if a
+man wants a boar, it’s better if he goes along the road’
+ EDP enx009 11:19
+ When both s-arguments are expressed as post-verbal nominal expressions, we can
+clearly see the eﬀect of the pragmatically based word order. In (5.59d), the utterance
+amenyeyk waley palo azul ‘Paraguayans want Palo Azul’ has a VAO order because the O
+palo azul has been the primary topic of discourse for several lines prior — it is given, and
+the A waley is new. In (5.59e), the utterance apmenyek agkok pomap énxet ‘If an Enxet wants
+boar’16 has a VOA order because the O pomap boar is more central to the proposition and
+the A énxet is more topicalized in the discourse.
+",3.0,No dominant order,"[319, 320, 321]",5,44,0.9293273400299488,1
+" Still, I would even argue against an analysis that SS and P marking are aligned in
+Enxet Sur in the ﬁrst person — although it is a point which informed linguists could rea-
+sonably disagree upon. First, Ch. 8 presents a number of arguments against considering
+semiverbs as simply verbs which take stative as opposed to active preﬁxes, the primary
+one being that in order to take any verbal morphology other than the declarative or in-
+tensive, they require a derivational stem morpheme, at which point they take the same
+pronominal preﬁxes as any other verbs. In other words, the diﬀerent sets of pronominal
+preﬁxes they take should be seen as two diﬀerent paradigms for two distinct word classes,
+rather than two semantically distinct sets of preﬁxes which both attach to verbs.
+",0.0,,[332],0,45,0.925371793128164,0
+" 233
+5.1. Overview of Clause Structure
+5.1.1 The content of the Enxet Sur clause
+In describing the fundamental syntax of the clause in a given language, most grammar
+writers center their descriptions on the transitive verbal clause — the unmarked order
+of the verb and its two arguments, and how the morphosyntax of the language expresses
+grammatical relations by assigning diﬀerent roles to the two diﬀerent arguments of the
+verb. For many linguists and traditional grammarians, a clause is deﬁned by a verb and
+its arguments, and anything lacking this structure is something less than a clause.
+",2.2,,"[258, 259]",3,46,0.938069531975396,0
+" The remainder of this chapter primarily discusses morphological issues with these
+ two word classes, primarily the more morphologically complex semiverbs. Beyond the
+ basic morphosyntactic distinctions made above, the two classes can be further deﬁned
+ against other word classes and against each other on the following morphosyntactic and
+ semantic criteria:
+ • Both semiverbs and adjectives take the (mostly) unique stative pronominal preﬁx
+ paradigm, but some adjectives take the unmarked, non-stative feminine verbal pre-
+ ﬁx (section 8.2)
+ • Semiverbs take a distinct, partially fused negative stative pronominal preﬁx paradigm
+ (negative marker and pronominal preﬁx are fused)(section 14.2.3); Adjectives can-
+ not be negated morphologically, only with the identity negative hawe (§14.3; also
+ used for nouns)
+ • Semiverbs require a derivational preﬁx [vblz] in order to take non-inﬂectional mor-
+ phology otherwise restricted to verbs, including nominalized forms and direction-
+ als (section 8.6); Adjectives cannot be derived
+ • Semiverbs take the plural marker -’a’ak (similar to most nominal plurals) while ad-
+ jectives are marked for plurality with a range of diﬀerent suﬃxes including the
+ intensive suﬃx. In both cases, morphological indication of plurality is not fully
+ obligatory
+ • While both classes are semantically stative/atelic, semiverbs generally relate capa-
+ bilities or behavioral properties of individuals, while adjectives indicate inherent
+ qualities not based on the performance of an action (size, quantity, birth-order)
+ The following sections of the chapter begin with a description of the stative pronomi-
+ nal preﬁxes (§8.2), followed by a description of the declarative suﬃx on semiverbs (§8.3),
+ plurality of semiverbs (§8.4), and the uses of the intensive suﬃx in both classes (§8.5).
+ Finally, the morphological derivation of semiverbs stems which allows them to function
+ as full verb stems is described in §8.6.
+",0.0,,[466],0,47,0.938069531975396,0
+"What this means is that an NP can syntactically be part of the clause, but it acts
+as a loosely deﬁned modiﬁer rather than fulﬁlling an argument selection process spec-
+iﬁed by the verb. Predicates have a conceptual, semantic argument structure, and for
+some word classes, especially verbs, some of this semantic argument structure is indi-
+cated overtly through pronominal preﬁxes and valency adjusting morphology, but these
+semantic structures do not require argument NPs (or independent pronouns, or pronomi-
+nal aﬃxes, for that matter) for their realization. Instead, the nominal complement might
+indicate the agent, patient, benefactor, or an adverbial modiﬁer. Which of these roles ﬁlls
+the nominal complement slot is determined by pragmatic and information structure fac-
+tors, but the slot itself does not make any kind of inherent distinction between diﬀerent
+grammatical argument labels like ‘subject’ or ‘object’ or ‘oblique’.
+",0.0,,[86],0,48,0.938069531975396,0
+"Without any further data, we can already extrapolate some major descriptive claims
+from Grubb. The ﬁrst is that, if Enxet speakers need two clauses and two verbs to dis-
+ambiguate the roles of two NPs, this may suggest that Enxet syntax lacks a means of as-
+signing semantic roles like agent and patient to grammatical roles like subject and object.
+Grubb uses the terms “subject” and “object”, but it is important to keep in mind that even
+modern linguists of the 21st century sometimes use these terms in a ways which conﬂates
+semantic roles with grammatical ones. I return to the distinction between semantic and
+grammatical roles in the next section.
+",0.0,,[260],0,49,0.938069531975396,0
+"Unlike the tame clitics described in Ch. 6, the topical demonstratives are more re-
+stricted in their distribution and position relative to the verb, and they do not move rel-
+ative to their hosts or relative to the head of the clause. Take for example the simple
+sentence in (7.24a). It shows the unmarked order for its three components: verb =tame
+=demonstrative.
+",1.0,,[412],1,50,0.9422141858280418,0
