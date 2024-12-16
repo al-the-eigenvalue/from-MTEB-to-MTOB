@@ -5,8 +5,20 @@ This is the repository for the paper "From MTEB to MTOB: Retrieval-Augmented Cla
 
 The paper contains two benchmarks:
 
-- The benchmark for rerankers (14 grammars)
-- The benchmark for the RAG pipeline (148 grammars for Word Order, Standard Negation, Polar Questions + 148 grammars for Number of Cases)
+- **The benchmark for rerankers** 
+
+   14 grammars
+   
+   It is available in the ```rerankers_benchmark``` folder in this repository. Each file has top 50 paragraphs from a the grammar, ranked by BM25 using the summary for the English Wikipedia article “Word order” (as of September 3rd, 2024) as the query. Each paragraph is annotated according to its relevance to the word order of subject, object, and verb.
+
+- **The benchmark for RAG**
+
+  148 grammars for Word Order, Standard Negation, Polar Questions 
+  \+ 148 grammars for Number of Cases
+  
+  It cannot be published as open-source, as stated in the Ethical Considerations section of our paper. However, we publish the metadata for this benchmark, including titles of the grammars, the authors' names, the annotations for each feature, and the pages where relevant information for each feature can be found:
+  [```ground_truth_rag.csv```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/ground_truth_rag.csv)
+  [```ground_truth_rag_number_of_cases.csv```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/ground_truth_rag_number_of_cases.csv)
 
 All scripts apart from one are designed to be executed in Google Colab for convenience.
 
@@ -14,22 +26,23 @@ Steps for reproduction of the experiments:
 
 ### 1. Save the benchmark for RAG on Google Drive
 
-In order to execute the Colab scripts, place the folders with the benchmark for the RAG pipeline (not released as open-source) on Google Drive, resulting in the following directories:
+In order to execute the Colab scripts, place the folders with the benchmark for the RAG pipeline on Google Drive, resulting in the following directories:
 ```
 '/content/drive/MyDrive/Grammars Benchmark'
 '/content/drive/MyDrive/Grammars Benchmark: Number of Cases'
 ```
+The benchmark for RAG cannot be published as open-source. 
 
-Since each ARR submission can be accompanied by one archive containing software (max. 200MB), and the size of the archive with the total dataset is >2GB, we provide a smaller sample of grammars in the archive.
+Since each ARR submission can be accompanied by one archive containing data (max. 200MB), and the size of the archive with the total dataset is >2GB, we provide a small sample of grammars in the archive to the anonymous reviewers.
 
 ### 2. Extract paragraphs from the grammars
 Run the script [```extract_paragraphs.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/extract_paragraphs.ipynb) in Google Colab in order to create the new folder with the paragraphs extracted from the grammars:
 ```
 '/content/drive/MyDrive/Grammars Paragraphs/'
 ```
-Extraction of paragraphs using bm25 reqires tokenization and removal of stop words. The model used for tokenizing paragraphs from grammars is ```en_core_web_sm``` from the [spaCy](https://github.com/explosion/spaCy) library, and the list of stop words is ```stop_words``` from ```spacy.lang.en```. Regarding BM25 itself, we use ```BM25Okapi``` from [rank_bm25](https://github.com/dorianbrown/rank_bm25) with default parameters.
+Extraction of paragraphs using BM25 reqires tokenization and removal of stop words. The model used for tokenizing paragraphs from grammars is ```en_core_web_sm``` from the [spaCy](https://github.com/explosion/spaCy) library, and the list of stop words is ```stop_words``` from ```spacy.lang.en```. Regarding BM25 itself, we use ```BM25Okapi``` from [rank_bm25](https://github.com/dorianbrown/rank_bm25) with default parameters.
 
-Since the results from Step 1 are not reproducible with a limited sample of grammars, we provide the ```Grammars Paragraphs``` folder in the archive.
+Since the results from Step 1 are not reproducible with a limited sample of grammars, we provide the ```Grammars Paragraphs``` folder in the archive for the reviewers.
 
 ### 3. Install dependencies for the benchmark for rerankers
 
