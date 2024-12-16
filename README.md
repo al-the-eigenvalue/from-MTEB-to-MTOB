@@ -17,7 +17,9 @@ The paper contains two benchmarks:
   \+ 148 grammars for Number of Cases
   
   It cannot be published as open-source, as stated in the Ethical Considerations section of our paper. However, we publish the metadata for this benchmark, including titles of the grammars, the authors' names, the annotations for each feature, and the pages where relevant information for each feature can be found:
+  
   [```ground_truth_rag.csv```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/ground_truth_rag.csv)
+  
   [```ground_truth_rag_number_of_cases.csv```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/ground_truth_rag_number_of_cases.csv)
 
 All scripts apart from one are designed to be executed in Google Colab for convenience.
