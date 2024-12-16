@@ -23,7 +23,7 @@ In order to execute the Colab scripts, place the folders with the benchmark for 
 Since each ARR submission can be accompanied by one archive containing software (max. 200MB), and the size of the archive with the total dataset is >2GB, we provide a smaller sample of grammars in the archive.
 
 ### 2. Extract paragraphs from the grammars
-Run the script [```extract_paragraphs.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB-6B0F/extract_paragraphs.ipynb) in Google Colab in order to create the new folder with the paragraphs extracted from the grammars:
+Run the script [```extract_paragraphs.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/extract_paragraphs.ipynb) in Google Colab in order to create the new folder with the paragraphs extracted from the grammars:
 ```
 '/content/drive/MyDrive/Grammars Paragraphs/'
 ```
@@ -33,7 +33,7 @@ Since the results from Step 1 are not reproducible with a limited sample of gram
 
 ### 3. Install dependencies for the benchmark for rerankers
 
-The script [```benchmarking_rerankers.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB-6B0F/benchmarking_rerankers.ipynb) cannot be run on the Free Tier in Google Colab, since it requires a GPU with 40GB of VRAM.
+The script [```benchmarking_rerankers.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/benchmarking_rerankers.ipynb) cannot be run on the Free Tier in Google Colab, since it requires a GPU with 40GB of VRAM.
 
 Installing requirements:
 
@@ -70,11 +70,11 @@ This step corresponds to Section 4 of our paper: The Benchmark for Rerankers.
 
   
 
-Download the folder ```'Grammars Paragraphs'``` from Google Drive and place it into the directory where the script [```benchmarking_rerankers.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB-6B0F/benchmarking_rerankers.ipynb) is to be run.
+Download the folder ```'Grammars Paragraphs'``` from Google Drive and place it into the directory where the script [```benchmarking_rerankers.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/benchmarking_rerankers.ipynb) is to be run.
 
   
 
-Run [```benchmarking_rerankers.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB-6B0F/benchmarking_rerankers.ipynb), which
+Run [```benchmarking_rerankers.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/benchmarking_rerankers.ipynb), which
 
 - chooses the best reranker by running them all on the benchmark for rerankers: approximately 1.8 GPU hours on 1x NVIDIA A100 40GB;
 
@@ -95,13 +95,13 @@ Upload the resulting folder ```'Reranker Similarity Scores'``` to Google Drive:
 
 All scripts in Steps 5, 6, 7 can be executed in Colab.
 
-Run [```rerank_paragraphs.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB-6B0F/rerank_paragraphs.ipynb) to obtain the paragraphs reranked according to the scores obtained in Step 4. The reranked paragraphs will appear in the ```'Grammars Paragraphs/[Feature]/Reranker 20'``` subfolder for each of the four features.
+Run [```rerank_paragraphs.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/rerank_paragraphs.ipynb) to obtain the paragraphs reranked according to the scores obtained in Step 4. The reranked paragraphs will appear in the ```'Grammars Paragraphs/[Feature]/Reranker 20'``` subfolder for each of the four features.
 
 ### 6. Run the RAG experiments
 
 This step corresponds to Section 5 of our paper: The Benchmark for RAG.
 
-In order to run the RAG experiments on GPT-4o, setup an OpenAI API key in Colab Secrets and run [```rag_inference.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB-6B0F/rag_inference.ipynb).
+In order to run the RAG experiments on GPT-4o, setup an OpenAI API key in Colab Secrets and run [```rag_inference.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/rag_inference.ipynb).
 
 ⚠️ Running ```gpt-4o-2024-05-13``` on all RAG configurations requires approximately $600 in total (including the optional Step 7: Ablation).
 
@@ -109,11 +109,11 @@ We provide our results of running this script in the ```RAG Results``` folder in
 
 ### 6. Calculate the metrics for RAG
 
-In order to calculate F1 scores for all RAG configurations (Table 4 in the paper) and visualize confusion matrices, run the [```rag_metrics.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB-6B0F/rag_metrics.ipynb) script.
+In order to calculate F1 scores for all RAG configurations (Table 4 in the paper) and visualize confusion matrices, run the [```rag_metrics.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/rag_metrics.ipynb) script.
 
 ### 7. Optional: Ablation
 
 In order to reproduce the ablation experiment (Appendix I in the paper), run the scripts
 - [```extract_paragraphs_ablation.ipynb```](https://github.com/al-the-eigenvalue/from-MTEB-to-MTOB/blob/main/extract_paragraphs_ablation.ipynb): extracting the ground-truth pages containing the information for each feature;
-- [```rag_inference_ablation.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB-6B0F/rag_inference_ablation.ipynb): running RAG with GPT-4o;
-- and [```rag_metrics_with_ablation.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB-6B0F/rag_metrics_with_ablation.ipynb): calculating the metrics for ablation.
+- [```rag_inference_ablation.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/rag_inference_ablation.ipynb): running RAG with GPT-4o;
+- and [```rag_metrics_with_ablation.ipynb```](https://anonymous.4open.science/r/from-MTEB-to-MTOB/rag_metrics_with_ablation.ipynb): calculating the metrics for ablation.
