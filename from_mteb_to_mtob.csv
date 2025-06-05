@@ -1,4 +1,4 @@
-ISO 639-3,Language,Filename,WALS 116A,GB 107,WALS 81A,Title,Family,Subfamily,Genus,Macroarea,Author,Year,Pages,RAG,CoT,Question,Result
+ISO 639-3,Language,Filename,WALS 116A,GB 107,WALS 81A,Title,Family,Subfamily,Genus,Macroarea,Author,Year,Pages,Reranker,CoT,Feature,Result
 spp,Supyire,carlson1994grammar,Clause-initial question particle,1,SOV,A Grammar of Supyire,Niger-Congo,,Senufo,Africa,"Carlson, Robert",1990,1048,0,0,WALS 81A,1
 djm,Jamsay,heath2008grammar,Clause-final question particle,1,SOV,A grammar of Jamsay,Dogon,,Dogon,Africa,"Heath, Jeffrey",2008,755,0,0,WALS 81A,1
 mhi,Ma'di,blackings2003grammar,Tone,0,No dominant order,A Grammar of Ma'di,Central Sudanic,,Moru-Ma'di,Africa,"Blackings, Mairi and Fabb, Nigel",2003,750,0,0,WALS 81A,0
